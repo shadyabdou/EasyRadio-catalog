@@ -1,0 +1,2615 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:34.420Z",
+  "endpoint": "/countries/Saudi Arabia/radios",
+  "countryCode": "sa",
+  "countryName": "Saudi Arabia",
+  "expectedCount": 31,
+  "count": 31,
+  "data": [
+    {
+      "id": 48640,
+      "name": "إذاعة القران الكريم -  الإذاعات شبكة الإذاعة السعودية",
+      "slug": "Saudi_Quran",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/21/332143472fb07079fe3e3aa30780074c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "dh lqrn lkrym ldh t shbk ldh ls wdy",
+        "alsoKnownAs": "Saudi Radio Broadcasting Network - Radio Quran"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Islamic News Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5730,
+        "byCountry": {
+          "us": 14,
+          "gb": 6,
+          "au": 2,
+          "de": 4,
+          "fr": 26,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 4,
+          "it": 5,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77420,
+          "url": "https://stream.radiojar.com/4wqre23fytzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 98,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77419,
+          "url": "http://stream.radiojar.com/4wqre23fytzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 95,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48675,
+      "name": "إذاعة السنة",
+      "slug": "RadioSunna",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/1c/891c5907bfa53eb0e34eb83624ddc617.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh lsn",
+        "alsoKnownAs": "Radio Sunna"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mecca",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Mecca, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.4266400",
+          "longitude": "39.8256300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Devotional Education Islamic Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4860,
+        "byCountry": {
+          "us": 7,
+          "gb": 3,
+          "au": 2,
+          "de": 2,
+          "fr": 7,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 2,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77475,
+          "url": "http://37.187.79.93:8189/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77477,
+          "url": "http://andromeda.shoutca.st:8189/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77472,
+          "url": "http://andromeda.shoutca.st:8189/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77476,
+          "url": "http://andromeda.shoutca.st:8189/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77473,
+          "url": "http://37.187.79.93:8189/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77474,
+          "url": "http://37.187.79.93:8189/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256652,
+          "url": "http://167.114.174.197:8189/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73246,
+      "name": "اذاعة القرآن الكريم",
+      "slug": "Quran_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/ce/10ce3a6b4071214969de79d8dea3dcbb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh lqran lkrym",
+        "alsoKnownAs": "Quran Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mecca",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Mecca, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.4266400",
+          "longitude": "39.8256300"
+        }
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3840,
+        "byCountry": {
+          "us": 4,
+          "gb": 4,
+          "au": 1,
+          "de": 2,
+          "fr": 15,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 14,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115769,
+          "url": "http://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115770,
+          "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 77,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72855,
+      "name": "Mp3 Quran - Abdulbari Mohammad Radio",
+      "slug": "Abdulbari_Mohammad_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/cd/e3cd7d39f04eb3e8614ff4668b73df05.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mp3 quran abdulbari mohammad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2160,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 9,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115197,
+          "url": "http://live.mp3quran.net:9868/",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115198,
+          "url": "https://qurango.net/radio/abdulbari_mohammad/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72868,
+      "name": "إذاعة ميراث الأنبياء للقران",
+      "slug": "Miraaths_Quraan_Tafseer_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/a1/91a10bd35b9862bda4e3b5b929ed5cee.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh myrth l nby llqrn",
+        "alsoKnownAs": "Miraath's Holy Quraan Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115214,
+          "url": "http://radio.al7eah.net:8010/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69164,
+      "name": "راديو الشرق مع بلومبرغ",
+      "slug": "Radio_Asharq_with_Bloomberg",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/f3/f4f3ea2b709f1910af2140b07c7beed5.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw lshrq m blwmbrg",
+        "alsoKnownAs": "Radio Asharq with Bloomberg"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Business Education News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1590,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 110107,
+          "url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 258,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110106,
+          "url": "http://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 258,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72872,
+      "name": "روتانا إف إم",
+      "slug": "Rotana_FM_88.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/89/ee8913f4cdb3685da677be2dc7823474.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "rwtn f m",
+        "alsoKnownAs": "Rotana FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1530,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115223,
+          "url": "http://curiosity.shoutca.st:6035/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255572,
+          "url": "http://curiosity.shoutca.st:6035/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115222,
+          "url": "http://curiosity.shoutca.st:6035/live",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255571,
+          "url": "http://curiosity.shoutca.st:6035/live/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20890,
+      "name": "ميلودي ارابيا",
+      "slug": "Melody_Arabia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/7a/7a7a8598d4e4d9b4c6bf9de7ec38a632.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mylwdy rby",
+        "alsoKnownAs": "Melody Arabia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 30721,
+          "url": "http://stream.zeno.fm/3gkedytbapbuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30722,
+          "url": "https://stream.zeno.fm/3gkedytbapbuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73248,
+      "name": "إذاعة ألف ألف",
+      "slug": "Alif_Alif_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/ab/2aabb4566b30d7707aab64ea7b8c95d4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "dh lf lf",
+        "alsoKnownAs": "Alif Alif FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment News Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115771,
+          "url": "http://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115772,
+          "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72928,
+      "name": "Khaled Al-Qahtani Radio",
+      "slug": "Khaled_Al_Qahtani_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/10/8310be9751e5e0a1924573b2aaa18f02.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "khaled al qahtani",
+        "alsoKnownAs": "خالد القهطانى راديو"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115299,
+          "url": "http://live.mp3quran.net:9970/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 57336,
+      "name": "لبانوراما FM",
+      "slug": "Panorama_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/be/d4be1e0148acd91662d43c0e11bd6f1b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "lbnwrm",
+        "alsoKnownAs": "Panorama FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Arabic Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 94777,
+          "url": "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69306,
+      "name": "Ashabulhadith Radio",
+      "slug": "Ashabulhadith_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/53/3353c33d60ecef2c8a9783f09ad1805a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ashabulhadith",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110298,
+          "url": "http://cast1.asurahosting.com/proxy/ashabulhadith/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110299,
+          "url": "https://cast1.asurahosting.com/proxy/ashabulhadith/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72927,
+      "name": "MBC FM",
+      "slug": "MBC_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/1a/aa1a6d5263b96477e36c929e51119c35.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "mbc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115298,
+          "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 6770,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255355,
+          "url": "http://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 6770,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 39120,
+      "name": "Energy Radio 1 Saudi Aramco",
+      "slug": "Studio_1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/c9/6cc903d98c8c312cf4bd3b0167a3f982.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "energy 1 saudi aramco",
+        "alsoKnownAs": "Studio 1 Saudi Aramco"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhahran",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Dhahran, Saudi Arabia",
+        "coordinates": {
+          "latitude": "26.2886400",
+          "longitude": "50.1139600"
+        }
+      },
+      "genre": {
+        "text": "00s 80s 90s Classic Rock Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63548,
+          "url": "https://stream.rcs.revma.com/wek440d0fq3vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63547,
+          "url": "http://stream.rcs.revma.com/wek440d0fq3vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73249,
+      "name": "MP3Quran - Fares Abbad Radio",
+      "slug": "Fares_Abbad_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/99/f6997826514ef23f354f113babecb114.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mp3quran fares abbad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 252837,
+          "url": "http://backup.qurango.net/radio/fares_abbad/;",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115773,
+          "url": "https://backup.qurango.net/radio/fares_abbad/;",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49830,
+      "name": "UFM Radio",
+      "slug": "UFM_KSA_90.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/a7/63a7aec6230a1a2cbd901d4cbbe7567d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "ufm",
+        "alsoKnownAs": "إذاعة يو اف ام"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Pop Sports Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80198,
+          "url": "http://69.61.26.75:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80197,
+          "url": "http://162.213.195.26:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 56021,
+      "name": "Mix FM",
+      "slug": "Mix_FM_SA_105.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/25/8d25f1352564ac32b53259b8b8a98455.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91386,
+          "url": "https://s1.voscast.com:11377/live.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91383,
+          "url": "http://s1.voscast.com:11376/live.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91384,
+          "url": "http://s2.voscast.com:11376/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261954,
+          "url": "http://s2.voscast.com:11376/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 18171,
+      "name": "Mix FM",
+      "slug": "Mix_FM_SA_98.0_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/6a/4c6a060722b576ed41fa53e3779d6961.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23503,
+          "url": "http://s1.voscast.com:11376/live.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 23505,
+          "url": "https://s1.voscast.com:11377/live.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 67187,
+      "name": "Energy Radio 2 Saudi Aramco",
+      "slug": "Studio_2_Saudi_Aramco",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/a8/f5a8421e12c23597d2bc8e7853ec61d0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "energy 2 saudi aramco",
+        "alsoKnownAs": "Studio 2 Saudi Aramco"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhahran",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Dhahran, Saudi Arabia",
+        "coordinates": {
+          "latitude": "26.2886400",
+          "longitude": "50.1139600"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108064,
+          "url": "https://stream.rcs.revma.com/0tu7rfq0fq3vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108063,
+          "url": "http://stream.rcs.revma.com/0tu7rfq0fq3vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39439,
+      "name": "Sky ABC Radio",
+      "slug": "Sky_ABC_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/cc/30ccbf12e991dca4020a12480c1c14f1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sky abc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64090,
+          "url": "http://play.radioking.io/sky-abc",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64094,
+          "url": "https://listen.radioking.com/radio/711134/stream/776696",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64089,
+          "url": "http://www.radioking.com/play/sky-abc",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64092,
+          "url": "https://www.radioking.com/play/sky-abc",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64093,
+          "url": "https://play.radioking.io/sky-abc",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64091,
+          "url": "http://listen.radioking.com/radio/711134/stream/776696",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73256,
+      "name": "Miraath Al-Anbiyya",
+      "slug": "Miraath_Al_Anbiyya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/6e/9c6e56e6ae593d86546af8ada253d24b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "miraath al anbiyya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Education Islamic Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115775,
+          "url": "http://radio.al7eah.net:8010/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252533,
+          "url": "http://radio.al7eah.net:8010/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 45389,
+      "name": "94.7 Tropang Kasangga",
+      "slug": "94.7_Tropang_Kasangga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/54/aa54f78e980979377be3ec192d264a5c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "94.7 tropang kasangga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72805,
+          "url": "https://stream.zeno.fm/yv9hy2mxfxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72804,
+          "url": "http://stream.zeno.fm/yv9hy2mxfxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "tl",
+          "name": "Tagalog"
+        },
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 9192465,
+      "name": "MBC LOUD FM",
+      "slug": "MBC_LOUD_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/1a/eb1a3dc13cdcfafbe67dd657709302b9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "mbc loud",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236250,
+          "url": "http://d3u8gpu5stumeo.cloudfront.net/loud-fm-radio.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 236251,
+          "url": "https://d3u8gpu5stumeo.cloudfront.net/loud-fm-radio.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 70052,
+      "name": "Miraath's English Radio",
+      "slug": "Miraaths_English_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/6f/766f937bb89d925ee71ec5f2d692cf5f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "miraath s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Education Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111616,
+          "url": "http://151.80.100.177:7000/autodj/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111621,
+          "url": "http://151.80.100.177:7040/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111617,
+          "url": "http://miraath.ddns.net:7040/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111624,
+          "url": "http://151.80.100.177:7000/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111619,
+          "url": "http://miraath.ddns.net:7040/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111623,
+          "url": "http://151.80.100.177:7000/live/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111622,
+          "url": "http://151.80.100.177:7040/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111620,
+          "url": "http://151.80.100.177:7040/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111618,
+          "url": "http://miraath.ddns.net:7040/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73239,
+      "name": "MusicJamOFW",
+      "slug": "MusicJamOFW",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/4b/ab4b31b4a5cb43354177d7de7db2f3b3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "musicjamofw",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riyadh",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Riyadh, Saudi Arabia",
+        "coordinates": {
+          "latitude": "24.6877300",
+          "longitude": "46.7218500"
+        }
+      },
+      "genre": {
+        "text": "Alternative Dance Love Songs",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115758,
+          "url": "http://ny.mysonicserver.com:8044/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73260,
+      "name": "69.8 Mandirigma FM",
+      "slug": "69.8_Mandirigma_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/46/53469214eebba7b20903fd03984e4fda.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "69.8 mandirigma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115779,
+          "url": "https://stream.zeno.fm/vsgeyxhbspcuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115778,
+          "url": "http://stream.zeno.fm/vsgeyxhbspcuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73262,
+      "name": "105.1 Chuuula FM",
+      "slug": "105.1_Chuuula_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/92/e092594a08e3f95b1a82a110883f4880.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105.1 chuuula",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115782,
+          "url": "http://stream.zeno.fm/83m7w9df6nhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115783,
+          "url": "https://stream.zeno.fm/83m7w9df6nhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73261,
+      "name": "JAI.M.FM",
+      "slug": "JAI.M.FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/b5/32b514b4c0c0ecff944813f68e37eabd.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jai m",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115780,
+          "url": "http://stream.zeno.fm/chgu9qy0aphvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115781,
+          "url": "https://stream.zeno.fm/chgu9qy0aphvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 57858,
+      "name": "109.5 United Heart FM",
+      "slug": "109.5_United_Heart_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/96/3b964553ab7372f264dca4875b1e04ed.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "109.5 heart",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dammam",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Dammam, Saudi Arabia",
+        "coordinates": {
+          "latitude": "26.4344200",
+          "longitude": "50.1032600"
+        }
+      },
+      "genre": {
+        "text": "80s Acoustic Classical Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95667,
+          "url": "http://stream.zeno.fm/fcqm7chy5x8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95668,
+          "url": "https://stream.zeno.fm/fcqm7chy5x8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73257,
+      "name": "sadhik fm melody",
+      "slug": "sadhik_fm_melody",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/22/5f226343732cbb3464b651ae4ee7bd25.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sadhik melody",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": ", Saudi Arabia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115777,
+          "url": "https://stream.zeno.fm/d82s3t61x1zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115776,
+          "url": "http://stream.zeno.fm/d82s3t61x1zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73255,
+      "name": "Favradio",
+      "slug": "Favradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/fe/11fe35fe1f738078562bb9006e60cea4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "favradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jeddah",
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "locationText": "Jeddah, Saudi Arabia",
+        "coordinates": {
+          "latitude": "21.5423800",
+          "longitude": "39.1979700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115774,
+          "url": "http://stream.hornhost.com:8109/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

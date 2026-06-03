@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:12.237Z",
+  "endpoint": "/countries/North Korea/radios",
+  "countryCode": "kp",
+  "countryName": "North Korea",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 295433,
+      "name": "Pyongyang FM Pangsong",
+      "slug": "Pyongyang_FM_Pangsong_4",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "pyongyang pangsong",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pyongyang",
+        "countryName": "North Korea",
+        "countryCode": "KP",
+        "locationText": "Pyongyang, North Korea",
+        "coordinates": {
+          "latitude": "39.0338500",
+          "longitude": "125.7543200"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197654,
+          "url": "https://listen7.myradio24.com/69366",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197653,
+          "url": "http://listen7.myradio24.com/69366",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ko",
+          "name": "Korean"
+        }
+      ]
+    }
+  ]
+}

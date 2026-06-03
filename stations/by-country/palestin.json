@@ -1,0 +1,1146 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:16.326Z",
+  "endpoint": "/countries/Palestine/radios",
+  "countryCode": "palestin",
+  "countryName": "Palestine",
+  "expectedCount": 15,
+  "count": 15,
+  "data": [
+    {
+      "id": 72899,
+      "name": "إذاعة صوت الغد - راديو وطني",
+      "slug": "Sawt_El_Ghad_Tarab_Radio_National",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/1f/ce1f3515e788e41033ee6b38d21bf1c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh swt lgd rdyw wtny",
+        "alsoKnownAs": "Sawt El Ghad - Watani Radio / National Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242730,
+          "url": "https://sawtelghad.org:8444/stream.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115260,
+          "url": "https://sawtelghad.org:7005/stream.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115258,
+          "url": "http://sawtelghad.org:8444/stream.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115259,
+          "url": "http://sawtelghad.org:8444/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261790,
+          "url": "http://sawtelghad.org:8444/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242729,
+          "url": "https://sawtelghad.org:8444/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69204,
+      "name": "Quran Radio",
+      "slug": "Quran_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/7a/587a8bc08ce00b452d346427be2df489.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.9",
+        "dialStripped": "969"
+      },
+      "aliases": {
+        "cleanName": "quran",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nables",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Nables, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Education Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110161,
+          "url": "http://quran-radio.org:8005/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 38858,
+      "name": "شباب اف ام - Shabab Qur’an",
+      "slug": "Shabab_FM_Shabab_Quraan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/30/4930e9a175475707e267e64c658a8230.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shbb f m shabab qur an",
+        "alsoKnownAs": "Shabab FM - Shabab Quraan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nablus",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Nablus, Palestinian Territory, Palestine",
+        "coordinates": {
+          "latitude": "32.2211100",
+          "longitude": "35.2544400"
+        }
+      },
+      "genre": {
+        "text": "Arabic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63079,
+          "url": "http://streaming.zaytonatube.com:8000/ShababFM.aac",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72916,
+      "name": "راديو نغم",
+      "slug": "Radio_Tunes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/8a/928adf30586c52e73abd7e87897babd9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "rdyw ngm",
+        "alsoKnownAs": "Radio Nagham"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Qalqilya",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Qalqilya, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Children & Family Entertainment Weather",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115282,
+          "url": "https://cast.radionagham.com/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 101055,
+      "name": "Ajyal Radio Network (ARN)",
+      "slug": "Ajyal_Radio_Network_ARN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/94/0a943dd3c459a497678a96a6fd533adf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "ajyal network arn",
+        "alsoKnownAs": "اجيال"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 5,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143697,
+          "url": "http://streamer.mada.ps:8008/ajyal",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72934,
+      "name": "شباب اف ام",
+      "slug": "Shabab_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/53/4e531ed5fe96c0060ad8cbe24da8c32c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "shbb f m",
+        "alsoKnownAs": "Shabab FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nablus",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Nablus, Palestinian Territory, Palestine",
+        "coordinates": {
+          "latitude": "32.2211100",
+          "longitude": "35.2544400"
+        }
+      },
+      "genre": {
+        "text": "Arabic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115307,
+          "url": "http://streaming.zaytonatube.com:8080/Shabab_FM/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 200,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115306,
+          "url": "http://streaming.zaytonatube.com:8000/test2.aac",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 29849,
+      "name": "إذاعة صوت الغد - راديو ترانس",
+      "slug": "Sawt_El_Ghad_Radio_Trance",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/5d/c75d89c7d31aceab396b81ea6322a1aa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh swt lgd rdyw trns",
+        "alsoKnownAs": "Sawt El Ghad - Radio Trance"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 47999,
+          "url": "http://sawtelghad.org:8002/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20902,
+      "name": "إذاعة صوت الغد - راديو راب",
+      "slug": "Sawt_El_Ghad_Radio_Rap",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/92/b092bdc8f0d63b9afebd30f4c8745c3c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh swt lgd rdyw rb",
+        "alsoKnownAs": "Sawt El Ghad - Radio Rap"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hip Hop Rap Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30735,
+          "url": "http://sawtelghad.org:8555/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266048,
+          "url": "http://sawtelghad.org:8555/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73023,
+      "name": "Radio Bethlehem 2000",
+      "slug": "Radio_Bethlehem",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/18/bf1865b66c0e4716131aabbd3323bff4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.3",
+        "dialStripped": "1063"
+      },
+      "aliases": {
+        "cleanName": "bethlehem 2000",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gaza City",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Gaza City, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Christian News Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115440,
+          "url": "http://rstream.hadara.ps:8046/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73022,
+      "name": "Raya FM",
+      "slug": "Raya_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/97/d29740db74bd539b7051ad645dbf51ef.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "raya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Middle Eastern Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115439,
+          "url": "http://rstream.hadara.ps:8064/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72979,
+      "name": "راديو اورينت",
+      "slug": "Radio_Orient_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/d6/e2d6993c2567c4da5c08f1eb1813f94f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "rdyw wrynt",
+        "alsoKnownAs": "Radio Orient"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethlehem",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Bethlehem, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Folk Hits Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115365,
+          "url": "http://streamer.mada.ps:8034/orient",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 16357455,
+      "name": "لاذاعة منبر الحرية",
+      "slug": "7ria_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/cc/65cc0abe804d807e2d5395839d2e14ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "ldh mnbr lhry",
+        "alsoKnownAs": "Al-Hurriya Radio, HR Live, Freedom Platform Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hebron",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Hebron, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240641,
+          "url": "https://hr.ps/stream",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254091,
+          "url": "http://hr.ps/stream",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 19985,
+      "name": "Radio Alhara",
+      "slug": "Radio_Alhara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/fc/3efc72459f790bbddba190a9ec8a4fb6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "alhara",
+        "alsoKnownAs": "راديو الحارة"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethlehem",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Bethlehem, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Electronic Funk Jazz World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28553,
+          "url": "http://stream.radiojar.com/78cxy6wkxtzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28554,
+          "url": "https://stream.radiojar.com/78cxy6wkxtzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73087,
+      "name": "Radio Bethlehem 2000",
+      "slug": "Radio_Bethlehem_2000_89.6_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/2f/de2f16f8acc15e1586df68aeba02ff96.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "bethlehem 2000",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethlehem",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Bethlehem, Palestine",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115539,
+          "url": "http://rstream.hadara.ps:8046/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264188,
+          "url": "http://rstream.hadara.ps:8046/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 272083,
+      "name": "Jerusalem 24",
+      "slug": "Jerusalem",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/0f/2f0f408b5e081f0ecec62454cc4c0a52.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "24",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ramallah",
+        "countryName": "Palestine",
+        "countryCode": null,
+        "locationText": "Ramallah, Palestine",
+        "coordinates": {
+          "latitude": "31.8996400",
+          "longitude": "35.2042200"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190946,
+          "url": "https://icecast.mada.ps:8404/24fmen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 190945,
+          "url": "http://icecast.mada.ps:8403/24fmen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

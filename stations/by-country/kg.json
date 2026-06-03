@@ -1,0 +1,856 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:26.721Z",
+  "endpoint": "/countries/Kyrgyzstan/radios",
+  "countryCode": "kg",
+  "countryName": "Kyrgyzstan",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 53579,
+      "name": "Ретро FM",
+      "slug": "Retro_FM_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/9f/e19f07a7f24d0111fef5c5010b7bc1b1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "retro",
+        "alsoKnownAs": "Retro FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "70s 80s 90s Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5250,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87048,
+          "url": "http://cdn.radioplayer.kg:8000/retro64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 87051,
+          "url": "https://cdn.radioplayer.kg:8443/retro32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 87049,
+          "url": "http://cdn.radioplayer.kg:8000/retro32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 87050,
+          "url": "https://cdn.radioplayer.kg:8443/retro64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56958,
+      "name": "Европа Плюс Киргизия",
+      "slug": "Europa_Plus_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/b3/08b32cc7c15ccb0bca0adde5b6f9a41e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "evropa plius kirgiziia",
+        "alsoKnownAs": "Europa Plus Kyrgyzstan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93863,
+          "url": "http://ep128.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93865,
+          "url": "http://ep32.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93870,
+          "url": "https://ep64.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93871,
+          "url": "https://ep32.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93862,
+          "url": "http://ep256.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93864,
+          "url": "http://ep64.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93868,
+          "url": "https://ep256.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93869,
+          "url": "https://ep128.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93866,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 93867,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/64/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 114428,
+      "name": "Tumar FM",
+      "slug": "Tumar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/07/5c07b67f7a02d6b79cac80fa62abc74e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "tumar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242499,
+          "url": "https://radio.tumar.fm:8000/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153154,
+          "url": "https://radio.tumar.fm:8005/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153153,
+          "url": "http://radio.tumar.fm:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ky",
+          "name": "Kyrgyz"
+        }
+      ]
+    },
+    {
+      "id": 114492,
+      "name": "Радио Кыргызстан Обондору",
+      "slug": "Radio_Kyrgyzstan_Obondoru",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/da/6ada9182f4b7a45b1452f756eb240602.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "obondoru",
+        "alsoKnownAs": "Radio Kyrgyzstan Obondoru"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 2,
+          "fr": 2,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153202,
+          "url": "http://cdn.radioplayer.kg:8000/obondoru64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 153203,
+          "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 114521,
+      "name": "Radio HIT FM Kyrgyzstan",
+      "slug": "Hit_FM_Hit_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/4f/024fccf0a6f420a4c5d9fcb967448983.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.6",
+        "dialStripped": "1056"
+      },
+      "aliases": {
+        "cleanName": "hit",
+        "alsoKnownAs": "Радио ХИТ FM Кыргызстан"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153221,
+          "url": "http://cdn.radioplayer.kg:8000/hitfm64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 187707,
+      "name": "Европа Плюс Киргизия",
+      "slug": "Europa_Plus_Kyrgyzstan_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/69/8869ef8e4f56d70986d1eff63d3a7682.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.8",
+        "dialStripped": "1038"
+      },
+      "aliases": {
+        "cleanName": "evropa plius kirgiziia",
+        "alsoKnownAs": "Europa Plus Kyrgyzstan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Osh",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Osh, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "40.5282800",
+          "longitude": "72.7985000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173988,
+          "url": "http://ep128.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173995,
+          "url": "https://ep64.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173994,
+          "url": "https://ep128.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173991,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173990,
+          "url": "http://ep32.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173993,
+          "url": "https://ep256.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173989,
+          "url": "http://ep64.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173987,
+          "url": "http://ep256.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173996,
+          "url": "https://ep32.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173992,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/64/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 73568,
+      "name": "Радио ОК",
+      "slug": "Radio_OK_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/d9/44d9e5a697ac0f1e6428ff2deef31ef6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "ok",
+        "alsoKnownAs": "Radio OK"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "News Russian Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244029,
+          "url": "https://stream.teos.media/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116154,
+          "url": "https://stream.okradio.kg:8005/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116153,
+          "url": "http://stream.okradio.kg:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        },
+        {
+          "code": "ky",
+          "name": "Kyrgyz"
+        }
+      ]
+    },
+    {
+      "id": 29546432,
+      "name": "Coldstar Radio",
+      "slug": "Coldstar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/fd/43fdeb55d75befbf9a66efa150e115d6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "coldstar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kyrgyzstan",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Kyrgyzstan, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "41.5442655",
+          "longitude": "73.8858473"
+        }
+      },
+      "genre": {
+        "text": "Ambient Chillout Downtempo Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257050,
+          "url": "https://ice.coldstar.online/high.mp3",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257048,
+          "url": "http://ice.coldstar.online/high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257049,
+          "url": "http://ice.coldstar.online/low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257051,
+          "url": "https://ice.coldstar.online/low.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

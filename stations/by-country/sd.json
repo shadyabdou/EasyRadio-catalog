@@ -1,0 +1,644 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:46:12.394Z",
+  "endpoint": "/countries/Sudan/radios",
+  "countryCode": "sd",
+  "countryName": "Sudan",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 43610,
+      "name": "راديو ديشاك",
+      "slug": "Radio_Deeshak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/4c/824cc4edd8b875d27ea782c653350aae.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw dyshk",
+        "alsoKnownAs": "Radio Deeshak , Radio DeeShaK - Sudan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khartoum",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Khartoum, Sudan",
+        "coordinates": {
+          "latitude": "15.5517700",
+          "longitude": "32.5324100"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Arabic News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 70065,
+          "url": "http://216.144.240.58:8230/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70064,
+          "url": "http://s7.reliastream.com:8230/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 193712,
+      "name": "Eye Radio",
+      "slug": "Eye_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/d8/c4d88d401103df9f3de0db95c6df1cea.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.6",
+        "dialStripped": "986"
+      },
+      "aliases": {
+        "cleanName": "eye",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Juba",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Juba, Sudan",
+        "coordinates": {
+          "latitude": "14.2838907",
+          "longitude": "32.2298633"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175702,
+          "url": "http://media.streambrothers.com:18000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175703,
+          "url": "http://media.streambrothers.com:8000/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72946,
+      "name": "راديو ديشاك - ديشاك حقيبة",
+      "slug": "Radio_Deeshak_Haqeeba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/c0/a2c0e9f0880c3252309d308c5371dc7d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw dyshk dyshk hqyb",
+        "alsoKnownAs": "Radio Deeshak- Haqeeba"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khartoum",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Khartoum, Sudan",
+        "coordinates": {
+          "latitude": "15.5517700",
+          "longitude": "32.5324100"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115325,
+          "url": "http://s9.reliastream.com:9175/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 194682,
+      "name": "96.3 Favour FM",
+      "slug": "96.3_Favour_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/19/43194940710ce727c56429f4b0f504a9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "96.3 favour",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Juba",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Juba, Sudan",
+        "coordinates": {
+          "latitude": "14.2838907",
+          "longitude": "32.2298633"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175822,
+          "url": "http://us5new.listen2myradio.com:8106/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175823,
+          "url": "http://us5new.listen2myradio.com:8106/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 9785989,
+      "name": "إذاعة المقرن",
+      "slug": "Al_Mogran_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/b7/a7b7f8d3340c7d39351764049a8fe4df.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh lmqrn",
+        "alsoKnownAs": "Al-Mogran Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Omdurman",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Omdurman, Sudan",
+        "coordinates": {
+          "latitude": "15.6445300",
+          "longitude": "32.4777300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236534,
+          "url": "https://tijaniyyah.asuscomm.com:8000/stream/5/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 206388,
+      "name": "A Room For Wonder",
+      "slug": "A_Room_For_Wonder",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/c6/1bc601a94fb9e00f8c767316d8dc1c05.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "a room for wonder",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Juba",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Juba, Sudan",
+        "coordinates": {
+          "latitude": "14.2838907",
+          "longitude": "32.2298633"
+        }
+      },
+      "genre": {
+        "text": "Pop RnB Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 178860,
+          "url": "https://stream.zeno.fm/er7ypm0aazzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178859,
+          "url": "http://stream.zeno.fm/er7ypm0aazzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 288068,
+      "name": "Revolutionaries Voice ",
+      "slug": "Revolutionaries_Voice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/43/0943609860f48b351f6ed96edd1909ad.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "revolutionaries voice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khartoum",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Khartoum, Sudan",
+        "coordinates": {
+          "latitude": "15.5517700",
+          "longitude": "32.5324100"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 194941,
+          "url": "https://stream.zenolive.com/tbqerba28vzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194942,
+          "url": "https://stream.zeno.fm/tbqerba28vzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194940,
+          "url": "http://stream.zeno.fm/tbqerba28vzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194939,
+          "url": "http://stream.zenolive.com/tbqerba28vzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 96288,
+      "name": "The Voice of Peace",
+      "slug": "The_Voice_of_Peace_2",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the voice of peace",
+        "alsoKnownAs": "UNISFA The Voice of Peace "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Abyei Town",
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "locationText": "Abyei Town, Sudan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 141110,
+          "url": "http://stream.radio.co/s259faacda/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 141113,
+          "url": "https://stream.radio.co/s259faacda/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 141112,
+          "url": "https://stream.radio.co/s259faacda/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

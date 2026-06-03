@@ -1,0 +1,5793 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:55.650Z",
+  "endpoint": "/countries/Moldova/radios",
+  "countryCode": "md",
+  "countryName": "Moldova",
+  "expectedCount": 66,
+  "count": 66,
+  "data": [
+    {
+      "id": 65279,
+      "name": "Hit FM - Русское Хитовое",
+      "slug": "Hit_FM_Russian_Hit",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/51/f7519dc85045fe6f5a74fc423765ba33.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit russkoe khitovoe",
+        "alsoKnownAs": "Hit FM - Russian Hit"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 14820,
+        "byCountry": {
+          "us": 8,
+          "gb": 22,
+          "au": 1,
+          "de": 33,
+          "fr": 12,
+          "br": 1,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 8,
+          "ar": 1,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 105709,
+          "url": "https://stream.hitfm.md:8443/ru_hit",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105704,
+          "url": "http://stream.hitfm.md:8000/ru_hit_320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105708,
+          "url": "https://stream.hitfm.md:8443/ru_hit_320",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105710,
+          "url": "https://stream.hitfm.md:8443/ru_hit_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105703,
+          "url": "http://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 145,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105707,
+          "url": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 156,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56566,
+      "name": "HIT FM Moldova",
+      "slug": "XHT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/ba/61ba581f13fb5140d538af4ba31aa170.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "hit",
+        "alsoKnownAs": "ХИТ FM , Hit FM - Main"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 12990,
+        "byCountry": {
+          "us": 10,
+          "gb": 28,
+          "au": 5,
+          "de": 35,
+          "fr": 15,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 32,
+          "ar": 1,
+          "ca": 12,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 92757,
+          "url": "http://stream.dixi.md:8000/HitFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 152,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 65317,
+      "name": "Hit FM - Tricolor de Hituri",
+      "slug": "Hit_FM_Tricolor_de_Hituri",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/51/f7519dc85045fe6f5a74fc423765ba33.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit tricolor de hituri",
+        "alsoKnownAs": "ХИТ FM - Tricolor de Hituri"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6030,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 0,
+          "de": 12,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 8,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105752,
+          "url": "http://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 141,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105754,
+          "url": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105753,
+          "url": "http://radio3.dixi.md:8050/hitfmtricolor128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 91861,
+      "name": "Radio Noroc",
+      "slug": "Radio_Noroc",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/2a/d12a6dd23bd7bb423b502bdb025563dd.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "noroc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Culture Folk News Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 6000,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264780,
+          "url": "http://stream.noroc.tv:8001/radionoroc_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264781,
+          "url": "https://stream.noroc.tv/radionoroc_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64540,
+      "name": "Record Dance Radio",
+      "slug": "Record_Dance_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/c9/cec9f6e39cfb55a06d98f80ba2e8c241.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "record dance",
+        "alsoKnownAs": "Record Radio Moldova"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Russian World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4020,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 0,
+          "de": 16,
+          "fr": 10,
+          "br": 3,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 5,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104714,
+          "url": "http://air.radiorecord.md/recordmdhd",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 163,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 104716,
+          "url": "https://air.radiorecord.md/recordmdhd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 170,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 104715,
+          "url": "https://air.radiorecord.md:8000/RecordMD",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 104713,
+          "url": "http://air.radiorecord.md:8000/RecordMD",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 10908,
+      "name": "Radio Relax - Jazz & Blues",
+      "slug": "Radio_Relax_Jazz_and_Blues",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/84/5984e43820f59bab6f6a4e05624cc1d5.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax jazz blues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Blues Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3450,
+        "byCountry": {
+          "us": 8,
+          "gb": 3,
+          "au": 2,
+          "de": 3,
+          "fr": 10,
+          "br": 22,
+          "es": 9,
+          "mx": 8,
+          "jp": 1,
+          "in": 1,
+          "it": 12,
+          "ar": 4,
+          "ca": 3,
+          "cl": 1,
+          "co": 3,
+          "pe": 3
+        }
+      },
+      "streams": [
+        {
+          "id": 15307,
+          "url": "http://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 15308,
+          "url": "http://radio2.dixi.md:8100/relaxjazzblues128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 15309,
+          "url": "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242275,
+          "url": "http://radio2.dixi.md:8100/relaxjazzblues128.aac?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 48726,
+      "name": "Radio Moldova - Actualitati",
+      "slug": "Radio_Moldova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/67/0467685472fa82c64041db776cfb2739.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "actualitati",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3330,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 3,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 7,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77582,
+          "url": "http://radiolive.trm.md:8000/RM-Actualitati-320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77583,
+          "url": "http://radiolive.trm.md:8000/RM-Actualitati-aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 65341,
+      "name": "Kiss FM Chisinau",
+      "slug": "Kiss_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/51/cb51ab27ddcd08c5f3df018f539cc333.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "kiss",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 2,
+          "gb": 10,
+          "au": 1,
+          "de": 7,
+          "fr": 7,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105767,
+          "url": "http://live.kissfm.ro/kissfm.aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105768,
+          "url": "https://live.kissfm.ro/kissfm.aacp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 104,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 25270,
+      "name": "Radio Bucovina",
+      "slug": "Radio_Bucovina_Populara_www.RadioBucovinaro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/2f/602f38128bb7b162a748fd835c87c8de.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bucovina",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": ", Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Romanian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2640,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 0,
+          "de": 3,
+          "fr": 3,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 21,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39599,
+          "url": "http://ssl.hostclean.ro:8000/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 65369,
+      "name": "Hit FM - Best Hits",
+      "slug": "Hit_FM_Best_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/51/f7519dc85045fe6f5a74fc423765ba33.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit best hits",
+        "alsoKnownAs": "ХИТ FM - Best Hits"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2160,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 0,
+          "de": 2,
+          "fr": 4,
+          "br": 2,
+          "es": 3,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 4,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105801,
+          "url": "https://stream.hitfm.md:8443/best_hits_320",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105803,
+          "url": "https://stream.hitfm.md:8443/best_hits_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105797,
+          "url": "http://stream.hitfm.md:8000/best_hits_320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105802,
+          "url": "https://stream.hitfm.md:8443/best_hits",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105800,
+          "url": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105796,
+          "url": "http://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 53592,
+      "name": "Ретро FM",
+      "slug": "Retro_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/4b/c34b3df4440f22a30023bc4b224808fc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.1",
+        "dialStripped": "891"
+      },
+      "aliases": {
+        "cleanName": "retro",
+        "alsoKnownAs": "Retro FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "70s 80s 90s Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2010,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87088,
+          "url": "http://retro.hostingradio.ru:8043/retro64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87086,
+          "url": "http://retro.hostingradio.ru:8043/retro256.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87087,
+          "url": "http://retro.hostingradio.ru:8043/retro128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243284,
+          "url": "https://retro.hostingradio.ru:8043/retro256.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243285,
+          "url": "https://retro.hostingradio.ru:8043/retro128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243283,
+          "url": "https://retro.hostingradio.ru:8043/retro64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 412310,
+      "name": "Radio Relax Moldova",
+      "slug": "Radio_Relax_Moldova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/70/527045b3362a6dddc57c13a9a323ba9c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "relax",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1800,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 10,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213570,
+          "url": "http://stream.dixi.md/RadioRelax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213571,
+          "url": "https://stream.dixi.md/RadioRelax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 338973,
+      "name": "Muz FM",
+      "slug": "Antena_C",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/33/f63333d9d0edc742fcf82b85a518f169.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "muz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Hits News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 3,
+          "fr": 4,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204465,
+          "url": "http://live.muzfm.md:8000/muzfmhd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204468,
+          "url": "https://live.muzfm.md:8000/muzfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204467,
+          "url": "https://live.muzfm.md/muzfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204464,
+          "url": "http://live.muzfm.md:8000/muzfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243220,
+          "url": "https://live.muzfm.md:8000/muzfmhd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 20436,
+      "name": "Radio Studentus",
+      "slug": "Radio_Studentus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/2f/082f5bace8e05403861d1c100e5e5668.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "studentus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1500,
+        "byCountry": {
+          "us": 0,
+          "gb": 10,
+          "au": 0,
+          "de": 2,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 6,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29554,
+          "url": "http://radiolive.studentus.md:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 241407,
+      "name": "Hit FM - Hot Hits",
+      "slug": "Hit_FM_Hot_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/51/f7519dc85045fe6f5a74fc423765ba33.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit hot hits",
+        "alsoKnownAs": "ХИТ FM - Hot Hits"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1470,
+        "byCountry": {
+          "us": 3,
+          "gb": 4,
+          "au": 1,
+          "de": 3,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185338,
+          "url": "http://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185339,
+          "url": "http://stream.hitfm.md:8000/hothits_320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185343,
+          "url": "https://stream.hitfm.md:8443/hothits_320",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185344,
+          "url": "https://stream.hitfm.md:8443/hothits",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185345,
+          "url": "https://stream.hitfm.md:8443/hothits_64_aacp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185342,
+          "url": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 65390,
+      "name": "Megapolis FM",
+      "slug": "Megapolis_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/0d/ea0d06a8ee8d6d86b6909c82e3f206a4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "megapolis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Russian World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1410,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 6,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105816,
+          "url": "http://megapolisfm.md:8443/886aac",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105815,
+          "url": "http://megapolisfm.md:8000/886",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105817,
+          "url": "http://megapolisfm.md:8443/886",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 73500,
+      "name": "Радио Дача Тирасполь",
+      "slug": "Radio_Dacha_Tiraspol",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/69/5d69e2dcaae2157d07abb051c3ffa7f6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "dacha tiraspol",
+        "alsoKnownAs": "Radio Dacha Tiraspol"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tiraspol",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Tiraspol, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Russian Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 6,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116071,
+          "url": "http://online2.gkvr.ru:8000/dacha_nno_64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 85,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242690,
+          "url": "https://online2.gkvr.ru:8000/dacha_nno_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116072,
+          "url": "http://objectiv-inter.dyndns.idknet.com:8022/Dacha-PMR",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 38690,
+      "name": "Radio Micul Samaritean",
+      "slug": "RADIO_MICUL_SAMARITEAN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/9e/389eb96c445f8646737c9bbf5653c2c3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "micul samaritean",
+        "alsoKnownAs": "Radio Little Samaritan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Christian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 6,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62804,
+          "url": "http://s5.radio.co/sfff7b7e97/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62805,
+          "url": "https://s5.radio.co/sfff7b7e97/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264753,
+          "url": "http://online.miculsamaritean.com:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 277619,
+      "name": "Jurnal FM",
+      "slug": "100.1_FM_journal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/ac/37ac85235dfa6f2ba8fdf91d63163465.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "jurnal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 6,
+          "fr": 5,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191564,
+          "url": "https://audio.jurnalfm.md/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 191566,
+          "url": "https://audio.jurnalfm.md/mq/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 191567,
+          "url": "https://audio.jurnalfm.md/lq/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 191565,
+          "url": "https://audio.jurnalfm.md/hq/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 83,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 191563,
+          "url": "https://stream.jurnalfm.md/static/streaming-playlists/hls/1a13080a-2f9a-4163-9d36-2f2282469277/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 5812,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 100094,
+      "name": "Radio Ai Noștri",
+      "slug": "Radio_Ai_Nostri",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/a0/aaa06224f1b8c67c7f75eaa90fb69b47.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ai nostri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Romanian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 2,
+          "gb": 8,
+          "au": 0,
+          "de": 7,
+          "fr": 4,
+          "br": 2,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 7,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142997,
+          "url": "http://s5.radio.co/sfd9f42d1d/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 187,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142998,
+          "url": "http://s5.radio.co/sfd9f42d1d/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142999,
+          "url": "https://s5.radio.co/sfd9f42d1d/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 182,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 143000,
+          "url": "https://s5.radio.co/sfd9f42d1d/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 241489,
+      "name": "HIT FM - 2000s Hits",
+      "slug": "HIT_FM_2000s_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/6d/e36d0f60aa9ce2ac66f4609268141eeb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "hit 2000s hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "00s Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1200,
+        "byCountry": {
+          "us": 7,
+          "gb": 4,
+          "au": 1,
+          "de": 2,
+          "fr": 9,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 2,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185346,
+          "url": "http://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185347,
+          "url": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 110054,
+      "name": "Vocea Basarabiei Radio",
+      "slug": "Vocea_Basarabiei_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/0d/080d2669c233713171a26de133dca7ab.png",
+      "dial": {
+        "band": "FM",
+        "dial": "71.57",
+        "dialStripped": "7157"
+      },
+      "aliases": {
+        "cleanName": "vocea basarabiei",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Information News Romanian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 6,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150318,
+          "url": "http://stream.noroc.tv/radiovb_aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150320,
+          "url": "https://stream.noroc.tv/radiovb_aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 29040,
+      "name": "HIT FM - Dance Hits",
+      "slug": "HIT_FM_Dance_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/06/a6065db25ebccb1863d3a53281de08f2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit dance hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46856,
+          "url": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 46855,
+          "url": "http://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 157234,
+      "name": "PRO Dj Radio",
+      "slug": "PRO_Dj_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/14/7a146df8bb4a992725c0dbae7ab2fea7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pro dj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 5,
+          "de": 3,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 166158,
+          "url": "http://173.249.25.221:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 166157,
+          "url": "http://live.prodjradio.net:8000/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242271,
+          "url": "https://live.prodjradio.net:8000/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 30422872,
+      "name": "Radio Chișinău",
+      "slug": "Radio_Chisinau",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/a6/a7a6e3f42e9a0d27355fd3436a6cc2c9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Romanian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257644,
+          "url": "http://95.65.9.171:8000/radiochisinau",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 67244,
+      "name": "Radio Relax Moldova - Instrumental",
+      "slug": "Radio_Relax_Moldova_Instrumental",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/cc/f9cce84033ff60bb1fcfc444de45e24a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax instrumental",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 2,
+          "es": 1,
+          "mx": 2,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 247650,
+          "url": "https://radio1.dixi.md:8040/relaxinstrumental128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108166,
+          "url": "http://radio1.dixi.md:8040/relaxinstrumental128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108164,
+          "url": "http://radio1.dixi.md:8040/relaxinstrumental128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 158,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108167,
+          "url": "https://radio1.dixi.md/listen/relax_instrumental/relaxinstrumental128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108165,
+          "url": "http://radio1.dixi.md:8040/relaxinstrumental128.aac?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 108163,
+          "url": "http://radio1.dixi.md/listen/relax_instrumental/relaxinstrumental128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 52773,
+      "name": "HIT FM - 90's Hits",
+      "slug": "HIT_FM_90s_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/83/b18395ed62c8f46ecc128a2913a24bec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 90 s hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "90s Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 2,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85842,
+          "url": "http://radio4.dixi.md:8050/90s_hits128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 85843,
+          "url": "http://radio4.dixi.md:8050/90s_hits128.aac?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 85844,
+          "url": "https://radio4.dixi.md/listen/hit_fm_90s_hits/90s_hits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 85841,
+          "url": "http://radio4.dixi.md/listen/hit_fm_90s_hits/90s_hits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 154,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 73529,
+      "name": "Русское Радио",
+      "slug": "Russkoe_radio_103.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/1d/161dadfee5b0fc5d0aa52d95d87e98bc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "russkoe",
+        "alsoKnownAs": "Russkoe Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Romanian Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116107,
+          "url": "http://rusradio.hostingradio.ru/rusradio96.aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116108,
+          "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 18156,
+      "name": "Radio Relax - R&B",
+      "slug": "Radio_Relax_R_and_B",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/0e/5b0e54e483e205768c24841ec70796c7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax r b",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 3,
+          "es": 4,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 23462,
+          "url": "http://radio1.dixi.md/listen/relax_rnb/relaxrnb128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23464,
+          "url": "https://radio1.dixi.md/listen/relax_rnb/relaxrnb128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23463,
+          "url": "http://radio1.dixi.md:8020/relaxrnb128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 32837,
+      "name": "HIT FM - Latino Hits",
+      "slug": "HIT_FM_Latino_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/27/4227b54a34c29f12dbcdf3238777b1e7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit latino hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 3,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 2,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53616,
+          "url": "https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53615,
+          "url": "http://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 20486,
+      "name": "HIT FM - Drive Mode",
+      "slug": "HIT_FM_Drive_Mode",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/28/8e28aade6525cfd8e5badd3db14c0a68.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit drive mode",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29715,
+          "url": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29714,
+          "url": "http://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 107,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 428533,
+      "name": "Русское Радио - Молдова",
+      "slug": "Radio_Nova_10",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/3e/693ed0e42d09e7701cdd87cefd16f740.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "russkoe",
+        "alsoKnownAs": "Russkoe Radio - Moldova"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Country Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215085,
+          "url": "https://live.ruradio.md/ruradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275575,
+          "url": "http://ruradio.md/ruradio",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275576,
+          "url": "https://ruradio.md/ruradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215084,
+          "url": "http://live.ruradio.md:8000/ruradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 375103,
+      "name": "Radio Orhei FM",
+      "slug": "Radio_Orhei_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8f/fd/8ffd37c18aee58e4e31ac7e3fc5077f6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "orhei",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Orhei",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Orhei, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209386,
+          "url": "https://radio.tvc.md/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209385,
+          "url": "http://radio.tvc.md:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 45959,
+      "name": "Maestro FM 97.7",
+      "slug": "Maestro_FM_97.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/91/1191cf58aaf22de0b376a066a4b93182.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "maestro 97.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Chillout Lounge Soft Rock Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73775,
+          "url": "https://live.maestrofm.md/maestro",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73774,
+          "url": "http://live.maestrofm.md:8000/maestro",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 401341,
+      "name": "ProFM",
+      "slug": "Pro_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/ad/3cad9fdc32577b58f999625bb8ed0748.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "profm",
+        "alsoKnownAs": "Digi24 - ProFM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212494,
+          "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212495,
+          "url": "https://edge126.rcs-rds.ro/profm/profm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 413510,
+      "name": "Radio Relax - Tricolor",
+      "slug": "Radio_Relax_Tricolor",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/b0/f1b0224fb033d08cfdc41d18fc508780.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax tricolor",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 247663,
+          "url": "https://radio1.dixi.md:8030/relaxtricolor64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213620,
+          "url": "https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213616,
+          "url": "http://radio1.dixi.md:8030/relaxtricolor128.aac?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213619,
+          "url": "http://radio1.dixi.md:8030/relaxtricolor64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213615,
+          "url": "http://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248463,
+          "url": "https://radio1.dixi.md:8030/relaxtricolor128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213618,
+          "url": "http://radio1.dixi.md:8030/relaxtricolor128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 24641,
+      "name": "Radio Relax - Funk & Soul",
+      "slug": "Radio_Relax_Funk_and_Soul",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/f7/3df7f04b79bf4d48163afefbbd45edf2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax funk soul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Funk Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 2,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 38210,
+          "url": "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 38209,
+          "url": "http://radio1.dixi.md:8010/relaxfunkandsoul128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 38208,
+          "url": "http://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 243258,
+      "name": "HIT FM - Summer Hits",
+      "slug": "HIT_FM_Summer_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/0b/b90be34063c4f339555180e20221ae2d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit summer hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185552,
+          "url": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185551,
+          "url": "http://radio4.dixi.md:8020/hitfmsummerhits128.aac?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185550,
+          "url": "http://radio4.dixi.md:8020/hitfmsummerhits128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185549,
+          "url": "http://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 425863,
+      "name": "Radio ROKS",
+      "slug": "Radio_ROKS_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/6d/586dbced27c4e4bede59545f43263805.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "roks",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 214632,
+          "url": "https://stream.dixi.md:9443/Roks",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 25539,
+      "name": "Radio Moldova Muzical",
+      "slug": "Radio_Moldova_Muzical",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/ea/4eeab022352f6312631419117dfc2fee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "muzical",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Folk Jazz Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40076,
+          "url": "http://radiolive.trm.md:8000/RM-muzical-256",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 260326,
+      "name": "Radio Relax Moldova - International",
+      "slug": "Radio_Relax_Moldova_International",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/a2/a6a26125139300f7472ae83959e1e38c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax international",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188276,
+          "url": "http://radio1.dixi.md:8050/relaxinternational128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254241,
+          "url": "https://radio1.dixi.md:8050/relaxinternational128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 31198,
+      "name": "Radio Relax - lo fi",
+      "slug": "Radio_Relax_lo_fi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/b1/40b1f10f633f073e25fd44f5e32f6661.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax lo fi",
+        "alsoKnownAs": "Radio Relax - lofi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Ambient Lite Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50265,
+          "url": "http://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 50266,
+          "url": "http://radio8.dixi.md:8010/relax_lofi128.aac?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 50267,
+          "url": "http://radio8.dixi.md:8010/relax_lofi128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 50268,
+          "url": "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 177,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 315738,
+      "name": "Radio Relax - Librarius",
+      "slug": "Radio_Relax_Librarius",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/3d/fb3d7d268a9664a6cd060b4213ae5939.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax librarius",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200948,
+          "url": "http://radio2.dixi.md/listen/relax_librarius/relaxlibrarius128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200950,
+          "url": "https://radio2.dixi.md/listen/relax_librarius/relaxlibrarius128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200949,
+          "url": "http://radio2.dixi.md:8000/relaxlibrarius128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 51396,
+      "name": "Radio Relax - Vintage",
+      "slug": "Radio_Relax_Vintage",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/89/7489796c6f529049accc3c0f7257d57a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax vintage",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 83337,
+          "url": "https://radio2.dixi.md/listen/relax_vintage/relaxvintage128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 155,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 83336,
+          "url": "http://radio2.dixi.md:8040/relaxvintage128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 83335,
+          "url": "http://radio2.dixi.md/listen/relax_vintage/relaxvintage128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 318070,
+      "name": "Radio LOGOS Moldova",
+      "slug": "Radio_LOGOS_Moldova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/e6/1de661c8861b5cba0d89a96aac2ce10f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "logos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Christian Classical Religious Romanian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201312,
+          "url": "http://188.138.201.97:10000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201311,
+          "url": "http://asculta.logos.md:10000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201314,
+          "url": "http://188.138.201.97:10000/live256",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201313,
+          "url": "http://asculta.logos.md:10000/live256",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 62047,
+      "name": "Radio Relax - Versiuni Acustice",
+      "slug": "Radio_Relax_Versiuni_Acustice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/35/33359a7d09b5fc42cf102c740cd109c7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax versiuni acustice",
+        "alsoKnownAs": "Radio Relax - Acoustic versions"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Acoustic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101822,
+          "url": "http://radio8.dixi.md:8020/relax_acousticversion128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253653,
+          "url": "https://radio8.dixi.md:8020/relax_acousticversion128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101823,
+          "url": "https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101821,
+          "url": "http://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 82801,
+      "name": "Love Radio Moldova",
+      "slug": "Love_Radio_Moldova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/9a/ea9a31fd47ec91665cf7cdfe5907f316.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "love",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129088,
+          "url": "http://stream.mmgmoldova.md:8000/lovefm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 56467,
+      "name": "Radio Relax - Contemporary",
+      "slug": "Radio_Relax_Contemporary",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/11/1011c605786e278b3b37e7e43a33c3da.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax contemporary",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 248109,
+          "url": "https://radio1.dixi.md:8000/relaxcontemporan128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 92380,
+          "url": "https://radio1.dixi.md/listen/relax_contemporan/relaxcontemporan128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 92379,
+          "url": "http://radio1.dixi.md:8000/relaxcontemporan128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 92378,
+          "url": "http://radio1.dixi.md/listen/relax_contemporan/relaxcontemporan128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 87612,
+      "name": "Radio Moldova Tineret",
+      "slug": "Fresh_FM_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/6f/1d6f7f5b3510bb16d8d48939989482d5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "tineret",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "College News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133055,
+          "url": "http://radiolive.trm.md:8000/RM-Tineret-aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 133056,
+          "url": "http://radiolive.trm.md:8000/RM-tineret-128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133058,
+          "url": "http://radiolive.trm.md:8000/RM-tineret-64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133057,
+          "url": "http://radiolive.trm.md:8000/RM-tineret-256",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133054,
+          "url": "http://radiolive.trm.md:8000/RC-Tineret",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 28479,
+      "name": "DeepNova Radio",
+      "slug": "DeepNova_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/ce/8ccedbdb872979691bb3a565df4a7414.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "deepnova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Deep House Electronic House",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45869,
+          "url": "http://a8.asurahosting.com:8820/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45871,
+          "url": "http://a8.asurahosting.com:8820/radio-256.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45872,
+          "url": "https://a8.asurahosting.com:8820/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45873,
+          "url": "https://a8.asurahosting.com:8820/radio-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45875,
+          "url": "https://a8.asurahosting.com:8820/radio-320.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45874,
+          "url": "https://a8.asurahosting.com:8820/radio-256.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45868,
+          "url": "http://a8.asurahosting.com:8820/radio-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45870,
+          "url": "http://a8.asurahosting.com:8820/radio-320.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 63795,
+      "name": "Euro Dance Radio (EDR)",
+      "slug": "Euro_Dance_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/5b/225b7ea41118a2f34cc2559ee93bda0d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "euro dance edr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tiraspol",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Tiraspol, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103088,
+          "url": "http://195.201.129.237:8300/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 45907,
+      "name": "Radio Relax - Oasis",
+      "slug": "Radio_Relax_Oasis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/81/a2818cfe5cd77ae515112078ca03a467.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax oasis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Chillout",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 73678,
+          "url": "http://radio2.dixi.md:8090/relaxoasis128.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 141,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 73677,
+          "url": "http://radio2.dixi.md/listen/relax_oasis/relaxoasis128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 73679,
+          "url": "https://radio2.dixi.md/listen/relax_oasis/relaxoasis128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 405009,
+      "name": "Publika FM",
+      "slug": "Publika_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/61/606175697f5da458295495c7ea1fc48d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "publika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Romanian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212817,
+          "url": "http://live.maestrofm.md:8000/publikafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212816,
+          "url": "http://livebeta.publika.md/LIVE/P/6810.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.64001f,mp4a.40.29",
+          "bitrate": 2904,
+          "contentType": "application/x-mpegURL",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 31269,
+      "name": "OM Radio",
+      "slug": "OM_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/4e/124e51ee8775326b30d6cecd8badd2a6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "om",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Ambient Electronic New Age World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50443,
+          "url": "http://188.138.251.192:8002/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 10857334,
+      "name": "MUSI-Q Radio",
+      "slug": "MUSI_Q_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/e0/03e0017226980b6243dba38b9a161e13.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "musi q",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256222,
+          "url": "https://lk.castnow.ru:8100/mykomon-320.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237882,
+          "url": "http://lk.castnow.ru:8100/mykomon-320.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64810,
+      "name": "DeepNova Radio - DanceNova",
+      "slug": "DeepNova_Radio_DanceNova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/02/d302d51921c2610dc47a14efd186bc72.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "deepnova dancenova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104998,
+          "url": "http://a3.asurahosting.com:8090/radio-256.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104999,
+          "url": "http://a3.asurahosting.com:8090/radio-192.mp3 (320kbps MP3)",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104997,
+          "url": "http://a3.asurahosting.com:8090/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254222,
+          "url": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 315740,
+      "name": "Radio Relax - Liniștea Toamnei",
+      "slug": "Radio_Relax_Summer_Cocktail",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/bb/bdbbf96bdbd3d417a980b6359a09f216.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "relax linistea toamnei",
+        "alsoKnownAs": "Radio Relax - Summer Cocktail"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "54.1188212",
+          "longitude": "52.8373743"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200951,
+          "url": "http://radio2.dixi.md/listen/relax_summer_cocktail/relax_summercocktail128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200952,
+          "url": "https://radio2.dixi.md/listen/relax_summer_cocktail/relax_summercocktail128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 230137,
+      "name": "GRT FM",
+      "slug": "GRT_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/a9/5aa9d4065ebfe2ff8129d22d3f83ece7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "grt",
+        "alsoKnownAs": "Gagauziya Radio Televizionu"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ceadîr-Lunga",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Ceadîr-Lunga, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 130492,
+      "name": "HIT FM - Christmas Hits",
+      "slug": "HIT_FM_Christmas_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/85/9885c29b826e01dd24ca58ac6aa39772.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit christmas hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Christmas Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159505,
+          "url": "http://radio4.dixi.md/listen/hit_fm_christmas_hits/hitfmchristmashits128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159506,
+          "url": "https://radio4.dixi.md/listen/hit_fm_christmas_hits/hitfmchristmashits128.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 28465,
+      "name": "DeepNova Radio - TranceNova",
+      "slug": "DeepNova_Radio_TranceNova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/5d/b95dbd3743bb7c6bf7b7b6ca9c2e3e8f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "deepnova trancenova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Electro House Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45857,
+          "url": "http://a7.asurahosting.com:6940/radio-256.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45856,
+          "url": "http://a7.asurahosting.com:6940/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 87913,
+      "name": "Radio Moldova Tineret",
+      "slug": "Radio_Moldova_Tineret",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/a9/55a926579fa15e3083ed0814b769a347.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "tineret",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basarabeasca",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Basarabeasca, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133494,
+          "url": "http://radiolive.trm.md:8000/RMT",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 25939,
+      "name": "HalizGagauzRadiosu",
+      "slug": "HalizGagauzRadiosu",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "halizgagauzradiosu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": ", Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40809,
+          "url": "http://s02.radio-tochka.com:8020/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 58799,
+      "name": "MOnKEY.FM",
+      "slug": "MOnKEY.FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/11/c01140a47e3f516c2d790e83785b66c4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "monkey",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96963,
+          "url": "http://radio.monkey.fm:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96964,
+          "url": "https://radio.monkey.fm:8000/live48",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 131821,
+      "name": "RADIO CITY FM",
+      "slug": "RADIO_CITY_FM_BALTI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/70/3f70794894302d8052b2a4917c29e08b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bălți",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Bălți, Moldova",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 160065,
+          "url": "https://live.cityfm.md:8001/cityfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 160064,
+          "url": "http://live.cityfm.md:8001/cityfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 114,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 69939,
+      "name": "LSM Radio Network",
+      "slug": "LSM_Radio_Network",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/77/e677e9c19082e4fd3f95312ec1f5d575.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.2",
+        "dialStripped": "1042"
+      },
+      "aliases": {
+        "cleanName": "lsm network",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111405,
+          "url": "http://s5.radio.co/sfff7b7e97/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111406,
+          "url": "https://s5.radio.co/sfff7b7e97/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35220536,
+      "name": "Glowwave-FM",
+      "slug": "Glowwave_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/d3/6dd381ae7cde0f64b0cadf974cb9ce2d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "glowwave",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chişinău",
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "locationText": "Chişinău, Moldova",
+        "coordinates": {
+          "latitude": "47.1791560",
+          "longitude": "28.6218700"
+        }
+      },
+      "genre": {
+        "text": "Chillout Electro House",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    }
+  ]
+}

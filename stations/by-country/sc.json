@@ -1,0 +1,1470 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:32.537Z",
+  "endpoint": "/countries/Seychelles/radios",
+  "countryCode": "sc",
+  "countryName": "Seychelles",
+  "expectedCount": 18,
+  "count": 18,
+  "data": [
+    {
+      "id": 3683,
+      "name": "SBC - Radyo Sesel",
+      "slug": "SBC_Radyo_Sesel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/57/a35758022dcec424e3a63e514b6ad72d.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1368",
+        "dialStripped": "1368"
+      },
+      "aliases": {
+        "cleanName": "sbc radyo sesel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 3,
+          "gb": 8,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43579,
+      "name": "Radiosesel",
+      "slug": "radiosesel.com",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/7d/7c7d397f0b8fa61437e47730ec55db1e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radiosesel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70002,
+          "url": "https://a8.asurahosting.com:8310/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70001,
+          "url": "http://a8.asurahosting.com:8310/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 49710,
+      "name": "SBC - Paradise FM",
+      "slug": "Paradise_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/fe/82fe41a88c92ceab989aff297c2c3816.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.6",
+        "dialStripped": "926"
+      },
+      "aliases": {
+        "cleanName": "sbc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Sports Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 2,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 79796,
+          "url": "http://radio.sbc.sc:8010/sbc_fm.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 79797,
+          "url": "http://162.144.86.239:8010/sbc_fm.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266489,
+          "url": "http://162.144.86.239:8010/sbc_fm.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43758,
+      "name": "Inside Seychelles",
+      "slug": "Inside_Seychelles",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/27/20278199d3cfbaade61f3fe780fe3c5e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "inside",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Hits Holidays",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70342,
+          "url": "http://stream.radio.co/sb947e1883/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70344,
+          "url": "https://stream.radio.co/sb947e1883/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70343,
+          "url": "http://stream.radio.co/sb947e1883/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70345,
+          "url": "https://stream.radio.co/sb947e1883/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20651,
+      "name": "Trance Radio FM",
+      "slug": "Trance_Radio_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/eb/a2ebcd6fb547cb6c2aa2f5453d3adc15.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "trance",
+        "alsoKnownAs": "Disco Magic Radio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30169,
+          "url": "http://cc6.beheerstream.com/proxy/tjjpejuk?mp=/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30168,
+          "url": "http://54.36.89.71:8433/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30167,
+          "url": "http://cc6.beheerstream.com:8433/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30170,
+          "url": "https://cc6.beheerstream.com/proxy/tjjpejuk?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43751,
+      "name": "ItaloRadio.FM",
+      "slug": "ItaloRadio.FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/44/1744d3e0f0ab93310f8cb4e032208476.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "italoradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70329,
+          "url": "https://stream.zeno.fm/k27sy16a47zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70328,
+          "url": "http://stream.zeno.fm/k27sy16a47zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 404732,
+      "name": "Pure907 Seychelles",
+      "slug": "Pure_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/c7/6dc7633770271d40d595252e24f5e131.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "pure907",
+        "alsoKnownAs": "Pure 907"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212788,
+          "url": "http://s3.voscast.com:10814/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212790,
+          "url": "https://s3.voscast.com:10815/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37858,
+      "name": "Asterisk Radio",
+      "slug": "Asterisk_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/82/4a82062ff02fd413ff38795c87211f57.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "asterisk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Alternative Classic Rock Hard Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61526,
+          "url": "http://167.114.11.80:5195/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61528,
+          "url": "http://192.95.23.89:6410/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61527,
+          "url": "http://s10.voscast.com:9826/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1794,
+      "name": "ISKC Radio Group - ISKC Rock Radio",
+      "slug": "ISKC_Rock_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/c4/86c42e2c3f24555395099f788354907a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Progressive House Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266490,
+          "url": "http://mediaserv68.live-streams.nl:8012/RockRadio/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4797,
+          "url": "http://mediaserv68.live-streams.nl:8012/RockRadio",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 59747,
+      "name": "ISKC Radio Group - ISKC Old Men's Rock",
+      "slug": "ISKC_Radio_Group_ISKC_Old_Mens_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/10/8110c8209146edbff7973e76e9333ec9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc old men s rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 97921,
+          "url": "http://mediaserv68.live-streams.nl:8012/OldMenRock",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266491,
+          "url": "http://mediaserv68.live-streams.nl:8012/OldMenRock/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 30115805,
+      "name": "Offshore Radio",
+      "slug": "Offshore_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/2c/2c2cc72277ef37ed1beb1442d2cbfe4c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "offshore",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classics Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257474,
+          "url": "http://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257475,
+          "url": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 28601,
+      "name": "ISKC Radio Group - ISKC Rock Radio XXL",
+      "slug": "ISKC_Radio_Group_ISKC_Rock_Radio_XXL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/1d/3a1d6ef99e21663533f2e3662f12b419.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc rock xxl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Progressive House Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 255183,
+          "url": "https://mediaserv68.live-streams.nl:8012/XXL/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46099,
+          "url": "http://mediaserv68.live-streams.nl:8012/XXL/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60119,
+      "name": "ISKC Radio Group - ISKC Only Live",
+      "slug": "ISKC_Only_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/6a/de6a955a173db0456879dc4b2f6e59e3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc only live",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Entertainment Progressive House Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98480,
+          "url": "http://mediaserv68.live-streams.nl:8012/OnlyLive",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247652,
+          "url": "https://mediaserv68.live-streams.nl:8012/OnlyLive/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 23500,
+      "name": "ISKC Radio Group - ISKC RadioActive",
+      "slug": "ISKC_Radio_Group_ISKC_RadioActive",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/51/585131ce43f13affd212f4ba3e7f1347.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc radioactive",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264137,
+          "url": "http://mediaserv68.live-streams.nl:8012/RadioActive/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36118,
+          "url": "http://mediaserv68.live-streams.nl:8012/RadioActive",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 58232,
+      "name": "ISKC Radio Group - ISKC Hardrock Channel",
+      "slug": "ISKC_Webradio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/63/39637f0e74628bd3ef6dad3db7cffc5c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc hardrock channel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Hard Rock Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96001,
+          "url": "http://mediaserv68.live-streams.nl:8012/HardRockChannel",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96002,
+          "url": "https://mediaserv68.live-streams.nl:18012/HardRockChannel/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256369,
+          "url": "https://mediaserv68.live-streams.nl:8012/HardRockChannel/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 23086,
+      "name": "ISKC Radio Group - ISKC Extreme Metal",
+      "slug": "ISKC_Webradio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/c2/2ac2d6dedb32a4b84e1323c39c77c0ee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc extreme metal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 262192,
+          "url": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 35307,
+          "url": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 22073,
+      "name": "ISKC Radio Group - ISKC Blues Cafe",
+      "slug": "ISKC_Webradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/98/1598727a1a3117aec5cecb2403bcf520.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iskc group iskc blues cafe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "Blues Folk Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 33167,
+          "url": "http://mediaserv68.live-streams.nl:8012/BluesCafe",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269197,
+          "url": "http://mediaserv68.live-streams.nl:8012/BluesCafe/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 53309,
+      "name": "Studio 26 Radio",
+      "slug": "Studio_26_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/77/4c7703598a64cd8e93ee035f0dccbe3e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "studio 26",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "locationText": "Victoria, Seychelles",
+        "coordinates": {
+          "latitude": "-4.6166700",
+          "longitude": "55.4500000"
+        }
+      },
+      "genre": {
+        "text": "90s Dance Electronic Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

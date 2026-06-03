@@ -1,0 +1,4469 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:16.421Z",
+  "endpoint": "/countries/Albania/radios",
+  "countryCode": "al",
+  "countryName": "Albania",
+  "expectedCount": 56,
+  "count": 56,
+  "data": [
+    {
+      "id": 37626,
+      "name": "Radio Shqip",
+      "slug": "Club_Shqip",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/63/c863f9ebbd55f27dec1ba4f0776da3a2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "shqip",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 3,
+          "gb": 9,
+          "au": 2,
+          "de": 4,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 18,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280720,
+          "url": "http://cp1.sednastream.com:8018/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61101,
+          "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61099,
+          "url": "http://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 259229,
+          "url": "http://cp1.sednastream.com:8018/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61100,
+          "url": "http://cp1.sednastream.com:8018/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 473706,
+      "name": "Top Albania Radio",
+      "slug": "Top_Albania_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/47/2747b8d3bf266c59bc2142ebae14c7cd.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "top",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1170,
+        "byCountry": {
+          "us": 4,
+          "gb": 5,
+          "au": 1,
+          "de": 3,
+          "fr": 7,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 17,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218982,
+          "url": "http://live.topgold.al/tar",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256017,
+          "url": "http://live.top-media.al/tar",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218983,
+          "url": "https://live.topgold.al/tar",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 225324,
+      "name": "Top Gold",
+      "slug": "Top_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/5d/5f5d545135204bacdc49baabb90bc36b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "top gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 3,
+          "fr": 5,
+          "br": 3,
+          "es": 1,
+          "mx": 3,
+          "jp": 0,
+          "in": 2,
+          "it": 4,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182270,
+          "url": "https://live.topgold.al/topgold",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182269,
+          "url": "http://live.topgold.al/topgold",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 63600,
+      "name": "Radio Emigranti",
+      "slug": "Radio_Emigranti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/eb/f4eb76ed888386a6b3367e216054b3da.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "emigranti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 3,
+          "es": 1,
+          "mx": 2,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102852,
+          "url": "http://www.radioemigranti.com:8000/radio48k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102854,
+          "url": "http://www.radioemigranti.com:8000/radio128k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102853,
+          "url": "http://www.radioemigranti.com:8000/radio96k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102851,
+          "url": "http://www.radioemigranti.com:8000/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 57297,
+      "name": "NRG Energy Radio",
+      "slug": "NRG_ENERGY_Radio_106.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/66/4866a0bcbcb3399ea29ce6496527129c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6",
+        "dialStripped": "1066"
+      },
+      "aliases": {
+        "cleanName": "nrg energy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 4,
+          "br": 2,
+          "es": 0,
+          "mx": 4,
+          "jp": 0,
+          "in": 1,
+          "it": 6,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94689,
+          "url": "https://ice31.securenetsystems.net:80/AL09",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 94688,
+          "url": "https://ice31.securenetsystems.net/AL09",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 94686,
+          "url": "http://ice31.securenetsystems.net/AL09",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 94687,
+          "url": "http://ice31.securenetsystems.net:80/AL09",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 57350,
+      "name": "Club FM Shqipëri",
+      "slug": "Club_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/59/4f5992d27cf3c110d06fb51e5da21bba.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "club shqiperi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94800,
+          "url": "http://cp1.sednastream.com:8014/stream",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94801,
+          "url": "http://95.217.32.113/proxy/clubfm/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252390,
+          "url": "https://cp1.sednastream.com:8014/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94802,
+          "url": "http://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 324227,
+      "name": "Radio Maria Albania",
+      "slug": "Radio_Maria_albania",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/15/dc15845252188914978d7b5d309cffe6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 3,
+          "fr": 7,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 6,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202525,
+          "url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202523,
+          "url": "http://dreamsiteradiocp2.com:8028/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261327,
+          "url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream/;/;/;/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 37692,
+      "name": "Radio One",
+      "slug": "Eagle_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d6/1b/d61bd017f79559dff704d7c4b0f86178.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 12,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 61278,
+          "url": "http://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61279,
+          "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 150,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 427495,
+      "name": "RTSH - Radio Tirana 1",
+      "slug": "RTSH_Radio_Tirana1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/e7/61e7ccb8bf97a5227568bc83c78e2675.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "rtsh 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214829,
+          "url": "http://79.106.48.2:8000/radiotirana1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214830,
+          "url": "http://149.202.220.47:8888/radiotirana1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 101857,
+      "name": "Alpo Radio",
+      "slug": "Alpo_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/ec/0bec4e455169278fb168225c8fa9984d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "alpo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gjirokastër",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Gjirokastër, Albania",
+        "coordinates": {
+          "latitude": "40.0758300",
+          "longitude": "20.1388900"
+        }
+      },
+      "genre": {
+        "text": "News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 6,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144045,
+          "url": "http://cp1.sednastream.com:8001/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 427596,
+      "name": "RTSH - Radio Tirana 3",
+      "slug": "RTSH_Radio_Tirana_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/e5/c5e557a37d0263d22a4bd1a1142abd13.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtsh 3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Culture Folk Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 7,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214838,
+          "url": "http://79.106.48.2:8000/radiotirana3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 87,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 324417,
+      "name": "Radio Marimanga",
+      "slug": "Radio_Marimanga_Danimarke",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/0f/4f0f5439516b4d56328dc367f4d88f2a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "marimanga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202548,
+          "url": "http://sonicpanel.totalstreaming.net:8016/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 320827,
+      "name": "Radio Lushnja 95.5",
+      "slug": "Radio_Lushnja_95.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/fd/e8fd24d5ee0834b07d0524d32271a8b2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "lushnja 95.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lushnje",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Lushnje, Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255478,
+          "url": "https://stream.radiocast.cc:8070/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201947,
+          "url": "http://stream.radiocast.cc:8070/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 155535,
+      "name": "Radio Dielli",
+      "slug": "Radio_Dielli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/84/6684ae4cd772b7fec881214831298e43.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dielli",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165799,
+          "url": "https://radiodielli.synology.me/radio/8000/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 427645,
+      "name": "RTSH - Radio Tirana 2",
+      "slug": "RTSH_Radio_Tirana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/97/c59786b0d444ffdc7af47953f5343c96.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.8",
+        "dialStripped": "958"
+      },
+      "aliases": {
+        "cleanName": "rtsh 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic Hip Hop House Latin Pop Rap Reggae Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214844,
+          "url": "http://149.202.220.47:8888/radiotirana2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214843,
+          "url": "http://79.106.48.2:8000/radiotirana2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214845,
+          "url": "https://radiolive.rtsh.dev/radiotirana2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 432004,
+      "name": "Radio Saranda",
+      "slug": "Radio_Saranda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/6d/486de89d4fb8288f689e2a21f7295d11.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "saranda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sarandë",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Sarandë, Albania",
+        "coordinates": {
+          "latitude": "39.8755600",
+          "longitude": "20.0052800"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215275,
+          "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 196,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 215274,
+          "url": "http://s64.radiolize.com:8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 186,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 66804,
+      "name": "Chill Radio",
+      "slug": "Chill_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/39/f639fdb737c23522d6d683a3f2748420.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chill",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Deep House Hits Latin Meditation",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107616,
+          "url": "http://eu8.fastcast4u.com:21599/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107618,
+          "url": "http://51.255.235.165:21599/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107619,
+          "url": "http://eu9.fastcast4u.com/proxy/chillradio?mp=/1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107621,
+          "url": "https://eu9.fastcast4u.com/proxy/chillradio?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107617,
+          "url": "http://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265550,
+          "url": "http://51.255.235.165:21599/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107620,
+          "url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37766,
+      "name": "Radio Koha",
+      "slug": "Radio_Koha",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/6e/996e48fd58785a2b866b6b363222ad68.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "koha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Alternative Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258155,
+          "url": "http://radiokoha.radioca.st:9504/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61402,
+          "url": "http://radiokoha.radioca.st:9504/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61403,
+          "url": "http://perseus.shoutca.st:9504/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61404,
+          "url": "http://192.99.17.104:9504/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 519099,
+      "name": "Radio Viciana",
+      "slug": "Radio_Viciana_100_SHQIP_www.radioviciana.de",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/2a/ca2acfc78acc2a138d1c7bd63ed93af9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "viciana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 222123,
+          "url": "http://radioviciana.org:8000/test.aac/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 28260,
+      "name": "Radio DJ 98,2",
+      "slug": "Radio_DJ_982",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/0a/6b0aeb6c7fe4f4237e66bdd002d39e39.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": "dj 98 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance House Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45478,
+          "url": "http://radio.albaniaradiodj.al/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45479,
+          "url": "https://radio.albaniaradiodj.al/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 57774,
+      "name": "Love Radio 90.7",
+      "slug": "AMC_Loveradio_90.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/03/3203baec0678feff86877ab62bc57ff7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "love 90.7",
+        "alsoKnownAs": "AMC Love Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Romantic Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95502,
+          "url": "https://radio.albanialoveradio.al/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95501,
+          "url": "http://radio.albanialoveradio.al:80/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95500,
+          "url": "http://radio.albanialoveradio.al/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3788,
+      "name": "Radio Nacional - 93.6 FM",
+      "slug": "Radio_Nacional_93.6_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/0b/f20ba03b2f48f921bdcf407c2d7e3fbf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.6",
+        "dialStripped": "936"
+      },
+      "aliases": {
+        "cleanName": "nacional 93.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7970,
+          "url": "http://stream.zeno.fm/vkqjn43uuptuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7971,
+          "url": "https://stream.zeno.fm/vkqjn43uuptuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 291433,
+      "name": "Radio Klea",
+      "slug": "Radio_Klea",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/8d/2b8d40d2fe8e9ce52ad4ffe605512aac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "klea",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Elbasan",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Elbasan, Albania",
+        "coordinates": {
+          "latitude": "41.1125000",
+          "longitude": "20.0822200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 195859,
+          "url": "http://uk21freenew.listen2myradio.com:23300/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 24947,
+      "name": "Play Radio Albania - Play Folk",
+      "slug": "Play_Radio_Albania_Play_Folk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/e4/7ee4a17dba2496557b2caf94826c58f4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play play folk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255144,
+          "url": "http://185.249.225.246:8000/playfolk.m3u/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254056,
+          "url": "http://business.playfm.al:8000/playfolk.m3u/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251927,
+          "url": "http://free.rcast.net/200404/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 38872,
+          "url": "http://185.249.225.246:8000/playfolk",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 38871,
+          "url": "http://business.playfm.al:8000/playfolk",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 17528,
+      "name": "Radio Aksa",
+      "slug": "RadioAksa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/94/75944d46815d24e8ced2ebaebe2a5b9c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aksa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.1029000",
+          "longitude": "19.6980300"
+        }
+      },
+      "genre": {
+        "text": "Classical Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 4,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21630,
+          "url": "https://stream.zeno.fm/sv7pqjlddbytv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21629,
+          "url": "http://stream.zeno.fm/sv7pqjlddbytv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 276998,
+          "url": "http://mediastreamm.com:8128/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282826,
+          "url": "http://fire.doscast.com:8064/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 260681,
+      "name": "RTSH - Radio Tirana Internacional",
+      "slug": "RTSH_Radio_Tirana_Internacional",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/b7/7ab75ba2bc7509613107229d0e87815c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtsh internacional",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Culture Information Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188334,
+          "url": "http://79.106.48.2:8000/rti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 25692,
+      "name": "Rádio Tirana 3 AM 1395",
+      "slug": "Trans_World_Radio_TWR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/9d/489db0199a1e04eaaed06370c9924b98.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1395",
+        "dialStripped": "1395"
+      },
+      "aliases": {
+        "cleanName": "3 1395",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40361,
+          "url": "http://79.106.48.2:8000/radiotirana3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 402563,
+      "name": "Pri Radio",
+      "slug": "Pri_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/e2/18e26cfcd8b0d9ef643e2661da01142d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212595,
+          "url": "http://a1.asurahosting.com:8780/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 474059,
+      "name": "Radio 1",
+      "slug": "Radio_1_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/ce/86ce6287fa0c7aa34bdd0d39d85cd2fb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.2",
+        "dialStripped": "932"
+      },
+      "aliases": {
+        "cleanName": "1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219008,
+          "url": "https://video.radio1.al/broadwavehigh.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219007,
+          "url": "http://video.radio1.al/broadwavehigh.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 281220,
+      "name": "Radio Pendimi - Kanali 2",
+      "slug": "Radio_Pendimi_Kuran_Channel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/f9/41f9f4313f81a1ce5ee7434279432f33.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pendimi kanali 2",
+        "alsoKnownAs": "Radio Pendimi - Channel 2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Islamic Middle Eastern Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192206,
+          "url": "http://rtvpendimi.com:8020/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 174992,
+      "name": "Radio Logos 94.2",
+      "slug": "Radio_Logos",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/b6/efb6bcdde119d9b1b3a90600de816e39.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.2",
+        "dialStripped": "942"
+      },
+      "aliases": {
+        "cleanName": "logos 94.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pogradec",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Pogradec, Albania",
+        "coordinates": {
+          "latitude": "41.0600260",
+          "longitude": "19.8377260"
+        }
+      },
+      "genre": {
+        "text": "Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 254702,
+          "url": "https://s2.stationplaylist.com:9280/listen.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 258830,
+          "url": "http://s2.stationplaylist.com:9280/listen.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 46778,
+      "name": "Best Lounge Radio",
+      "slug": "Best_Lounge_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/f7/3cf7d9063df4bfd4d25e2d43b7ca2abe.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "best lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Lounge Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74698,
+          "url": "http://stream.zeno.fm/y6uk7h9uhkhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74699,
+          "url": "https://stream.zeno.fm/y6uk7h9uhkhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 66592,
+      "name": "Play Radio Albania - Play Fitness",
+      "slug": "Play_Radio_Albania_Play_Fitness",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/44/b844c4768535dbe629f36b8affc8c976.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play play fitness",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107331,
+          "url": "http://185.249.225.246:8060/playfitness",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 31629,
+      "name": "Sophie Caffe Radio",
+      "slug": "Sophie_Caffe_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/75/2f75fd2e960d81ddcfcd245ce9ed57cf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sophie caffe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Ambient Bossa Nova Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 322612,
+      "name": "Radio 4 Plus",
+      "slug": "Radio_4_plus_98.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/2b/822bc697623d68699e7c626049a5d28a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "4 plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lushnje",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Lushnje, Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257820,
+          "url": "https://stream.radiocast.cc:8060/radio.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202324,
+          "url": "http://stream.radiocast.cc:8060/radio.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 17475,
+      "name": "RTSH - Radio Tirana Klasik",
+      "slug": "RTSH_Radio_Tirana_Klasik",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/62/bd626086cb289d1b887056d88920fe94.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "rtsh klasik",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Classical Opera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21473,
+          "url": "https://radiolive.rtsh.dev/radiotiranaklasik1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21471,
+          "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21472,
+          "url": "http://radiolive.rtsh.dev/radiotiranaklasik1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 63520,
+      "name": "Play Radio Albania - Club",
+      "slug": "Play_Radio_91.1_Club",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/e6/a2e69bd2dd3e1e2df9e42f8cfd14d6db.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play club",
+        "alsoKnownAs": "Play Radio Albania - EDM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102765,
+          "url": "http://185.249.225.246:8020/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102766,
+          "url": "https://business.playfm.al:8020/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 28518,
+      "name": "Play Radio Albania - Resto Lounge",
+      "slug": "Play_Radio_Albania_Resto_Lounge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/8a/e78a5572ad4a21fe8217c2bb14094c8b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play resto lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Deep House Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 45938,
+          "url": "http://185.249.225.246:8070/playresto",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 21448,
+      "name": "Play Radio Albania - Afro",
+      "slug": "Play_Radio_Albania_Afro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/71/d271382e017a80530fe0319896001627.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play afro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31898,
+          "url": "http://185.249.225.246:8030/playafro",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 132284,
+      "name": "City Radio Albania",
+      "slug": "City_Radio_880",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/47/ac47dbfd3990ad1ab5ececd8bd713391.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": "City Radio 880"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 160304,
+          "url": "http://cp1.sednastream.com:8044/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 473993,
+      "name": "Radio 7",
+      "slug": "Radio_7_FM_97.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/7b/127b7a44742e0c8f1c9504b59432b50d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219004,
+          "url": "http://cp1.sednastream.com:8013/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 396502,
+      "name": "Play Radio Albania - Play Vibes",
+      "slug": "Play_Radio_Albania_Play_Vibes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/94/109446a3ef1a7b0b0c52ba309264732a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play play vibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance Hip Hop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212023,
+          "url": "http://185.249.225.246:8050/playvibes",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 10788,
+      "name": "Tirana Jazz Radio",
+      "slug": "Tirana_Jazz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/08/51083174d9c11c927d24c573fb7e6913.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jazz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Jazz Smooth Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14989,
+          "url": "http://live.tiranajazzradio.com:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40016,
+      "name": "Radio EuroStar 94.4",
+      "slug": "Radio_Eurostar_94.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/f7/2af765f1cd205c0b378734d57909ab7d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.4",
+        "dialStripped": "944"
+      },
+      "aliases": {
+        "cleanName": "eurostar 94.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Dance Funk Latin Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64406,
+          "url": "http://radioeurostar.al:9000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 49985,
+      "name": "A M Rajah 1",
+      "slug": "A_M_Rajah",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/15/d8151e043982833678fedfb3233072a3.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "a m rajah 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80541,
+          "url": "http://stream.zeno.fm/1cmnk1u3138uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80542,
+          "url": "https://stream.zeno.fm/1cmnk1u3138uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 50105,
+      "name": "Dibdibdidbdidbdudbdu",
+      "slug": "Dibdibdidbdidbdudbdu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/c5/91c53f3b2bb0f6479d40ecb880163a7f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dibdibdidbdidbdudbdu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80775,
+          "url": "http://stream.zeno.fm/07v3rpma6uhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80776,
+          "url": "https://stream.zeno.fm/07v3rpma6uhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 50709,
+      "name": "Play Radio Albania - The Oldies",
+      "slug": "Play_Radio_91.1_The_Oldies",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/96/0996fde2438729ec12c0d5a927135887.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play the oldies",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 82041,
+          "url": "http://185.249.225.246:8010/playtheoldies",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 397005,
+      "name": "Play Radio Albania",
+      "slug": "Play_Radio_91.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/f2/29f2ed799bc5978c7b79692ce2272204.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "play",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212124,
+          "url": "https://business.playfm.al:8170/paperplay",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212123,
+          "url": "http://business.playfm.al:8170/paperplay",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 56360,
+      "name": "Radio RA",
+      "slug": "Radio_RA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/d4/a8d4c01aa93ed708621e68c629c603bf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fier",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Fier, Albania",
+        "coordinates": {
+          "latitude": "40.7238900",
+          "longitude": "19.5561100"
+        }
+      },
+      "genre": {
+        "text": "Hits Top 40 World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 92110,
+          "url": "http://shqiponjat.al:8000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 474148,
+      "name": "Wonderful Radio",
+      "slug": "Wonderful_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/9c/049c138405483fd584417a6c3319c662.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wonderful",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219011,
+          "url": "https://live.i-novativeradio.com/radioalbania",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219009,
+          "url": "http://live.i-novativeradio.com/radioalbania",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219010,
+          "url": "http://live.i-novativeradio.com:80/radioalbania",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50273,
+      "name": "PressPress",
+      "slug": "PressPress",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "presspress",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81081,
+          "url": "http://stream.zeno.fm/frvbrnz0338uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81082,
+          "url": "https://stream.zeno.fm/frvbrnz0338uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 49981,
+      "name": "Urls calle",
+      "slug": "Urls_calle",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/ae/98ae14c062dfa8d23efdb5816a72b72c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "urls calle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80533,
+          "url": "http://stream.zeno.fm/9u9uc3upzhhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80534,
+          "url": "https://stream.zeno.fm/9u9uc3upzhhvv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 49976,
+      "name": "TickTockFM",
+      "slug": "TickTockFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/c5/c5c53eeb7da1dec5fbc27dc187a4bfab.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ticktockfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80523,
+          "url": "http://stream.zeno.fm/cpvlutend2muv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80524,
+          "url": "https://stream.zeno.fm/cpvlutend2muv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 326331,
+      "name": "MCN Radio",
+      "slug": "Radio_ALSAT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/6a/336a98913656a53be9ea695fb587d008.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "mcn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tirana",
+        "countryName": "Albania",
+        "countryCode": null,
+        "locationText": "Tirana, Albania",
+        "coordinates": {
+          "latitude": "41.3275000",
+          "longitude": "19.8188900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 380170,
+      "name": "Zamowienie",
+      "slug": "Zamowienie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/d7/e5d7056bbdaac9395c4f91682a6bb22a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zamowienie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210474,
+          "url": "http://stream.zeno.fm/6y41e08a5v8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210475,
+          "url": "https://stream.zeno.fm/6y41e08a5v8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 278194,
+      "name": "Junior h 3.0",
+      "slug": "Junior_h_3.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/a1/f4a1800cc61cf4c4efd51a257a624b7a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "junior h 3.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "locationText": ", Albania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191681,
+          "url": "http://stream.zeno.fm/6xhfaq02bnttv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191682,
+          "url": "https://stream.zeno.fm/6xhfaq02bnttv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    }
+  ]
+}

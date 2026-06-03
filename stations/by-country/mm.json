@@ -1,0 +1,421 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:01.152Z",
+  "endpoint": "/countries/Myanmar/radios",
+  "countryCode": "mm",
+  "countryName": "Myanmar",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 106872,
+      "name": "Cherry FM",
+      "slug": "Cherry_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/8f/3b8f089e6428075d34e606fd7bb06590.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "cherry",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yangon",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Yangon, Myanmar",
+        "coordinates": {
+          "latitude": "16.8052800",
+          "longitude": "96.1561100"
+        }
+      },
+      "genre": {
+        "text": "Asian Community Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148042,
+          "url": "http://150.95.80.54:8000/stream/89/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148043,
+          "url": "https://cherry.akiyaresearch.com:444/stream/89/;?type=http&nocache=8;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    },
+    {
+      "id": 41943,
+      "name": "Shwe Ayeyar FM",
+      "slug": "Shwe_Ayeyar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/5f/435f63e31fa4c64301505d48237b8eaa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shwe ayeyar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yangon",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Yangon, Myanmar",
+        "coordinates": {
+          "latitude": "16.8052800",
+          "longitude": "96.1561100"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 67233,
+          "url": "http://stream.zeno.fm/gvyz1utf4uhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 67234,
+          "url": "https://stream.zeno.fm/gvyz1utf4uhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    },
+    {
+      "id": 209269,
+      "name": "friends FM",
+      "slug": "friends_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/42/b042f2aebff99b951c3a1a6b56a2cf82.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.1",
+        "dialStripped": "891"
+      },
+      "aliases": {
+        "cleanName": "friends",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Myaungmya",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Myaungmya, Myanmar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Education Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179537,
+          "url": "https://stream.zeno.fm/rtt1xsez338uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179536,
+          "url": "http://stream.zeno.fm/rtt1xsez338uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36271,
+      "name": "Nichijou Shuffle",
+      "slug": "Nichijou_Shuffle",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/36/58360273ce1a01fc56178797338d5c53.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nichijou shuffle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": ", Myanmar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "J-Pop Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 58559,
+          "url": "https://stream.zeno.fm/tncreqmcwnhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 58558,
+          "url": "http://stream.zeno.fm/tncreqmcwnhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ja",
+          "name": "Japanese"
+        }
+      ]
+    },
+    {
+      "id": 46614302,
+      "name": "PMYANMAR RADIO",
+      "slug": "PMYANMAR_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/b9/aab92a6c87cc2ee9072af5a1a7e0749a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pmyanmar",
+        "alsoKnownAs": "P-Myanmar FM Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yangon",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Yangon, Myanmar",
+        "coordinates": {
+          "latitude": "16.8052800",
+          "longitude": "96.1561100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277366,
+          "url": "http://radio.pmyanmar.com/stream",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 118,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277367,
+          "url": "http://radio.pmyanmar.com/stream.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 132,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277368,
+          "url": "https://radio.pmyanmar.com/stream",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 123,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277369,
+          "url": "https://radio.pmyanmar.com/stream.mp3",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 125,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

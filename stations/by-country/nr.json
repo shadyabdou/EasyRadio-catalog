@@ -1,0 +1,89 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:03.169Z",
+  "endpoint": "/countries/Nauru/radios",
+  "countryCode": "nr",
+  "countryName": "Nauru",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 5000556,
+      "name": "Pablo Alboran y Chills",
+      "slug": "Pablo_Alboran_y_Chills",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pablo alboran y chills",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Nauru",
+        "countryCode": "NR",
+        "locationText": ", Nauru",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232849,
+          "url": "http://stream.zeno.fm/pi4ie16wcjquv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232850,
+          "url": "https://stream.zeno.fm/pi4ie16wcjquv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

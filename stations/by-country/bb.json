@@ -1,0 +1,1549 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:51.449Z",
+  "endpoint": "/countries/Barbados/radios",
+  "countryCode": "bb",
+  "countryName": "Barbados",
+  "expectedCount": 18,
+  "count": 18,
+  "data": [
+    {
+      "id": 32519,
+      "name": "VOB 92.9 FM",
+      "slug": "Voice_Of_Barbados_FM_VOB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/79/9079d1622f0903070e17a0fbcc517595.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "vob 92.9",
+        "alsoKnownAs": "Voice of Barbados 92.9 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Gospel News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2850,
+        "byCountry": {
+          "us": 57,
+          "gb": 18,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 27,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53018,
+          "url": "http://ice66.securenetsystems.net/VOB929",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 53020,
+          "url": "https://ice66.securenetsystems.net/VOB929",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 51,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 53021,
+          "url": "https://ice66.securenetsystems.net:80/VOB929",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 53019,
+          "url": "http://ice66.securenetsystems.net:80/VOB929",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 209381,
+      "name": "Q 100.7 FM",
+      "slug": "Q_100.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/2c/e72c60625e24154a6ef5dd62daa7c898.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.7",
+        "dialStripped": "1007"
+      },
+      "aliases": {
+        "cleanName": "q 100.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pine Housing Estate",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Pine Housing Estate, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2610,
+        "byCountry": {
+          "us": 62,
+          "gb": 27,
+          "au": 1,
+          "de": 2,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 32,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 179570,
+          "url": "http://108.178.16.190:8000/1007fm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81399,
+      "name": "HOTT 95.3 FM",
+      "slug": "HOTT_95.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/7c/df7c7c3903345d8e87e0f7fe83342041.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "hott 95.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sturges",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Sturges, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dance Hip Hop Latin News Pop Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 19,
+          "gb": 9,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 15,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126648,
+          "url": "http://ice64.securenetsystems.net:80/HOTT953",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126647,
+          "url": "http://ice64.securenetsystems.net/HOTT953",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126649,
+          "url": "https://ice64.securenetsystems.net/HOTT953",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126650,
+          "url": "https://ice64.securenetsystems.net:80/HOTT953",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 111400,
+      "name": "The Beat 104",
+      "slug": "Love_104",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/5c/cd5c7111da7a797ec92b16fd64443291.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "the beat 104",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sturges",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Sturges, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 7,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150993,
+          "url": "https://ice66.securenetsystems.net/THEBEAT1041",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150991,
+          "url": "http://ice66.securenetsystems.net/THEBEAT1041",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150994,
+          "url": "https://ice66.securenetsystems.net:80/THEBEAT1041",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150992,
+          "url": "http://ice66.securenetsystems.net:80/THEBEAT1041",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39213,
+      "name": "Slam 101",
+      "slug": "Slam_101",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/62/4462912b80b379ddbcf52cd753d7b127.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "slam 101",
+        "alsoKnownAs": "Slam 101.1FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264952,
+          "url": "http://usa19.fastcast4u.com:4420/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63673,
+          "url": "http://usa19.fastcast4u.com:4420/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243316,
+          "url": "https://usa19.fastcast4u.com:4420/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18180,
+      "name": "98.1 The One",
+      "slug": "The_One_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/bf/21bf53a07798fa52c965cd72feb8c15b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "98.1 the one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pine Housing Estate",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Pine Housing Estate, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 23523,
+          "url": "http://108.178.16.190:8000/981fm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21303,
+      "name": "Power Slam Radio",
+      "slug": "POWER_SLAM_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/db/dfdbee034ed7cd0c7d59bb89f7d400df.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "power slam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 3,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31603,
+          "url": "http://us3.streamingpulse.com:7380/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 315042,
+      "name": "Life 97.5",
+      "slug": "Gospel_97.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/dc/e1dcb5819c398eda7bc721bf3fcd46ad.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "life 97.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200785,
+          "url": "http://ice64.securenetsystems.net:80/LIFE975",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200784,
+          "url": "http://ice64.securenetsystems.net/LIFE975",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200786,
+          "url": "https://ice64.securenetsystems.net/LIFE975",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200787,
+          "url": "https://ice64.securenetsystems.net:80/LIFE975",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 242706,
+      "name": "Hitz 106.7 FM",
+      "slug": "Hitz_106.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/a3/8da3e2935800b78d0efffdbb289dc9d1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.7",
+        "dialStripped": "1067"
+      },
+      "aliases": {
+        "cleanName": "hitz 106.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185455,
+          "url": "http://usa20.fastcast4u.com:3240/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243048,
+          "url": "https://usa20.fastcast4u.com:3240/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49849,
+      "name": "CBC 94.7 FM",
+      "slug": "CBC_RADIO_94.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/72/5a7213ed357d601786593840c5ad03ab.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "cbc 94.7",
+        "alsoKnownAs": "Caribbean Broadcasting Corporation 94.7 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80254,
+          "url": "http://108.178.16.190:8000/947fm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 131764,
+      "name": "CITA Radio 90.1 FM",
+      "slug": "CITA_Radio_90.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/1e/0c1e5c781b650805e5567164021d8a75.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "cita 90.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 160010,
+          "url": "http://65.108.105.26:8085/citaradio",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160011,
+          "url": "http://cast1.my-control-panel.com/proxy/daniel26/citaradio",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160012,
+          "url": "https://cast1.my-control-panel.com/proxy/daniel26/citaradio/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269298,
+          "url": "http://65.108.105.26:8085/citaradio/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60493,
+      "name": "CARIBBEAN CHRISTIAN RADIO",
+      "slug": "CARIBBEAN_CHRISTIAN_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/6e/396e0237b6077de8e7d6a69b265f231d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "caribbean christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": ", Barbados",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98919,
+          "url": "http://stream.zeno.fm/wgqncqybwg0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98920,
+          "url": "https://stream.zeno.fm/wgqncqybwg0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18375,
+      "name": "Ande FM",
+      "slug": "Ande_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/e4/b5e49c87d5db4109458f566454d3fdb1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ande",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 24030,
+          "url": "https://stream.zeno.fm/d8mwol290tsuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 24029,
+          "url": "http://stream.zeno.fm/d8mwol290tsuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69795,
+      "name": "Radio Bimshire",
+      "slug": "Radio_Agrofest",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/f0/9cf03aeeeb057e8f66682097dfe75347.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bimshire",
+        "alsoKnownAs": "Radio Agrofest [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Education Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111098,
+          "url": "https://listen.radioking.com/radio/635914/stream/698698",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111097,
+          "url": "https://listen.radioking.com/radio/635914/stream/700051",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111096,
+          "url": "http://listen.radioking.com/radio/635914/stream/698698",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284618,
+          "url": "https://play.radioking.io/radio-bimshire/700051",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 52956,
+      "name": "Evah Blaze Radio",
+      "slug": "Evah_Blaze_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/77/ff77c920cd53b0c6f61f6d1bb6cc1fc2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "evah blaze",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "90s Adult Contemporary Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86075,
+          "url": "https://streaming.radio.co/s1c1beb15d/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 86074,
+          "url": "http://streaming.radio.co/s1c1beb15d/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 2708209,
+      "name": "MIX 96.9 FM",
+      "slug": "Mix_96.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/4d/ad4d01a62c417b47a9cf36f39fb935af.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.9",
+        "dialStripped": "969"
+      },
+      "aliases": {
+        "cleanName": "mix 96.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231227,
+          "url": "http://a4.asurahosting.com:6900/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231228,
+          "url": "http://media.streambrothers.com:18474/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 28376,
+      "name": "One Worldwide Radio",
+      "slug": "One_Worldwide_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/7a/0d7a49b9fce2ea1a21af6a86ad8c41fa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one worldwide",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Caribbean House Latin Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45708,
+          "url": "http://www.radioking.com/play/oneworldwideradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45710,
+          "url": "https://www.radioking.com/play/oneworldwideradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45711,
+          "url": "https://listen.radioking.com/radio/316403/stream/363812",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45709,
+          "url": "http://listen.radioking.com/radio/316403/stream/363812",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 344673,
+      "name": "NBG Radio",
+      "slug": "NBG_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/2e/2a2ef6a2b94e72d8e333df978546cbe6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "nbg",
+        "alsoKnownAs": "Nothing But God Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bridgetown",
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "locationText": "Bridgetown, Barbados",
+        "coordinates": {
+          "latitude": "13.1000000",
+          "longitude": "-59.6166700"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Gospel Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205213,
+          "url": "http://cassini.shoutca.st:8466/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

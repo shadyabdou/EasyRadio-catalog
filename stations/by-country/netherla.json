@@ -1,0 +1,387 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:06.701Z",
+  "endpoint": "/countries/Netherlands Antilles/radios",
+  "countryCode": "netherla",
+  "countryName": "Netherlands Antilles",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 44886,
+      "name": "Radio Trans Mundial (RTM)",
+      "slug": "Radio_Trans_Mundial_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/97/229719c94cbff0a9e08884e00a6af71f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "800",
+        "dialStripped": "800"
+      },
+      "aliases": {
+        "cleanName": "trans rtm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bonaire",
+        "countryName": "Netherlands Antilles",
+        "countryCode": null,
+        "locationText": "Bonaire, Netherlands Antilles",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 12,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 9,
+          "es": 2,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 2,
+          "ca": 0,
+          "cl": 1,
+          "co": 2,
+          "pe": 5
+        }
+      },
+      "streams": [
+        {
+          "id": 242895,
+          "url": "https://cdn.instream.audio:9050/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72235,
+          "url": "http://cdn.instream.audio:9050/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 30977,
+      "name": "Radio Ambiente Online",
+      "slug": "Radio_Ambiente_Online_2",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ambiente online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bonaire",
+        "countryName": "Netherlands Antilles",
+        "countryCode": null,
+        "locationText": "Bonaire, Netherlands Antilles",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49784,
+          "url": "http://stream.zeno.fm/dym3mbm36p8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49785,
+          "url": "https://stream.zeno.fm/dym3mbm36p8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 33321,
+      "name": "Voz di Bonaire",
+      "slug": "Voz_di_Bonaire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/c9/c0c9564d1c7570974fcf017c10e873fc.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "voz di bonaire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bonaire",
+        "countryName": "Netherlands Antilles",
+        "countryCode": null,
+        "locationText": "Bonaire, Netherlands Antilles",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54636,
+          "url": "http://159.203.190.86:8304/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 379210,
+      "name": "Oye FM Bonaire",
+      "slug": "Oye_FM_Bonaire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/07/a60786543052329dc4bbf38727f7a438.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.9",
+        "dialStripped": "969"
+      },
+      "aliases": {
+        "cleanName": "oye bonaire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bonaire",
+        "countryName": "Netherlands Antilles",
+        "countryCode": null,
+        "locationText": "Bonaire, Netherlands Antilles",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210243,
+          "url": "https://stream.zeno.fm/05me96c1dzzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 210242,
+          "url": "http://stream.zeno.fm/05me96c1dzzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 42853,
+      "name": "Radio Karpata En Vivo",
+      "slug": "Radio_Karpata_En_Vivo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/02/e40248155f6c17692a25f9e9ceae4d68.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "karpata en vivo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bonaire",
+        "countryName": "Netherlands Antilles",
+        "countryCode": null,
+        "locationText": "Bonaire, Netherlands Antilles",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "World Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68831,
+          "url": "http://stream.zeno.fm/11wxb1mz3tzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68832,
+          "url": "https://stream.zeno.fm/11wxb1mz3tzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

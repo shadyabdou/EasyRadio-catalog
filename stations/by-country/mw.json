@@ -1,0 +1,2886 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:38.256Z",
+  "endpoint": "/countries/Malawi/radios",
+  "countryCode": "mw",
+  "countryName": "Malawi",
+  "expectedCount": 35,
+  "count": 35,
+  "data": [
+    {
+      "id": 43454,
+      "name": "Zodiak Radio Malawi Online - ZBS Live Broadcast",
+      "slug": "Zodiak_Broadcasting_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/ae/0eae619781f68ddf9f8c4dd1f59ffa0d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "zodiak online zbs live broadcast",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5970,
+        "byCountry": {
+          "us": 6,
+          "gb": 13,
+          "au": 1,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69756,
+          "url": "https://ice31.securenetsystems.net:80/0079",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69755,
+          "url": "https://ice31.securenetsystems.net/0079",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 48774,
+      "name": "Times Radio Malawi Online",
+      "slug": "Times_Radio_Malawi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/9b/559b752594d083afc21be712547f0166.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "times online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4440,
+        "byCountry": {
+          "us": 6,
+          "gb": 14,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77681,
+          "url": "http://ice31.securenetsystems.net/TIMESFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77683,
+          "url": "https://ice31.securenetsystems.net/TIMESFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 36,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77684,
+          "url": "https://ice31.securenetsystems.net:80/TIMESFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77682,
+          "url": "http://ice31.securenetsystems.net:80/TIMESFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 90499,
+      "name": "Timveni Online",
+      "slug": "Timveni_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/8a/7f8af2e0a142d71498699f64c59a27a5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6 / 89.8",
+        "dialStripped": "896 / 898"
+      },
+      "aliases": {
+        "cleanName": "timveni online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Children & Family News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1740,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277588,
+          "url": "http://strw3.openstream.co/495",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 136793,
+          "url": "http://stream.zeno.fm/g88zyw0lh1ttv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 136795,
+          "url": "https://stream.zeno.fm/g88zyw0lh1ttv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 136794,
+          "url": "https://play.streamafrica.net/timveni",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 115,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277875,
+          "url": "http://listen.openstream.co/7374/audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277589,
+          "url": "https://strw3.openstream.co/495",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43513,
+      "name": "MBC Radio 1",
+      "slug": "MBC_Radio_1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/4a/a64a83087a4d2a19f9392b26834bf0bb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "mbc 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1680,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69860,
+          "url": "http://radiostream.mbc.mw:88/broadwavehigh.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69201,
+      "name": "Radio Maria Malawi",
+      "slug": "Radio_Maria_Malawi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/e4/16e4dd70bfb1c749bf77a3977749f091.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.2",
+        "dialStripped": "992"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1170,
+        "byCountry": {
+          "us": 4,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110158,
+          "url": "http://dreamsiteradiocp.com:8040/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 260470,
+          "url": "http://dreamsiteradiocp.com:8040/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110157,
+          "url": "http://dreamsiteradiocp2.com:8064/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 85789,
+      "name": "MBC Radio 2",
+      "slug": "MBC_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/2b/6c2b94863c3991ffa76fb860cb4c38d3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5",
+        "dialStripped": "915"
+      },
+      "aliases": {
+        "cleanName": "mbc 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131484,
+          "url": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69327,
+      "name": "Radio Islam Malawi",
+      "slug": "Radio_Islam_Malawi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/3a/453a27d26aa29c25d1377de03c3ea02e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "islam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Limbe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Limbe, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Education Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110330,
+          "url": "http://s5.radio.co/s7b138c0fa/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110332,
+          "url": "https://s5.radio.co/s7b138c0fa/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ur",
+          "name": "Urdu"
+        }
+      ]
+    },
+    {
+      "id": 87540,
+      "name": "MIJ FM Radio",
+      "slug": "MIJ_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/dc/65dc19030d00c89932285d798b28da11.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "mij",
+        "alsoKnownAs": "Malawi Institute of Journalism FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "College",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278090,
+          "url": "http://65.108.124.70:7954/mij",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132982,
+          "url": "http://stream.zeno.fm/rb9ttwxm4ehvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132983,
+          "url": "https://stream.zeno.fm/rb9ttwxm4ehvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 103761,
+      "name": "Angaliba FM",
+      "slug": "Angaliba_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/02/a7022d8d38167dfdd254092e12e26886.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.7",
+        "dialStripped": "877"
+      },
+      "aliases": {
+        "cleanName": "angaliba",
+        "alsoKnownAs": "AFM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Culture News Pop Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145355,
+          "url": "https://stream.zeno.fm/0ajwxky74i7uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 257206,
+          "url": "http://cast4.my-control-panel.com:7379/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279197,
+          "url": "http://radio.exclusivemw.live:8120/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 145356,
+          "url": "https://radio.exclusivemw.cloud/p/6654/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279198,
+          "url": "https://play.streamafrica.net/angaliba",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279195,
+          "url": "http://play.streamafrica.net/angaliba",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279196,
+          "url": "http://radio.exclusivemw.live/listen/angaliba_fm/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279199,
+          "url": "https://radio.exclusivemw.live/listen/angaliba_fm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 90739,
+      "name": "Capital FM",
+      "slug": "Capital_FM_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/e1/00e116e37e5ccd8195cd46fa05131bb1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "capital",
+        "alsoKnownAs": "Capital Radio Malawi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Business Hip Hop News Rock Talk Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137046,
+          "url": "http://node.stream-africa.com:8000/CapitalFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 342561,
+      "name": "Mzati Radio",
+      "slug": "Mzati_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/72/69/7269fe8063eef191c088f5aeb32c5aba.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0/94.2",
+        "dialStripped": "940/942"
+      },
+      "aliases": {
+        "cleanName": "mzati",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mulanje",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Mulanje, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204802,
+          "url": "https://play.streamafrica.net/mzati",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204801,
+          "url": "https://host1.streamafrica.net/mzati",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253505,
+          "url": "http://play.streamafrica.net/mzati",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 39387,
+      "name": "Chisomo Radio Station",
+      "slug": "Chisomo_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/dc/d0dccb0cd8b235b3cf72935e083b40ac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.0",
+        "dialStripped": "970"
+      },
+      "aliases": {
+        "cleanName": "chisomo station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Salima",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Salima, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary College Gospel Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63998,
+          "url": "https://live.netradio.pro/listen/crs/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63997,
+          "url": "http://live.netradio.pro/listen/crs/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63996,
+          "url": "http://live.netradio.pro:3082/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63995,
+          "url": "http://live.netradio.pro:3082/radio.mp3?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37101927,
+      "name": "Phalombe FM",
+      "slug": "Phalombe_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/59/aa59ac616fccd56f169c742bed9b354d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "phalombe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phalombe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Phalombe, Southern, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 273851,
+          "url": "https://radio.exclusivemw.live:8020/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 100,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 272873,
+          "url": "http://radio.exclusivemw.live/listen/phalombe_fm/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 272874,
+          "url": "http://radio.exclusivemw.live:8020/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 86,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 272875,
+          "url": "http://radio.exclusivemw.live:8020/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 272876,
+          "url": "https://radio.exclusivemw.live/listen/phalombe_fm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 272877,
+          "url": "https://radio.exclusivemw.live:8020/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 116584,
+      "name": "Malawi Voices",
+      "slug": "Malawi_Voices",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/f2/5af2f8970cd0575a111d113294431b47.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voices",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154000,
+          "url": "https://stream.zeno.fm/o4ycgg6wgrfvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153999,
+          "url": "http://stream.zeno.fm/o4ycgg6wgrfvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 88520,
+      "name": "Mzimba Community Radio",
+      "slug": "Mzimba_Community_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/12/c412a6e9702d3e745dd84b2a1cd57cee.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.6",
+        "dialStripped": "1076"
+      },
+      "aliases": {
+        "cleanName": "mzimba community",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mzimba",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Mzimba, Northern Region, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134381,
+          "url": "http://uk2freenew.listen2myradio.com:31304/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 229288,
+          "url": "http://uk20freenew.listen2myradio.com:16065/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 88536,
+      "name": "Chanco Community Radio",
+      "slug": "Chanco_Community_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/0e/f10e3cdd5f853c941e72786728525b9e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.6",
+        "dialStripped": "1076"
+      },
+      "aliases": {
+        "cleanName": "chanco community",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zomba",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Zomba, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134408,
+          "url": "https://live.netradio.pro/listen/chanco/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134406,
+          "url": "http://live.netradio.pro/listen/chanco/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134407,
+          "url": "http://live.netradio.pro:3100/radio.mp3?",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134405,
+          "url": "http://live.netradio.pro:3100/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 116580,
+      "name": "classic fm",
+      "slug": "classic_fm_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/f9/49f99ffb26df5418fad64d3b3f767f40.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": "X",
+        "dialStripped": "X"
+      },
+      "aliases": {
+        "cleanName": "classic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153998,
+          "url": "https://stream.zeno.fm/yqnv3hdsjdhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153997,
+          "url": "http://stream.zeno.fm/yqnv3hdsjdhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 116596,
+      "name": "Power 101 digital",
+      "slug": "Power_FM101",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/1a/bd1ae2c0e8c8be0633fd803347f70787.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "power 101 digital",
+        "alsoKnownAs": "Power FM101"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154002,
+          "url": "https://stream.zeno.fm/rix7wcslvc0tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 154001,
+          "url": "http://stream.zeno.fm/rix7wcslvc0tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 88270,
+      "name": "Yoneco FM",
+      "slug": "Yoneco_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/24/5c2430ce3d48c6adc96fd707de513842.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yoneco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zomba",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Zomba, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Children & Family College Education",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134113,
+          "url": "http://s7.myradiostream.com:60218/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 223419,
+      "name": "Glory of God in Jesus Radio",
+      "slug": "Glory_of_God_in_Jesus_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/7f/cb7f4e252c0539c3cfe18474be79bd8e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "glory of god in jesus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Limbe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Limbe, Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181855,
+          "url": "http://stream.zeno.fm/fk2ffjnkttevv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 181856,
+          "url": "https://stream.zeno.fm/fk2ffjnkttevv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 34474684,
+      "name": "Groove100 FM",
+      "slug": "Groove100_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/2f/272fd261c3fa75e8006f03c5784a678c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "groove100",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40 Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 269876,
+          "url": "https://a9.asurahosting.com:8210/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262967,
+          "url": "http://a9.asurahosting.com:8210/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262966,
+          "url": "http://a9.asurahosting.com:8210/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262968,
+          "url": "https://a9.asurahosting.com/listen/groove100_fm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262969,
+          "url": "https://a9.asurahosting.com:8210/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 342571,
+      "name": "Mzika Voice FM",
+      "slug": "Mzika_Voice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/fc/4afc55c0431d47ae477c5b2837c36bf1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mzika voice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204803,
+          "url": "https://radio.exclusivemw.cloud/listen/mzika_voice_fm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 61072,
+      "name": "TIWALE MEDIA RADIO",
+      "slug": "TIWALE_MEDIA_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/6a/936a67430ea1fc78a657abbe306e3171.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tiwale",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100235,
+          "url": "http://stream.zeno.fm/3g3e4rfktuhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100236,
+          "url": "https://stream.zeno.fm/3g3e4rfktuhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43888,
+      "name": "The Doors of Heaven Radio",
+      "slug": "The_Doors_of_Heaven_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/9b/999bfacb8f23ef17a22c48299d122c68.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the doors of heaven",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70601,
+          "url": "https://stream.zeno.fm/xqdvkjnxlvgvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70600,
+          "url": "http://stream.zeno.fm/xqdvkjnxlvgvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 42555,
+      "name": "TWR Malawi",
+      "slug": "Trans_World_Radio_Malawi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/87/7b87296ed9d381b9200a841626af8f97.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4 / 90.5",
+        "dialStripped": "904 / 905"
+      },
+      "aliases": {
+        "cleanName": "twr",
+        "alsoKnownAs": "Trans World Radio Malawi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68402,
+          "url": "https://host1.streamafrica.net/twr",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 5426,
+      "name": "Madolo Music Radio",
+      "slug": "Madolo_Music_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/a7/d2a72df7bbd6279e0801ac9289cd02e9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "madolo music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Hip Hop Jazz Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 10158,
+          "url": "http://stream.zeno.fm/ctnkca31dxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40854671,
+      "name": "Marweltan Radio59",
+      "slug": "Marweltan_Radio59",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/07/4e07ec06ea6c0a78fa4d33b57dd8b184.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "marweltan radio59",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276197,
+          "url": "https://stream.zeno.fm/x6zscnzcz0puv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 276196,
+          "url": "http://stream.zeno.fm/x6zscnzcz0puv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50060,
+      "name": "Linga Fm",
+      "slug": "Linga_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/e5/4ee5951dc6f81489eacccb37453608bf.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "linga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": ", Malawi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80682,
+          "url": "https://stream.zeno.fm/zact6rdqmrhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60328,
+      "name": "Otible Christian Radio Station",
+      "slug": "Otible_Christian_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/4e/dc4eb5cd252247959541d95d495cfbde.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "otible christian station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mzuzu",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Mzuzu, Malawi",
+        "coordinates": {
+          "latitude": "-11.4655600",
+          "longitude": "34.0207100"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98599,
+          "url": "http://stream.zeno.fm/p8w57x5yyuhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98600,
+          "url": "https://stream.zeno.fm/p8w57x5yyuhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 9172210,
+      "name": "GGIJ RADIO",
+      "slug": "GGIJ_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/61/7f618b05adf7b67c424fd92b7fc3c0a6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ggij",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Folk Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236236,
+          "url": "https://stream.zeno.fm/pwgvbbej5i4vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3050034,
+      "name": "Chimbota Radio",
+      "slug": "Chimbota_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/5e/4f5ecbd7dda3069a189c564336b39efa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chimbota",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231682,
+          "url": "https://stream.zeno.fm/tnsqjeiomhptv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231681,
+          "url": "http://stream.zeno.fm/tnsqjeiomhptv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 224924,
+      "name": "Radio GN",
+      "slug": "Radio_GN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/88/b0885de363e7ee2d2ed87b8ecda260f9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Blantyre",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Blantyre, Malawi",
+        "coordinates": {
+          "latitude": "-13.8146194",
+          "longitude": "34.4226659"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182230,
+          "url": "http://stream.zeno.fm/xloexnl5gcxvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182231,
+          "url": "https://stream.zeno.fm/xloexnl5gcxvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 506827,
+      "name": "UWALA Radio",
+      "slug": "UWALA_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/04/ed049358a14f08d76ed6b9286b3f38f0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uwala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221035,
+          "url": "https://stream.zeno.fm/tpmtzab0vuetv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 221034,
+          "url": "http://stream.zeno.fm/tpmtzab0vuetv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36954,
+      "name": "Malankie Music Radio Station",
+      "slug": "Malankie_Music_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/60/a860363e078501ec291904b1da1523e2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "malankie music station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59819,
+          "url": "http://stream.zeno.fm/xm5v24frd0hvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59820,
+          "url": "https://stream.zeno.fm/xm5v24frd0hvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44119,
+      "name": "Nthambi Fm",
+      "slug": "Nthambi_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/95/d5959c1a0f4cbe1801266292325fb7fa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nthambi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lilongwe",
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "locationText": "Lilongwe, Malawi",
+        "coordinates": {
+          "latitude": "-13.9669200",
+          "longitude": "33.7872500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71068,
+          "url": "http://stream.zeno.fm/mfasmqbaxehtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71069,
+          "url": "https://stream.zeno.fm/mfasmqbaxehtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

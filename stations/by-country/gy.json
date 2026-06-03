@@ -1,0 +1,1291 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:40.289Z",
+  "endpoint": "/countries/Guyana/radios",
+  "countryCode": "gy",
+  "countryName": "Guyana",
+  "expectedCount": 16,
+  "count": 16,
+  "data": [
+    {
+      "id": 112290,
+      "name": "Bhajans Radio Guyana",
+      "slug": "Bhajans_Radio_Guyana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/b0/37b0c7ddd17471fb2c4dd5cfe9f820ad.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bhajans",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Devotional",
+        "tags": []
+      },
+      "popularity": {
+        "global": 9990,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 5,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 438,
+          "it": 0,
+          "ar": 1,
+          "ca": 7,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151879,
+          "url": "https://s5.citrus3.com:8148/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151878,
+          "url": "http://s5.citrus3.com:8148/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 155,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21622,
+      "name": "Abee Radio",
+      "slug": "Abee_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/a2/cda21dba49ec02e16ec7f55e258344fd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "abee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": ", Guyana",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 19,
+          "gb": 5,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 8,
+          "it": 0,
+          "ar": 0,
+          "ca": 9,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32299,
+          "url": "https://abee.radioca.st/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266721,
+          "url": "http://abee.radioca.st:9361/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32298,
+          "url": "http://abee.radioca.st:9361/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32297,
+          "url": "http://abee.radioca.st/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 57885,
+      "name": "104.1 Guyana Lite FM",
+      "slug": "104.1_Guyana_Lite_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/5b/875bd8216508edca4c4178c97db89142.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "104.1 lite",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Hits Lite Pop Pop Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 16,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95706,
+          "url": "http://stream.radiojar.com/nh42m158d4duv?_=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95707,
+          "url": "https://stream.radiojar.com/nh42m158d4duv?_=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 117566,
+      "name": "HJ 94.1 Boom FM",
+      "slug": "HJ_94.1_Boom_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/86/fe8628a0d8a0b0634c171c462d99dc8b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "hj 94.1 boom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 10,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264680,
+          "url": "http://192.99.8.192:3630/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44446,
+      "name": "96.1 VOICE FM | #BANGIN",
+      "slug": "96.1_Voice_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/37/3137b3dfa611a598a05915a014b1f6cf.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "96.1 voice bangin",
+        "alsoKnownAs": "96.1 Voice FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Reggae Soca Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71712,
+          "url": "http://s4.radio.co/s75af666f2/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71713,
+          "url": "https://s4.radio.co/s75af666f2/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21685,
+      "name": "MAAD 97.5 FM",
+      "slug": "MAAD_97.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/1d/041d66c60b2fb21da119712f06efb6df.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "maad 97.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Folk Reggae World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32429,
+          "url": "http://streaming.broadcastradio.com:8870/maad975fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255354,
+          "url": "https://streaming.broadcastradio.com:8870/maad975fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 354469,
+      "name": "NTN Radio",
+      "slug": "NTN_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/39/f239c5561e56d4fff233b3190ec53330.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.1",
+        "dialStripped": "891"
+      },
+      "aliases": {
+        "cleanName": "ntn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 206378,
+          "url": "http://audiovs.intacs.com:80/ntnradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 206380,
+          "url": "http://auds1.intacs.com:80/ntnradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 52855,
+      "name": "92 Real Online Radio",
+      "slug": "92_Real_Online_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/1b/841b7e2a2d438416d9ce14b8c1d517ca.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "92 real online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "90s Dance Pop Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85959,
+          "url": "https://stream.zeno.fm/0hh8g2cpbq8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85957,
+          "url": "http://stream.zeno.fm/0hh8g2cpbq8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85956,
+          "url": "http://stream.zenolive.com/0hh8g2cpbq8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85958,
+          "url": "https://stream.zenolive.com/0hh8g2cpbq8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 363617,
+      "name": "Voice of Guyana (VOG) 102.5 FM",
+      "slug": "Voice_of_Guyana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/3d/823d0ef1099b0416d7ad6fbf8dfaa382.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "voice of vog 102.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Community Information Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207603,
+          "url": "https://cast4.my-control-panel.com/proxy/ncn1025/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207602,
+          "url": "http://cast4.my-control-panel.com/proxy/ncn1025/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21302,
+      "name": "Radio Guyana Inc.",
+      "slug": "Radio_Guyana_Inc_89.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/2c/762cd9f857b452e721d4c95f6f005ab7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5",
+        "dialStripped": "895"
+      },
+      "aliases": {
+        "cleanName": "inc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31601,
+          "url": "http://stream.radio.co/s9668e2ab5/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 188,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 31602,
+          "url": "https://stream.radio.co/s9668e2ab5/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18229,
+      "name": "GTriddim Guyana Radio",
+      "slug": "GTriddim_Guyana_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/b5/62b598cdd09cc717e154edf0191a0144.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gtriddim",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23674,
+          "url": "http://www.gtriddim.net:8080/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3614,
+      "name": "103.1 FM",
+      "slug": "News_Talk_Radio_Guyana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/ff/85ff2e94517fdf7a5dcd488fc0c08627.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "103.1",
+        "alsoKnownAs": "News-Talk Radio Guyana"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7733,
+          "url": "http://75.176.6.56:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3093027,
+      "name": "Gomoseley Radio",
+      "slug": "Gomoseley_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/8d/758de61b7da73e02745c7f1dba3d0a07.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gomoseley",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Reggae Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231758,
+          "url": "http://a2.asurahosting.com:8010/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231759,
+          "url": "https://a2.asurahosting.com:8010/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 14570308,
+      "name": "WJREM Radio",
+      "slug": "WJREM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/df/16df67afb2c2921152e04d481a903a47.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "wjrem",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Soesdyke",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Soesdyke, Guyana",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239692,
+          "url": "http://premiumserveruk1.listen2myradio.com:8013/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239693,
+          "url": "https://premiumserveruk1.listen2myradio.com:8013/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 32034,
+      "name": "Guyana Gospel Times 24X7",
+      "slug": "Guyana_Gospel_Times_24X7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/0f/df0f9fb79a50242298a8cc24c220f39e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gospel times 24x7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52013,
+          "url": "https://stream.zeno.fm/sd7dfuzkkpeuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52011,
+          "url": "http://stream.zenolive.com/sd7dfuzkkpeuv.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52012,
+          "url": "http://stream.zeno.fm/sd7dfuzkkpeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 203265,
+      "name": "The Voice Note Files Radio (TVNF)",
+      "slug": "The_Voice_Note_Files_Radio_TVNF",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/1d/371d837ea1f6df88ad15958bcf112f42.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the voice note files tvnf",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "locationText": "Georgetown, Guyana",
+        "coordinates": {
+          "latitude": "6.3535000",
+          "longitude": "-57.9931700"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Pop Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 177864,
+          "url": "https://stream.zeno.fm/qu958tsgd2zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 177863,
+          "url": "http://stream.zeno.fm/qu958tsgd2zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

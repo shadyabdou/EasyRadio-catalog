@@ -1,0 +1,7530 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:36.891Z",
+  "endpoint": "/countries/Estonia/radios",
+  "countryCode": "ee",
+  "countryName": "Estonia",
+  "expectedCount": 83,
+  "count": 83,
+  "data": [
+    {
+      "id": 51184,
+      "name": "Super Радио - Super ретро",
+      "slug": "Super_Radio_Super_Retro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/f0/d4f0c26cc7c60589017a0e8d8d71e5dc.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "super super retro",
+        "alsoKnownAs": "Super Radio - Super Retro"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2550,
+        "byCountry": {
+          "us": 3,
+          "gb": 5,
+          "au": 1,
+          "de": 5,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 82988,
+          "url": "http://stream.skymedia.ee/live/rrretro",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243282,
+          "url": "https://edge01.cdn.bitflip.ee:8888/rrretro",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82989,
+          "url": "http://edge01.cdn.bitflip.ee:8888/rrretro",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82990,
+          "url": "https://stream.skymedia.ee/live/rrretro",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 73496,
+      "name": "Super Радио",
+      "slug": "Russkoe_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/7a/cb7a537bcf8a6d39b6294670a1e440b7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.6",
+        "dialStripped": "906"
+      },
+      "aliases": {
+        "cleanName": "super",
+        "alsoKnownAs": "Super Radio , Russkoe Radio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 6,
+          "gb": 4,
+          "au": 0,
+          "de": 3,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243275,
+          "url": "https://edge03.cdn.bitflip.ee:8888/RR_AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243274,
+          "url": "https://edge02.cdn.bitflip.ee:8888/RR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116066,
+          "url": "http://edge03.cdn.bitflip.ee:8888/RR_AAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116065,
+          "url": "http://edge02.cdn.bitflip.ee:8888/RR",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116068,
+          "url": "https://skymedia-live.bitflip.ee/RR",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243273,
+          "url": "https://edge03.cdn.bitflip.ee:8888/RR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116067,
+          "url": "http://edge03.cdn.bitflip.ee:8888/RR",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 23812,
+      "name": "Super Радио - Super рок",
+      "slug": "Super_Radio_Super_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/f5/0cf5522e439bf23c32cd92baa3901f50.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "super super rok",
+        "alsoKnownAs": "Super Radio - Super Rock"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hard Rock Metal Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 3,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 36728,
+          "url": "https://stream.skymedia.ee/live/rrock",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36727,
+          "url": "http://stream.skymedia.ee/live/rrock",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243304,
+          "url": "https://edge03.cdn.bitflip.ee:8888/rrock",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36726,
+          "url": "http://edge03.cdn.bitflip.ee:8888/rrock",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 17254,
+      "name": "Raadio Relax FM - Relax Instrumental",
+      "slug": "Raadio_Relax_FM_Relax_Instrumental",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8b/7c/8b7c0c3bdc3b2435b965f355350d2730.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio relax relax instrumental",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Classical Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1050,
+        "byCountry": {
+          "us": 7,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 3,
+          "es": 1,
+          "mx": 10,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 3,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 20844,
+          "url": "https://stream.skymedia.ee/live/instrumental",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 246184,
+          "url": "http://stream.relaxfm.ee/instrumental",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20843,
+          "url": "https://stream.relaxfm.ee/instrumental",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20841,
+          "url": "http://stream.skymedia.ee/live/instrumental",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20842,
+          "url": "https://edge03.cdn.bitflip.ee:8888/instrumental",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20840,
+          "url": "http://edge03.cdn.bitflip.ee:8888/instrumental",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 49950,
+      "name": "Юмор ФМ",
+      "slug": "Euro_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/7a/5c7abd5cb97481c082a194d64e88bbe4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iumor",
+        "alsoKnownAs": "Humor FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80480,
+          "url": "http://a10.asurahosting.com:7640/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243059,
+          "url": "https://a10.asurahosting.com:7640/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 57222,
+      "name": "Raadio 4 - ERR",
+      "slug": "Raadio_4_ER4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/ea/74ea1c92306e2c0353d9c61176a0ea96.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.4",
+        "dialStripped": "944"
+      },
+      "aliases": {
+        "cleanName": "raadio 4 err",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 94516,
+          "url": "https://sb.err.ee/live/raadio4.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 94515,
+          "url": "http://sb.err.ee/live/raadio4.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 38943,
+      "name": "SKY Радио",
+      "slug": "Sky_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/21/372117f31dc2c64cf2fe20917372fcac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "sky",
+        "alsoKnownAs": "Sky Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63264,
+          "url": "http://skymedia-live.bitflip.ee:8888/SKY",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63265,
+          "url": "https://skymedia-live.bitflip.ee/SKY",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 31177,
+      "name": "Raadio Relax FM - Relax SPA",
+      "slug": "Raadio_Relax_FM_Relax_SPA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/04/a404a475297f304154ab0d9232467172.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio relax relax spa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Ambient Lounge Meditation",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 2,
+          "mx": 2,
+          "jp": 1,
+          "in": 0,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 50212,
+          "url": "https://edge01.cdn.bitflip.ee:8888/spa",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 50210,
+          "url": "http://edge01.cdn.bitflip.ee:8888/spa",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254130,
+          "url": "http://stream.relaxfm.ee/spa",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 84,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 50211,
+          "url": "https://stream.relaxfm.ee/spa",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 57442,
+      "name": "НОВОЕ РАДИО",
+      "slug": "NOVOYE_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/52/d852f1a947d0fe7f737e8eab2711c811.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "novoe",
+        "alsoKnownAs": "NOVOYE RADIO"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95028,
+          "url": "https://c4.radioboss.fm:8538/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95027,
+          "url": "http://c4.radioboss.fm:8538/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 69115,
+      "name": "Retro FM",
+      "slug": "Raadio_3_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/2d/e22d8b6f69693e5c35206492f920761c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.8",
+        "dialStripped": "978"
+      },
+      "aliases": {
+        "cleanName": "retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 2,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110060,
+          "url": "https://stream.skymedia.ee/live/RETRO",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110059,
+          "url": "http://stream.skymedia.ee/live/RETRO",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 63655,
+      "name": "Raadio Elmar",
+      "slug": "Raadio_Elmar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/11/e511ea630826822e05fd7a507a7a79d0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "raadio elmar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Folk Information News Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102916,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 187,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 102918,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 241,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 102919,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102917,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 46895,
+      "name": "Relax FM ",
+      "slug": "Spin_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/d3/4cd39b57ed2ff9f97d3dd5a0e1525342.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "relax",
+        "alsoKnownAs": "Raadio Relax"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Lounge Pop Rock Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 4,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74817,
+          "url": "http://edge04.cdn.bitflip.ee:8888/relax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 87,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74818,
+          "url": "https://stream.relaxfm.ee/relax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74820,
+          "url": "https://edge04.cdn.bitflip.ee:8888/relax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74819,
+          "url": "https://edge04.cdn.bitflip.ee:8888/relax?_i=67a0c272",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 39058,
+      "name": "Raadio Sky Plus",
+      "slug": "Sky_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/ae/0fae2ceafdabedf880ccbb8311a62287.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.4",
+        "dialStripped": "954"
+      },
+      "aliases": {
+        "cleanName": "raadio sky plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63440,
+          "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63439,
+          "url": "http://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 57250,
+      "name": "Народноe Радио",
+      "slug": "Radio_100_FM_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/ae/79aec61f5cd3f774ac8f06ee773b527a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "narodnoe",
+        "alsoKnownAs": "Narodnoe Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kohtla-Järve",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Kohtla-Järve, Ida-Viru, Estonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94561,
+          "url": "http://le09.euddn.net/9f33c2b5e2e37ae5f3dfe74e5026c8a69161e6025650b7f960760734c2a26264be3dcd07c31969c5091c051f1c9b7aa265ab17cb398a14595558e7dba8b0d484d797046b3c613b8b3d5817e7c4fa165a613546c58abace414df06da748ea4a5e430c1edd768e05d47743e230b6ab69dddf527d58f4576e8228321b41f99c51f019cc98bddb0aaded4fbe13a7c19b84ffc4a477dc838962c0339fb7977ab135522e4b760ec86f2cdf2a607432bb7350f0/narodnoe.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 357,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 94562,
+          "url": "https://le09.euddn.net/90984c14ab4ad396eea81986dad9f638b6336a79b0a22d6a3179d95135e65e47b96a81e7ac224ce60de8f170f07b05f5bc82fdad5abfb964f3d3c36e9d08f7fe406459c5450db22261fc1e8372420a1bd7282d8e9a038bf9a5982d7b34449082c913b0ce82ecdf80688775717f7c8ee9c6c7a4738899ba24da99c2de2578900818a36f9761a94e966276f2b298b13394804171e2194f3f7fbe087a2860ffc525def671d0cd047ac280fcb75c1217f4c1/narodnoe.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 517799,
+      "name": "Vikerraadio",
+      "slug": "Eesti_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/d5/54d57ce8012068832e429c7838182b42.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "vikerraadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 222041,
+          "url": "http://icecast.err.ee/vikerraadio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 222043,
+          "url": "https://icecast.err.ee/vikerraadio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 341771,
+      "name": "MyHits",
+      "slug": "Raadio_Uuno",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/3b/123be35d4b62242624fcf5edec288497.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.2",
+        "dialStripped": "972"
+      },
+      "aliases": {
+        "cleanName": "myhits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204633,
+          "url": "http://striiming.trio.ee:8008/myhits_low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204634,
+          "url": "http://striiming.trio.ee:8008/myhits_high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204629,
+          "url": "http://striiming.trio.ee:8008/myhits.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204628,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 186,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204635,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 194,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204632,
+          "url": "http://le06.euddn.net/94762638feb300a3f1f82fc192e0a596524918734e57e511e4d8f9541d3644e2bd2c86f8fc4b2ea9d4870c373eade1f1d0eeae887b75e2493b196a03f6f9310432fd339610ddeb79661bcd9211deb58e0cf31307dd7f966b929f063a197a95e7c58302e93db39b8a24217d568423f78633e934c79cac3fc0f9f676835c911ab3a53ae7aa1e4f96e4e98f081090829f75b7cab9134aaa66bc70b044af042aa93bd0614ed1e84e74e1b3d1ebc8076c3b145820d8cc48a7c74385f4c97811dc7fdc/myhits_high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204631,
+          "url": "http://le09.euddn.net/c598defcc6aaeca21973e3f1b0f836ee09b7fcb940ce8ac78876b8f2ac9a3bfaaf1a0f6bae1ce7c6bc03f24782f139dc59b761bc6cc7f4a4491b7ae5cf83f3bc29dbdb3f54b934423700d9e9bb87ac11f35bceb5cc14a16810431109d78acefb0b2d8c3566acad43e39d13ed0f713e8b2360420e0c8b84dc6c73d48766590f1cc19cfcccf06d61e43e6d654dc43de49fccc4094a852223679c87881cee4add09450c2b4628333968fd9176ce1e7e3902/myhits.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204630,
+          "url": "http://le06.euddn.net/d8b6002ce453d71e07536e7f2b78a6ee39e0cb1a7c7c898bd9487ee40cf63f7e0b88b4c95f90b610ad2cf94da904e4c6c7f43c34d62404b69a3ecf773ee3506758556ee20c9cc85810e5cc219d2886e85c025d3e23995ff5c02003e96e06918f15df010b64d6336f27d43a4678e22958bd13ef11fc164451bd8f9d19c11264170b9c5a43ef34d5bb0dd80cda1287515a8b86c347a70c258467b880a54dcff3c7afa89c9d1f086c880c6af4e4caa2ba50051f44485ae26cbc1b524b98df308cc8/myhits_low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 39157,
+      "name": "Star FM",
+      "slug": "Star_FM_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/46/df46e2dd7994360db92ab8c8737ea345.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "star",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maardu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Maardu, Estonia",
+        "coordinates": {
+          "latitude": "59.4766700",
+          "longitude": "25.0250000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Folk Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63603,
+          "url": "http://ice.leviracloud.eu:8000/star192-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63608,
+          "url": "https://ice.leviracloud.eu/star96-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63607,
+          "url": "https://ice.leviracloud.eu/star192-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63602,
+          "url": "http://ice.leviracloud.eu:8000/star320-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63606,
+          "url": "https://ice.leviracloud.eu/star320-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63605,
+          "url": "http://ice.leviracloud.eu:8000/star128-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1056,
+      "name": "Rock FM",
+      "slug": "Raadio_Eesti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/54/1754e8333a6c100c83a47f9341ee8bd9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 2561,
+          "url": "https://skymedia-live.bitflip.ee/rck",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2559,
+          "url": "http://skymedia-live.bitflip.ee/rck",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2560,
+          "url": "http://skymedia-live.bitflip.ee:8888/rck",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 91008,
+      "name": "Kiss FM Eurovision",
+      "slug": "Kiss_FM_Eurovision",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/9a/c69a70d96d9cba6121e08817bbee754a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiss eurovision",
+        "alsoKnownAs": "Kiss FM - Eurovision"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Europe Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 2,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137494,
+          "url": "http://edge04.cdn.bitflip.ee:8888/KissEurovisioon",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 137495,
+          "url": "https://stream.skymedia.ee/live/KissEurovisioon",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 12568,
+      "name": "Raadio Relax FM - Relax Cafe",
+      "slug": "Raadio_Relax_FM_Relax_Cafe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/e0/9be01a73291acb0686d2faa6ed210a09.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio relax relax cafe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Jazz Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 17537,
+          "url": "https://stream.relaxfm.ee/cafe",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 17539,
+          "url": "https://edge01.cdn.bitflip.ee:8888/cafe",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 17536,
+          "url": "http://edge01.cdn.bitflip.ee:8888/cafe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 83,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 246201,
+          "url": "http://stream.relaxfm.ee/cafe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 299450,
+      "name": "Raadio Kuku",
+      "slug": "Raadio_Kuku",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/5b/855b33458a7969e890e930f03f73f2e0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.7",
+        "dialStripped": "1007"
+      },
+      "aliases": {
+        "cleanName": "raadio kuku",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 198729,
+          "url": "http://striiming.trio.ee:8008/kuku_high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198730,
+          "url": "http://striiming.trio.ee:8008/kuku_low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198731,
+          "url": "http://striiming.trio.ee:8008/kuku.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198732,
+          "url": "http://le11.euddn.net/083b8728cf54977f3c9cb7710545bcde9600078dbcfd15210e1e4ccd6745c32ba65817fcaec99b6df856ce8eff61489a4ffc2fafc5cb681cd770c553554648c8b53df8fb499e3a0a1d0b5fcd98ece36eac9d8f0ac80e3ce06ac132cdf17f9f7bb34093dd1a23aca378c7e5d2958e7a15c127bb0c0ab50bf3322a98173efbc24ddd8b8fd37cc959e470f1c78e3f2b22e0dfd130785a5dd846e99c01d8f3cb77f76740aef3185a7c99eb4a42114c8ae80f/kuku.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 182130,
+      "name": "Raadio 4 | ERR",
+      "slug": "Raadio_4_ERR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/84/528470abdf4ab8fe09021ae6decaf010.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "raadio 4 err",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172681,
+          "url": "https://sb.err.ee/live/raadio4.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 172680,
+          "url": "http://icecast.err.ee/raadio4.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172679,
+          "url": "http://sb.err.ee/live/raadio4.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 57399,
+      "name": "Narodnoe Radio 100.0",
+      "slug": "Narodnoe_Radio_100.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/c2/62c226616aac6d2c5bda52414dda414c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "narodnoe 100.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Europe Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94912,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94913,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 68124,
+      "name": "Sky Plus DNB",
+      "slug": "Sky_Plus_DNB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/5d/e15de35cb6dfc8726d2205fb0e40ab1e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sky plus dnb",
+        "alsoKnownAs": "Sky Plus - Sky Plus DNB"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Drum and Bass",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 109077,
+          "url": "http://edge03.cdn.bitflip.ee:8888/NRJdnb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109078,
+          "url": "https://stream.skymedia.ee/live/NRJdnb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253708,
+          "url": "https://edge03.cdn.bitflip.ee:8888/NRJdnb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 43098,
+      "name": "Raadio Relax FM - Relax International",
+      "slug": "Raadio_Relax_FM_Relax_International",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/33/dc33d7551daaa18683d202d6f9e17f84.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio relax relax international",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69164,
+          "url": "https://stream.relaxfm.ee/international",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69165,
+          "url": "https://edge01.cdn.bitflip.ee:8888/international",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248873,
+          "url": "http://stream.relaxfm.ee/international",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69163,
+          "url": "http://edge01.cdn.bitflip.ee:8888/international",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 86,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 352331,
+      "name": "Radio Nostalgia",
+      "slug": "Radio_Nostalgia_11",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/dc/7cdc549623463e8c3008b258099b339d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nostalgia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 206092,
+          "url": "https://c16.radioboss.fm:8327/nostalgia",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 264,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 206091,
+          "url": "http://c16.radioboss.fm:8327/nostalgia",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 264,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 27069,
+      "name": "Retro FM - DISCO",
+      "slug": "Retro_FM_DISCO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/72/4772bfde85a55e4e8e05db1bd36eae5e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retro disco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 42596,
+          "url": "http://edge05.cdn.bitflip.ee:8888/retro1.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 42597,
+          "url": "https://stream.skymedia.ee/live/retro1.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254456,
+          "url": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 20552,
+      "name": "Power Hit Radio ",
+      "slug": "Power_Hit_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/3c/be3ca2215d73e5b74afce15b9431f63f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1",
+        "dialStripped": "1021"
+      },
+      "aliases": {
+        "cleanName": "power hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29910,
+          "url": "https://ice.leviracloud.eu/phr96-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 234142,
+      "name": "Hard FM",
+      "slug": "Hard_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/93/66931661aaa50021744c37a3665cb389.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hard",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183745,
+          "url": "http://s5.radio.co/s69e02764f/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183746,
+          "url": "https://s5.radio.co/s69e02764f/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 281229,
+      "name": "Raadio Kadi",
+      "slug": "Raadio_Kadi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/92/ec924466f4af067513640d846484db5d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "raadio kadi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kardla",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Kardla, Hiiu County, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192209,
+          "url": "http://edge06.cdn.bitflip.ee:8888/kadi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246546,
+          "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 164128,
+      "name": "Raadio Duo",
+      "slug": "Dinamit_90.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/98/bb983d9cd9fce303bfda17a598c03054.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "raadio duo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Europe Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 167602,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 177,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 167600,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 176,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 57618,
+      "name": "Relax FM",
+      "slug": "Sun_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/cc/cbcc2ef6ab2569981f0217f637ac6f79.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "relax",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parnu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Parnu, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Hits Soft Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95254,
+          "url": "http://edge05.cdn.bitflip.ee:8888/relax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 95256,
+          "url": "https://edge05.cdn.bitflip.ee:8888/relax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 95255,
+          "url": "https://stream.relaxfm.ee/relax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248462,
+          "url": "http://stream.relaxfm.ee/relax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 82,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 182160,
+      "name": "ERR Raadio 2",
+      "slug": "ERR_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/e6/a8e622e108031318199000118b165564.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6",
+        "dialStripped": "1016"
+      },
+      "aliases": {
+        "cleanName": "err raadio 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172689,
+          "url": "http://icecast.err.ee/raadio2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 66273,
+      "name": "Raadio Duo - Duo Party",
+      "slug": "Raadio_Duo_Duo_Party",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/bd/34bd717d8d0b8aacaac5de972f2644c3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio duo duo party",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106842,
+          "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 213,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 106843,
+          "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 176,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 418854,
+      "name": "Ring FM",
+      "slug": "Ring_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d6/72/d6721d593d7dec36507edffbbc468423.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "ring",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parnu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Parnu, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213889,
+          "url": "http://cdn.treraadio.ee/ringfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213890,
+          "url": "http://sc3.treraadio.ee:80/ringfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 102391,
+      "name": "ALL THE BEST RADIO",
+      "slug": "ALL_THE_BEST_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/8a/858ab1c4130d0259f8b513853fb5f9ce.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "all the best",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144325,
+          "url": "https://c4.radioboss.fm:8537/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 264,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 144324,
+          "url": "http://c4.radioboss.fm:8537/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 264,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 69313,
+      "name": "Retro FM",
+      "slug": "Raadio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/49/644987d713bde4ac9fc6a5725037b0f9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.6",
+        "dialStripped": "986"
+      },
+      "aliases": {
+        "cleanName": "retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110306,
+          "url": "http://skymedia-live.bitflip.ee:8888/RETRO",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110305,
+          "url": "http://skymedia-live.bitflip.ee/RETRO",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110307,
+          "url": "https://skymedia-live.bitflip.ee/RETRO",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 395535,
+      "name": "Raadio Sky Plus",
+      "slug": "Radio_Sky_Plus_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/ae/0fae2ceafdabedf880ccbb8311a62287.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.6",
+        "dialStripped": "936"
+      },
+      "aliases": {
+        "cleanName": "raadio sky plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Narva",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Narva, Narva, Estonia",
+        "coordinates": {
+          "latitude": "59.3772200",
+          "longitude": "28.1902800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211797,
+          "url": "http://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211798,
+          "url": "http://skymedia-live.bitflip.ee:8888/SKYPLUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211799,
+          "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 396006,
+      "name": "Raadio Sky Plus",
+      "slug": "Radio_Sky_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/ae/0fae2ceafdabedf880ccbb8311a62287.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "raadio sky plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211888,
+          "url": "http://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211889,
+          "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 33155,
+      "name": "Sky Plus Latin",
+      "slug": "Sky_Plus_Latin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/57/ab575e934f18024f7af355249b97e2ce.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sky plus latin",
+        "alsoKnownAs": "Sky Plus - Sky Plus Latin"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Latin Salsa Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54293,
+          "url": "https://stream.skymedia.ee/live/splatin",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54292,
+          "url": "http://edge04.cdn.bitflip.ee:8888/splatin",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 82937,
+      "name": "Kiss FM Estonia",
+      "slug": "Kiss_FM_Estonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/71/1f71ec6b90c675af28a17f51981d03b7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiss",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129319,
+          "url": "http://edge04.cdn.bitflip.ee:8888/KISS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129318,
+          "url": "http://edge04.cdn.bitflip.ee:8888/KISS_AAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 86,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255830,
+          "url": "https://edge04.cdn.bitflip.ee:8888/KISS_AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 104,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 69353,
+      "name": "Retro FM - Jõulud",
+      "slug": "Retro_FM_Joulud",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/df/a5dfdc990d9ff239e248b768186e075b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retro joulud",
+        "alsoKnownAs": "Retro FM - Christmas"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Christmas Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110364,
+          "url": "https://stream.skymedia.ee/live/RetroJ6ulud",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110363,
+          "url": "http://edge05.cdn.bitflip.ee:8888/RetroJ6ulud",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255877,
+          "url": "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 464380,
+      "name": "Raadio Tallinn",
+      "slug": "Raadio_Tallinn",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/fc/e8fc2be6f53681096da3c03b9f3985cb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "raadio tallinn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218205,
+          "url": "https://icecast.err.ee/raadiotallinn.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218204,
+          "url": "http://icecast.err.ee:80/raadiotallinn.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218203,
+          "url": "http://icecast.err.ee/raadiotallinn.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 31394,
+      "name": "Tunitemusic",
+      "slug": "Tunitemusic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/23/7623d7e23eac61d7ef335d072584f21d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tunitemusic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Ambient Chillout Classical Jazz New Age",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50696,
+          "url": "http://stream.radiojar.com/6x51bmzpfy3vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50697,
+          "url": "https://stream.radiojar.com/6x51bmzpfy3vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 291816,
+      "name": "Klassika Raadio",
+      "slug": "Klassika_Raadio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/ca/bbca6934752a38a3afb43235f024629b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6",
+        "dialStripped": "1066"
+      },
+      "aliases": {
+        "cleanName": "klassika raadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Classical Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196039,
+          "url": "http://icecast.err.ee/klassikaraadio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 299648,
+      "name": "Kuressaare Pereraadio",
+      "slug": "Kuressaare_Pereraadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/ff/10ffdf2da09b03fb0515ad98299cf20e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.7",
+        "dialStripped": "887"
+      },
+      "aliases": {
+        "cleanName": "kuressaare pereraadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kardla",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Kardla, Hiiu County, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Christian Community Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 198775,
+          "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198776,
+          "url": "rtmp://play.babahhcdn.com/bb1023//stream6",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 477455,
+      "name": "RADIO TOP",
+      "slug": "RADIO_TOP_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/92/ea92a77e389c7f9ed96f269383ffd00c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "top",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219300,
+          "url": "https://c32.radioboss.fm:8744/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 279,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 219299,
+          "url": "http://c32.radioboss.fm:8744/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 244,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 25115,
+      "name": "Retro FM - Eestikas",
+      "slug": "Retro_FM_Eestikas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/8e/e68ea6205588d893f2cd3132d0ccb63b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retro eestikas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39266,
+          "url": "http://edge01.cdn.bitflip.ee:8888/retro2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39267,
+          "url": "https://stream.skymedia.ee/live/retro2.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255807,
+          "url": "https://edge01.cdn.bitflip.ee:8888/retro2.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 310678,
+      "name": "Legendaarne Raadio",
+      "slug": "Legendaarne_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/5b/875bbfb870048178d8ea4c44cef03188.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "legendaarne raadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200367,
+          "url": "http://edge03.cdn.bitflip.ee:8888/Legendaarne",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200369,
+          "url": "https://stream.skymedia.ee/live/Legendaarne",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200368,
+          "url": "http://stream.skymedia.ee/live/Legendaarne",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255074,
+          "url": "https://edge03.cdn.bitflip.ee:8888/Legendaarne",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 18189606,
+      "name": "R2extra - r2pop",
+      "slug": "R2extra_r2pop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/95/b7958967074d94765cac110e6de51352.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra r2pop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243415,
+          "url": "http://icecast.err.ee:80/r2popkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243414,
+          "url": "http://icecast.err.ee:80/r2pop.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243416,
+          "url": "http://icecast.err.ee/r2pop.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243417,
+          "url": "http://icecast.err.ee/r2popkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243418,
+          "url": "http://icecast.err.ee:80/r2popmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243419,
+          "url": "http://icecast.err.ee/r2popmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 428876,
+      "name": "Radio Ruut",
+      "slug": "Radio_Ruut",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/51/15518225eefeb1b29ec078176dc514f7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "ruut",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valga",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Valga, Voru, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Community Electronic Folk Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215111,
+          "url": "https://cdn.treraadio.ee/ruutfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215110,
+          "url": "http://cdn.treraadio.ee/ruutfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215109,
+          "url": "http://sc2.treraadio.ee/ruutfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215112,
+          "url": "https://sc2.treraadio.ee/ruutfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 66198,
+      "name": "Estonian Party Radio",
+      "slug": "Estonian_Party_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/82/6c82dcae3d79637c7dda388c968b2006.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "party",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": ", Estonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Entertainment Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106744,
+          "url": "http://maggie.torontocast.com:8110/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 256388,
+          "url": "https://maggie.torontocast.com:8110/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 353571,
+      "name": "NRJ Estonia",
+      "slug": "NRJ_Estonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/b4/d1b4503841beccf2c80d19ae458743ef.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.2",
+        "dialStripped": "932"
+      },
+      "aliases": {
+        "cleanName": "nrj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 206254,
+          "url": "https://stream.skymedia.ee/live/NRJ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 206251,
+          "url": "http://edge02.cdn.bitflip.ee:8888/NRJ?_i=67a0e98e",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 206253,
+          "url": "http://stream.skymedia.ee/live/NRJ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 206252,
+          "url": "http://edge02.cdn.bitflip.ee:8888/NRJ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 28693,
+      "name": "Doubleclap FM",
+      "slug": "Doubleclap_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/9e/709e66e599dfd728dcb1aba227e92d36.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "doubleclap",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance House Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46281,
+          "url": "https://s3.radio.co/scfd7273b2/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 46280,
+          "url": "https://s3.radio.co/scfd7273b2/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 172,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 46279,
+          "url": "http://s3.radio.co/scfd7273b2/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 84702,
+      "name": "HappyU Radio",
+      "slug": "Happy_U_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/84/b984a1983e656c4d18d1d99b1f72915c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "happyu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Country Dance Europe Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 130872,
+          "url": "https://radio.streemlion.com:2525/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 130871,
+          "url": "http://radio.streemlion.com:2520/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 15941345,
+      "name": "XFM Eesti",
+      "slug": "XFM_Eesti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/0a/fc0a59a215236a7080cf17ea940dc4a9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.8",
+        "dialStripped": "1058"
+      },
+      "aliases": {
+        "cleanName": "xfm eesti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240550,
+          "url": "http://sc2.treraadio.ee:80/HEAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 323,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240551,
+          "url": "http://sc2.treraadio.ee:80/MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240553,
+          "url": "http://sc2.flamebox.org/HEAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 270,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240554,
+          "url": "http://sc2.flamebox.org/MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 464743,
+      "name": "Tagatuba FM",
+      "slug": "Tagatuba_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/e2/37e2a69e558057ded027bae9afd9cf18.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tagatuba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218244,
+          "url": "https://sp.streams.ovh/8012/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218243,
+          "url": "http://sp.streams.ovh:8012/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 18189894,
+      "name": "R2extra - Rap",
+      "slug": "R2extra_Rap",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/8d/8a8d3a0d91644d5d0b1569016e37784c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra rap",
+        "alsoKnownAs": "R2extra - R2p"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rap Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243427,
+          "url": "http://icecast.err.ee/r2pkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 25739,
+      "name": "Tre Raadio Pärnu",
+      "slug": "Radio_Parnu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/b7/bfb7f0a2ca111e6bf3108fabfcdc7529.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "tre raadio parnu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parnu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Parnu, Estonia",
+        "coordinates": {
+          "latitude": "59.0625789",
+          "longitude": "26.2414678"
+        }
+      },
+      "genre": {
+        "text": "Folk News Soft Rock Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40452,
+          "url": "http://5.39.16.62/parnu-tre",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40451,
+          "url": "http://sc2.treraadio.ee:80/parnu-tre",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 37087987,
+      "name": "R2extra - Estonia",
+      "slug": "R2extra_Estonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/6a/676ac639be8fab1b2a6fe78a3c6530ba.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra",
+        "alsoKnownAs": "R2extra - R2Eesti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272681,
+          "url": "http://icecast.err.ee:80/r2eesti.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272682,
+          "url": "http://icecast.err.ee/r2eesti.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272683,
+          "url": "http://icecast.err.ee:80/r2eestikorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272684,
+          "url": "http://icecast.err.ee/r2eestikorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272685,
+          "url": "http://icecast.err.ee:80/r2eestimadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272686,
+          "url": "http://icecast.err.ee/r2eestimadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 14208777,
+      "name": "Hits Radio Estonia",
+      "slug": "Hits_Radio_Estonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/38/093842254dc545a5c0e94d758cd7b794.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240512,
+          "url": "https://artemis.streamerr.co:8300/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239345,
+          "url": "http://live.rcast.net:8714/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240511,
+          "url": "http://artemis.streamerr.co:8300/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240513,
+          "url": "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240510,
+          "url": "http://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 42333,
+      "name": "Music From All Around",
+      "slug": "Music_From_All_Around",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/10/db103f848819c3492de920727fd46bfb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "music from all around",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68029,
+          "url": "http://stream.zeno.fm/7sreyeyustkuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68028,
+          "url": "http://stream.zeno.fm/dghp9excl67vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68030,
+          "url": "https://stream.zeno.fm/dghp9excl67vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68031,
+          "url": "https://stream.zeno.fm/7sreyeyustkuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 37087970,
+      "name": "Raadio X",
+      "slug": "Raadio_X",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/60/65603d1fd18324c43db53364301d1ba6.png",
+      "dial": {
+        "band": "DAB",
+        "dial": "7B",
+        "dialStripped": "7B"
+      },
+      "aliases": {
+        "cleanName": "raadio x",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272679,
+          "url": "http://ice.leviracloud.eu/raadioX192-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272680,
+          "url": "https://ice.leviracloud.eu/raadioX192-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 439156,
+      "name": "Hits Show Radio - EST",
+      "slug": "Hits_Show_Radio_EST",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/13/f61315ebfd39270c51a632f1ddd20674.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits show est",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216105,
+          "url": "https://stream.zeno.fm/dghp9excl67vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216104,
+          "url": "http://stream.zeno.fm/dghp9excl67vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 182240,
+      "name": "ERR Raadio 2 - ER2",
+      "slug": "ERR_Raadio_2_ER2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/16/b816de1c0c219c02703271a61ed7fbb4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "err raadio 2 er2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Classic Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172703,
+          "url": "http://icecast.err.ee/raadio2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172704,
+          "url": "http://icecast.err.ee:80/raadio2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172705,
+          "url": "https://icecast.err.ee/raadio2.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 386977,
+      "name": "Tartu Pereraadio",
+      "slug": "Tartu_Pereraadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/95/4095f9d302938cc7663859b0edc3bcbe.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.0",
+        "dialStripped": "890"
+      },
+      "aliases": {
+        "cleanName": "tartu pereraadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Christian Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211105,
+          "url": "https://icecast.pereraadio.ee:9000/Tartu",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 17583,
+      "name": "Klassika Raadio",
+      "slug": "Klassika_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/fe/1efe7671a2d50fb482eb987990c68c34.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "klassika raadio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Classical Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21757,
+          "url": "http://icecast.err.ee/klassikaraadio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21759,
+          "url": "http://icecast.err.ee:80/klassikaraadio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21760,
+          "url": "https://icecast.err.ee/klassikaraadio.mp3",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21758,
+          "url": "http://icecast.err.ee/klassikaraadiomadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21761,
+          "url": "https://icecast.err.ee/klassikaraadiomadal.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258691,
+          "url": "https://icecast.err.ee:443/klassikaraadio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 50967,
+      "name": "Sky Plus Gold",
+      "slug": "Sky_Plus_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/53/2653c7fe6ab8f93b67e418f2e300db49.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sky plus gold",
+        "alsoKnownAs": "Sky Plus - Sky Plus Gold"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82569,
+          "url": "http://edge01.cdn.bitflip.ee:8888/skyplus_gold.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82570,
+          "url": "https://stream.skymedia.ee/live/skyplus_gold.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 91036,
+      "name": "Kiss FM Pride",
+      "slug": "Kiss_FM_Pride",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/bf/63bf214b9289c7de789c32685a5cdd35.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiss pride",
+        "alsoKnownAs": "Kiss FM Estonia - Kiss FM Pride"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hits LGBT",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137528,
+          "url": "http://edge04.cdn.bitflip.ee:8888/KissPride",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 484817,
+      "name": "Life TV",
+      "slug": "Life_TV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/e7/eee77af2a42a21a71bb467c38b8decd3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "life tv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219805,
+          "url": "http://lifetv.bitflip.ee/live/stream1.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2000,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 219806,
+          "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2000,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 5036649,
+      "name": "Space FM",
+      "slug": "Space_FM_Raadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/d8/a7d8dcfb32957a15825c2ec326b9441d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "space",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Viljandi",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Viljandi, Estonia",
+        "coordinates": {
+          "latitude": "58.3638900",
+          "longitude": "25.5900000"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232861,
+          "url": "http://c34.radioboss.fm:8843/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232862,
+          "url": "https://c34.radioboss.fm:8843/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 74019,
+      "name": "drUzi",
+      "slug": "drUzi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/54/e45493838089868ac4ff71f0f74b28f1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "druzi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Pop Russian World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116898,
+          "url": "http://druzi.fm:8443/DABPL192AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116902,
+          "url": "https://druzi.fm:8443/96aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116895,
+          "url": "http://druzi.fm:8000/256aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116899,
+          "url": "http://druzi.fm:8443/192mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116893,
+          "url": "http://druzi.fm:8000/96aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116894,
+          "url": "http://druzi.fm:8000/192mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116891,
+          "url": "http://druzi.fm:8000/DABPL192AAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116892,
+          "url": "http://druzi.fm:8000/DUOWEB",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116896,
+          "url": "http://druzi.fm:8443/DUOWEB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116900,
+          "url": "http://druzi.fm:8443/256aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116904,
+          "url": "https://druzi.fm:8443/192mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116903,
+          "url": "https://druzi.fm:8443/DABPL192AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116901,
+          "url": "https://druzi.fm:8443/DUOWEB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 58804,
+      "name": "Radio Azathoth Revival",
+      "slug": "Radio_Azathoth",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/95/059523d4118eca037dda203cae1700af.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "azathoth revival",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Garage Hard Rock Progressive House Psychedelic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96981,
+          "url": "http://cast4.my-control-panel.com/proxy/aadu/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96980,
+          "url": "http://65.109.81.84:7893/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96982,
+          "url": "https://cast4.my-control-panel.com/proxy/aadu/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 6996317,
+      "name": "Raadio REMIX",
+      "slug": "Raadio_REMIX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/47/c04789d73064e1c074dc5c0ae92a056e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio remix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Ambient Chillout Downtempo Electronic Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 234076,
+          "url": "http://stream.hostbee.nl:7284/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256244,
+          "url": "http://mthqshxivwonkotqksst.supabase.co/functions/v1/radio-proxy",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 234077,
+          "url": "https://mthqshxivwonkotqksst.supabase.co/functions/v1/radio-proxy",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 1833,
+      "name": "Rock FM Metal",
+      "slug": "Raadio_Rock_FM_METAL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/3e/783e29d482cb588fe77c783f19b135d6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock metal",
+        "alsoKnownAs": "Rock FM - Rock FM Metal"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4922,
+          "url": "https://stream.skymedia.ee/live/rckmetal",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4921,
+          "url": "http://edge02.cdn.bitflip.ee:8888/rckmetal",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253962,
+          "url": "https://edge02.cdn.bitflip.ee:8888/rckmetal",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 73393468,
+      "name": "Raadio PRT",
+      "slug": "Raadio_PRT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/75/5175ab98bf3e1a72d7a9d2a938706ff6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "raadio prt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 284323,
+          "url": "http://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy?cb=1779877108880",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284324,
+          "url": "https://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy?cb=1779877108880",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 82939,
+      "name": "Armastus FM",
+      "slug": "Armastus_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/14/fe/14fe8d766dcdb583656b81c3d98d99a7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "armastus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Love Songs World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129323,
+          "url": "https://stream.zeno.fm/erzlcouxulovv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129322,
+          "url": "http://stream.zeno.fm/erzlcouxulovv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "name": "Pop smoke",
+      "slug": "Pop_smoke_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/7b/557b353f30c871c98a37856c449236a2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pop smoke",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": ", Estonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1436,
+          "url": "https://stream.zeno.fm/bwiazxxn0fbtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 1435,
+          "url": "http://stream.zeno.fm/bwiazxxn0fbtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 45912,
+      "name": "R2extra - Chill",
+      "slug": "R2extra_Chill",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/ae/d1aed33a14e62e337bd2fc7b0970d696.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra chill",
+        "alsoKnownAs": "R2extra - R2Chill"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Chillout",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73691,
+          "url": "http://icecast.err.ee:80/r2chill.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73693,
+          "url": "http://icecast.err.ee:80/r2chillkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73694,
+          "url": "http://icecast.err.ee/r2chillkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73695,
+          "url": "http://icecast.err.ee:80/r2chillmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73696,
+          "url": "http://icecast.err.ee/r2chillmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73692,
+          "url": "http://icecast.err.ee/r2chill.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 58295,
+      "name": "R2extra - Rock",
+      "slug": "R2extra_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/0b/2c0b475ef8cc9be3433776f8aa6796ec.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra rock",
+        "alsoKnownAs": "R2extra - R2rock"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Hard Rock Metal Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96126,
+          "url": "http://icecast.err.ee:80/r2rock.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96127,
+          "url": "http://icecast.err.ee/r2rock.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96128,
+          "url": "http://icecast.err.ee:80/r2rockkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96129,
+          "url": "http://icecast.err.ee/r2rockkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96130,
+          "url": "http://icecast.err.ee:80/r2rockmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96131,
+          "url": "http://icecast.err.ee/r2rockmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 33168,
+      "name": "Radio Latin Passion",
+      "slug": "Radio_Latin_Passion",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/34/aa3464cf92bf407bd9531457645fcc91.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "latin passion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tartu",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tartu, Estonia",
+        "coordinates": {
+          "latitude": "58.3806200",
+          "longitude": "26.7250900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Latin Love Songs Reggaeton",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54322,
+          "url": "http://s3.radio.co/s4f3ae050c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54323,
+          "url": "https://s3.radio.co/s4f3ae050c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "et",
+          "name": "Estonian"
+        }
+      ]
+    },
+    {
+      "id": 36939,
+      "name": "R2extra - Altpop",
+      "slug": "R2extra_Altpop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/df/7edf5f1fe81263208bbf4729867ad997.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "r2extra altpop",
+        "alsoKnownAs": "R2extra - R2Alternatiiv"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tallinn",
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": "Tallinn, Estonia",
+        "coordinates": {
+          "latitude": "59.4369600",
+          "longitude": "24.7535300"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59791,
+          "url": "http://icecast.err.ee:80/r2alternatiivkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59792,
+          "url": "http://icecast.err.ee/r2alternatiivkorge.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59789,
+          "url": "http://icecast.err.ee:80/r2alternatiiv.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59793,
+          "url": "http://icecast.err.ee:80/r2alternatiivmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59790,
+          "url": "http://icecast.err.ee/r2alternatiiv.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59794,
+          "url": "http://icecast.err.ee/r2alternatiivmadal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 46882,
+      "name": "Радио Бетельгейзе",
+      "slug": "Radio_Betelgeuse",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/02/be0207d893bab4e7eb54a0380dac5c87.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "betel geize",
+        "alsoKnownAs": "Radio Betelgeuse"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "locationText": ", Estonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74780,
+          "url": "http://sat.radio-betelgeuse.com:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:22.407Z",
+  "endpoint": "/countries/Saint Kitts and Nevis/radios",
+  "countryCode": "kn",
+  "countryName": "Saint Kitts and Nevis",
+  "expectedCount": 12,
+  "count": 12,
+  "data": [
+    {
+      "id": 81061,
+      "name": "ZIZ Radio",
+      "slug": "ZIZ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/bb/44bbf6c086c8260b1feba05182f4a447.png",
+      "dial": {
+        "band": "AM",
+        "dial": "555",
+        "dialStripped": "555"
+      },
+      "aliases": {
+        "cleanName": "ziz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Entertainment Information News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 18,
+          "gb": 5,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242086,
+          "url": "https://media.slactech.com:8014/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126299,
+          "url": "http://media.slactech.com:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 208489,
+      "name": "Freedom FM",
+      "slug": "Freedom_FM_106.5_Mobile",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/51/77514604b80edbd643b9e6ff7b7788b8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "freedom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 21,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 238453,
+          "url": "http://castpanel.freedomfm1065.com:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179278,
+          "url": "http://media.slactech.com:8012/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238454,
+          "url": "https://castpanel.freedomfm1065.com:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243607,
+          "url": "http://castpanel.freedomfm1065.com/listen/freedom_fm_106.5/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243608,
+          "url": "https://castpanel.freedomfm1065.com/listen/freedom_fm_106.5/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43578,
+      "name": "ZIZ Radio",
+      "slug": "ZIZ_Broadcasting_Corporation",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/57/4d/574df5ec0326f7f42c4515778afc2b9a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "ziz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 24,
+          "gb": 5,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70000,
+          "url": "http://media.slactech.com:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243349,
+          "url": "https://media.slactech.com:8014/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 81088,
+      "name": "VON Radio",
+      "slug": "VON_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/0c/980c71f2180d30228c12e5e932011825.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "860",
+        "dialStripped": "860"
+      },
+      "aliases": {
+        "cleanName": "von",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Charlestown",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Charlestown, Saint Kitts and Nevis",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 126317,
+          "url": "https://ais-sa1.streamon.fm/7008_24k.aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126318,
+          "url": "https://ais-sa1.streamon.fm/7008_24k.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 103,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126315,
+          "url": "http://ais-sa1.streamon.fm/7008_24k.aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126316,
+          "url": "http://ais-sa1.streamon.fm/7008_24k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 52163,
+      "name": "Sugar City 90.3fm",
+      "slug": "Sugar_City_90.3fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/3a/9e3a89da70b5723712c2cd0b94f4866e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "sugar city 90.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Caribbean Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84714,
+          "url": "http://104.131.13.48:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252287,
+          "url": "https://104.131.13.48:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 2308,
+      "name": "West Indies News Network (WINN FM 98.9)",
+      "slug": "WINNFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/0f/9a0f4668eb2149877471c5a93aa8b71f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "west indies news network winn 98.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 6019,
+          "url": "http://edge.mixlr.com/channel/jzlfo",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81120,
+      "name": "2020 Vision Radio",
+      "slug": "2020_Vision_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/ab/82abd8d60aef443731e59c53e97ea825.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "2020 vision",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Charlestown",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Charlestown, Saint Kitts and Nevis",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Calypso Caribbean Community Latin Love Songs Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 268521,
+          "url": "http://sknvision2020.radioca.st:8218/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126342,
+          "url": "http://perseus.shoutca.st:8218/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126343,
+          "url": "http://sknvision2020.radioca.st:8218/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61450,
+      "name": "Royal Central Praise SKB",
+      "slug": "Royal_Central_Praise_SKB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/4b/aa4bfbb1bcab2265e2955bb05bc0ff42.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "royal central praise skb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101043,
+          "url": "http://radio.vousstream.com:8002/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101044,
+          "url": "https://radio.vousstream.com/8002/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 80999,
+      "name": "Voice of the Caribbean Radio",
+      "slug": "Voice_of_the_Caribbean_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/b2/6cb2926814bac847595bdf15556759f9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of the caribbean",
+        "alsoKnownAs": "VOC Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Information News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 126250,
+          "url": "https://c11.radioboss.fm:8230/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126249,
+          "url": "http://c11.radioboss.fm:8230/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37080780,
+      "name": "1mohan_ra",
+      "slug": "1mohan_ra",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/11/e11181b1615ec7c545fb66c516a79f5e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1mohan_ra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": ", Saint Kitts and Nevis",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272538,
+          "url": "http://stream.zeno.fm/58z1bpmc938uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272539,
+          "url": "https://stream.zeno.fm/58z1bpmc938uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81225,
+      "name": "Hotspot International Radio",
+      "slug": "Hotspot_International_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/6f/216f9f07c45509c5801e7a239a9ee2da.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hotspot international",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basseterre",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Basseterre, Saint Kitts and Nevis",
+        "coordinates": {
+          "latitude": "17.2948400",
+          "longitude": "-62.7261000"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Hip Hop Old School Rap Reggae RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126435,
+          "url": "http://streaming.live365.com/a61491",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126436,
+          "url": "https://streaming.live365.com/a61491",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 61453,
+      "name": "Praise FM 99.3",
+      "slug": "PRAISE_FM_99.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/ef/c2ef8a8a42307afced7ae47236291c8b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "praise 99.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Charlestown",
+        "countryName": "Saint Kitts and Nevis",
+        "countryCode": "KN",
+        "locationText": "Charlestown, Saint Kitts and Nevis",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101049,
+          "url": "http://stream.zeno.fm/ufwhkd3tmeruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101050,
+          "url": "https://stream.zeno.fm/ufwhkd3tmeruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

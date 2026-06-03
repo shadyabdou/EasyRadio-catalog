@@ -1,0 +1,1301 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:23.199Z",
+  "endpoint": "/countries/Dominica/radios",
+  "countryCode": "dm",
+  "countryName": "Dominica",
+  "expectedCount": 15,
+  "count": 15,
+  "data": [
+    {
+      "id": 57876,
+      "name": "Q95FM Radio Dominica",
+      "slug": "Wice_QFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/35/b93543a119ca9f501183e72944fd3874.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "q95fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Current Affairs News Soft Rock Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3210,
+        "byCountry": {
+          "us": 99,
+          "gb": 30,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 13,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 95691,
+          "url": "http://sonic01.instainternet.com:8306/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95692,
+          "url": "http://vousstream.com:8306/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20426,
+      "name": "DBS Radio Live",
+      "slug": "DBS_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/95/da95af4956b679a5d98d70a9fe4dff56.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1",
+        "dialStripped": "881"
+      },
+      "aliases": {
+        "cleanName": "dbs live",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Progressive House Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2310,
+        "byCountry": {
+          "us": 61,
+          "gb": 14,
+          "au": 0,
+          "de": 2,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 13,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240695,
+          "url": "https://stream.dbcradio.net:8005/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29522,
+          "url": "http://stream.dbcradio.net:8005/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 280586,
+      "name": "Kairi FM",
+      "slug": "Kairi_FM_Jams",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/f5/d1f51362a6dbfd299107e6af63eae505.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "kairi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 31,
+          "gb": 9,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192090,
+          "url": "https://stream.zeno.fm/ych5ixtx51ktv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 192089,
+          "url": "http://stream.zeno.fm/ych5ixtx51ktv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 92,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81074,
+      "name": "Vibes Radio",
+      "slug": "Vibes_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/ef/76efe49c97224c333399f21486019e7b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "vibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 8,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126307,
+          "url": "https://vibesradio.dm/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126306,
+          "url": "http://vibesradio.dm:8000/vibes939",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126305,
+          "url": "http://vibesradio.dm:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 61305,
+      "name": "My Worship FM",
+      "slug": "CBN4_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/1d/e11df0264c68816d0ef120ec85911bf6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.3",
+        "dialStripped": "1033"
+      },
+      "aliases": {
+        "cleanName": "my worship",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100802,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2796427.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100803,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2796427.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100801,
+          "url": "http://18093.live.streamtheworld.com:80/SP_R2796427_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 100800,
+          "url": "http://19003.live.streamtheworld.com:80/SP_R2796427_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81140,
+      "name": "TDN Radio",
+      "slug": "Tdn_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/9a/e69acce656687208daed8afb14363b52.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tdn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": ", Dominica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126355,
+          "url": "http://sonic01.instainternet.com:8308/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247020,
+          "url": "https://sonic01.instainternet.com:8308/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 315240,
+      "name": "Voice of Life",
+      "slug": "Voice_of_Life",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/50/f450f502f6b390bac3e9a90c2e21187e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1",
+        "dialStripped": "1021"
+      },
+      "aliases": {
+        "cleanName": "voice of life",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200837,
+          "url": "https://cdn.comeseetv.com:8000/vol/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200835,
+          "url": "http://cdn.comeseetv.com:8010/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200836,
+          "url": "http://cdn.comeseetv.com:8000/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246143,
+          "url": "https://cdn.comeseetv.com:8000/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 55018,
+      "name": "Radio En Ba Mango",
+      "slug": "Radio_En_Ba_Mango",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/01/8c01f568f54393e735e496707363cc9e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "en ba mango",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "00s 60s 70s Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 89601,
+          "url": "http://s10.myradiostream.com/:4212/listen.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275677,
+          "url": "http://s10.myradiostream.com:4212/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 89602,
+          "url": "http://s10.myradiostream.com:4212/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 89603,
+          "url": "http://media.cwdom.dm/rebm",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 89604,
+          "url": "https://s10.myradiostream.com/:4212/listen.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 430189,
+      "name": "RVR Jamz",
+      "slug": "RVR_Jamz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/47/7a4783c1c07aedd49ced50ea3e530dc2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rvr jamz",
+        "alsoKnownAs": "Real Versatile Radio Jamz"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Alternative Education News Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215211,
+          "url": "http://sonic01.instainternet.com:8320/rvrtest",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61324,
+      "name": "Acoustic Worship",
+      "slug": "Acoustic_Worship",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/95/ce95880ca4ad24e14bcbf84598e56e52.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "acoustic worship",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100843,
+          "url": "https://stream.zeno.fm/8zju2lrepndvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100842,
+          "url": "http://stream.zeno.fm/8zju2lrepndvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61131,
+      "name": "Mt. Zion FM",
+      "slug": "Mt._Zion_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/6d/5b6da8ecc6cbadb6f21912206414170a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mt zion",
+        "alsoKnownAs": "Mount Zion FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100393,
+          "url": "http://das-edge13-live365-dal02.cdnstream.com/a42752",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100394,
+          "url": "https://streaming.live365.com/a42752",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100392,
+          "url": "http://streaming.live365.com/a42752",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100395,
+          "url": "https://das-edge13-live365-dal02.cdnstream.com/a42752",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 231102,
+      "name": "GTM Radio ",
+      "slug": "GTM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/2a/612a4d04301421f51e7a445446514c8b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gtm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Jazz World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183228,
+          "url": "http://sonic01.instainternet.com:8314/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44228,
+      "name": "ROTI Radio",
+      "slug": "ROTI_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/8d/7f8d5cc3edbf4eb8187c6d3dd8904dcf.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "roti",
+        "alsoKnownAs": "Rhythm Of The Islands Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Caribbean Latin World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71289,
+          "url": "https://stream.zeno.fm/b81vbdv9a48uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71288,
+          "url": "http://stream.zeno.fm/b81vbdv9a48uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 32432,
+      "name": "Be Encouraged Radio",
+      "slug": "Be_Encouraged_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/74/61746625b75d39e47b504bfff068c997.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "be encouraged",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Roseau",
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": "Roseau, Dominica",
+        "coordinates": {
+          "latitude": "15.3017400",
+          "longitude": "-61.3880800"
+        }
+      },
+      "genre": {
+        "text": "Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52853,
+          "url": "http://streaming.live365.com/a59616",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52854,
+          "url": "http://das-edge14-live365-dal02.cdnstream.com/a59616",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52856,
+          "url": "https://das-edge14-live365-dal02.cdnstream.com/a59616",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52855,
+          "url": "https://streaming.live365.com/a59616",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 16556240,
+      "name": "Hits 767 Radio",
+      "slug": "Hits_767_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/d0/33d0f16c763dd15bbd0b56c7f3831e1c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits 767",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "locationText": ", Dominica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240852,
+          "url": "http://stream.zeno.fm/tsjanuqnp9rtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240853,
+          "url": "https://stream.zeno.fm/tsjanuqnp9rtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

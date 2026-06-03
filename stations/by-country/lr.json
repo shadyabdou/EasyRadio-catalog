@@ -1,0 +1,494 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:32.693Z",
+  "endpoint": "/countries/Liberia/radios",
+  "countryCode": "lr",
+  "countryName": "Liberia",
+  "expectedCount": 6,
+  "count": 6,
+  "data": [
+    {
+      "id": 364464,
+      "name": "Voice of Liberia-VOL",
+      "slug": "Voice_of_Liberia_VOL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/9e/4f9e05462499951893e71b6d06fcabec.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "voice of vol",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monrovia",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": "Monrovia, Liberia",
+        "coordinates": {
+          "latitude": "6.3614630",
+          "longitude": "-9.4450110"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207663,
+          "url": "http://stream.zeno.fm/ptruhsxrdg8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207666,
+          "url": "https://stream.zeno.fm/ptruhsxrdg8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 166880,
+      "name": "DVC Radio",
+      "slug": "DVC_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/84/16844b83fdbfea4b5571c4aee3ea163b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dvc",
+        "alsoKnownAs": "The Virtual Churches Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monrovia",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": "Monrovia, Liberia",
+        "coordinates": {
+          "latitude": "6.3614630",
+          "longitude": "-9.4450110"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168113,
+          "url": "https://stream.zeno.fm/kxungfqfwf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168112,
+          "url": "http://stream.zeno.fm/kxungfqfwf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 336528,
+      "name": "Hits Radio Monrovia'",
+      "slug": "Hits_Radio_Monrovia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/d3/2fd35b64116feb23a3e07bff531a5b87.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits monrovia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monrovia",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": "Monrovia, Liberia",
+        "coordinates": {
+          "latitude": "6.3614630",
+          "longitude": "-9.4450110"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop RnB Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204039,
+          "url": "http://s4.radio.co/sada156669/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204038,
+          "url": "http://s4.radio.co/sada156669/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204041,
+          "url": "https://s4.radio.co/sada156669/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204040,
+          "url": "https://s4.radio.co/sada156669/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 2702289,
+      "name": "Radio Strong FM",
+      "slug": "Radio_Strong_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/de/43ded40e347dd479bf914486f7384b9a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "strong",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monrovia",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": "Monrovia, Liberia",
+        "coordinates": {
+          "latitude": "6.3614630",
+          "longitude": "-9.4450110"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231210,
+          "url": "http://stream.zeno.fm/gm041c99m48uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231211,
+          "url": "https://stream.zeno.fm/gm041c99m48uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60320,
+      "name": "Christian Bible Church and Center",
+      "slug": "Christian_Bible_Church_and_Center",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/c5/b2c53e334bbca4b81520cabf38e18951.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christian bible church and center",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": ", Liberia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98585,
+          "url": "http://stream.zeno.fm/kbn6b83m268uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98586,
+          "url": "https://stream.zeno.fm/kbn6b83m268uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61461277,
+      "name": "Alternative YouthRadio (AYR)",
+      "slug": "Alternative_YouthRadio_AYR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/4b/504b6851b99a142366493f9442c78999.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "alternative youthradio ayr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zorzor",
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "locationText": "Zorzor, Lofa County, Liberia",
+        "coordinates": {
+          "latitude": "7.7794400",
+          "longitude": "-9.4302800"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282076,
+          "url": "http://node.stream-africa.com:8000/AYR",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282078,
+          "url": "https://node.stream-africa.com:8443/AYR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:58.906Z",
+  "endpoint": "/countries/Montserrat/radios",
+  "countryCode": "ms",
+  "countryName": "Montserrat",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 48666,
+      "name": "ZJB Radio Montserrat",
+      "slug": "ZJB_Radio_Montserrat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/3f/4b3f03a64cef48bc0c087e0a0426e508.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": " 88.3 & 95.5",
+        "dialStripped": " 883 & 955"
+      },
+      "aliases": {
+        "cleanName": "zjb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "St. Peter",
+        "countryName": "Montserrat",
+        "countryCode": "MS",
+        "locationText": "St. Peter, Montserrat",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4110,
+        "byCountry": {
+          "us": 55,
+          "gb": 159,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 14,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77459,
+          "url": "http://stream.radiojar.com/mmbg3hfk2v8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77460,
+          "url": "https://stream.radiojar.com/mmbg3hfk2v8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

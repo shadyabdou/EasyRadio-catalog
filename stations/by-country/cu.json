@@ -1,0 +1,4328 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:17.011Z",
+  "endpoint": "/countries/Cuba/radios",
+  "countryCode": "cu",
+  "countryName": "Cuba",
+  "expectedCount": 59,
+  "count": 59,
+  "data": [
+    {
+      "id": 33199,
+      "name": "Radio Campesina Cubana",
+      "slug": "Radio_Campesina_Cubana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/14/e4147f8c639ac697c5f488e8f1d3eb4a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "campesina",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3720,
+        "byCountry": {
+          "us": 25,
+          "gb": 1,
+          "au": 1,
+          "de": 4,
+          "fr": 13,
+          "br": 8,
+          "es": 3,
+          "mx": 24,
+          "jp": 1,
+          "in": 0,
+          "it": 8,
+          "ar": 5,
+          "ca": 7,
+          "cl": 2,
+          "co": 25,
+          "pe": 5
+        }
+      },
+      "streams": [
+        {
+          "id": 54382,
+          "url": "http://stream.laut.fm/radiocampesinacubana",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54383,
+          "url": "https://stream.laut.fm/radiocampesinacubana",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65917,
+      "name": "Radio Habana Cuba",
+      "slug": "Radio_Habana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/ab/79ab67a8fd8805eb5bbe5876acf58c86.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "habana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3060,
+        "byCountry": {
+          "us": 27,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 7,
+          "es": 6,
+          "mx": 21,
+          "jp": 0,
+          "in": 0,
+          "it": 6,
+          "ar": 12,
+          "ca": 2,
+          "cl": 2,
+          "co": 18,
+          "pe": 6
+        }
+      },
+      "streams": [
+        {
+          "id": 106369,
+          "url": "https://icecast.teveo.cu/McW3fLhs",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 65914,
+      "name": "Radio Reloj",
+      "slug": "Radio_Reloj_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/51/6f517c8d4fd2f37296e5f7c2059e7ed9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "reloj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1302800",
+          "longitude": "-82.3530600"
+        }
+      },
+      "genre": {
+        "text": "News Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2610,
+        "byCountry": {
+          "us": 39,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 3,
+          "es": 4,
+          "mx": 9,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 5,
+          "ca": 1,
+          "cl": 2,
+          "co": 12,
+          "pe": 4
+        }
+      },
+      "streams": [
+        {
+          "id": 106367,
+          "url": "https://icecast.teveo.cu/b3jbfThq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65915,
+      "name": "Radio Rebelde",
+      "slug": "Radio_Rebelde",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/5b/2e5bf8c0eb7cfcaaf6bbeeda2743beb1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "rebelde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Culture Education News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2490,
+        "byCountry": {
+          "us": 56,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 11,
+          "es": 5,
+          "mx": 15,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 3,
+          "ca": 3,
+          "cl": 1,
+          "co": 6,
+          "pe": 2
+        }
+      },
+      "streams": [
+        {
+          "id": 106368,
+          "url": "https://icecast.teveo.cu/zrXXWK9F",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65920,
+      "name": "Radio Progreso Habana",
+      "slug": "Radio_Progreso_Habana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/9b/039b8ef496889b70966894da60a7c94a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "progreso habana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guines",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guines, Mayabeque, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Hits News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1920,
+        "byCountry": {
+          "us": 68,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 11,
+          "es": 3,
+          "mx": 7,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 3,
+          "ca": 2,
+          "cl": 1,
+          "co": 3,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106370,
+          "url": "https://icecast.teveo.cu/XjfW7qWN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65924,
+      "name": "Radio Reloj",
+      "slug": "Radio_Reloj",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/fa/87fa1d23f80258bf7a6e03530450fba2.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "790",
+        "dialStripped": "790"
+      },
+      "aliases": {
+        "cleanName": "reloj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pinar del Rio",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Pinar del Rio, Pinar del Rio Province, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 22,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 2,
+          "mx": 6,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 3,
+          "ca": 1,
+          "cl": 1,
+          "co": 6,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106377,
+          "url": "https://icecast.teveo.cu/b3jbfThq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65927,
+      "name": "Radio Rebelde",
+      "slug": "Radio_Rebelde_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/84/9884877efd75182a460b159221082cda.png",
+      "dial": {
+        "band": "AM",
+        "dial": "670",
+        "dialStripped": "670"
+      },
+      "aliases": {
+        "cleanName": "rebelde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Culture News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 11,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 5,
+          "es": 1,
+          "mx": 7,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 2,
+          "ca": 1,
+          "cl": 1,
+          "co": 5,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106380,
+          "url": "https://icecast.teveo.cu/kHKL7tWd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65926,
+      "name": "Radio Enciclopedia",
+      "slug": "Radio_Enciclopedia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/15/2115f9f0f7c663cb3e14e9f2db0e70ea.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1260",
+        "dialStripped": "1260"
+      },
+      "aliases": {
+        "cleanName": "enciclopedia",
+        "alsoKnownAs": "CMBQ Radio Enciclopedia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment Instrumental News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 16,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 6,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 2,
+          "ca": 2,
+          "cl": 1,
+          "co": 3,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106379,
+          "url": "https://icecast.teveo.cu/9Rnrbjzq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65931,
+      "name": "Radio Taíno",
+      "slug": "Radio_Taino",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8f/c9/8fc9e54e284e0f5c9941ddfd3f9ec2b7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "taino",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Art Culture Dance Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 14,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 3,
+          "es": 1,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 3,
+          "cl": 1,
+          "co": 2,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106383,
+          "url": "https://icecast.teveo.cu/3MCwWg3V",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65944,
+      "name": "Radio Victoria",
+      "slug": "Radio_Victoria_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/c5/c4c5351a06626c6d57fd5b2836f0452c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Las Tunas",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Las Tunas, Las Tunas, Cuba",
+        "coordinates": {
+          "latitude": "20.9616700",
+          "longitude": "-76.9511100"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 15,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 3,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 2,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106401,
+          "url": "https://icecast.teveo.cu/P77NJX4X",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65940,
+      "name": "Radio CMHW",
+      "slug": "CMHW",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/52/1e5203003bc8ff477dbaa22918710bc8.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "840",
+        "dialStripped": "840"
+      },
+      "aliases": {
+        "cleanName": "cmhw",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Clara",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Clara, Villa Clara, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 25,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106397,
+          "url": "https://icecast.teveo.cu/TsxMM94R",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65935,
+      "name": "CubanDjsPro Radio",
+      "slug": "CubanDjsPro_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/f5/f4f589235dc016f44b2c4be6374fae84.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1302800",
+          "longitude": "-82.3530600"
+        }
+      },
+      "genre": {
+        "text": "Dance Latin Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106387,
+          "url": "http://servidor21.brlogic.com:7114/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106388,
+          "url": "https://servidor21.brlogic.com:7114/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65937,
+      "name": "Radio Ciudad Del Mar",
+      "slug": "Radio_Ciudad_Del_Mar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b6/b1/b6b170e352ef4d295605de9d07588718.gif",
+      "dial": {
+        "band": "AM",
+        "dial": "1340",
+        "dialStripped": "1340"
+      },
+      "aliases": {
+        "cleanName": "ciudad del mar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cienfuegos",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Cienfuegos, Cuba",
+        "coordinates": {
+          "latitude": "22.1495700",
+          "longitude": "-80.4466200"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 19,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 2,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106393,
+          "url": "https://icecast.teveo.cu/CL7jRXqn",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65939,
+      "name": "Radio COCO",
+      "slug": "Radio_Coco_LA_HABANA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/72/db72fdf55a2f92ed0f71d772fb2b8219.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "coco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 11,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106396,
+          "url": "https://icecast.teveo.cu/fvc4RVRz",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65953,
+      "name": "CMKC Radio Revolución",
+      "slug": "Radio_Revolucion",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/4b/9d4b68317ed58ddf28b3bcf7ae390386.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "cmkc revolucion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Cuba",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.0247200",
+          "longitude": "-75.8219400"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 1,
+          "mx": 5,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106409,
+          "url": "https://icecast.teveo.cu/C9vVPN7h",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 3698,
+      "name": "Radio Angulo",
+      "slug": "Radio_Angulo_CMKO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/26/8926ebdd94a46c80244c11fa982db8fa.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "angulo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Holguín",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Holguín, Holguin, Cuba",
+        "coordinates": {
+          "latitude": "20.8872200",
+          "longitude": "-76.2630600"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7841,
+          "url": "https://icecast.teveo.cu/hmVcdgM7",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 49809,
+      "name": "Radio Bayamo - CMKX",
+      "slug": "Radio_Bayamo_CMKX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/b1/15b1e318c3adf602ebe11bed5fa0de1c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5/107.9",
+        "dialStripped": "995/1079"
+      },
+      "aliases": {
+        "cleanName": "bayamo cmkx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bayamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Bayamo, Cuba",
+        "coordinates": {
+          "latitude": "20.3791700",
+          "longitude": "-76.6433300"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80143,
+          "url": "https://icecast.teveo.cu/7hdNcTbM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 43010,
+      "name": "Radio Cadena Agramonte - RCA",
+      "slug": "Radio_Cadena_Agramonte_RCA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/8d/4a8d2e9b7678a2e099239889b45c66ba.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "910",
+        "dialStripped": "910"
+      },
+      "aliases": {
+        "cleanName": "cadena agramonte rca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Camagüey",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Camagüey, Camaguey, Cuba",
+        "coordinates": {
+          "latitude": "21.3808300",
+          "longitude": "-77.9169400"
+        }
+      },
+      "genre": {
+        "text": "News World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 11,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69067,
+          "url": "https://icecast.teveo.cu/j99xztkT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 65955,
+      "name": "Radio Libertad",
+      "slug": "Radio_Libertad_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/23/e523fd7dd6c5dbaf8c3797c8c0669542.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "libertad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Puerto Padre",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Puerto Padre, Las Tunas, Cuba",
+        "coordinates": {
+          "latitude": "21.1944900",
+          "longitude": "-76.6035500"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 13,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106414,
+          "url": "https://icecast.teveo.cu/kcLKb4qv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 32636,
+      "name": "Radio Santa María Cuba",
+      "slug": "Radio_Santa_Maria_Cuba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/b4/97b44b2bf9cc4f81639df1dc0ee3f4b5.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Cuba",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.0247200",
+          "longitude": "-75.8219400"
+        }
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 2
+        }
+      },
+      "streams": [
+        {
+          "id": 53226,
+          "url": "https://stream.zeno.fm/xzzaukz381wuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53225,
+          "url": "http://stream.zeno.fm/xzzaukz381wuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65947,
+      "name": "Radio Metropolitana",
+      "slug": "Radio_Metropolitana_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/ca/e0cae6da1c5bbbabe31465bb11a19a80.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "metropolitana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 6,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106403,
+          "url": "https://icecast.teveo.cu/ktW3mW74",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106404,
+          "url": "https://icecast.teveo.cu/ktW3mW74?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 39331,
+      "name": "Radio Sancti Spiritus",
+      "slug": "Radio_Sancti_Spiritus_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/e4/7ce421c3abc5ae0800a43f528c3dcc58.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "sancti spiritus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaguajay",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Yaguajay, Sancti Spiritus, Cuba",
+        "coordinates": {
+          "latitude": "22.3272200",
+          "longitude": "-79.2377800"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 6,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63918,
+          "url": "https://icecast.teveo.cu/NqWrgw7j",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 65956,
+      "name": "CMKS Radio Trinchera",
+      "slug": "CMKS_Radio_Trinchera",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/e1/55e136f086fcbafa82894da2765892ae.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "cmks trinchera",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guantánamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guantánamo, Guantanamo, Cuba",
+        "coordinates": {
+          "latitude": "20.1444400",
+          "longitude": "-75.2091700"
+        }
+      },
+      "genre": {
+        "text": "News Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 5,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106415,
+          "url": "https://icecast.teveo.cu/Csb3zdfv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66004,
+      "name": "Radio Cadena Agramonte",
+      "slug": "Radio_Cadena_Agramonte_RCA_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/a4/08a4e0fa2dfe8b3b996513aa27afc1a5.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1380",
+        "dialStripped": "1380"
+      },
+      "aliases": {
+        "cleanName": "cadena agramonte",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Central Brasil",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Central Brasil, Camaguey, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106471,
+          "url": "https://icecast.teveo.cu/j99xztkT?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106470,
+          "url": "https://icecast.teveo.cu/j99xztkT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 13926316,
+      "name": "The Game AFN Fans",
+      "slug": "The_Game_AFN_Fans",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/b7/26b72f930c0f995ca6e7fccd7b8dffee.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the game afn fans",
+        "alsoKnownAs": "NFL, Super bowl, The Game, New England Patriots, Seattle Seahawks, Football, Superbowl"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guantánamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guantánamo, Guantanamo, Cuba",
+        "coordinates": {
+          "latitude": "20.1444400",
+          "longitude": "-75.2091700"
+        }
+      },
+      "genre": {
+        "text": "Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239115,
+          "url": "http://18853.live.streamtheworld.com:80/AFN_FANAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239116,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FANAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 32635,
+      "name": "Radio María de la Caridad",
+      "slug": "Radio_Maria_de_la_Caridad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/bd/71bdb618bdde81fba73f0926952b5722.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "maria de la caridad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Cuba",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.0247200",
+          "longitude": "-75.8219400"
+        }
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 264536,
+          "url": "https://usa6.fastcast4u.com/proxy/aserranog/stream/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53224,
+          "url": "https://stream.zeno.fm/5rul798y3xatv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264532,
+          "url": "http://usa6.fastcast4u.com/proxy/aserranog/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264533,
+          "url": "http://167.114.11.80:2326/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264535,
+          "url": "http://usa6.fastcast4u.com:2326/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264534,
+          "url": "http://167.114.11.80:2326/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53223,
+          "url": "http://stream.zeno.fm/5rul798y3xatv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 34358,
+      "name": "Radio 26",
+      "slug": "Radio_26",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6e/ba/6eba22adbcfe20c6b0b5902d29d9e702.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "26",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Matanzas",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Matanzas, Cuba",
+        "coordinates": {
+          "latitude": "23.0411100",
+          "longitude": "-81.5775000"
+        }
+      },
+      "genre": {
+        "text": "Community News Salsa Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 56656,
+          "url": "https://icecast.teveo.cu/LsxKNz7b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 63720,
+      "name": "Emisora de Radio ATodaMecha",
+      "slug": "Emisora_de_Radio_ATodaMecha",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/a3/97a397c6da33dc0d527cecdc9229692f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "emisora de atodamecha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Cruz Del Norte",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Cruz Del Norte, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 103001,
+          "url": "https://stream.zeno.fm/g0gawm3qfuquv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103000,
+          "url": "http://stream.zeno.fm/g0gawm3qfuquv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65978,
+      "name": "Radio Cadena Habana",
+      "slug": "Caden_Habana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/29/e3291139fecb5d82815e8e258398324f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1080",
+        "dialStripped": "1080"
+      },
+      "aliases": {
+        "cleanName": "cadena habana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Havana",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Havana, La Habana, Cuba",
+        "coordinates": {
+          "latitude": "23.1330200",
+          "longitude": "-82.3830400"
+        }
+      },
+      "genre": {
+        "text": "Community News World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106437,
+          "url": "https://icecast.teveo.cu/Jdq3Rbrg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66063,
+      "name": "La Voz del Níquel",
+      "slug": "La_Voz_del_Niquel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/61/666182ab1796683368fc7acab501fa80.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "la voz del niquel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moa",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Moa, Holguin, Cuba",
+        "coordinates": {
+          "latitude": "20.6577600",
+          "longitude": "-74.9507500"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106540,
+          "url": "https://icecast.teveo.cu/nj4PLTHR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66011,
+      "name": "Radio Holguín la Nueva",
+      "slug": "Radio_Holguin_la_Nueva",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/0b/880b84f9bde8ae4c3469dae47d26d1bf.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "holguin la nueva",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Holguín",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Holguín, Holguin, Cuba",
+        "coordinates": {
+          "latitude": "20.8872200",
+          "longitude": "-76.2630600"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106479,
+          "url": "https://icecast.teveo.cu/hmVcdgM7",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106480,
+          "url": "https://icecast.teveo.cu/dn9JTKtH",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65988,
+      "name": "Radio Surco",
+      "slug": "Radio_Surco_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/8f/4e8fdadff79add2aed97f0954126552c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "surco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ciego de Ávila",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Ciego de Ávila, Cuba",
+        "coordinates": {
+          "latitude": "21.8400000",
+          "longitude": "-78.7619400"
+        }
+      },
+      "genre": {
+        "text": "News Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106451,
+          "url": "https://icecast.teveo.cu/F9tgnJVT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 4598,
+      "name": "Radio Musical Nacional - CMBF",
+      "slug": "Radio_Musical_Nacional_CMBF_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/8c/ad8c258a28a54bf405dfd5ea7d43af02.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "musical nacional cmbf",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Holguín",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Holguín, Holguin, Cuba",
+        "coordinates": {
+          "latitude": "20.8872200",
+          "longitude": "-76.2630600"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 9012,
+          "url": "https://icecast.teveo.cu/Nbtz7HT3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 65977,
+      "name": "Radio Artemisa",
+      "slug": "Radio_Artemisa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/f1/53f1570ed5e7dab7b0d8079b3c69fbe1.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1320",
+        "dialStripped": "1320"
+      },
+      "aliases": {
+        "cleanName": "artemisa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Artemisa",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Artemisa, Artemisa Province, Cuba",
+        "coordinates": {
+          "latitude": "22.8130600",
+          "longitude": "-82.7619400"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106436,
+          "url": "https://icecast.teveo.cu/9HzjRcjX",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66007,
+      "name": "Radio Granma Manzanillo",
+      "slug": "Radio_Granma_Manzanillo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/7a/c27a8b6488cb859a678ac287fb6ac283.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "granma manzanillo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manzanillo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Manzanillo, Granma, Cuba",
+        "coordinates": {
+          "latitude": "20.3433300",
+          "longitude": "-77.1166700"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106473,
+          "url": "https://icecast.teveo.cu/9RLhkmRH",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 8,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66031,
+      "name": "CMJB Radio Titán",
+      "slug": "CMJB_Radio_Titan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/6b/266bbfc28be5c8b25ed11435f25423a0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cmjb titan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Cuba",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.0247200",
+          "longitude": "-75.8219400"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 4,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106499,
+          "url": "https://icecast.teveo.cu/nXwsVz4N",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66028,
+      "name": "Radio Coral",
+      "slug": "Radio_Coral",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/d6/ecd6bd6a902165e69a7985fd3922b701.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "coral",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guamá",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guamá, Santiago de Cuba, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106496,
+          "url": "https://icecast.teveo.cu/svzd4KHw",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66033,
+      "name": "Radio Ciudad Monumento",
+      "slug": "Radio_Ciudad_Monumento",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/2f/732f8e5c2341f070101a6b6690b6c635.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "ciudad monumento",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bayamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Bayamo, Cuba",
+        "coordinates": {
+          "latitude": "20.3791700",
+          "longitude": "-76.6433300"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106501,
+          "url": "https://icecast.teveo.cu/KR43FF7C",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 25630,
+      "name": "Radio Raíz 1140 kHz AM",
+      "slug": "Radio_Raiz_1140_kHz_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/33/aa337c30b1c2449bf1ab4310bf3ed179.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1140",
+        "dialStripped": "1140"
+      },
+      "aliases": {
+        "cleanName": "raiz 1140 khz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Quito",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Quito, Quito, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Folk Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40246,
+          "url": "https://cloud37.ecuatel.com:8000/monumentalhq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 40245,
+          "url": "http://cloud37.ecuatel.com:8000/monumentalhq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66005,
+      "name": "Radio Amanecer",
+      "slug": "Radio_Amanecer_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/df/dcdff8ed0d776535fa8225a25421efec.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.9",
+        "dialStripped": "969"
+      },
+      "aliases": {
+        "cleanName": "amanecer",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Primero de Enero",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Primero de Enero, Ciego de Avila, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106472,
+          "url": "https://icecast.teveo.cu/HpM9FCwR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66002,
+      "name": "Radio Baragua",
+      "slug": "Radio_Baragua",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/a8/a4a81e03fa7ae0f5236041a11d681b00.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "baragua",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Palma Soriano",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Palma Soriano, Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.2123800",
+          "longitude": "-75.9984300"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106469,
+          "url": "https://icecast.teveo.cu/3CMM7zph",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 52874,
+      "name": "Radio Archipiélago",
+      "slug": "Radio_Archipielago_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/fe/effe430cf6a96670f22ede22ae33cefe.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "archipielago",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Clara",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Clara, Villa Clara, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "90s Latin Romantic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85977,
+          "url": "http://radios.blumhost.es:8026/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66024,
+      "name": "Radio Grito de Baire",
+      "slug": "Radio_Grito_de_Baire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/70/0470cb3f590842e5f195c62fdbe08b67.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "grito de baire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Cuba",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santiago de Cuba, Cuba",
+        "coordinates": {
+          "latitude": "20.0247200",
+          "longitude": "-75.8219400"
+        }
+      },
+      "genre": {
+        "text": "News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 106494,
+          "url": "https://icecast.teveo.cu/PMxFRLK7",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66030,
+      "name": "Radio Estereocentro ",
+      "slug": "Radio_Estereocentro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/b0/abb02e9aae53643417e02b17ecfd5930.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "estereocentro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Clara",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Clara, Villa Clara, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106498,
+          "url": "https://icecast.teveo.cu/mHFR9zFb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 54125,
+      "name": "NeonRadio-XL",
+      "slug": "NeonRadio_XL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8f/b3/8fb3ecf8451003fd663937a6f1650b94.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "neonradio xl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Clara",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Clara, Villa Clara, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Caribbean Latin Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88063,
+          "url": "http://37.59.37.6:16754/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 88062,
+          "url": "http://s12.myradiostream.com:16754/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ffvorbis",
+          "bitrate": 192,
+          "contentType": "application/ogg",
+          "works": true
+        },
+        {
+          "id": 252320,
+          "url": "http://s12.myradiostream.com:16754/stream.m3u/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 25747,
+      "name": "Radio Vivencias 103.1",
+      "slug": "Radio_Vivencias_103.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/f5/d9f555cdd25af5519a2316e9d3242409.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "vivencias 103.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sancti Spíritus",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Sancti Spíritus, Sancti Spiritus, Cuba",
+        "coordinates": {
+          "latitude": "21.9297200",
+          "longitude": "-79.4425000"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Rock Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40468,
+          "url": "http://streaming1.locucionar.com:14299/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 32701,
+      "name": "Radio Cienfuegos ",
+      "slug": "Radio_Cienfuegos",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/e0/fae056dff32f436e18376726037c4131.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cienfuegos",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Cienfuegos, Cuba",
+        "coordinates": {
+          "latitude": "22.1495700",
+          "longitude": "-80.4466200"
+        }
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53350,
+          "url": "http://stream1.svrdedicado.org:8334/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66082,
+      "name": "Radio Cabaniguán",
+      "slug": "Radio_Cabaniguan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/88/0488a745e8e1af536648c94a3a978a89.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "cabaniguan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jobabo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Jobabo, Las Tunas, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106562,
+          "url": "https://icecast.teveo.cu/PPFsPfF4",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66008,
+      "name": "Radio FM Esperanto",
+      "slug": "Radio_FM_Esperanto",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/9d/d49dbe9feab3a53676b9d24a26d318b6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "esperanto",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": ", Camaguey, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Art Education Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106475,
+          "url": "https://stream.zeno.fm/p2k2q6t1fzwvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106474,
+          "url": "http://stream.zeno.fm/p2k2q6t1fzwvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66032,
+      "name": "Radio Bahía",
+      "slug": "Radio_Bahia_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/55/cb554f5341be9c52f0ce834b8f1e5799.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guantánamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guantánamo, Guantanamo, Cuba",
+        "coordinates": {
+          "latitude": "20.1444400",
+          "longitude": "-75.2091700"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106500,
+          "url": "https://icecast.teveo.cu/PKWhw37L",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 41827,
+      "name": "Radio Cadena Agramonte (RCA)",
+      "slug": "Radio_Cadena_Agramonte_RCA_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/a4/08a4e0fa2dfe8b3b996513aa27afc1a5.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "910",
+        "dialStripped": "910"
+      },
+      "aliases": {
+        "cleanName": "cadena agramonte rca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guaimaro",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guaimaro, Camaguey, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Culture Spanish Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 67013,
+          "url": "https://icecast.teveo.cu/j99xztkT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 47509,
+      "name": "Radio Chambas",
+      "slug": "Radio_Chambas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/d0/80d07471d10dc8fb6f222117b0b5810b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chambas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chambas",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Chambas, Ciego de Avila, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 75291,
+          "url": "https://icecast.teveo.cu/bxKRMpX4",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66062,
+      "name": "Radio Vertientes",
+      "slug": "Radio_Vertientes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/cf/0ecf353ac644044dbb8a5c4e94ca5f26.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "vertientes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Camagüey",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Camagüey, Camaguey, Cuba",
+        "coordinates": {
+          "latitude": "21.3808300",
+          "longitude": "-77.9169400"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106539,
+          "url": "https://icecast.teveo.cu/7mw4Jvfh",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66034,
+      "name": "Radio Ciudad FM",
+      "slug": "Radio_Ciudad_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/2a/882ac6ebd488f498dee7d6bf5f92ccf2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ciudad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Clara",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Santa Clara, Villa Clara, Cuba",
+        "coordinates": {
+          "latitude": "21.9188372",
+          "longitude": "-79.5551312"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106502,
+          "url": "http://sonicpanel.oficialserver.com:8328/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 31704,
+      "name": "Radio Ámbito",
+      "slug": "Radio_Ambito",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ambito",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Camagüey",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Camagüey, Camaguey, Cuba",
+        "coordinates": {
+          "latitude": "21.3808300",
+          "longitude": "-77.9169400"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51326,
+          "url": "http://stream.zeno.fm/g9e51rxxzyzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51327,
+          "url": "https://stream.zeno.fm/g9e51rxxzyzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66029,
+      "name": "Radio Camoa",
+      "slug": "Radio_Camoa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/73/7973286a45fd61d01f4907602ef5a709.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9",
+        "dialStripped": "979"
+      },
+      "aliases": {
+        "cleanName": "camoa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San José de las Lajas",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "San José de las Lajas, Mayabeque, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106497,
+          "url": "https://icecast.teveo.cu/7vCk4tnh",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 49205,
+      "name": "AFN Fans",
+      "slug": "AFN_Fans",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/ca/51ca37c925a1c4baebb761eeaef67738.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "afn fans",
+        "alsoKnownAs": "NFL Super Bowl Sports USA"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guantánamo",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Guantánamo, Guantanamo, Cuba",
+        "coordinates": {
+          "latitude": "20.1444400",
+          "longitude": "-75.2091700"
+        }
+      },
+      "genre": {
+        "text": "Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257143,
+          "url": "http://18853.live.streamtheworld.com:3690/AFN_FANAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245581,
+          "url": "http://27243.live.streamtheworld.com:80/AFN_FANAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78535,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FANAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78534,
+          "url": "http://18853.live.streamtheworld.com:80/AFN_FANAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78533,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AFN_FANAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66060,
+      "name": "Radio Playita",
+      "slug": "Radio_Playita",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/e4/26e4504813082ae5612e7089b2452ad0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "playita",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Imías",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Imías, Guantanamo, Cuba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106538,
+          "url": "https://icecast.teveo.cu/MJTK4tnh",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 66064,
+      "name": "Radio Glance",
+      "slug": "Radio_Glance",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/93/7993fc87176e694cd2fe74f4c0926e6f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "glance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sancti Spíritus",
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "locationText": "Sancti Spíritus, Sancti Spiritus, Cuba",
+        "coordinates": {
+          "latitude": "21.9297200",
+          "longitude": "-79.4425000"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106541,
+          "url": "http://radio.mediacp.eu/stream/glance",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106542,
+          "url": "https://radio.mediacp.eu/stream/glance/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    }
+  ]
+}

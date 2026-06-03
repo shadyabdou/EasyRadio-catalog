@@ -1,0 +1,2311 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:18.904Z",
+  "endpoint": "/countries/Jordan/radios",
+  "countryCode": "jo",
+  "countryName": "Jordan",
+  "expectedCount": 30,
+  "count": 30,
+  "data": [
+    {
+      "id": 62315,
+      "name": "Quran Radio Amman 93.1 Live",
+      "slug": "Quran_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/53/05538dfaa2699e4f3b98c72fc0e71820.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "quran 93.1 live",
+        "alsoKnownAs": "اذاعة القران الكريم من عمان"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3420,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 3,
+          "de": 6,
+          "fr": 10,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 5,
+          "it": 2,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72831,
+      "name": "مزاج اف ام",
+      "slug": "Mazaj_95.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/3a/c13a3c8c0db6a93a2301247c445e78e0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3 / 101.7",
+        "dialStripped": "953 / 1017"
+      },
+      "aliases": {
+        "cleanName": "mzj f m",
+        "alsoKnownAs": "Mazaj FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 17,
+          "gb": 3,
+          "au": 3,
+          "de": 3,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115159,
+          "url": "http://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115160,
+          "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48799,
+      "name": "إذاعة حسنى",
+      "slug": "Husna_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/40/2740511faa0275b05f4e4e3863d09023.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3 / 93.5",
+        "dialStripped": "933 / 935"
+      },
+      "aliases": {
+        "cleanName": "dh hsn",
+        "alsoKnownAs": "Husna Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2460,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 4,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77735,
+          "url": "http://s2.voscast.com:10444/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 56765,
+      "name": "راديو روتانا- الأردن",
+      "slug": "Rotana_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/30/f230b476d50f0a83fd2becf5d499a407.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "rdyw rwtn l rdn",
+        "alsoKnownAs": "Radio Rotana Jordan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Arabic Entertainment Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2460,
+        "byCountry": {
+          "us": 42,
+          "gb": 7,
+          "au": 2,
+          "de": 6,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 9,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93324,
+          "url": "http://45.63.116.205:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 275737,
+      "name": "Radio Orient",
+      "slug": "Radio_Orient_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/2d/4e2ddc0989eefcb58485cdabc976854e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "orient",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2100,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 4,
+          "fr": 111,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191449,
+          "url": "http://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191450,
+          "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 209444,
+      "name": "Hala FM 102.1",
+      "slug": "Hala_FM_102.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/e3/86e358d15a624aadc23948149f713a96.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1",
+        "dialStripped": "1021"
+      },
+      "aliases": {
+        "cleanName": "hala 102.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1860,
+        "byCountry": {
+          "us": 23,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270111,
+          "url": "http://hala-alrayamedia.radioca.st:8204/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179583,
+          "url": "http://hala-alrayamedia.radioca.st:8204/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72864,
+      "name": "Hayat FM",
+      "slug": "Hayat_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/d3/a1d30df03381fb352e90a2bdad6535a3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "hayat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1650,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 5,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115207,
+          "url": "http://84.16.232.202:7172/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72870,
+      "name": "وتر ف.م",
+      "slug": "Watar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/90/1f90207203356137f36d8b52099821c8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "wtr f m",
+        "alsoKnownAs": "Watar FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1590,
+        "byCountry": {
+          "us": 16,
+          "gb": 1,
+          "au": 7,
+          "de": 3,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115217,
+          "url": "http://stream.streamgenial.stream/8t0947m00f8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115218,
+          "url": "https://stream.streamgenial.stream/8t0947m00f8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49948,
+      "name": "Fyrozzzz",
+      "slug": "Fyrozzzz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/c9/59c9459214a839b484783bc0a7431bb4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fyrozzzz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80477,
+          "url": "http://stream.zeno.fm/k1o5gpvancntv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80478,
+          "url": "https://stream.zeno.fm/k1o5gpvancntv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 42543,
+      "name": "إذاعة حول العالم",
+      "slug": "Radio_around_the_world",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/96/8c964616dae724dc6f2b9404d222058f.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1467",
+        "dialStripped": "1467"
+      },
+      "aliases": {
+        "cleanName": "dh hwl l lm",
+        "alsoKnownAs": "Radio around the world"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242058,
+          "url": "https://s4.radio.co/s46a512ea9/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68383,
+          "url": "http://s4.radio.co/s46a512ea9/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 57030,
+      "name": "راديو فن",
+      "slug": "Energy_97.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/26/9f268d2098c83698053d036757ad53a2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "rdyw fn",
+        "alsoKnownAs": "Radio Fann"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 25,
+          "gb": 1,
+          "au": 3,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94029,
+          "url": "http://45.63.116.205:8000/stream2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72913,
+      "name": "اذاعة يقين",
+      "slug": "Yaqeen_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/6f/b76fd5075bdef7466eb9dbb0b5c2d84f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7 / 97.7",
+        "dialStripped": "1037 / 977"
+      },
+      "aliases": {
+        "cleanName": "dh yqyn",
+        "alsoKnownAs": "Yaqeen Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115277,
+          "url": "http://45.63.116.205:8000/stream4",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72917,
+      "name": "لراديو البلد",
+      "slug": "Amman_Net",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/c2/e1c242a003a0e695ff77e52e91541006.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": "lrdyw lbld",
+        "alsoKnownAs": "Radio Al Balad"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community Culture Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266752,
+          "url": "http://198.178.123.8:8964/stream/1/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115283,
+          "url": "http://198.178.123.8:8964/stream/1/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72944,
+      "name": "JU FM 94.9",
+      "slug": "JUFM_94.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b6/40/b640a9eaf576c23058d1f545ee0c5636.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "ju 94.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244582,
+          "url": "http://jufmstreaming.ju.edu.jo:80/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251654,
+          "url": "http://stream.zeno.fm/3xq0af9z0f8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251655,
+          "url": "https://stream.zeno.fm/3xq0af9z0f8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115322,
+          "url": "http://jufmstreaming.ju.edu.jo:80/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 31154,
+      "name": "إذاعة لقاء",
+      "slug": "Radio_Leqaa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/dc/c6dce49858386e69f5c99e48f8f7e333.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "dh lq",
+        "alsoKnownAs": "Radio Leqaa"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Ambient College Middle Eastern Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50168,
+          "url": "http://65.108.198.245:7365/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50169,
+          "url": "http://cast6.my-control-panel.com/proxy/leqaafml/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50170,
+          "url": "https://cast6.my-control-panel.com/proxy/leqaafml/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 276189,
+      "name": "Mood FM",
+      "slug": "Mood_FM_92.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/bf/98bf46406c45a6da77f3b2819db3b412.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "mood",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191474,
+          "url": "http://s1.autopo.st:8238/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191475,
+          "url": "https://securestreams2.autopo.st:1241/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72986,
+      "name": "Radio Dahab",
+      "slug": "Radio_Dahab",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/f3/bcf35228cbbd6d3b1ce0a3ca4247d67d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "dahab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115373,
+          "url": "http://miniplain-edge-2.infomaniak.ch:80/dahab-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115374,
+          "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115372,
+          "url": "http://dahab.ice.infomaniak.ch/dahab-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73021,
+      "name": "دردشتي راديو",
+      "slug": "Maktoob_DJ_AIR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/73/0d73b20ee678f6a4c5bed62eb323018c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "drdshty rdyw",
+        "alsoKnownAs": "Drdchati Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115437,
+          "url": "http://radio.gorlk.net/drdchati",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115438,
+          "url": "https://radio.gorlk.net/drdchati/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 15482051,
+      "name": "Melody Jordan",
+      "slug": "Melody_Jordan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/8a/988ac343b2cff9f93aeb69e8d729e94c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "melody",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278323,
+          "url": "http://s3.voscast.com:9966/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240240,
+          "url": "http://s3.voscast.com:9966/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 40922704,
+      "name": "عين اف ام",
+      "slug": "Ain_FM_98.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/f1/bcf10ed5fd8afe2be4b2573557c1f122.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "yn f m",
+        "alsoKnownAs": "Ain FM 98.3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276364,
+          "url": "https://radio.ainfm.site/ainfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 276363,
+          "url": "http://radio.ainfm.site:8001/ainfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73031,
+      "name": "راديو نون",
+      "slug": "Noon_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/b9/e4b9ac605fdea3285a7edcb616ced037.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "rdyw nwn",
+        "alsoKnownAs": "Noon Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 276193,
+      "name": "Play 99.5",
+      "slug": "Play_99.6_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/47/b2471bce55b0bc1f831ac95a13bbf296.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "play 99.5",
+        "alsoKnownAs": "Play 99.6"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191477,
+          "url": "https://play995.radioca.st/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191476,
+          "url": "http://play995.radioca.st:8226/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73030,
+      "name": "Radio Jordan [English Channel]",
+      "slug": "Radio_Jordan_English_Channel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/2c/fa2ca0e74b9b9fb386552c4263168d2f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "channel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 111556,
+      "name": "Beat FM 102.5",
+      "slug": "Beat_FM_102.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/08/df08c8551e4c69fa69a30e0c22ff865e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "beat 102.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151150,
+          "url": "http://s1.autopo.st:8210/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151151,
+          "url": "https://securestreams2.autopo.st:1242/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17498543,
+      "name": "Radio Nai FM 101.5",
+      "slug": "Sawtelghad_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/7f/5c7f4ab0307ee2ba8f315f3098062874.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "nai 101.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Entertainment Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241766,
+          "url": "http://naifm.radioca.st:8213/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268379,
+          "url": "http://naifm.radioca.st:8213/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 115499,
+      "name": "Bliss 104.3",
+      "slug": "Bliss_104.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/d1/cbd1d0edd361776bb4f987c1543be759.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "bliss 104.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amman",
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": "Amman, Jordan",
+        "coordinates": {
+          "latitude": "31.9552200",
+          "longitude": "35.9450300"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153383,
+          "url": "http://bliss1-alrayamedia.radioca.st:8182/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269192,
+          "url": "http://bliss1-alrayamedia.radioca.st:8182/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73142,
+      "name": "Araiqi nyroz",
+      "slug": "Araiqi_nyroz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/16/3216f4c7a516aa639ff0b10d18d38010.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "araiqi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115625,
+          "url": "http://stream.zeno.fm/pf95z71gqwqtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115626,
+          "url": "https://stream.zeno.fm/pf95z71gqwqtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73141,
+      "name": "Mhrajan",
+      "slug": "Mhrajan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/2a/082ae0e1017b674d174735050ad3a08c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mhrajan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115623,
+          "url": "http://stream.zeno.fm/nwd9r8kau8euv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115624,
+          "url": "https://stream.zeno.fm/nwd9r8kau8euv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73143,
+      "name": "Wwwaas",
+      "slug": "Wwwaas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/8f/f88f31b5acefb1448d9887dec10c5e1b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wwwaas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115628,
+          "url": "https://stream.zeno.fm/yfxqtkttflkuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115627,
+          "url": "http://stream.zeno.fm/yfxqtkttflkuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 336816,
+      "name": "Moro nyroz",
+      "slug": "Moro_nyroz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/b5/d5b51148f48e925f032007a4dea19dbb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "moro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "locationText": ", Jordan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204130,
+          "url": "http://stream.zeno.fm/6frbch3mu1vuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204131,
+          "url": "https://stream.zeno.fm/6frbch3mu1vuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

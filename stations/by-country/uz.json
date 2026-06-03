@@ -1,0 +1,630 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:18.514Z",
+  "endpoint": "/countries/Uzbekistan/radios",
+  "countryCode": "uz",
+  "countryName": "Uzbekistan",
+  "expectedCount": 7,
+  "count": 7,
+  "data": [
+    {
+      "id": 158722,
+      "name": "ORIAT Dono",
+      "slug": "ORIAT_Dono",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/b1/83b1cbc27c31b7b6e721145d3fee42f8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "oriat dono",
+        "alsoKnownAs": "Oriat Dono FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tashkent",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Tashkent, Tashkent, Uzbekistan",
+        "coordinates": {
+          "latitude": "41.2646500",
+          "longitude": "69.2162700"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7320,
+        "byCountry": {
+          "us": 15,
+          "gb": 21,
+          "au": 1,
+          "de": 2,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 238436,
+          "url": "https://live.oriatdono.uz/dono/shoutcast",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238435,
+          "url": "http://live.oriatdono.uz/dono/shoutcast",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 166451,
+          "url": "http://194.5.152.248:8000/dono",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "uz",
+          "name": "Uzbek"
+        }
+      ]
+    },
+    {
+      "id": 91961,
+      "name": "Radio O'zbegim Taronasi",
+      "slug": "Radio_Uzbegim_Taronasi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/a2/afa21c601b21aee7182464b16427c594.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.0",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "o zbegim taronasi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tashkent",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Tashkent, Tashkent, Uzbekistan",
+        "coordinates": {
+          "latitude": "41.2646500",
+          "longitude": "69.2162700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5070,
+        "byCountry": {
+          "us": 5,
+          "gb": 7,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 137945,
+          "url": "https://fm101.uz:9943/fm101_low.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 137944,
+          "url": "http://fm101.uz:9900/fm101_low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137942,
+          "url": "http://fm101.uz:9900/fm101_mobile.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137943,
+          "url": "http://fm101.uz:9900/fm101_mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56904,
+      "name": "Ориат фм",
+      "slug": "Oriat_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/2d/dc2dafd39d318ee8510e4b0a953d497f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "oriat",
+        "alsoKnownAs": "Oriat FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tashkent",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Tashkent, Tashkent, Uzbekistan",
+        "coordinates": {
+          "latitude": "41.2646500",
+          "longitude": "69.2162700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1680,
+        "byCountry": {
+          "us": 4,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93704,
+          "url": "http://194.5.152.248:8000/dono",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93705,
+          "url": "http://194.5.152.248:8000/fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "uz",
+          "name": "Uzbek"
+        }
+      ]
+    },
+    {
+      "id": 19935,
+      "name": "See The Sea FM",
+      "slug": "See_The_Sea_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/77/bf773bfd529cf3bf40af6311731021aa.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "see the sea",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Samarkand",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Samarkand, Uzbekistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Electronic House Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28449,
+          "url": "http://listen5.myradio24.com/seethesea",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28450,
+          "url": "http://stream.zeno.fm/qhs84un551zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28452,
+          "url": "https://stream.zeno.fm/qhs84un551zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28451,
+          "url": "https://listen5.myradio24.com/seethesea",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 23593,
+      "name": "See The Sea FM - Pink Unicorn Radio",
+      "slug": "Pink_Unicorn_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/8f/e48f404a700ba740bbdc2a727374796b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "see the sea pink unicorn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Samarkand",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Samarkand, Uzbekistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 36311,
+          "url": "http://stream.zeno.fm/8y1zf6sm2qzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36312,
+          "url": "https://listen6.myradio24.com/unicorn",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36313,
+          "url": "https://stream.zeno.fm/8y1zf6sm2qzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36310,
+          "url": "http://listen6.myradio24.com/unicorn",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 97448,
+      "name": "AxTeD_AD",
+      "slug": "AxTeD_AD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/14/7b/147b2044079bf94ed6a42f9e584f9ab0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "axted_ad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": ", Uzbekistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Holidays Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 141946,
+          "url": "https://stream.zeno.fm/gnsnxsq1znhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 141945,
+          "url": "http://stream.zeno.fm/gnsnxsq1znhvv",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "uz",
+          "name": "Uzbek"
+        }
+      ]
+    },
+    {
+      "id": 379332,
+      "name": "RustikOneFM",
+      "slug": "RustikOneFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/2a/732a61b968957886034ca939a2fa61c4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rustikonefm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Samarkand",
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "locationText": "Samarkand, Uzbekistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210269,
+          "url": "https://stream.zeno.fm/zfzfqjxe0kuvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210268,
+          "url": "http://stream.zeno.fm/zfzfqjxe0kuvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:20.820Z",
+  "endpoint": "/countries/Democratic Republic of the Congo_2/radios",
+  "countryCode": "democrat",
+  "countryName": "Democratic Republic of the Congo_2",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 32292,
+      "name": "Message Radio FM - Cantiques",
+      "slug": "Message_Radio_FM_Cantiques",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/d4/a1d48a5115e5470abf4870b11861d66f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "message cantiques",
+        "alsoKnownAs": "Message Radio FM - Gospel"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Democratic Republic of the Congo_2",
+        "countryCode": null,
+        "locationText": ", Democratic Republic of the Congo_2",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52566,
+          "url": "http://a10.asurahosting.com:7370/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

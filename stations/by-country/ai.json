@@ -1,0 +1,473 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:21.988Z",
+  "endpoint": "/countries/Anguilla/radios",
+  "countryCode": "ai",
+  "countryName": "Anguilla",
+  "expectedCount": 6,
+  "count": 6,
+  "data": [
+    {
+      "id": 291095,
+      "name": "Klass FM 92.9",
+      "slug": "KLASS_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/c0/61c02266b983bcf54bd758321bed9fa0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "klass 92.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "The Valley",
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": "The Valley, Anguilla",
+        "coordinates": {
+          "latitude": "18.2170400",
+          "longitude": "-63.0578300"
+        }
+      },
+      "genre": {
+        "text": "Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 7,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 2,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 195770,
+          "url": "http://138.201.52.248:8165/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 195769,
+          "url": "http://klassfm929.radioca.st:8165/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 93774,
+      "name": "NBR Grace FM",
+      "slug": "Grace_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/3e/d83ed2cf5c7e8c9e8b47a751ca6390f1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "nbr grace",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Shoal Bay Village",
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": "Shoal Bay Village, Anguilla",
+        "coordinates": {
+          "latitude": "18.2170400",
+          "longitude": "-63.0578300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139502,
+          "url": "http://s30.myradiostream.com:32104/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 577808,
+      "name": "Yumablamqmia",
+      "slug": "Yumablamqmia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/70/5f7090aa38f575231e87d1f1317444a6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yumablamqmia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": ", Anguilla",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 228029,
+          "url": "http://stream.zeno.fm/eya3hk8ehfhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 228030,
+          "url": "https://stream.zeno.fm/eya3hk8ehfhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50001,
+      "name": "Jhbendicionbe",
+      "slug": "Jhbendicionbe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/1f/851fd73648bd00fd6069c785d2ba66a2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jhbendicionbe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": ", Anguilla",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80571,
+          "url": "http://stream.zeno.fm/qgaizqoxucctv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80572,
+          "url": "https://stream.zeno.fm/qgaizqoxucctv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69759,
+      "name": "Radio Anguilla",
+      "slug": "Radio_Anguilla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/1b/c51bd79f899afa45dec588bd501cb7ff.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "The Valley",
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": "The Valley, Anguilla",
+        "coordinates": {
+          "latitude": "18.2170400",
+          "longitude": "-63.0578300"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111026,
+          "url": "https://s19.myradiostream.com:19872/listen.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111025,
+          "url": "http://s19.myradiostream.com:19872/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50012,
+      "name": "VETER oleg",
+      "slug": "VETER_oleg",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/49/bf49fbeff84e0cdda575c5a2315c3107.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "veter oleg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "locationText": ", Anguilla",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80589,
+          "url": "http://stream.zeno.fm/a2k25c34rxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80590,
+          "url": "https://stream.zeno.fm/a2k25c34rxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

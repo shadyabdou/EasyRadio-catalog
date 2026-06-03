@@ -1,0 +1,4067 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:46:30.861Z",
+  "endpoint": "/countries/Tunisia/radios",
+  "countryCode": "tn",
+  "countryName": "Tunisia",
+  "expectedCount": 48,
+  "count": 48,
+  "data": [
+    {
+      "id": 56529,
+      "name": "Radio Mosaïque FM",
+      "slug": "Mosaique_FM_94.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/41/b841c61e425a8c4a29dd64e520a5e623.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "mosaique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Arabic Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 15030,
+        "byCountry": {
+          "us": 13,
+          "gb": 13,
+          "au": 0,
+          "de": 19,
+          "fr": 149,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 30,
+          "ar": 1,
+          "ca": 36,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 92652,
+          "url": "https://radio.mosaiquefm.net/mosalive",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 97,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 92651,
+          "url": "http://radio.mosaiquefm.net:8000/mosalive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 99,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48478,
+      "name": "Radio Diwan FM",
+      "slug": "diwan_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/27/f227fd1979fd9fda7714f2ce6975b9b9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "diwan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sfax",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Sfax, Tunisia",
+        "coordinates": {
+          "latitude": "34.7405600",
+          "longitude": "10.7602800"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 11490,
+        "byCountry": {
+          "us": 5,
+          "gb": 7,
+          "au": 5,
+          "de": 13,
+          "fr": 99,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 21,
+          "ar": 1,
+          "ca": 34,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77017,
+          "url": "http://streaming.diwanfm.net:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48672,
+      "name": "إذاعة صفاقس",
+      "slug": "Radio_Sfax",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/42/b842d0696bee6fd7e79d23c1c79bfa02.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "dh sfqs",
+        "alsoKnownAs": "Radio Tunisienne - Radio Sfax"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sfax",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Sfax, Tunisia",
+        "coordinates": {
+          "latitude": "34.7405600",
+          "longitude": "10.7602800"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4440,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 1,
+          "de": 2,
+          "fr": 21,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 7,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77467,
+          "url": "http://rtstream.tanitweb.com/sfax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77468,
+          "url": "http://rtstream.tanitweb.com:80/sfax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48707,
+      "name": "Radio Zitouna FM",
+      "slug": "Zitouna_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/6f/9d6f87df2096a4443d9d3073161809fb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "zitouna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Information Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3960,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 3,
+          "fr": 47,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 8,
+          "ar": 0,
+          "ca": 10,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77542,
+          "url": "http://rtstream.tanitweb.com:80/radiozaitouna",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255665,
+          "url": "http://radio.radiotunisienne.tn/radiozaitouna",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77543,
+          "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72830,
+      "name": "إذاعة القرآن الكريم تونس",
+      "slug": "Radio_Quran_Karim",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/19/641952f79f3fc178fdc38673a10e09c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "dh lqran lkrym twns",
+        "alsoKnownAs": "Radio Quran Karim"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3960,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 5,
+          "fr": 35,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 4,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115158,
+          "url": "http://live.radioquran.tn:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72828,
+      "name": "Radio Jawhara FM",
+      "slug": "Radio_Jawhara_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/cf/2bcf0cec09080ba9bff288534a45df7d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "jawhara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sousse",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Sousse, Tunisia",
+        "coordinates": {
+          "latitude": "35.8253900",
+          "longitude": "10.6369900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment News Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3690,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 3,
+          "fr": 31,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 7,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115157,
+          "url": "https://streaming2.toutech.net/jawharafm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115155,
+          "url": "http://streaming2.toutech.net:8000/jawharafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115156,
+          "url": "http://streaming2.toutech.net:443/jawharafm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48772,
+      "name": "Radio Tunisienne - Nationale",
+      "slug": "Radio_Tunis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/9d/269dd4136de339c9a4f14f28ca006666.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "nationale",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 11,
+          "fr": 26,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 6,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249970,
+          "url": "http://radio.radiotunisienne.tn/nationale",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77679,
+          "url": "http://rtstream.tanitweb.com/nationale",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77678,
+          "url": "http://rtstream.tanitweb.com:80/nationale",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235101,
+          "url": "https://radio.radiotunisienne.tn/nationale",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72854,
+      "name": "Mosaique FM Tarab",
+      "slug": "Mosaique_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/d5/95d5ecfb82e53f7c6972418bb130b34b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mosaique tarab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture Folk News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2760,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 4,
+          "fr": 15,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 9,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115193,
+          "url": "http://radio.mosaiquefm.net:8000/mosalive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 108,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115195,
+          "url": "http://webradio2.mosaiquefm.net:8000/mosalive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 108,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115196,
+          "url": "https://radio.mosaiquefm.net/mosalive",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 99,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115192,
+          "url": "http://radio.mosaiquefm.net:8000/mosatarab",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115194,
+          "url": "http://webradio3.mosaiquefm.net:8000/mosatarab",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72865,
+      "name": "Tataouine FM",
+      "slug": "Tataouine_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/d1/66d14d74b87ea92b920a567a53413dea.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "tataouine",
+        "alsoKnownAs": "إذاعة تطاوين"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tataouine",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tataouine, Tunisia",
+        "coordinates": {
+          "latitude": "32.9296700",
+          "longitude": "10.4517700"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 4,
+          "fr": 34,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115209,
+          "url": "http://rtstream.tanitweb.com:80/tataouine",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115208,
+          "url": "http://rtstream.tanitweb.com/tataouine",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115210,
+          "url": "http://webcam.radiotunisienne.tn:1935/radiotn/tataouine_video/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 714,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 276647,
+          "url": "http://radio.radiotunisienne.tn/tataouine",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 276648,
+          "url": "https://radio.radiotunisienne.tn/tataouine",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 50361,
+      "name": "Radio KnOOz FM",
+      "slug": "Radio_KnOOz_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/b8/3cb877f01ce61a3fcaaba46393b72888.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "knooz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sousse",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Sousse, Tunisia",
+        "coordinates": {
+          "latitude": "35.8253900",
+          "longitude": "10.6369900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Comedy Dance Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 0,
+          "de": 3,
+          "fr": 23,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 11,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81262,
+          "url": "http://streaming.knoozfm.net:8000/knoozfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 190972,
+      "name": "Radio Express FM",
+      "slug": "Radio_Express_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/a7/cea767aa95f83096f8d74376d4640fd1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.6",
+        "dialStripped": "1036"
+      },
+      "aliases": {
+        "cleanName": "express",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 8,
+          "fr": 9,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 175270,
+          "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175269,
+          "url": "http://expressfm.ice.infomaniak.ch:8000/expressfm-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175268,
+          "url": "http://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72871,
+      "name": "Mosaique FM Tounsi",
+      "slug": "Mosaique_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/c0/bec035197ab0e168184a3b7015f4f333.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mosaique tounsi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic French Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1860,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 21,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115221,
+          "url": "https://radio.mosaiquefm.net/mosatounsi",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115219,
+          "url": "http://radio.mosaiquefm.net:8000/mosatounsi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115220,
+          "url": "http://webradio2.mosaiquefm.net:8000/mosatounsi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        },
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72852,
+      "name": "Radio Ifm",
+      "slug": "Radio_IFM_100.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/05/880527cf547a80262d9fd0304a6e09b2.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "ifm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1680,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 11,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115187,
+          "url": "http://live.ifm.tn:8000/ifmlive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115188,
+          "url": "https://live.ifm.tn/radio/8000/ifmlive",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245030,
+          "url": "https://live.ifm.tn:8000/ifmlive",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        },
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72876,
+      "name": "إذاعة الكاف",
+      "slug": "Radio_Tunisienne_Radio_Kef",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/00/2b006860deb479852ca6d24d18150ef6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.2",
+        "dialStripped": "1022"
+      },
+      "aliases": {
+        "cleanName": "dh lkf",
+        "alsoKnownAs": "Radio Tunisienne - Radio Kef"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "El Kef",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "El Kef, Tunisia",
+        "coordinates": {
+          "latitude": "36.1742400",
+          "longitude": "8.7048600"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 16,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115229,
+          "url": "http://rtstream.tanitweb.com/kef",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115230,
+          "url": "http://rtstream.tanitweb.com:80/kef",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 87504,
+      "name": "Radio Tunisienne - Jeunes",
+      "slug": "radio_jeune_tunisien",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/49/45494495baeb7f6a92aa13e0daa5505e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "jeunes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "College Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 132936,
+          "url": "http://rtstream.tanitweb.com/jeunes",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132937,
+          "url": "http://webcam.radiotunisienne.tn:1935/radiotn/jeunes_video/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 715,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72878,
+      "name": "بوابة الإذاعة التونسية",
+      "slug": "Radio_Monastir",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/9c/b39c739210691d5ee85bc48ddeffc951.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "bwb ldh ltwnsy",
+        "alsoKnownAs": "Radio Monastir"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monastir",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Monastir, Tunisia",
+        "coordinates": {
+          "latitude": "35.7779900",
+          "longitude": "10.8261700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 9,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115231,
+          "url": "http://rtstream.tanitweb.com:80/monastir",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 110065,
+      "name": "Babnet Tunisie",
+      "slug": "Babnet_Tunisia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/39/9139c9fa63e4841b2547e08dceb629e8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "babnet",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 12,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150326,
+          "url": "http://radio.babnet.net/?type=http",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150327,
+          "url": "https://radio.babnet.net/?type=http;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 113010,
+      "name": "Radio Oxygene Bizerte",
+      "slug": "OXYGENE_FM_90.0_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/de/a2deb1be4e2d5cd66fb6fe72b82159bd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "oxygene bizerte",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bizerte",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Bizerte, Tunisia",
+        "coordinates": {
+          "latitude": "37.2744200",
+          "longitude": "9.8739100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment French News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 18,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152155,
+          "url": "http://streaming.radiooxygene.tn:8000/oxygenefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72903,
+      "name": "Radio Mosaïque FM - Gold",
+      "slug": "Radio_Mosaique_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/9f/e69f46512102db4100c4d05e30a58722.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mosaique gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 13,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 4,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115263,
+          "url": "http://radio.mosaiquefm.net:8000/mosagold",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115265,
+          "url": "https://radio.mosaiquefm.net/mosagold",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115264,
+          "url": "http://webradio3.mosaiquefm.net:8000/mosagold",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 334658,
+      "name": "Radio Tunisienne - Radio Monastir",
+      "slug": "Radio_Tunisienne_Radio_Monastir",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/72/2a72cc868425df73c15cb6d7322a76d6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "monastir",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monastir",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Monastir, Tunisia",
+        "coordinates": {
+          "latitude": "35.7779900",
+          "longitude": "10.8261700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203713,
+          "url": "http://rtstream.tanitweb.com:80/monastir",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203714,
+          "url": "http://webcam.radiotunisienne.tn:1935/radiotn/monastir_video/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1728,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 216563,
+      "name": "Radio Tunisienne - Radio Gafsa",
+      "slug": "Radio_Tunisienne_Radio_Gafsa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/47/e847059f94687174d6bbcc350c757d95.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gafsa",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Gafsa, Tunisia",
+        "coordinates": {
+          "latitude": "34.4250000",
+          "longitude": "8.7841700"
+        }
+      },
+      "genre": {
+        "text": "Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 7,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180865,
+          "url": "http://rtstream.tanitweb.com/gafsa",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180866,
+          "url": "http://rtstream.tanitweb.com:80/gafsa",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 12412,
+      "name": "Misk FM",
+      "slug": "MISK_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/d3/7bd3a4db2ffe3fc069e0500a984c555e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "misk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Jazz Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 7,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 17391,
+          "url": "https://live.misk.art/stream",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 42953,
+      "name": "Radio Ulysse FM",
+      "slug": "jaw_jerbi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/ee/d7eec479c08f2551088bec2f46ec5c21.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ulysse",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Djerba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Djerba, Tunisia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 10,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69002,
+          "url": "http://51.178.31.38:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 427488,
+      "name": "Radio Tunisienne - RTCI",
+      "slug": "Radio_Tunisienne",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/fe/1afea99cdf69fd71adb03f83080c86ba.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "rtci",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214828,
+          "url": "http://rtstream.tanitweb.com:80/rtci",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214827,
+          "url": "http://rtstream.tanitweb.com/rtci",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 19916,
+      "name": "Radio Mosaïque FM - DJ's",
+      "slug": "Radio_Mosaique_FM_DJs",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/d7/cfd72e64d261cc39b9854e373fea174c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mosaique dj s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Electronic Hip Hop Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 4,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28417,
+          "url": "http://radio.mosaiquefm.net:8000/mosadj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28418,
+          "url": "http://webradio3.mosaiquefm.net:8000/mosadj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28419,
+          "url": "https://radio.mosaiquefm.net/mosadj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69351,
+      "name": "Radio Tunisienne - Tunisie Culturelle",
+      "slug": "Radio_Tunis_Cultural",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/51/6351426010c9dd216f6eda879e59e918.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "963",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "culturelle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110361,
+          "url": "http://webcam.radiotunisienne.tn:1935/radiotn/culturelle_video/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 712,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110360,
+          "url": "http://rtstream.tanitweb.com/culturelle",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110362,
+          "url": "http://rtstream.tanitweb.com:80/culturelle",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72958,
+      "name": "اذاعة الزيتونة",
+      "slug": "Zaitouna_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/99/c199a4a3f4d8665f6b10d69f556b33cd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.6",
+        "dialStripped": "976"
+      },
+      "aliases": {
+        "cleanName": "dh lzytwn",
+        "alsoKnownAs": "Zaitouna Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 6,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115341,
+          "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 46280,
+      "name": "Radio TunisiaMed",
+      "slug": "Radio_TunisiaMed",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/68/dc68f4615b01767397918f20e80beb09.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "Radio Tunisia Med, Radiotunisiamed"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Chillout Dance French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 7,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74215,
+          "url": "https://stream.zeno.fm/v7v98w9vhchvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74214,
+          "url": "http://stream.zeno.fm/v7v98w9vhchvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 184045,
+      "name": "Essaida FM",
+      "slug": "Essaida_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/c4/61c4cdb1c4a3f801179d25bc4ae6b29b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.2",
+        "dialStripped": "892"
+      },
+      "aliases": {
+        "cleanName": "essaida",
+        "alsoKnownAs": "إذاعة السيدة"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Education Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172995,
+          "url": "http://stream6.tanitweb.com/essaidafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172997,
+          "url": "https://stream6.tanitweb.com/essaidafm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172996,
+          "url": "http://radio.essaida.com:8443/essaida_fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 31696,
+      "name": "Ambiance FM",
+      "slug": "Ambiance_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/7b/e77b92c5166e636b32afe5fc7f69f1b4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.8",
+        "dialStripped": "1068"
+      },
+      "aliases": {
+        "cleanName": "ambiance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mahdia",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Mahdia, Tunisia",
+        "coordinates": {
+          "latitude": "35.5047200",
+          "longitude": "11.0622200"
+        }
+      },
+      "genre": {
+        "text": "Arabic College Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51315,
+          "url": "http://stream.zeno.fm/0rehsamc9xxtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51316,
+          "url": "https://stream.zeno.fm/0rehsamc9xxtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 427564,
+      "name": "RTCI",
+      "slug": "RTCI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/58/eb58d0f228b7fd64266b9caa17b7c88f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.4",
+        "dialStripped": "934"
+      },
+      "aliases": {
+        "cleanName": "rtci",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214834,
+          "url": "http://rtstream.tanitweb.com:80/rtci",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214833,
+          "url": "http://rtstream.tanitweb.com/rtci",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73003,
+      "name": "Radio Tunisie 360",
+      "slug": "Radio_Tunisie360",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/1a/cd1a2614320e59295b077ebbc38ba5b1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "360",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sfax",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Sfax, Tunisia",
+        "coordinates": {
+          "latitude": "34.7405600",
+          "longitude": "10.7602800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115408,
+          "url": "https://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115407,
+          "url": "http://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 73032,
+      "name": "Son FM",
+      "slug": "Son_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/bd/45bd8f7e78e6e120feee2c8c6bbc7735.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "son",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274002,
+          "url": "http://live.sonfm.tn:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115457,
+          "url": "https://live.sonfm.tn/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115456,
+          "url": "http://live.sonfm.tn:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72978,
+      "name": "RADIO IPSI - IPSI TARABI",
+      "slug": "RADIO_IPSI_IPSI_TARABI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/d4/8ed40da60ef3247372a62e20b94d62fe.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ipsi ipsi tarabi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manouba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Manouba, Tunisia",
+        "coordinates": {
+          "latitude": "36.8080300",
+          "longitude": "10.0972100"
+        }
+      },
+      "genre": {
+        "text": "Arabic Devotional Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115364,
+          "url": "https://stream.zeno.fm/kxp5ywlgzihtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115363,
+          "url": "http://stream.zeno.fm/kxp5ywlgzihtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 39422,
+      "name": "Sabra FM",
+      "slug": "Sabra_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/fb/1bfba04283663d8da2f8e669bc4f52fb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.8",
+        "dialStripped": "988"
+      },
+      "aliases": {
+        "cleanName": "sabra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kairouan",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Kairouan, Tunisia",
+        "coordinates": {
+          "latitude": "35.6781000",
+          "longitude": "10.0963300"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64051,
+          "url": "https://stream6.tanitweb.com/sabrafm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64049,
+          "url": "http://stream6.tanitweb.com/sabrafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64050,
+          "url": "http://stream6.tanitweb.com:80/sabrafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        },
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 3009416,
+      "name": "إذاعة الحياة",
+      "slug": "AlHayet_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/68/cb680389432fadb9bfc95eaafd1a24c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "dh lhy",
+        "alsoKnownAs": "AlHayet FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kairouan",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Kairouan, Tunisia",
+        "coordinates": {
+          "latitude": "35.6781000",
+          "longitude": "10.0963300"
+        }
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231596,
+          "url": "https://manager8.streamradio.fr:2885/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231595,
+          "url": "http://manager8.streamradio.fr:2880/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255667,
+          "url": "https://manager8.streamradio.fr:2880/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73124,
+      "name": "Radio Ibrahim",
+      "slug": "Radio_Ibrahim",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/5a/ab5afc1b6cd3e082ab8c1684ae740dce.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ibrahim",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115582,
+          "url": "http://stream.radioalmahabba.com:8000/mp3/%20;stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115583,
+          "url": "http://46.165.240.47:8000/mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115585,
+          "url": "http://46.165.216.20:8000/mp3/%20;stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115584,
+          "url": "http://www.radioalmahabba.com:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265975,
+          "url": "http://46.165.240.47:8000/mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265974,
+          "url": "http://stream.radioalmahabba.com:8000/mp3/%20;stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20990635,
+      "name": "Radio Nefzawa",
+      "slug": "Nefzawa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/0f/230fef330bfcc039a776b81d7574d1dd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "nefzawa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kebili",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Kebili, Tunisia",
+        "coordinates": {
+          "latitude": "33.7043900",
+          "longitude": "8.9690300"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244659,
+          "url": "http://stream.zeno.fm/sfplpgctritvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244660,
+          "url": "https://stream.zeno.fm/sfplpgctritvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 158125,
+      "name": "Ulysse FM",
+      "slug": "Ulysse_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/68/1568d227cacd6beed998dad0b796e1f6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1 / 92.1",
+        "dialStripped": "1041 / 921"
+      },
+      "aliases": {
+        "cleanName": "ulysse",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Djerba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Djerba, Tunisia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 166355,
+          "url": "http://188.165.79.152:9990/;stream.mp3;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 166356,
+          "url": "http://188.165.79.152:9990/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269402,
+          "url": "http://188.165.79.152:9990/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269401,
+          "url": "http://188.165.79.152:9990/;stream.mp3;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73057,
+      "name": "RADIO IPSI - IPSI TOUNSI",
+      "slug": "RADIO_IPSI_IPSI_TOUNSI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/19/98190b72dbf8e619ff93309f9cd040f2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ipsi ipsi tounsi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manouba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Manouba, Tunisia",
+        "coordinates": {
+          "latitude": "36.8080300",
+          "longitude": "10.0972100"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115491,
+          "url": "https://stream.zeno.fm/daakagl2sxguv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115490,
+          "url": "http://stream.zeno.fm/daakagl2sxguv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 132569,
+      "name": "Whale City Radio",
+      "slug": "Whale_City_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/ac/3dac82ec0adbd79eaa9237241fc1faa8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "whale city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 160473,
+          "url": "http://streamer.radio.co/s914bdb718/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160474,
+          "url": "https://streamer.radio.co/s914bdb718/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160472,
+          "url": "http://streamer.radio.co/s914bdb718/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160475,
+          "url": "https://streamer.radio.co/s914bdb718/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73034,
+      "name": "RADIO IPSI - IPSI CHARKI",
+      "slug": "RADIO_IPSI_IPSI_CHARKI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/4f/5c4f3165a45bc825165c3ddb203bb12b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ipsi ipsi charki",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manouba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Manouba, Tunisia",
+        "coordinates": {
+          "latitude": "36.8080300",
+          "longitude": "10.0972100"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115459,
+          "url": "http://stream.zeno.fm/vufagfj4otouv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115460,
+          "url": "https://stream.zeno.fm/vufagfj4otouv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73093,
+      "name": "RADIO IPSI -  IPSI GHARBI",
+      "slug": "RADIO_IPSI_IPSI_GHARBI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/19/cb1954b1cc5d8080b61b92cc273b8bce.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ipsi ipsi gharbi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manouba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Manouba, Tunisia",
+        "coordinates": {
+          "latitude": "36.8080300",
+          "longitude": "10.0972100"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115548,
+          "url": "http://stream.zeno.fm/hc3jb3jftzkvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115549,
+          "url": "https://stream.zeno.fm/hc3jb3jftzkvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73056,
+      "name": "RADIO IPSI -  IPSI RAP",
+      "slug": "RADIO_IPSI_IPSI_RAP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/ae/95aeddc7ff053d3694234144ade9250a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ipsi ipsi rap",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manouba",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Manouba, Tunisia",
+        "coordinates": {
+          "latitude": "36.8080300",
+          "longitude": "10.0972100"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115488,
+          "url": "http://stream.zeno.fm/ez3pwrc0ugyvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115489,
+          "url": "https://stream.zeno.fm/ez3pwrc0ugyvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73135,
+      "name": "Myra Radio",
+      "slug": "Myra_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/fd/06fd332050bae6e8c917c694af56a9ad.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "myra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tunis",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Tunis, Tunisia",
+        "coordinates": {
+          "latitude": "36.8189700",
+          "longitude": "10.1657900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115616,
+          "url": "https://play.radioking.io/myra",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115617,
+          "url": "https://listen.radioking.com/radio/562478/stream/622163",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115612,
+          "url": "http://www.radioking.com/play/myra",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115613,
+          "url": "http://play.radioking.io/myra",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115614,
+          "url": "http://listen.radioking.com/radio/562478/stream/622163",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115615,
+          "url": "https://www.radioking.com/play/myra",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 270104,
+      "name": "Yahya jed",
+      "slug": "Yahya_jed",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yahya jed",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": ", Tunisia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190554,
+          "url": "http://stream.zeno.fm/tuq1u11uzb0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 190555,
+          "url": "https://stream.zeno.fm/tuq1u11uzb0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 132051,
+      "name": "CINEMAS RADIO",
+      "slug": "CINEMAS_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/51/4b5189d9cde7be0f5121b0242142f3c8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cinemas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bizerte",
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": "Bizerte, Tunisia",
+        "coordinates": {
+          "latitude": "37.2744200",
+          "longitude": "9.8739100"
+        }
+      },
+      "genre": {
+        "text": "Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 160192,
+          "url": "https://stream.zeno.fm/mgladjfwi7vtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 160191,
+          "url": "http://stream.zeno.fm/mgladjfwi7vtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 49982,
+      "name": "MOEMEN_JOW",
+      "slug": "MOEMEN_JOW",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/2a/3d2abb2707ce050ddc824d7b0da33734.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "moemen_jow",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "locationText": ", Tunisia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80535,
+          "url": "http://stream.zeno.fm/ear04d3dcchvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80536,
+          "url": "https://stream.zeno.fm/ear04d3dcchvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

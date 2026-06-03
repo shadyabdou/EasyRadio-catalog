@@ -1,0 +1,5428 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:31.864Z",
+  "endpoint": "/countries/Lesser Antilles, France/radios",
+  "countryCode": "lesser-a",
+  "countryName": "Lesser Antilles, France",
+  "expectedCount": 67,
+  "count": 67,
+  "data": [
+    {
+      "id": 30341,
+      "name": "RCI Martinique",
+      "slug": "RCI_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/9d/479d9a62da80895697de94688ca6fd25.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "rci martinique",
+        "alsoKnownAs": "Radio Caraïbes International Martinique"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5010,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 75,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48594,
+          "url": "https://stream.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48593,
+          "url": "http://stream.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30349,
+      "name": "RCI Guadeloupe",
+      "slug": "RCI_Guadeloupe_98.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/78/ae78b0bb418b3f883793d7c866aa633b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6 / 98.6 / 100.2",
+        "dialStripped": "1066 / 986 / 1002"
+      },
+      "aliases": {
+        "cleanName": "rci",
+        "alsoKnownAs": "Radio Caraïbes International Guadeloupe "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 68,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48603,
+          "url": "http://stream.rcs.revma.com/v4hf7bwspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 48605,
+          "url": "https://stream.rcs.revma.com/v4hf7bwspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 48604,
+          "url": "http://n16.rcs.revma.com/v4hf7bwspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 48606,
+          "url": "https://n16.rcs.revma.com/v4hf7bwspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30399,
+      "name": "Martinique 1ère Radio",
+      "slug": "Martinique_1ere_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/f7/bff7363b16ac840a8c5e184e72825a2c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "martinique 1ere",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1860,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 31,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48748,
+          "url": "http://martinique.ice.infomaniak.ch/martinique-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48749,
+          "url": "https://martinique.ice.infomaniak.ch/martinique-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30391,
+      "name": "RCI - Compas",
+      "slug": "RCI_Compas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/05/4705202efa0bf7eeb49b08e3a6afb25b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci compas",
+        "alsoKnownAs": "Radio Caraïbes International - Compas"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1860,
+        "byCountry": {
+          "us": 11,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 33,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48729,
+          "url": "http://n16.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48728,
+          "url": "http://stream.rcs.revma.com/5dvn9urtpwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48730,
+          "url": "https://stream.rcs.revma.com/5dvn9urtpwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48731,
+          "url": "https://n16.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30394,
+      "name": "Guadeloupe 1ère Radio",
+      "slug": "RFO_Guadeloupe_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/37/ce37022e4a58b60dd52c9f032607d29d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "1ere",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1770,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 45,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48734,
+          "url": "http://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48735,
+          "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30400,
+      "name": "Radio Evangile Martinique",
+      "slug": "Radio_Evangile_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/02/260252a8a91337a3278434beb47dbe9a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "evangile martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1590,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 28,
+          "br": 3,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48750,
+          "url": "http://51.210.8.69:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30406,
+      "name": "Bel'Radio Guadeloupe",
+      "slug": "RCI_Guadeloupe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/6c/dc6c76b14864c871acfaaffa14d3cf2f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3 / 106.9",
+        "dialStripped": "963 / 1069"
+      },
+      "aliases": {
+        "cleanName": "bel",
+        "alsoKnownAs": "Radio Caraïbes International (RCI) FM - Bel'Radio Guadeloupe"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 43,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48763,
+          "url": "http://stream.rcs.revma.com/a7qacprtpwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48764,
+          "url": "https://stream.rcs.revma.com/a7qacprtpwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30422,
+      "name": "Radio Sud Est",
+      "slug": "Radio_Sud_Est_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/78/817829bf23644708fa086a471627624c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "sud est",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Marin",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Marin, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 34,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 48795,
+          "url": "http://stream.vestaradio.com/RADIOSUDEST",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48796,
+          "url": "http://stream.vestaradio.com:8091/RADIOSUDEST",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48797,
+          "url": "https://stream.vestaradio.com/RADIOSUDEST#.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242791,
+          "url": "https://stream.vestaradio.com/RADIOSUDEST",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30476,
+      "name": "NRJ Antilles Martinique",
+      "slug": "NRJ_Martinique_88.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/61/1661cb2207f70371e976580fbb2b4e17.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.4",
+        "dialStripped": "1044"
+      },
+      "aliases": {
+        "cleanName": "nrj antilles martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Marin",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Marin, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 29,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48938,
+          "url": "https://streaming.nrjaudio.fm/ouquwgyoeo8p",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 145,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 48937,
+          "url": "http://streaming.nrjaudio.fm/ouquwgyoeo8p",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 20889,
+      "name": "RBR la radio",
+      "slug": "RBR_la_radio_des_Hits_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/29/0729ecd0eb5f5854218f65c626742e3b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "rbr la",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "French Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1050,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 30,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30719,
+          "url": "http://stream.vestaradio.com/RBR",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30720,
+          "url": "https://stream.vestaradio.com/RBR",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 21265,
+      "name": "Trace FM",
+      "slug": "Trace_FM_97.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/a8/eca8e26b05e101259f07a2e41c4ed6ce.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "trace",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Dance Reggae Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 29,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31526,
+          "url": "http://stream.rcs.revma.com/1u2tgf744k0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 112,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 31527,
+          "url": "https://stream.rcs.revma.com/1u2tgf744k0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30448,
+      "name": "Bel'Radio Martinique",
+      "slug": "Bel_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/4a/974a5c91fbba07a64ea3514d4a801b0b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "bel martinique",
+        "alsoKnownAs": "Radio Caraïbes International (RCI) - Bel'Radio Martinique"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 31,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48855,
+          "url": "http://stream.rcs.revma.com/9b1a2gyspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48856,
+          "url": "https://stream.rcs.revma.com/9b1a2gyspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30515,
+      "name": "Radio Fusion",
+      "slug": "Radio_Fusion_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/62/e662743e2202c475a39377651b16c558.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "fusion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "French Salsa Talk Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 30,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49014,
+          "url": "http://france16.coollabel-productions.com:8276/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30514,
+      "name": "Nostalgie Martinique",
+      "slug": "Nostalgie_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/94/8694e072d10ae1847a5c1c9316cdcebf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "nostalgie martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 15,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49011,
+          "url": "http://live.2stream.net:80/nostalgiemq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49013,
+          "url": "https://live.2stream.net/nostalgiemq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49010,
+          "url": "http://2stream.dyndns.org:8000/nostalgiemq",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49012,
+          "url": "https://go.2stream.net/nostalgiemq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 22174,
+      "name": "Trace FM Guadeloupe",
+      "slug": "Trace_FM_Guadeloupe_94.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/80/97808b7352f8476ccd68e37bbf0c3152.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1 / 94.1",
+        "dialStripped": "921 / 941"
+      },
+      "aliases": {
+        "cleanName": "trace",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Blues Hip Hop Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 16,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 33370,
+          "url": "https://stream.rcs.revma.com/nv1hu7644k0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 33369,
+          "url": "http://stream.rcs.revma.com/nv1hu7644k0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 106,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30684,
+      "name": "Radio Zoukla",
+      "slug": "Radio_Zoukla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/fd/79fd568a6ddd9cd3345b7490e3263374.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zoukla",
+        "alsoKnownAs": "Radio Zouk'la"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Joseph",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Joseph, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Culture Latin Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 19,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49324,
+          "url": "http://ecmanager4.pro-fhi.net:2605/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247905,
+          "url": "https://ecmanager4.pro-fhi.net:2605/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30532,
+      "name": "RCI - Kassav",
+      "slug": "RCI_Kassav",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/38/2738b18e3a8f46d0aa9388fe767a65e0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci kassav",
+        "alsoKnownAs": "Radio Caraïbes International - Kassav"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49043,
+          "url": "http://stream.rcs.revma.com/6mddg9utpwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49044,
+          "url": "https://stream.rcs.revma.com/6mddg9utpwzuv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30709,
+      "name": "Antilles Media - AM Zouk Gold",
+      "slug": "Antilles_Media_AM_Zouk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/51/dc51633dd211468ae4b36a08468680a2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "antilles zouk gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Oldies Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 20,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49375,
+          "url": "https://antillesmedia.pro-fhi.net/antillesmediazouk",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49374,
+          "url": "http://antillesmedia.pro-fhi.net/antillesmediazouk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51296,
+      "name": "Antilles Media - AM Kompa Gold",
+      "slug": "Antilles_Media_AM_Kompa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/bb/6abb31d2e784f2247ee420c5a8d21cee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "antilles kompa gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "70s Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 10,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83153,
+          "url": "http://antillesmedia.pro-fhi.net/antillesmediakompa",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83154,
+          "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 81117,
+      "name": "Radio Actif Martinique",
+      "slug": "Radio_Actif_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/6b/466b9b338c3a1c808a55379669e680ab.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8 / 102.3",
+        "dialStripped": "928 / 1023"
+      },
+      "aliases": {
+        "cleanName": "actif martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Marin",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Marin, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126339,
+          "url": "https://stream.rcast.net/67632/;",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262268,
+          "url": "http://centova12.instainternet.com:8170/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126338,
+          "url": "http://centova12.instainternet.com:8170/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 96159,
+      "name": "Radio Souffle de Vie",
+      "slug": "Radio_Souffle_de_Vie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/ae/15ae31a0cfc300320aaae665ac29ac8a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "souffle de vie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 6,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 251982,
+          "url": "https://radio.rsv-gpe.info:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140976,
+          "url": "http://radio.rsv-gpe.info:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 81089,
+      "name": "RCI - Zouk",
+      "slug": "RCI_Zouk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/e4/67e4048690f6a8538f8d6cb634f2f0da.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci zouk",
+        "alsoKnownAs": "Radio Caraïbes International - Zouk"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 6,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126320,
+          "url": "https://n10.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126319,
+          "url": "http://n10.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 39227,
+      "name": "Radio Saint-Louis",
+      "slug": "Radio_Saint_Louis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/2e/cc2e4660250a711afbe46f4808ae9592.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "saint louis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 7,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63703,
+          "url": "https://stunnel2.cyber-streaming.com:9142/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 86999,
+      "name": "Radio Actif Martinique - Actif Canal Sport (ACS)",
+      "slug": "Radio_Actif_Martinique_Actif_Canal_Sport_ACS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/57/6a5753cf41a0027c2bf602ccf74b514d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "actif martinique actif canal sport acs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Marin",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Marin, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131992,
+          "url": "http://centova12.instainternet.com:8057/autodj",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 131990,
+          "url": "http://centova12.instainternet.com:8057/live",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 131991,
+          "url": "http://centova12.instainternet.com:8057/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254109,
+          "url": "http://centova12.instainternet.com:8057/autodj/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252261,
+          "url": "http://centova12.instainternet.com:8057/live/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252262,
+          "url": "http://centova12.instainternet.com:8057/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 184430,
+      "name": "Espérance FM Martinique",
+      "slug": "Esperance_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/1f/b51f89c114190c8c37520c3ea69450c6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "esperance martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173058,
+          "url": "http://mqesperancefm.ice.infomaniak.ch/mqesperancefm-128.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 30733,
+      "name": "Radyo Tanbou",
+      "slug": "Radyo_Tanbou",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/c9/86c99f8b183a0ccc78702e6b33919c80.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.0",
+        "dialStripped": "1050"
+      },
+      "aliases": {
+        "cleanName": "radyo tanbou",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49420,
+          "url": "http://radyotanbou.ddns.net:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 159390,
+      "name": "Radio Lévé Doubout Matinik (RLDM)",
+      "slug": "Radio_Leve_Doubout_Matinik_RLDM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/69/6669ed13c3e5e995643691b9b6ec70c8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.8",
+        "dialStripped": "908"
+      },
+      "aliases": {
+        "cleanName": "leve doubout matinik rldm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rivière-Pilote",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Rivière-Pilote, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Information Latin News Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 166541,
+          "url": "http://centova12.instainternet.com:8071/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 45117,
+      "name": "RCI - Tradition",
+      "slug": "RCI_Tradition",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/19/e51986e1dcc0759c839734b3b9a4a226.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci tradition",
+        "alsoKnownAs": "Radio Caraïbes International - Tradition"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72452,
+          "url": "https://stream.rcs.revma.com/mufppgzctwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72451,
+          "url": "http://stream.rcs.revma.com/mufppgzctwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 81105,
+      "name": "Radio Actif Martinique - Actif Nostalgie",
+      "slug": "Radio_Actif_Martinique_Actif_Nostalgie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/15/2e15a763ae4cf90b40a63f8a77b66196.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "actif martinique actif nostalgie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Marin",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Marin, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126332,
+          "url": "http://centova12.instainternet.com:8047/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262581,
+          "url": "http://centova12.instainternet.com:8047/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 40313,
+      "name": "Fun Radio Réunion",
+      "slug": "Fun_Radio_Reunion",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/1c/dc1c8ee53be6c5be7a9e1c1c50eef79d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.3",
+        "dialStripped": "1033"
+      },
+      "aliases": {
+        "cleanName": "fun reunion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Pierre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Pierre, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64921,
+          "url": "http://stric6.streamakaci.com/funradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64924,
+          "url": "https://stric6.streamakaci.com/funradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64923,
+          "url": "https://stric6.streamakaci.com:80/funradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253223,
+          "url": "https://cdnradio.streamakaci.com/funradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64920,
+          "url": "http://stric6.streamakaci.com:80/funradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64922,
+          "url": "http://cdnradio.streamakaci.com/funradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44417,
+      "name": "RCI - Dancehall",
+      "slug": "RCI_Dancehall",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/5a/2b5a082d6c8a847f82d0fb9fee41c1a9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci dancehall",
+        "alsoKnownAs": "Radio Caraïbes International - Dancehall"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dancehall French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71695,
+          "url": "http://stream.rcs.revma.com/5stt0yrtpwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71696,
+          "url": "https://stream.rcs.revma.com/5stt0yrtpwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 311753,
+      "name": "Radio Vie Meilleure",
+      "slug": "Radio_Vie_Meilleure",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/89/7589eefbe1749fec75561e4e2c09b01d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "vie meilleure",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200566,
+          "url": "http://ecmanager3.pro-fhi.net:1490/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44588,
+      "name": "Identité Radio",
+      "slug": "Identite_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/f1/54f1cd52b51ce4c9e4a8350e2ee46d4e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "identite",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "La Trinité",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "La Trinité, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Dancehall Hits Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71862,
+          "url": "http://listen.radioking.com/radio/26860/stream/305464",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71861,
+          "url": "http://listen.radioking.com/radio/26860/stream/59584",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71863,
+          "url": "https://listen.radioking.com/radio/26860/stream/305464",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 33258,
+      "name": "Radio Inter Tropicale",
+      "slug": "Radio_Inter_Tropicale",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/a7/3ea78ab431588161a9d2979011e58140.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "inter tropicale",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gros-Morne",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Gros-Morne, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54495,
+          "url": "https://stream.rcast.net/67549/;",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54494,
+          "url": "http://centova12.instainternet.com:8004/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 207831,
+      "name": "MAXXI Martinique",
+      "slug": "MAXXI_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/1c/871c9f581e26576e60b49cf0ab2dd9a5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "maxxi martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179209,
+          "url": "http://2stream.dyndns.org:8000/maxxi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 45072,
+      "name": "Radio Inter Tropicale",
+      "slug": "Radio_Inter_Tropicale_90.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/e6/33e60d8805116a00054fb98793f9b58f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "inter tropicale",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gros-Morne",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Gros-Morne, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72412,
+          "url": "http://centova12.instainternet.com:8004/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 281340,
+      "name": "Radio Karata",
+      "slug": "Radio_Karata",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/d0/b0d071a1ab281de75c9babea68058345.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "karata",
+        "alsoKnownAs": "RLK FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192236,
+          "url": "http://dynstreamgradioflux.fr:8060/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75521,
+      "name": "Mouv' FM",
+      "slug": "Mouv_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/0e/620e2cf52604faf60c51aff33079e06d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "mouv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "French Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118416,
+          "url": "https://listen.radioking.com/radio/255529/stream/300106",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118415,
+          "url": "http://listen.radioking.com/radio/255529/stream/300106",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 329259,
+      "name": "Mega FM Guadeloupe",
+      "slug": "Mega_FM_Guadeloupe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/33/9f3363e6545a68183c2b1171d0a495c4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "mega",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Anse-Bertrand",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Anse-Bertrand, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203141,
+          "url": "http://ecmanager4.pro-fhi.net:2810/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 207926,
+      "name": "SEM Radio",
+      "slug": "SEM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/49/714910fc0e2e872515c903bf8515c155.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "sem",
+        "alsoKnownAs": "Solutions Emploi Martinique Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "French News Other Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179237,
+          "url": "http://hosting.studioradiomedia.fr:1280/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253691,
+          "url": "https://hosting.studioradiomedia.fr:1280/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 81167,
+      "name": "Antilles Media - Zouk Hits",
+      "slug": "AntillesRadioTV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/a8/7da8488e8518f4b0a303087c2509d99f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "antilles zouk hits",
+        "alsoKnownAs": "Antilles Radio - Zouk Hits"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126383,
+          "url": "http://antillesmedia.pro-fhi.net:1165/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126384,
+          "url": "https://antillesmedia.pro-fhi.net:1165/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32995,
+      "name": "RCI - Latino",
+      "slug": "RCI_Latino",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/7a/7d7ad62e1156738f98cb390765b8756d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci latino",
+        "alsoKnownAs": "Radio Caraïbes International - Latino"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean French Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53943,
+          "url": "http://n12.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53944,
+          "url": "https://n12.rcs.revma.com/t0abpqyspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 130547,
+      "name": "Chérie FM Martinique",
+      "slug": "Cherie_FM_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/74/5f742b714dc4234f012be0734701ec3a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6 / 98.3",
+        "dialStripped": "1016 / 983"
+      },
+      "aliases": {
+        "cleanName": "cherie martinique",
+        "alsoKnownAs": "Chérie Fm Antilles - Martinique"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159519,
+          "url": "http://2stream.dyndns.org:8000/cheriefmmq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274036,
+          "url": "http://maxxi.studio/hls/cheriefmmq/live.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274038,
+          "url": "https://maxxi.studio/hls/cheriefmmq/live.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 29651,
+      "name": "Open Groove Radio",
+      "slug": "Open_Groove_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/71/8671646710435adc7f972f97406837f8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "open groove",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Drum and Bass House Reggae Techno Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 47671,
+          "url": "http://listen.radioking.com/radio/716966/stream/782657",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47674,
+          "url": "https://listen.radioking.com/radio/716966/stream/782657",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47673,
+          "url": "https://play.radioking.io/open-groove-radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47669,
+          "url": "http://www.radioking.com/play/open-groove-radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47670,
+          "url": "http://play.radioking.io/open-groove-radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47672,
+          "url": "https://www.radioking.com/play/open-groove-radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43424,
+      "name": "Antilles Media - Afrobeat",
+      "slug": "Antilles_Media_AM_Afrobeat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/b9/a1b9767960993207bdbab4e862f9397a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "antilles afrobeat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Afropop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69691,
+          "url": "http://antillesmedia.pro-fhi.net:1115/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254548,
+          "url": "https://antillesmedia.pro-fhi.net:1115/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44634,
+      "name": "RCI - Live",
+      "slug": "RCI_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/31/a43191e1fc8f684e4ebf9c81c208cee8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rci live",
+        "alsoKnownAs": "Radio Caraïbes International - Live"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dancehall French Latin Reggae Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 3,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71918,
+          "url": "https://stream.rcs.revma.com/gf7d96rtpwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71917,
+          "url": "http://stream.rcs.revma.com/gf7d96rtpwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 107313,
+      "name": "Radio Atlantique",
+      "slug": "Radio_Atlantique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/38/1f38543db8fb715a28a332cf4b100e99.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1 / 94.5",
+        "dialStripped": "1021 / 945"
+      },
+      "aliases": {
+        "cleanName": "atlantique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Pierre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Pierre, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Community Pop Rock Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148394,
+          "url": "http://s7.voscast.com:10432/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 40335,
+      "name": "Funradio Antilles",
+      "slug": "Fun_Radio_Guyane_102.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/cd/96cdb3532ac2c5004b27194327bf6948.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "funradio antilles",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Reggae Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64963,
+          "url": "http://manager2.streaming-ingenierie.fr:8050/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47198,
+      "name": "LouangeFM",
+      "slug": "LouangeFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/ab/f9abe36f8fe11f5a2d0a2903d318f25f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "louangefm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rivière-Pilote",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Rivière-Pilote, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74962,
+          "url": "http://ukwesta.streaming.broadcast.radio/louangefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74963,
+          "url": "https://ukwesta.streaming.broadcast.radio/louangefm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 7474491,
+      "name": "Radio Massabielle",
+      "slug": "Radio_Massabielle",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/7e/027e8ee7733623df24bc6bbe07c88248.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.8",
+        "dialStripped": "978"
+      },
+      "aliases": {
+        "cleanName": "massabielle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pointe-à-Pitre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Pointe-à-Pitre, Guadeloupe, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "16.2412500",
+          "longitude": "-61.5361400"
+        }
+      },
+      "genre": {
+        "text": "Catholic Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 234511,
+          "url": "https://radio.catholique-guadeloupe.org/radio-massabielle.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247261,
+          "url": "http://radio.catholique-guadeloupe.org/radio-massabielle.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 63,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 234510,
+          "url": "http://radio.catholique-guadeloupe.org:8000/radio-massabielle.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 393023,
+      "name": "Saint-Pierre & Miquelon 1ère Radio",
+      "slug": "Saint_Pierre_and_Miquelon_1ere_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/ac/81ac0da0cb72fd901ca85143d91ac841.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9",
+        "dialStripped": "979"
+      },
+      "aliases": {
+        "cleanName": "saint pierre miquelon 1ere",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Pierre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Pierre, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211588,
+          "url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211587,
+          "url": "http://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 64851850,
+      "name": "Antilles Media - Kompa Live",
+      "slug": "Antilles_Media_Kompa_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/c1/2ac17d952834219a981e057a9b318166.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "antilles kompa live",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "African Caribbean Hits Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282818,
+          "url": "https://antillesmedia.pro-fhi.net:1130/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282819,
+          "url": "https://antillesmedia.pro-fhi.net:1135/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282817,
+          "url": "http://antillesmedia.pro-fhi.net:1130/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 461132,
+      "name": "Super Radio",
+      "slug": "Super_Radio_105.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/1b/401b52a3fc8a7deab8df67212efac516.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "super",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rivière-Pilote",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Rivière-Pilote, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217794,
+          "url": "http://str81.streamakaci.com:9160/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 13543,
+      "name": "Radio Fréquence Caraibes - RFC Musique",
+      "slug": "RFC_Musique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/db/0bdba80465fba429b13eef2444fcbfed.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "frequence caraibes rfc musique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Carbet",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Carbet, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Jazz Salsa",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 18258,
+          "url": "http://stream.frequencecaraibe.fr:8020/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 18259,
+          "url": "https://stream.frequencecaraibe.fr:8020/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 96333,
+      "name": "Blue Melody School Radio",
+      "slug": "Blue_Melody_School_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/08/f108fdb1835309985d329df253fd6191.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "blue melody school",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 141155,
+          "url": "https://www.radioking.com/play/blue-melody-school-radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 141154,
+          "url": "http://www.radioking.com/play/blue-melody-school-radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32027,
+      "name": "Gospel Sound System",
+      "slug": "Gospel_Sound_System",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/bf/66bfd649c2712b74b24225489488109c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gospel sound system",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Christian Dancehall Gospel Rap Reggae Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51997,
+          "url": "http://altair.streamerr.co:8060/stream128/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52000,
+          "url": "https://altair.streamerr.co/stream/gssradio/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51999,
+          "url": "https://mira.streamerr.co/listen/gssradio/radio192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51998,
+          "url": "https://mira.streamerr.co/listen/gssradio/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51995,
+          "url": "http://mira.streamerr.co/listen/gssradio/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51996,
+          "url": "http://altair.streamerr.co/stream/gssradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg; charset=utf-8",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32813384,
+      "name": "Super Radio ",
+      "slug": "Super_Radio_11",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/ff/3dff3e68462e3222c60a6dc9c36d3616.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "super",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": ", Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 259058,
+          "url": "http://cdnradio.streamakaci.com/superradio.mp3/;",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 259059,
+          "url": "https://cdnradio.streamakaci.com/superradio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 259046,
+      "name": "Radio Imagine",
+      "slug": "Radio_Imagine_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/79/8d7988c3f11ea22af64276c1a8fb71cb.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "imagine",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Esprit",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Esprit, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188124,
+          "url": "http://listen.radioking.com/radio/33815/stream/69986",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 188125,
+          "url": "https://listen.radioking.com/radio/33815/stream/69986",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 134061,
+      "name": "CK Radio - Antilles Guyane",
+      "slug": "CK_Radio_Antilles_Guyane",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/03/5c03190b6de386400455260a4efacc75.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ck antilles guyane",
+        "alsoKnownAs": "CharleKing Radio - Antilles Guyane"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161405,
+          "url": "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 161404,
+          "url": "http://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 21162,
+      "name": "Jumble.FM",
+      "slug": "Jumble.FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/d2/f0d2db77616b1343c6182b484f8fae32.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jumble",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31308,
+          "url": "http://ca4.rcast.net:8048/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31309,
+          "url": "http://144.217.83.246:8048/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 209075,
+      "name": "Radio Fréquence Caraibes",
+      "slug": "Radio_Frequence_Caraibes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/1e/941e1541bbec91607063e9a5af325398.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5 / 106.6",
+        "dialStripped": "895 / 1066"
+      },
+      "aliases": {
+        "cleanName": "frequence caraibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Carbet",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Carbet, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179487,
+          "url": "http://stream.frequencecaraibe.fr:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179488,
+          "url": "https://stream.frequencecaraibe.fr:8000/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 81498,
+      "name": "Steevy FM",
+      "slug": "Steevy_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/da/13da195d92203f15482c4d9b445a4f34.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "steevy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Les Abymes",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Les Abymes, Guadeloupe, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126738,
+          "url": "https://www.radioking.com/play/steevy-fm3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126736,
+          "url": "http://www.radioking.com/play/steevy-fm3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126739,
+          "url": "https://listen.radioking.com/radio/561305/stream/620924",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126737,
+          "url": "http://listen.radioking.com/radio/561305/stream/620924",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 22553,
+      "name": "Radio Apal Jikanbout",
+      "slug": "Radio_APAL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/6c/606c8340318c8c37740798fce647a239.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9 / 107.8",
+        "dialStripped": "949 / 1078"
+      },
+      "aliases": {
+        "cleanName": "apal jikanbout",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Blues French Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34112,
+          "url": "http://www.radioking.com/play/jikanbouttv-radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34113,
+          "url": "https://www.radioking.com/play/jikanbouttv-radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 25817,
+      "name": "Handi FM Martinique",
+      "slug": "Handi_FM_Martinique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/52/f652a1eb1c8d9d8b365e61da560b070d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "handi martinique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fort-de-France",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Fort-de-France, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "14.6089200",
+          "longitude": "-61.0733400"
+        }
+      },
+      "genre": {
+        "text": "Folk French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40589,
+          "url": "http://hosting.studioradiomedia.fr:2720/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75684,
+      "name": "Radio Archipel FM",
+      "slug": "Radio_Archipel_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/87/ec87a04169d35c9fac6128e1940239f6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "archipel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint-Pierre",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Saint-Pierre, Martinique, Lesser Antilles, France",
+        "coordinates": {
+          "latitude": "47.3768156",
+          "longitude": "2.7742767"
+        }
+      },
+      "genre": {
+        "text": "Folk French Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118742,
+          "url": "https://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118741,
+          "url": "http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 209735,
+      "name": "Radio Fréquence Caraibes - RFC MIX",
+      "slug": "Radio_Frequence_Caraibes_RFC_MIX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/0a/cf0af298de363494b88bae322015a708.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "frequence caraibes rfc mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Carbet",
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": "Le Carbet, Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179685,
+          "url": "https://stream.frequencecaraibe.fr:8010/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179684,
+          "url": "http://stream.frequencecaraibe.fr:8010/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 486569,
+      "name": "Uber barato",
+      "slug": "Uber_barato",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uber barato",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Lesser Antilles, France",
+        "countryCode": null,
+        "locationText": ", Martinique, Lesser Antilles, France",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219973,
+          "url": "http://stream.zeno.fm/kfudurdfx38uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219974,
+          "url": "https://stream.zeno.fm/kfudurdfx38uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

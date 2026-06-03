@@ -1,0 +1,4684 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:32.730Z",
+  "endpoint": "/countries/Egypt/radios",
+  "countryCode": "eg",
+  "countryName": "Egypt",
+  "expectedCount": 57,
+  "count": 57,
+  "data": [
+    {
+      "id": 48410,
+      "name": "ERTU - راديو القرآن الكريم",
+      "slug": "Al_Quran_Al_Karim",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/f9/9cf9ae448970bed7cb7546299aaef956.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": "ertu rdyw lqran lkrym",
+        "alsoKnownAs": "ERTU - Holy Quran Radio , Al Quran Al Kareem Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 22320,
+        "byCountry": {
+          "us": 15,
+          "gb": 10,
+          "au": 6,
+          "de": 4,
+          "fr": 46,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 2,
+          "it": 24,
+          "ar": 1,
+          "ca": 7,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76839,
+          "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76838,
+          "url": "http://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 77,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72814,
+      "name": "اف ام شعبي",
+      "slug": "FM_Shaaby",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/09/cb09ac7f7afdea68fb24d82819508812.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "f m sh by",
+        "alsoKnownAs": "FM Shaaby"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Art Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6750,
+        "byCountry": {
+          "us": 10,
+          "gb": 2,
+          "au": 1,
+          "de": 2,
+          "fr": 10,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 5,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115146,
+          "url": "http://radio95.radioca.st:9010/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264941,
+          "url": "http://radio95.radioca.st:9010/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115147,
+          "url": "http://178.32.62.154:9010/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48552,
+      "name": "Holy Quran Radio",
+      "slug": "Holy_Quran_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/29/af29a595dd492a049af005caa260d7a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "holy quran",
+        "alsoKnownAs": "إذاعة القرآن الكريم"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6480,
+        "byCountry": {
+          "us": 13,
+          "gb": 5,
+          "au": 4,
+          "de": 3,
+          "fr": 24,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 6,
+          "it": 17,
+          "ar": 1,
+          "ca": 8,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77211,
+          "url": "http://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77212,
+          "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 87,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 36399923,
+      "name": "نجوم إف إم",
+      "slug": "Nogoom_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/f8/9df833dcc31a9b2968ed0d093ccceb13.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "njwm f m",
+        "alsoKnownAs": "Nogoum FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Middle Eastern Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 4680,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264779,
+          "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 171140,
+      "name": "نغم اف ام",
+      "slug": "Nagham_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/76/5f76f2137804e504fa0c7a0e1451e403.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.3",
+        "dialStripped": "1053"
+      },
+      "aliases": {
+        "cleanName": "ngm f m",
+        "alsoKnownAs": "Nagham FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4140,
+        "byCountry": {
+          "us": 11,
+          "gb": 3,
+          "au": 1,
+          "de": 2,
+          "fr": 5,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 0,
+          "ca": 2,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169739,
+          "url": "http://ahmsamir.radioca.st:8148/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169740,
+          "url": "https://ahmsamir.radioca.st/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265263,
+          "url": "http://ahmsamir.radioca.st:8148/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72825,
+      "name": "Arab Mix FM - Drama",
+      "slug": "Arab_Mix_FM_Drama",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/70/4370c2c5e9a599ad7f0ca84ec6777883.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "arab mix drama",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3840,
+        "byCountry": {
+          "us": 9,
+          "gb": 2,
+          "au": 3,
+          "de": 1,
+          "fr": 2,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 1,
+          "ca": 4,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115154,
+          "url": "https://stream.zeno.fm/egynebf171zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115153,
+          "url": "http://stream.zeno.fm/egynebf171zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49218,
+      "name": "ONsport FM",
+      "slug": "ONsport_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/06/080673b92a254a3680da1a85a696f1dc.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "onsport",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3750,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 248897,
+          "url": "https://carina.streamerr.co:2020/tunein/onsportfm/stream/pls",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251538,
+          "url": "http://carina.streamerr.co:2020/stream/OnSportFM/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 78562,
+          "url": "https://carina.streamerr.co:2020/stream/OnSportFM/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 78561,
+          "url": "http://carina.streamerr.co:8108/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264116,
+          "url": "http://carina.streamerr.co:8108/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 92059,
+      "name": "راديو 90 90",
+      "slug": "Radio_90_90",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/a2/75a2cf011e8f996e1f7f66ee4b63087e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "rdyw 90 90",
+        "alsoKnownAs": "Radio 90 90"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 3480,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137967,
+          "url": "https://9090streaming.mobtada.com/9090FMEGYPT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137966,
+          "url": "http://9090streaming.mobtada.com/9090FMEGYPT",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72836,
+      "name": "Arab Mix FM",
+      "slug": "Nogoum_Mix_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/b5/55b509ed07525b4be976d200a36059a4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "arab mix",
+        "alsoKnownAs": "Nogoum Mix FM , Arab Mixx , Mix Stars FM , MixDuo .  مذياع عرب مكس"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 4,
+          "gb": 3,
+          "au": 1,
+          "de": 3,
+          "fr": 6,
+          "br": 1,
+          "es": 3,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 7,
+          "ar": 1,
+          "ca": 4,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115172,
+          "url": "https://stream.zeno.fm/efx5psd00qruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115170,
+          "url": "https://stream.zeno.fm/wvqgc9kb1d0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115171,
+          "url": "https://stream.zeno.fm/uzxmk0c4138uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115169,
+          "url": "https://stream.zeno.fm/qb1zvsykm98uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115165,
+          "url": "http://stream.zeno.fm/qb1zvsykm98uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115166,
+          "url": "http://stream.zeno.fm/wvqgc9kb1d0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115168,
+          "url": "http://stream.zeno.fm/efx5psd00qruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115167,
+          "url": "http://stream.zeno.fm/uzxmk0c4138uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 153626,
+      "name": "إذاعة زاد للمنوعات الإسلامية",
+      "slug": "ZAD_Radio_Islamic_Maix",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/a5/cfa5be76326cadc6741a074fb4f65c7e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh zd llmnw t lslmy",
+        "alsoKnownAs": "ZAD Radio Islamic Maix"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Information Islamic Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2490,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165482,
+          "url": "http://stream.zeno.fm/tz821uv6huhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165483,
+          "url": "https://stream.zeno.fm/tz821uv6huhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72843,
+      "name": "Mega FM 92.7",
+      "slug": "Mega_FM_927",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/0e/0e0ee7f2f6665f7179a4260ab513e2d6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "mega 92.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Middle Eastern Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2130,
+        "byCountry": {
+          "us": 4,
+          "gb": 5,
+          "au": 1,
+          "de": 2,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115184,
+          "url": "http://megafm927.radioca.st:8260/mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 52728,
+      "name": "Days Old Radio",
+      "slug": "Days_Old_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/d8/35d85729ee9d758bbbb1ed9cd654bb61.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "days old",
+        "alsoKnownAs": "أيام زمان أف أم"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alexandria",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Alexandria, Alexandria, Egypt",
+        "coordinates": {
+          "latitude": "31.2156400",
+          "longitude": "29.9552700"
+        }
+      },
+      "genre": {
+        "text": "90s Arabic Classical Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2040,
+        "byCountry": {
+          "us": 5,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 85768,
+          "url": "https://stream-162.zeno.fm/aqx3usbtsg0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85766,
+          "url": "http://stream.zeno.fm/aqx3usbtsg0uv.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85767,
+          "url": "https://stream.zeno.fm/aqx3usbtsg0uv.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 65357,
+      "name": "محطة مصر",
+      "slug": "Mahatet_Masr",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/ca/74ca07114c8016e29b219e38a4182a69.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mht msr",
+        "alsoKnownAs": "Radio Mahatet Masr"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1800,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105784,
+          "url": "https://s3.radio.co/s9cb11828c/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 83,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105783,
+          "url": "https://s3.radio.co/s9cb11828c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105781,
+          "url": "http://s3.radio.co/s9cb11828c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72853,
+      "name": "راديو الرجال",
+      "slug": "Radio_Alrijal_Mens_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/d4/efd47ad88091b3ae2cbf9196c9199ef0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw lrjl",
+        "alsoKnownAs": "Radio Alrijal , Men's Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1770,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115189,
+          "url": "http://stream.zeno.fm/ebitxokyr7ptv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115191,
+          "url": "https://stream.zeno.fm/wrfc0nkbl2wuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115190,
+          "url": "http://stream.zeno.fm/wrfc0nkbl2wuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 52466,
+      "name": "Radio 90s FM",
+      "slug": "Nineties_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/31/0a31924442593293ca269491ceb45cb4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "90s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "90s Arabic Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1710,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 1,
+          "de": 3,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 85310,
+          "url": "http://178.33.135.244:20095/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85311,
+          "url": "http://eu1.fastcast4u.com:20095/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72884,
+      "name": "Arab Mix FM",
+      "slug": "Arab_Mix_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/32/513248cbf4f591f9e57da7eb29443dac.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "arab mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115242,
+          "url": "https://stream.zeno.fm/0ms1g2tgr18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115241,
+          "url": "http://stream.zeno.fm/0ms1g2tgr18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 171171,
+      "name": "صوت شباب مصر",
+      "slug": "Egonair",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/13/ad13923c2b91950d55ac5b121efd7d73.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "swt shbb msr",
+        "alsoKnownAs": "Egonair"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Information Politics Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 3,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169747,
+          "url": "http://www.egonair.com:8010/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169746,
+          "url": "http://radio.socialgenix.com:8004/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265907,
+          "url": "http://www.egonair.com:8010/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169748,
+          "url": "https://radio.socialgenix.com/8004/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265906,
+          "url": "http://radio.socialgenix.com:8004/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 25351,
+      "name": "راديو هيتس",
+      "slug": "Radio_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/8b/c58b86d4f3770c0f3f6b7c52ac80ab25.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.2",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "rdyw hyts",
+        "alsoKnownAs": "Radio Hits 88.2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39737,
+          "url": "http://radiohits882.radioca.st:8957/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265214,
+          "url": "http://radiohits882.radioca.st:8957/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 57300,
+      "name": "NRJ Egypt",
+      "slug": "NRJ_Egypt_Energy_Egypt",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/5f/1d5f12819ed401f53009fb1f854bcb63.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "nrj",
+        "alsoKnownAs": "Energy Egypt"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94690,
+          "url": "https://nrjstreaming.ahmed-melege.com/nrjegypt",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253135,
+          "url": "http://nrjstreaming.ahmed-melege.com/nrjegypt",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 171180,
+      "name": "Quran FM Telawa",
+      "slug": "Quran_FM_Telawa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/97/4f9756b9f3d52f9ab2cd21ca748c2a3c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "quran telawa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 1,
+          "de": 1,
+          "fr": 6,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169752,
+          "url": "http://stream.zeno.fm/htxf4zyvz2quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169754,
+          "url": "https://stream.zeno.fm/qdusqym4pp8vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169753,
+          "url": "http://stream.zeno.fm/qdusqym4pp8vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169755,
+          "url": "https://stream.zeno.fm/htxf4zyvz2quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72943,
+      "name": "راديو موجة",
+      "slug": "Radio_Moga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/44/1f4481fe17c7e0cac71d1da555038123.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw mwj",
+        "alsoKnownAs": "Radio Moga"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115320,
+          "url": "http://listen.radioking.com/radio/701108/stream/766352",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238503,
+          "url": "https://radio.hhost.host/8040/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115321,
+          "url": "https://listen.radioking.com/radio/701108/stream/766352",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238501,
+          "url": "http://radio.hhost.host/8040/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238502,
+          "url": "http://radio.hhost.host:8040/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238504,
+          "url": "https://radio.hhost.host:8040/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 171184,
+      "name": "الجونة اف ام",
+      "slug": "El_Gouna_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/d2/03d219e4e74eb00db03cd75bd6270672.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "ljwn f m",
+        "alsoKnownAs": "El Gouna FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hurghada",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Hurghada, Red Sea Governate, Egypt",
+        "coordinates": {
+          "latitude": "27.2573800",
+          "longitude": "33.8129100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169756,
+          "url": "http://82.201.132.237:8000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36591646,
+      "name": "Nile FM",
+      "slug": "Nile_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/e5/94e5f45f33fe2afc6cce512a5198ea59.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.2",
+        "dialStripped": "1042"
+      },
+      "aliases": {
+        "cleanName": "nile",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock World",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266079,
+          "url": "https://audio.nrpstream.com/listen/nile_fm/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72953,
+      "name": "راديو صوتك",
+      "slug": "Radio_Sotak_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/27/b827d57b1071dbbc763863e05cf78fb5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw swtk",
+        "alsoKnownAs": "Radio Sotak"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115333,
+          "url": "http://161.35.74.125:8000/sotak_64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115332,
+          "url": "http://161.35.74.125:8000/sotak_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115331,
+          "url": "http://161.35.74.125:8000/sotak_mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 90122,
+      "name": "SRK Online Radio",
+      "slug": "SRK_Online_Radio",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "srk online",
+        "alsoKnownAs": "Shah Rukh Khan Online Radio , شاروخان اون لاين"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 136549,
+          "url": "https://stream.zeno.fm/a69txeenvzzuv.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72981,
+      "name": "راديو الرجاء",
+      "slug": "Hope_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/91/499158ef83ff3c5011c7f46a3909255e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw lrj",
+        "alsoKnownAs": "Hope Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian Middle Eastern Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115367,
+          "url": "https://i7.streams.ovh/sc/hoperad2/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115366,
+          "url": "http://i7.streams.ovh:17000/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72961,
+      "name": "راديو دهب",
+      "slug": "Radio_Dahab_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/2f/272f189d8b1d1ac336da534acbc8d2fb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw dhb",
+        "alsoKnownAs": "Radio Dahab"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Art Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115345,
+          "url": "http://dahab.ice.infomaniak.ch/dahab-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115346,
+          "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72799,
+      "name": "Copt4G FM - Akbat Al'alam Radio",
+      "slug": "Copt4G",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/8b/f68b06e30e0ff9ea07e4dcd9109c4f72.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "copt4g akbat al alam",
+        "alsoKnownAs": "Copt4G FM - Arabic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115127,
+          "url": "http://66.70.249.70:5828/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 51331,
+      "name": "Radio Banha City Tarab",
+      "slug": "Radio_BanhaCity_Tarab",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/d5/07d50ffd20549f2157d005b4c40a3816.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "banha city tarab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banha",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Banha, Qalyubia, Egypt",
+        "coordinates": {
+          "latitude": "29.3993867",
+          "longitude": "31.3654094"
+        }
+      },
+      "genre": {
+        "text": "Arabic Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83214,
+          "url": "http://whsh4u-panel.com:14113/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 137415,
+      "name": "Rakoty Coptic Radio",
+      "slug": "Rakoty_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/3c/cb3cf5900d784e61114f3313b684e22b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rakoty coptic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alexandria",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Alexandria, Alexandria, Egypt",
+        "coordinates": {
+          "latitude": "31.2156400",
+          "longitude": "29.9552700"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161946,
+          "url": "https://sc-e1.streamcyclone.com/rakoty_live/rakoty/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 308,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72997,
+      "name": "راديو وينزي إف ام",
+      "slug": "Radio_Winzy_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/2f/fc2f7d484c283524870a1fc08ce6ba1d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw wynzy f m",
+        "alsoKnownAs": "Radio Winzy FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Spoken Word",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115389,
+          "url": "http://stream.zeno.fm/yfbtswgior5uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115390,
+          "url": "https://stream.zeno.fm/yfbtswgior5uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 111502,
+      "name": "BetterLife Radio",
+      "slug": "BetterLife_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/1d/2e1d5f3f657a693361350f9ebe6f21b2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "betterlife",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151077,
+          "url": "https://stream.radiojar.com/kc1d6k9ymy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151076,
+          "url": "http://stream.radiojar.com/kc1d6k9ymy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66618,
+      "name": "Copt4G FM - Meditation",
+      "slug": "Copt4G_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/41/43416dda0c74c69cfacc1594432c62fe.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "copt4g meditation",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107372,
+          "url": "http://66.70.249.70:5828/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107371,
+          "url": "http://66.70.249.70:5784/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72999,
+      "name": "إذاعة الرشد",
+      "slug": "Alrushd_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/58/c558f9860452f3fc383ceb883b52016b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh lrshd",
+        "alsoKnownAs": "Alrushd Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Devotional Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115397,
+          "url": "https://stream.zeno.fm/kk4c4a1eunhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115396,
+          "url": "http://stream.zeno.fm/kk4c4a1eunhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 111619,
+      "name": "Radio Hawaha Betary",
+      "slug": "Radio_Hawaha_Betary",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/64/61647719696704e2e9601558c80575cb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hawaha betary",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151208,
+          "url": "http://s44.myradiostream.com:9204/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151209,
+          "url": "https://s44.myradiostream.com/:9204/listen.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 171256,
+      "name": "راديو وياك",
+      "slug": "Radio_Wiyak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/ca/c8cad3ac66e6cafaa2fcc00d69181d23.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw wyk",
+        "alsoKnownAs": "Radio Wiyak"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277463,
+          "url": "http://work.radiowayak.org:8000/live.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277464,
+          "url": "http://work.radiowayak.org:8000/radio64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277465,
+          "url": "http://work.radiowayak.org:8000/radio96.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169778,
+          "url": "http://work.radiowayak.org/listen/live/live.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169779,
+          "url": "https://work.radiowayak.org/listen/live/live.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73088,
+      "name": "Diab FM",
+      "slug": "Diab_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/7e/d77ebe6c387af170ef9f4ab1eadb8df2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "diab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115540,
+          "url": "http://s7.voscast.com:7888/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73091,
+      "name": "Radio CLV",
+      "slug": "Radio_CLV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/72/2272386c7f72197bd49ec9b23ea98efc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "clv",
+        "alsoKnownAs": "Radio C'est la Vie , راديو سي لا في"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115542,
+          "url": "http://radio.therockeg.com:8000/clv_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 115545,
+          "url": "https://radio.therockeg.com/clv_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115543,
+          "url": "http://radio.therockeg.com:8000/clv_64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115544,
+          "url": "https://radio.therockeg.com/clv_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 42405,
+      "name": "Trans World Radio Arabic",
+      "slug": "Trans_World_Radio_Arabic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/2f/372fb6e2a633b985266824a1cfa1cecf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "trans world arabic",
+        "alsoKnownAs": "TWR Arabic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68173,
+          "url": "http://s4.radio.co/s46a512ea9/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68174,
+          "url": "https://s4.radio.co/s46a512ea9/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73066,
+      "name": "راديو القمر",
+      "slug": "Radio_Al_Qamar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/3a/5e3aca02336fc59c4b7c5822fe5aecf0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw lqmr",
+        "alsoKnownAs": "Radio Al Qamar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic News Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115508,
+          "url": "https://streamer3.premio.link/alqamar/shoutcast",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115507,
+          "url": "http://streamer3.premio.link/alqamar/shoutcast",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 139,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73061,
+      "name": "ZAD_Radio_Songs",
+      "slug": "ZAD_Radio_Songs",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/a5/cfa5be76326cadc6741a074fb4f65c7e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zad_radio_songs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Art Entertainment Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115498,
+          "url": "http://stream.zeno.fm/tnd62yv6huhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115499,
+          "url": "https://stream.zeno.fm/tnd62yv6huhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73097,
+      "name": "Shurooq Ramadan Radio",
+      "slug": "Shurooq_Ramadan_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/0e/6b0e7d36aea95c0104d28d83a9b3b277.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shurooq ramadan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115554,
+          "url": "http://stream.zeno.fm/wu9yvyuzpnhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115555,
+          "url": "https://stream.zeno.fm/wu9yvyuzpnhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73051,
+      "name": "راديو نكست",
+      "slug": "Radio_Next_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/10/5c1025c0d2d89fbedf4b438a6e8852cc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw nkst",
+        "alsoKnownAs": "Radio Next"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115484,
+          "url": "https://stream.zeno.fm/z6duygngt68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115483,
+          "url": "http://stream.zeno.fm/z6duygngt68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 171297,
+      "name": "Semba_n",
+      "slug": "Semba_n",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/6b/216bb349380384b53794cba7953c41c1.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "semba_n",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Brazilian Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169793,
+          "url": "https://stream.zeno.fm/xwfbowcb2lnvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169792,
+          "url": "http://stream.zeno.fm/xwfbowcb2lnvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49959,
+      "name": "Yousef Radio",
+      "slug": "Yousef_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/63/1863ed928fb8bcbc1edbc753c888e61d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yousef",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80495,
+          "url": "http://stream.zeno.fm/wzjlsi7wwzttv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80496,
+          "url": "https://stream.zeno.fm/wzjlsi7wwzttv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73098,
+      "name": "Shurooq Islamic Mix ",
+      "slug": "Shurooq_Islamic_Mix",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/63/e163fc259aace58bf8513fb7b1df6ff5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shurooq islamic mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115557,
+          "url": "https://stream.zeno.fm/x1t4pvb3dkhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115556,
+          "url": "http://stream.zeno.fm/7yc6z3b3dkhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73080,
+      "name": "مدرسة الشمامسة",
+      "slug": "Deacons_School",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/00/9d00736faece137e12cbb522cdc30368.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mdrs lshmms",
+        "alsoKnownAs": "Deacons School"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115525,
+          "url": "http://198.154.254.10:7006/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268423,
+          "url": "http://198.154.254.10:7006/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49993,
+      "name": "Radio Right",
+      "slug": "Radio_Right",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/d9/21d9e97690a71a3e11194f3e5ec1708d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "right",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80557,
+          "url": "http://stream.zeno.fm/3162vw7gpkhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80558,
+          "url": "https://stream.zeno.fm/3162vw7gpkhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 122207,
+      "name": "Cairo Business Radio (CBR)",
+      "slug": "Cairo_Business_Radio_CBR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/53/8353d067f31b29817e85254de279fe1c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "business cbr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Business Lite Pop Middle Eastern Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156400,
+          "url": "http://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156401,
+          "url": "https://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 171321,
+      "name": "TIBA Radio",
+      "slug": "TIBA_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/c0/f5c0373efe71813d47be0aa5a88ba7b2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tiba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hurghada",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Hurghada, Red Sea Governate, Egypt",
+        "coordinates": {
+          "latitude": "27.2573800",
+          "longitude": "33.8129100"
+        }
+      },
+      "genre": {
+        "text": "Hits Information Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169802,
+          "url": "http://s1.voscast.com:10026/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73129,
+      "name": "Call to Salvation Radio",
+      "slug": "Call_to_Salvation_Radio",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "call to salvation",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115604,
+          "url": "http://s8.streammonster.com:8218/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268425,
+          "url": "http://s8.streammonster.com:8218/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 171301,
+      "name": "1tmsadson",
+      "slug": "1tmsadson",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/4e/ad4e036963f942b66ff65315d192b3b9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1tmsadson",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169794,
+          "url": "http://stream.zeno.fm/s00fu819938uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169795,
+          "url": "https://stream.zeno.fm/s00fu819938uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 171273,
+      "name": "Radio Sotak",
+      "slug": "Radio_Sotak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/4b/3d4b5bd27196df123df1fc114334c690.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sotak",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169780,
+          "url": "http://109.74.10.39:8300/rs_mp3_96/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269517,
+          "url": "http://109.74.10.39:8300/rs_mp3_96/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60365,
+      "name": "Christian Vibes",
+      "slug": "Christian_Vibes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/ab/8daba29274b476c06581c6aea97b86ed.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christian vibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Giza",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Giza, Egypt",
+        "coordinates": {
+          "latitude": "29.3993867",
+          "longitude": "31.3654094"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98671,
+          "url": "http://stream.zeno.fm/nmjevk2nx3ruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98672,
+          "url": "https://stream.zeno.fm/nmjevk2nx3ruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 57032495,
+      "name": "AlMalak Radio",
+      "slug": "AlMalak_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/f0/29f0de0ee6c50b40548708bd97bc1d72.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "almalak",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alexandria",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Alexandria, Alexandria, Egypt",
+        "coordinates": {
+          "latitude": "31.2156400",
+          "longitude": "29.9552700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280955,
+          "url": "https://almalakradio.out.airtime.pro/almalakradio_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280954,
+          "url": "http://almalakradio.out.airtime.pro/almalakradio_a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 57032496,
+      "name": "St Markos radio",
+      "slug": "St_Markos_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/29/0d2913f9fc9a6fc36cffb701398ebfec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "st markos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": "Cairo, Cairo, Egypt",
+        "coordinates": {
+          "latitude": "30.0626300",
+          "longitude": "31.2496700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280956,
+          "url": "http://stream.radiojar.com/hrec7yp7nzzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280957,
+          "url": "https://stream.radiojar.com/hrec7yp7nzzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60595,
+      "name": "ChristianEgy Fm",
+      "slug": "ChristianEgy_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/df/c8dfd10080bad6bc2aef6ce4a45171a4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christianegy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "locationText": ", Egypt",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Children & Family Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99113,
+          "url": "http://stream.zeno.fm/u1c0d08yyv8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99114,
+          "url": "https://stream.zeno.fm/u1c0d08yyv8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

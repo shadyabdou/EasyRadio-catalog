@@ -1,0 +1,1091 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:54.643Z",
+  "endpoint": "/countries/French Polynesia/radios",
+  "countryCode": "pf",
+  "countryName": "French Polynesia",
+  "expectedCount": 13,
+  "count": 13,
+  "data": [
+    {
+      "id": 21267,
+      "name": "Tiare FM",
+      "slug": "Tiare_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/9e/b09eee0f3daaec4aa869625143287397.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.2",
+        "dialStripped": "1042"
+      },
+      "aliases": {
+        "cleanName": "tiare",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Latin Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 10,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 12,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31531,
+          "url": "https://live.tiarefm.pf:8443/tiarefm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31530,
+          "url": "http://live.tiarefm.pf:8000/tiarefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75852,
+      "name": "Polynésie 1ère Radio",
+      "slug": "Polynesie1ere_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/94/35949964d2c75e5bee4945802927104f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "polynesie 1ere",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 12,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119037,
+          "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 119036,
+          "url": "http://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75869,
+      "name": "HITI FM Tahiti",
+      "slug": "HITI_FM_Tahiti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/16/1916ab35046a7bf095481d837b280cba.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "hiti tahiti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mo'orea",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Mo'orea, French Polynesia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 9,
+          "gb": 0,
+          "au": 1,
+          "de": 2,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119065,
+          "url": "https://stream.radiojar.com/u0yz7p0mb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 119064,
+          "url": "http://stream.radiojar.com/u0yz7p0mb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 22993662,
+      "name": "Radio Te Reo o Tefana",
+      "slug": "Radio_Te_Reo_o_Tefana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/1d/5c1da14308e98d7f31681c680c641fc0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8 / 97.4",
+        "dialStripped": "928 / 974"
+      },
+      "aliases": {
+        "cleanName": "te reo o tefana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 245676,
+          "url": "https://hosting.radiomedia.fr:3485/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245677,
+          "url": "https://hosting.radiomedia.fr:3480/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245675,
+          "url": "http://hosting.radiomedia.fr:3480/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 21650,
+      "name": "Api FM",
+      "slug": "Api_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/11/7011dc4192ae8076fcf4e4065060facb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "api",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "French Hits Reggae Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32358,
+          "url": "http://listen.radioking.com/radio/397657/stream/449632",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32359,
+          "url": "https://listen.radioking.com/radio/397657/stream/449632",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75443,
+      "name": "Radio 1 Tahiti",
+      "slug": "Radio_1_Tahiti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/e2/fce2410b28ead83cb969337bd53361b4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "1 tahiti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118306,
+          "url": "http://live.radio1.pf:8001/radio1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69828,
+      "name": "Radio Maria No Te Hau",
+      "slug": "Radio_Maria_No_Te_Hau",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/28/b728fbc85caacc88d4be199b6a00bb8a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "maria no te hau",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111160,
+          "url": "http://stric6.streamakaci.com:80/radiomarianotehau.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111159,
+          "url": "http://stric6.streamakaci.com/radiomarianotehau.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111161,
+          "url": "https://stric6.streamakaci.com/radiomarianotehau.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75878,
+      "name": "Radio Te Vevo (RTV)",
+      "slug": "Radio_Te_Vevo_RTV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/c5/44c5a18df19b9b1ea3b2912f52f5544e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "te vevo rtv",
+        "alsoKnownAs": "RTV Tahiti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119073,
+          "url": "http://radio.pftnstv.com:8000/rtv-tahiti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 25561,
+      "name": "Tahiti Web Radio (TWR)",
+      "slug": "Radio_Web_de_Tahiti_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/f0/f2f0d04d937ea93771a7e1e0248cdf8f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tahiti web twr",
+        "alsoKnownAs": "Radio Web de Tahiti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": ", French Polynesia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk French Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40118,
+          "url": "http://s10.myradiostream.com:36098/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40119,
+          "url": "http://s10.myradiostream.com:36098/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75446,
+      "name": "NRJ Tahiti",
+      "slug": "NRJ_Tahiti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/c6/35c6455043701612ae5c23b05b636bd1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "nrj tahiti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118309,
+          "url": "https://www.radioking.com/play/nrj-tahiti1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118308,
+          "url": "http://listen.radioking.com/radio/397660/stream/449635",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118310,
+          "url": "https://listen.radioking.com/radio/397660/stream/449635",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118307,
+          "url": "http://www.radioking.com/play/nrj-tahiti1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 54677,
+      "name": "Tahiti Breeze 97.5",
+      "slug": "Tahiti_Breeze_97.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/e3/d7e322bfe3991c9e2962562a04ec4738.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "tahiti breeze 97.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "60s Country Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88990,
+          "url": "http://18093.live.streamtheworld.com:80/SP_R4345939_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 247856,
+          "url": "http://18093.live.streamtheworld.com:3690/SP_R4345939_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 88989,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4345939.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 75883,
+      "name": "Radio LVDL",
+      "slug": "Radio_LVDL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/1c/c21caccd7a319a3c3659833d51fda26e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.2",
+        "dialStripped": "1022"
+      },
+      "aliases": {
+        "cleanName": "lvdl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Christian French Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119078,
+          "url": "http://listen.radioking.com/radio/3318/stream/63163",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 119079,
+          "url": "https://listen.radioking.com/radio/3318/stream/63163",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 13952405,
+      "name": "23.6 Radio Tahiti",
+      "slug": "23.6_Radio_Tahiti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c9/6d/c96da481c76832e672b8d2a7ccf58185.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "23.6 tahiti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Papeete",
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "locationText": "Papeete, Tahiti, French Polynesia",
+        "coordinates": {
+          "latitude": "-17.5373300",
+          "longitude": "-149.5665000"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239135,
+          "url": "https://uksoutha.streaming.broadcast.radio:19641/236-radio-tahiti",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 251,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239132,
+          "url": "http://uksoutha.streaming.broadcast.radio/236-radio-tahiti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 244,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239134,
+          "url": "https://uksoutha.streaming.broadcast.radio/236-radio-tahiti",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 259,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239133,
+          "url": "http://uksoutha.streaming.broadcast.radio:19641/236-radio-tahiti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 246,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

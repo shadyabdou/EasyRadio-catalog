@@ -1,0 +1,156 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:39.507Z",
+  "endpoint": "/countries/Guinea-Bissau/radios",
+  "countryCode": "gw",
+  "countryName": "Guinea-Bissau",
+  "expectedCount": 2,
+  "count": 2,
+  "data": [
+    {
+      "id": 301,
+      "name": "Rádio Popular FM",
+      "slug": "Radio_Popular_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/f9/43f91a5418a532fba98d5981f525b7ba.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "popular",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antula",
+        "countryName": "Guinea-Bissau",
+        "countryCode": "GW",
+        "locationText": "Antula, Bissau, Guinea-Bissau",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Pop Portuguese Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 744,
+          "url": "http://server10.srvsh.com.br:8550/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "name": "Radio Bantaba",
+      "slug": "Radio_Bantaba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/bf/d4bfcae3084bae9b55c7019b0401d049.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.4",
+        "dialStripped": "1024"
+      },
+      "aliases": {
+        "cleanName": "bantaba",
+        "alsoKnownAs": "Radio TV Bantaba"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bissau",
+        "countryName": "Guinea-Bissau",
+        "countryCode": "GW",
+        "locationText": "Bissau, Bissau, Guinea-Bissau",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7848,
+          "url": "https://radio.streemlion.com:6175/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7847,
+          "url": "http://radio.streemlion.com:6170/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

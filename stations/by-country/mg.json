@@ -1,0 +1,2120 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:37.519Z",
+  "endpoint": "/countries/Madagascar/radios",
+  "countryCode": "mg",
+  "countryName": "Madagascar",
+  "expectedCount": 25,
+  "count": 25,
+  "data": [
+    {
+      "id": 69148,
+      "name": "Radio Don Bosco",
+      "slug": "Radio_Don_Bosco",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/e7/0de72945fe15f2c935b7ed295e7ac573.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.4",
+        "dialStripped": "934"
+      },
+      "aliases": {
+        "cleanName": "don bosco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Christian Culture Education News Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1650,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 54,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 4,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265661,
+          "url": "http://onair15.xdevel.com:9248/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110090,
+          "url": "http://onair15.xdevel.com:9248/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 22153,
+      "name": "Radio Emia",
+      "slug": "radioemia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/c6/7bc6b8fc9e46610b92b574eb644a9b78.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "emia",
+        "alsoKnownAs": "Malagasy Evangelical Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Blues Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 9,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 242153,
+          "url": "https://a6.asurahosting.com:7840/radio3.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242155,
+          "url": "https://a6.asurahosting.com:7840/radio2.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 33311,
+          "url": "http://a6.asurahosting.com:7840/radio2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242154,
+          "url": "https://a6.asurahosting.com:7840/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 33312,
+          "url": "http://a6.asurahosting.com:7840/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 33310,
+          "url": "http://a6.asurahosting.com:7840/radio3.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 33313,
+          "url": "http://a6.asurahosting.com:7840/radio4.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 65391,
+      "name": "RDJ 96.6 FM",
+      "slug": "RDJ_FM_Radio_Des_Jeunes_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/a6/7da6ed6cfb7c83b887fa90805fa37a6b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "rdj 96.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1530,
+        "byCountry": {
+          "us": 6,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 39,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105818,
+          "url": "http://rdj966.net:8000/rdj966.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 323959,
+      "name": "Radio Vaovao Mahasoa",
+      "slug": "Radio_Vaovao_Mahasoa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/77/3b774e3ec3df37639930416475cd19e5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.8",
+        "dialStripped": "1068"
+      },
+      "aliases": {
+        "cleanName": "vaovao mahasoa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 29,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 7,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 284736,
+          "url": "https://443-1.autopo.st/193/listen.mp3/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202497,
+          "url": "http://54.38.81.22:7777/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202498,
+          "url": "https://securestreams5.autopo.st:1926/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265033,
+          "url": "http://54.38.81.22:7777/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 194353,
+      "name": "Radio Fahazavana",
+      "slug": "Radio_Fahazavana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/ec/beece0ecbfcd9e05e4a693d61aeef6a0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "fahazavana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 23,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175771,
+          "url": "https://listen.radioking.com/radio/3657/stream/11144",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175770,
+          "url": "http://www.radioking.com/play/radiofahazavana",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175769,
+          "url": "http://listen.radioking.com/radio/3657/stream/11144",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175772,
+          "url": "https://www.radioking.com/play/radiofahazavana",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 324852,
+      "name": "Radio Maria Madagascar",
+      "slug": "Radio_Maria_Madagascar_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/79/dc79df9abfb0cd475bc12a3cc7c8a27e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.0",
+        "dialStripped": "970"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ambositra",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Ambositra, Madagascar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202629,
+          "url": "http://51.77.84.64:8110/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202630,
+          "url": "http://dreamsiteradiocp4.com:8110/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 111426,
+      "name": "Tiako Be",
+      "slug": "Tiako_be_La_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/23/172358c5efd964c82a25f5884b9e32bc.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tiako be",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151010,
+          "url": "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151008,
+          "url": "http://tiakobe.ice.infomaniak.ch/tiakobe-64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 103681,
+      "name": "RNA Webradio by DRS: Radio RNA Antalaha Madagascar",
+      "slug": "RNA_Webradio_by_DRS_Radio_RNA_Antalaha_Madagascar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/56/f556d8df6fee5a46ac6c7cd70380c8c9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rna webradio by drs rna antalaha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antalaha",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antalaha, Antalaha, Madagascar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 9,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145258,
+          "url": "http://drs-live-rna.gasy-internet.info:9001/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145260,
+          "url": "http://flux-radio.dagoradiosound.info:9001/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258020,
+          "url": "http://51.75.24.191:9001/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145259,
+          "url": "http://51.75.24.191:9001/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256446,
+          "url": "http://51.75.24.191:9005/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 25468,
+      "name": "Taratra FM",
+      "slug": "Taratra_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/ec/9eec33cade949b3fa0ebc65fc3be6cbd.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.2",
+        "dialStripped": "1062"
+      },
+      "aliases": {
+        "cleanName": "taratra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Folk News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 12,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39944,
+          "url": "http://41.188.43.211:8000/taratraradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 338424,
+      "name": "Radio MTV Madagascar",
+      "slug": "Radio_Mtv_Madagascar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/ac/3dac128bc86c0cca366d6665a3db6c0b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mtv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204423,
+          "url": "http://a9.asurahosting.com:7630/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204424,
+          "url": "https://a9.asurahosting.com:7630/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 25414,
+      "name": "Radio Paradisagasy",
+      "slug": "Paradisagasy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/91/8791e1dd39f68ce9b77fa0866e15ea3f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Majunga",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Majunga, Madagascar",
+        "coordinates": {
+          "latitude": "-19.1619369",
+          "longitude": "47.4142221"
+        }
+      },
+      "genre": {
+        "text": "Folk Latin Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39856,
+          "url": "http://51.159.66.120:10018/paradisagasy",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 194646,
+      "name": "Radio Fanambarana 98.4",
+      "slug": "Radio_Fanambarana_98.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/4b/e04b59f82614ae99216ae5cf5c7a92c0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "fanambarana 98.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Christian French Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 10,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264592,
+          "url": "http://serveur.wanastream.com:21300/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264593,
+          "url": "http://serveur.wanastream.com:21300/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175817,
+          "url": "http://serveur.wanastream.com:21300/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 39295,
+      "name": "Soa i Madagasikara",
+      "slug": "Soa_i_Madagasikara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/f3/6bf3aa2fd6ea5f1be19f668253675ff2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "soa i madagasikara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ambohidratrimo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Ambohidratrimo, Madagascar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Folk Latin World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63849,
+          "url": "http://planner.soaimadagasikara.org:8080/streaming",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43692,
+      "name": "JRadio",
+      "slug": "JRadio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/7a/137a9c28c5943eb3bf57d21f9f8f4b95.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jradio",
+        "alsoKnownAs": "Journal Madagascar Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70229,
+          "url": "http://stream.zeno.fm/0qfx700ruzzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70230,
+          "url": "https://stream.zeno.fm/0qfx700ruzzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 422351,
+      "name": "Radio RNA Antananarivo",
+      "slug": "Radio_RNA_Antananarivo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/ff/9eff9061fa6c3acb0f2c37e3967cd7b1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "rna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Dance Latin Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214310,
+          "url": "http://stream.zeno.fm/p1zt1ahsks8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214311,
+          "url": "https://stream.zeno.fm/p1zt1ahsks8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214309,
+          "url": "http://stream.streamgenial.stream/p1zt1ahsks8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 234123,
+      "name": "TSARA VIBE RADIO",
+      "slug": "Haja_MIC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/63/3363cc5cfc9daea9b4f9461601984ff0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tsara vibe",
+        "alsoKnownAs": "Haja MIC [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279914,
+          "url": "http://stream.zeno.fm/squ603a6cxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183744,
+          "url": "https://stream.zeno.fm/cv0rw3a6cxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183743,
+          "url": "http://stream.zeno.fm/cv0rw3a6cxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279915,
+          "url": "https://stream.zeno.fm/squ603a6cxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 340985,
+      "name": "RFI Musique",
+      "slug": "RFI_Musique_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/eb/49ebc271b570d029a1588da48e79b109.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "rfi musique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Community Culture French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 250655,
+          "url": "https://live02.rfi.fr/rfimusiquemonde-64k.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 250654,
+          "url": "https://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204548,
+          "url": "http://live02.rfi.fr/rfimusiquemonde-32k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204549,
+          "url": "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246541,
+          "url": "https://live02.rfi.fr/rfimusiquemonde-32k.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204550,
+          "url": "http://live02.rfi.fr/rfimusiquemonde-64k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69781,
+      "name": "Radio Feon'ny Filazantsara",
+      "slug": "Radio_Feonny_Filazantsara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/bc/c7bcb7c00adde37cb6581eac861010f7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "feon filazantsara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antsirabe",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antsirabe, Madagascar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111081,
+          "url": "http://fpsnew1.listen2myradio.com:8622/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111080,
+          "url": "http://82.145.63.6:8622/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 9010420,
+      "name": "Radio Rock Madagascar",
+      "slug": "Radio_Rock_Madagascar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/0b/700bffe5a8899af43c3242299c934de0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236166,
+          "url": "https://tanjona.radioca.st/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236165,
+          "url": "http://tanjona.radioca.st:8125/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 69938,
+      "name": "Radio Fivoarana",
+      "slug": "Radio_Fivoarana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/7c/907c84cf766ec274987257eed683e042.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.2",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "fivoarana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Education Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111404,
+          "url": "http://serveur.wanastream.com:9000/stream.oggg/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111403,
+          "url": "http://serveur.wanastream.com:9000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 75505,
+      "name": "Alliance 92",
+      "slug": "Alliance_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/21/4f21b5333f97b1bf07122cc347128f5d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "alliance 92",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "French Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118374,
+          "url": "http://41.188.43.211:8000/alliance92.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 15820838,
+      "name": "Radio Mana Balsama",
+      "slug": "Radio_Mana_Balsama",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/32/4732adabbba5449db7496a9f7a49625e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.6",
+        "dialStripped": "986"
+      },
+      "aliases": {
+        "cleanName": "mana balsama",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240470,
+          "url": "http://54.38.81.22:7710/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 10471275,
+      "name": "Radio Malagasy Madagascar",
+      "slug": "Radio_Vazo_Gasy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/d9/2bd936fac780317b26b1f4213c21b3bb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tamatava",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Tamatava, Madagascar",
+        "coordinates": {
+          "latitude": "-19.1619369",
+          "longitude": "47.4142221"
+        }
+      },
+      "genre": {
+        "text": "Art Culture Entertainment Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237444,
+          "url": "http://stream.radiovazogasy.com:8001/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 259324,
+          "url": "http://178.32.99.187:8001/stream/1/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237445,
+          "url": "http://178.32.99.187:8001/stream/1/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 484938,
+      "name": "NetPro.TV Radio",
+      "slug": "NetPro.TV_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/ad/45adee0d34e77d17678eb0f5d4b4b7d7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "netpro tv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219824,
+          "url": "https://radio.netpro.mg/arretbus23.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 80180,
+      "name": "Joy Radio Africa",
+      "slug": "Joy_Radio_Africa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/62/2362a08d32ce62b2451f06293e869b0a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "joy africa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Antananarivo",
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "locationText": "Antananarivo, Analamanga, Madagascar",
+        "coordinates": {
+          "latitude": "-18.9136800",
+          "longitude": "47.5361300"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125142,
+          "url": "https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125140,
+          "url": "http://a1.bisericilive.com:80/joyradioafricacom.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125141,
+          "url": "http://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    }
+  ]
+}

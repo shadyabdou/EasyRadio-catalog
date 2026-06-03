@@ -1,0 +1,82 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:15.555Z",
+  "endpoint": "/countries/Palau/radios",
+  "countryCode": "pw",
+  "countryName": "Palau",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 56244769,
+      "name": "Palau Qave Radio",
+      "slug": "Palau_Qave_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/43/3743b056f3d68520fa824f165bee8a77.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.9",
+        "dialStripped": "899"
+      },
+      "aliases": {
+        "cleanName": "qave",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Koror",
+        "countryName": "Palau",
+        "countryCode": "PW",
+        "locationText": "Koror, Palau",
+        "coordinates": {
+          "latitude": "7.5004300",
+          "longitude": "134.6235500"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280748,
+          "url": "http://uk15freenew.listen2myradio.com:20648/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7503 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:03.894Z",
+  "endpoint": "/countries/Nepal/radios",
+  "countryCode": "np",
+  "countryName": "Nepal",
+  "expectedCount": 92,
+  "count": 92,
+  "data": [
+    {
+      "id": 69093,
+      "name": "Radio Kantipur",
+      "slug": "Kantipur_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/6b/646be215fa27b5c5726b38b80c484f22.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1 / 101.8",
+        "dialStripped": "961 / 1018"
+      },
+      "aliases": {
+        "cleanName": "kantipur",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment News Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3780,
+        "byCountry": {
+          "us": 8,
+          "gb": 2,
+          "au": 6,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 22,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 110040,
+          "url": "http://broadcast.radiokantipur.com:7248/stream",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110041,
+          "url": "http://radio-broadcast.ekantipur.com:7248/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249776,
+          "url": "http://broadcast.radiokantipur.com:7248/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264915,
+          "url": "http://radio-broadcast.ekantipur.com:7248/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 66733,
+      "name": "Himal Radio - Bhajans",
+      "slug": "Himal_Radio_Bhajans",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/a9/b1a9304e62d280072c73331289229200.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "himal bhajans",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Devotional Folk Meditation Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3300,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 151,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107544,
+          "url": "http://streaming.webhostnepal.com:8070/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 92526,
+      "name": "Radio Nepal",
+      "slug": "Radio_Nepal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/d1/76d19814bb1ffa9930cff530ea93361b.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "792",
+        "dialStripped": "792"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2490,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 15,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 138139,
+          "url": "http://202.45.144.110:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 175164,
+      "name": "Ujyaalo 90 Network",
+      "slug": "Ujyaalo_90_Network_90.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/be/c4bee69c976cb51bf93d3fb9b30c8e56.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "ujyaalo 90 network",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Community Education Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171282,
+          "url": "https://stream.zenolive.com/wtuvp08xq1duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 171283,
+          "url": "https://stream.zeno.fm/wtuvp08xq1duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 171281,
+          "url": "http://stream.zeno.fm/wtuvp08xq1duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 171280,
+          "url": "http://stream.zenolive.com/wtuvp08xq1duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 112422,
+      "name": "Kalika FM",
+      "slug": "Kalika_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/95/6c95158737b63e32dfc87cb6c0eb09bd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "kalika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bharatpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Bharatpur, Chitwan, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 5,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 5,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 259308,
+          "url": "http://streaming.softnep.net:7740/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 259309,
+          "url": "http://streaming.softnep.net:7740/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151930,
+          "url": "http://streaming.softnep.net:7740/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "name": "Bhojpuriya FM",
+      "slug": "Bhojpuriya_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/33/a5332936c00274153756be13df2a8acd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "bhojpuriya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 62,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 2310,
+          "url": "http://streaming.softnep.net:8143/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262100,
+          "url": "http://streaming.softnep.net:8143/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262101,
+          "url": "http://streaming.softnep.net:8143/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 88820,
+      "name": "Radio Bhorukawa",
+      "slug": "Radio_Bhorukawa_92.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/1d/6b1db0f50dca21b0031da1293e69ca0a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "bhorukawa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajbiraj",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Rajbiraj, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1320,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 68,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242762,
+          "url": "https://live.itech.host:8374/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134734,
+          "url": "https://live.itech.host:8379/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134733,
+          "url": "http://live.itech.host:8374/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 38750,
+      "name": "Radio Thaha Sanchar",
+      "slug": "Radio_Thaha_Sanchar_99.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/d7/16d7ca0b83b509b1a2625cd5ba9c5fa6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.4",
+        "dialStripped": "994"
+      },
+      "aliases": {
+        "cleanName": "thaha sanchar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62887,
+          "url": "http://streaming.softnep.net:8025/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 72308,
+      "name": "Himal Radio - Hindi Classic",
+      "slug": "Himal_Radio_Hindi_Classic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/30/313058970ed80491fca37d9bd8844bea.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "himal hindi classic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Classical Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 20,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114537,
+          "url": "http://streaming.webhostnepal.com:8012/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 71,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 221009,
+      "name": "Himal Radio - Hindi Ghazals",
+      "slug": "Himal_Radio_Hindi_Ghazals",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/d2/08d2ec0c775e01ca526889a7cf8ed462.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "himal hindi ghazals",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Art Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 21,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181467,
+          "url": "http://streaming.webhostnepal.com:8018/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 72318,
+      "name": "Himal Radio - Hindi Filmy",
+      "slug": "Himal_Radio_Hindi_Filmy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/7d/f87d572943d5535f2bc5eb09a64d20bc.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "himal hindi filmy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Hits Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 13,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114555,
+          "url": "http://streaming.webhostnepal.com:8020/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 345426,
+      "name": "नेपाली रेडियो नेटवर्क",
+      "slug": "Nepali_Radio_Network",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/0b/930b4a3c70ce6bbf82f9f14171683b25.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "nepaalii reddiyo nettvrk",
+        "alsoKnownAs": "Nepali Radio Network , Radio NRN 99.1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205281,
+          "url": "http://astream.nepalipatro.com.np:8239/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205282,
+          "url": "https://astream.nepalipatro.com.np:8239/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 103682,
+      "name": "Radio Annapurna Nepal",
+      "slug": "Citizen_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/99/a69995209cbbce28024dfb05bf132064.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "annapurna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145261,
+          "url": "http://shoutcast.prixa.live/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 112639,
+      "name": "Radio Mithila",
+      "slug": "Radio_Mithila_100.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/b8/53b8b0ced4c9c6b9104186fc104797c4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "mithila",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Janakpurdham",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Janakpurdham, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Classical Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 18,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152023,
+          "url": "http://streaming.hamropatro.com:8244/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152022,
+          "url": "http://streaming.hamropatro.com:8244/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 106862,
+      "name": "Hits FM 91.2",
+      "slug": "Hits_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/5e/395ef0505838fb8378747ba6ef030ab4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "hits 91.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Classical Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 2,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266390,
+          "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148040,
+          "url": "http://149.56.157.81:5042/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148041,
+          "url": "http://149.56.157.81/proxy/hitsfm912/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237947,
+          "url": "http://149.56.157.81:5042/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148039,
+          "url": "http://usa15.fastcast4u.com:5042/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 89054,
+      "name": "रेडियो वीरगन्ज",
+      "slug": "Radio_Birgunj",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/00/1e0031e200b89a266ece7b7bde74e800.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "reddiyo viirgnj",
+        "alsoKnownAs": "Radio Birgunj"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Birgunj",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Birgunj, Parsa, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134984,
+          "url": "http://streaming.softnep.net:8017/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134985,
+          "url": "https://streaming.softnep.net:10991/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262051,
+          "url": "http://streaming.softnep.net:8017/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 112438,
+      "name": "Vijaya FM",
+      "slug": "Vijaya_FM_101.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/01/2f016dbdd2cb2b2978d4d5eef27f6751.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6",
+        "dialStripped": "1016"
+      },
+      "aliases": {
+        "cleanName": "vijaya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bharatpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Bharatpur, Chitwan, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151941,
+          "url": "http://live.itech.host:3310/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255052,
+          "url": "https://live.itech.host:3310/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 121652,
+      "name": "Butwal FM",
+      "slug": "Butwal_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/f8/0ff881dcb56e8b3879135eeb44fd8594.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.4",
+        "dialStripped": "944"
+      },
+      "aliases": {
+        "cleanName": "butwal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Butwal",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Butwal, Rupandehi, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155962,
+          "url": "http://streaming.softnep.net:8003/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 106874,
+      "name": "Himal Radio - Nepali Classic",
+      "slug": "Himal_Radio_Nepali_Classic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/4e/4b4e5002d13c1e36c12c8c0abdad4b26.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "himal classic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Asian Folk Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 8,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 148045,
+          "url": "http://streaming.webhostnepal.com:8060/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 57886,
+      "name": "Radio Annapurna",
+      "slug": "Radio_Annapurna",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/ed/ddedc51553798964b9d2e13f3d57ac5f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.4",
+        "dialStripped": "934"
+      },
+      "aliases": {
+        "cleanName": "annapurna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pokhara",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Pokhara, Nepal",
+        "coordinates": {
+          "latitude": "28.2668900",
+          "longitude": "83.9685100"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Classical Folk Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95709,
+          "url": "http://live.itech.host:8964/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95708,
+          "url": "http://live.itechnepal.com:8964/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256364,
+          "url": "https://live.itechnepal.com:8964/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 90134,
+      "name": "24 Nepali Online Radio",
+      "slug": "24_Nepali_Online_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/b5/96b5d6cc2f5d673ab508896b98dc26db.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "24 online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pokhara",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Pokhara, Nepal",
+        "coordinates": {
+          "latitude": "28.2668900",
+          "longitude": "83.9685100"
+        }
+      },
+      "genre": {
+        "text": "Asian Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 136562,
+          "url": "http://stream.zenolive.com/v3e78tqm5gruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 136563,
+          "url": "https://stream.zenolive.com/v3e78tqm5gruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 108141,
+      "name": "Radio Audio",
+      "slug": "Radio_Audio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/a2/22a257d239477b387b8593ef9ebb3945.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.3",
+        "dialStripped": "1063"
+      },
+      "aliases": {
+        "cleanName": "audio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Hits News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 149010,
+          "url": "http://stream.zenolive.com/fvrx47wpg0quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 149011,
+          "url": "http://stream.zeno.fm/fvrx47wpg0quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 149012,
+          "url": "https://stream.zenolive.com/fvrx47wpg0quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 149013,
+          "url": "https://stream.zeno.fm/fvrx47wpg0quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 89248,
+      "name": "रेडियो हिमालय",
+      "slug": "Radio_Himalaya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/c9/9ec9679f0e1cf65806c24605ff025f3a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "reddiyo himaaly",
+        "alsoKnownAs": "Radio Himalaya"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 5,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135222,
+          "url": "http://stream.zenolive.com/wcuhtppsrkeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135221,
+          "url": "http://live.itechnepal.com:8541/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 89410,
+      "name": "Nepaliko Radio",
+      "slug": "Nepaliko_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/ce/62ce3a69738fb54c1a6ab5e570c4833e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135405,
+          "url": "http://streaming.webhostnepal.com:9888/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 321142,
+      "name": "Radio Lumbini",
+      "slug": "Radio_Lumbini",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/cb/1ecb0e49eead75c3f6267ac4d6cadad0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "lumbini",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lumbini",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Lumbini, LZ, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201998,
+          "url": "http://live.itech.host:4510/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201999,
+          "url": "http://live.itech.host:4510/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255344,
+          "url": "https://live.itech.host:4510/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253479,
+          "url": "https://live.itech.host:4510/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 109394,
+      "name": "Radio Buddha Awaaz",
+      "slug": "Community_Radio_Buddha_Awaaz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/3f/4e3f50595fd317713ba6674aa11b1965.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "buddha awaaz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kapilavastu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kapilavastu, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community News Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 254943,
+          "url": "https://live.itechnepal.com:9353/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 149785,
+          "url": "http://live.itechnepal.com:9353/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 153810,
+      "name": "Radio Dhading",
+      "slug": "Radio_Dhading",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/55/1c556c5aac479f1594fb8f0fd72f2d58.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "dhading",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhading",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Dhading, Bagmati Zone, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Country News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165505,
+          "url": "http://live.itech.host:9449/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165506,
+          "url": "http://live.itechnepal.com:9449/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165507,
+          "url": "http://live.itech.host:9449/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253069,
+          "url": "https://live.itech.host:9449/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165504,
+          "url": "http://live.itechnepal.com:9449/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253070,
+          "url": "https://live.itechnepal.com:9449/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253068,
+          "url": "https://live.itechnepal.com:9449/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253071,
+          "url": "https://live.itech.host:9449/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 113275,
+      "name": "Radio Bihani",
+      "slug": "Radio_Bihani",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/82/5182f37d833dd2f28af253a57065807d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.6",
+        "dialStripped": "976"
+      },
+      "aliases": {
+        "cleanName": "bihani",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhading",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Dhading, Bagmati Zone, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 254953,
+          "url": "https://live.itech.host:9108/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152307,
+          "url": "http://live.itech.host:9108/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152306,
+          "url": "http://live.itech.host:9108/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 57698,
+      "name": "Capital FM 92.4 MHz",
+      "slug": "Capital_FM_924",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/b6/16b66d174dfeb0e56abe2611a9d670ee.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4",
+        "dialStripped": "924"
+      },
+      "aliases": {
+        "cleanName": "capital 92.4 mhz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "News Pop Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95373,
+          "url": "http://streaming.softnep.net:8037/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 89373,
+      "name": "Radio Malangwa",
+      "slug": "Radio_Malangwa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/ba/97bacb8357b277557676229eedad398a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.6",
+        "dialStripped": "956"
+      },
+      "aliases": {
+        "cleanName": "malangwa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malangwa",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Malangwa, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135363,
+          "url": "http://streaming.hamropatro.com:8711/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135364,
+          "url": "http://216.55.141.189:8711/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135361,
+          "url": "http://streaming.hamropatro.com:8711/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135362,
+          "url": "http://216.55.141.189:8711/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 66695,
+      "name": "FM Adhyatma Jyoti",
+      "slug": "FM_Adhyatma_Jyoti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/2c/202c11fb31b75c41167a8a6025e89d57.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.8",
+        "dialStripped": "1048"
+      },
+      "aliases": {
+        "cleanName": "adhyatma jyoti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Devotional Meditation",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107491,
+          "url": "http://stream.hamropatro.com/8074",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107492,
+          "url": "https://stream.hamropatro.com/8074/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sa",
+          "name": "Sanskrit"
+        }
+      ]
+    },
+    {
+      "id": 112236,
+      "name": "BFM 91.2",
+      "slug": "BFM_91.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/28/9e282fdde752a6f5b60ca08263844134.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "bfm 91.2",
+        "alsoKnownAs": "Biratnagar FM 91.2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Biratnagar",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Biratnagar, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151758,
+          "url": "http://onlineradio.websoftitnepal.com/8064/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151760,
+          "url": "https://onlineradio.websoftitnepal.com/8064/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151759,
+          "url": "http://onlineradio.websoftitnepal.com:8064/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 45418,
+      "name": "Metro Traffic FM 95.5",
+      "slug": "Metro_Traffic_FM_95.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/f8/bdf8d936c32cb37047a969cec436e536.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "metro traffic 95.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Weather",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72857,
+          "url": "https://centova1.toofancom.com/proxy/trafficradio?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72853,
+          "url": "http://betelgeuse.dribbcast.com:4055/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72855,
+          "url": "http://centova1.toofancom.com/proxy/trafficradio?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72856,
+          "url": "https://betelgeuse.dribbcast.com/proxy/trafficradio/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72854,
+          "url": "http://antares.dribbcast.com:4209/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 102958,
+      "name": "रेडियो अमरगढी",
+      "slug": "Radio_Amargadhi_97.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/fb/fafb8f6e30d094f61870b67b0a9bf8e6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.4",
+        "dialStripped": "974"
+      },
+      "aliases": {
+        "cleanName": "reddiyo amrgddhii",
+        "alsoKnownAs": "Radio Amargadhi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Amargadhi",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Amargadhi, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 254919,
+          "url": "https://live.itech.host:8922/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 144698,
+          "url": "http://live.itech.host:8922/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 295011,
+      "name": "Krishnasar FM",
+      "slug": "Krishnasar_FM_94.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/b1/5ab1a221e03ac445e4368e3bcb4ca2d8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "krishnasar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nepalgunj",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Nepalgunj, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Folk News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197394,
+          "url": "http://live.itech.host:8429/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254868,
+          "url": "https://live.itech.host:8429/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197395,
+          "url": "http://live.itech.host:8429/live?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197396,
+          "url": "http://live.itech.host:8429/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 63788,
+      "name": "रेडियो मध्यपश्चिम एफ एम",
+      "slug": "Radio_Madhyapaschim_91.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/e3/b4e37eb03e73535b131dc11714957dec.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "reddiyo mdhypshcim eph em",
+        "alsoKnownAs": "Radio Madhya Paschim"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tribhuvannagar",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Tribhuvannagar, Rapti, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 251613,
+          "url": "https://live.itech.host:9006/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103082,
+          "url": "http://live.itech.host:9006/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 63817,
+      "name": "सुमिरन एफ एम",
+      "slug": "Sumiran_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/0f/070fd5c6f374d6db4696e9a1ff977b07.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "sumirn eph em",
+        "alsoKnownAs": "Sumiran FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Spiritual",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103133,
+          "url": "http://streaming.softnep.net:8371/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103134,
+          "url": "https://streaming.softnep.net:10817/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262486,
+          "url": "http://streaming.softnep.net:8371/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 89492,
+      "name": "Radio Tikapur 1010",
+      "slug": "Radio_Tikapur",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/e3/98e34485ed87a33eeffc713c457e4a21.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1010",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "tikapur 1010",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kailali",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kailali, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 135490,
+          "url": "http://live.itech.host:9514/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 293039,
+      "name": "रेडियो कञ्चनपुरका",
+      "slug": "Radio_Kanchanpur",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/28/82284938b8ee02844a1729efb68f4c5f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "reddiyo knycnpurkaa",
+        "alsoKnownAs": "Radio Kanchanpur"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mahendranagar",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Mahendranagar, Mahakali, Nepal",
+        "coordinates": {
+          "latitude": "28.9166700",
+          "longitude": "80.3333300"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196552,
+          "url": "https://live.itech.host:8299/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196553,
+          "url": "https://live.itech.host:8299/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 414538,
+      "name": "रेडियो टाइगर",
+      "slug": "Bardiya_Tiger_fm_88.2_Mhz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/5a/3a5a50ca73786612e86ebed3174217df.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.2",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "reddiyo ttaaigr",
+        "alsoKnownAs": "Radio Tiger"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bardiya",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Bardiya, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 251614,
+          "url": "https://live.itechnepal.com:7057/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213659,
+          "url": "http://live.itechnepal.com:7057/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 85862,
+      "name": "HBC Shakti Radio",
+      "slug": "HBC_Shakti_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/9c/2d9c24cd9ed9f91cade442e42642684e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "hbc shakti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Devotional Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131625,
+          "url": "http://live.itechnepal.com:8541/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 166917,
+      "name": "Radio Aandhikhola",
+      "slug": "Radio_Andhikhola_105.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/85/2d85125e4974e9559ea164ffbbe48212.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.4",
+        "dialStripped": "1054"
+      },
+      "aliases": {
+        "cleanName": "aandhikhola",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": ", Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255174,
+          "url": "https://live.itech.host:8858/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255175,
+          "url": "https://live.itech.host:8858/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168132,
+          "url": "http://live.itech.host:8858/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168131,
+          "url": "http://live.itech.host:8858/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 112373,
+      "name": "Rádio Bheri",
+      "slug": "Radio_Bheri_98.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/0a/5c0a162d76c701c639ff0cb341e56be8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.6",
+        "dialStripped": "986"
+      },
+      "aliases": {
+        "cleanName": "bheri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Surkhet",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Surkhet, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151904,
+          "url": "http://live.itech.host:9060/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151903,
+          "url": "http://live.itech.host:9060/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255051,
+          "url": "https://live.itech.host:9060/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255050,
+          "url": "https://live.itech.host:9060/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 105582,
+      "name": "Radio Arpan 104.5",
+      "slug": "Radio_Arpan_104.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/fd/effd0d7f01d11c2d2eaccf4cdb5cb30b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "arpan 104.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146800,
+          "url": "http://streaming.hamropatro.com:8138/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 113196,
+      "name": "Radio Makwanpur",
+      "slug": "Radio_Makwanpur_103.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8f/cb/8fcb6473da976e3bbce997ab4cea9690.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "makwanpur",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Makawanpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Makawanpur, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152244,
+          "url": "http://streaming.softnep.net:8057/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 107005,
+      "name": "Naya Radio",
+      "slug": "Naya_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/03/0b03dac750e9cea9d8d3333043418a17.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "naya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Asian Classical Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148141,
+          "url": "http://live.itech.host:1110/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148142,
+          "url": "https://live.itech.host/nayaradio/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 95045,
+      "name": "Synergy FM",
+      "slug": "Synergy_FM_Powered_by_SoftNEP.COM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/3e/d23e3a81bc7d86e64424fd1d70df6545.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "synergy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Narayangarh",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Narayangarh, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256458,
+          "url": "https://live.itech.host:3870/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256457,
+          "url": "https://live.itech.host:3870/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140290,
+          "url": "http://live.itech.host:3870/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140291,
+          "url": "http://live.itech.host:3870/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140293,
+          "url": "https://live.itech.host:3880/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 72387,
+      "name": "CFM 94.7 MHz",
+      "slug": "CFM_94.7_MHz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/0d/160d1cd3088bafe983b3edd87dcbdeaf.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "cfm 94.7 mhz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajbiraj",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Rajbiraj, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Bollywood News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114643,
+          "url": "https://live.itech.host:8391/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114642,
+          "url": "http://live.itech.host:8386/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 215822,
+      "name": "रेडियो मेन्छयायेम गाउँपालिका",
+      "slug": "Radio_Menchhyayem",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/20/d420f8e4b71f3063f9fe5912e204cb3f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "reddiyo menchyaayem gaaunpaalikaa",
+        "alsoKnownAs": "Radio Menchhyayem"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Menchhayayem",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Menchhayayem, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180639,
+          "url": "https://live.itech.host:9095/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180638,
+          "url": "https://live.itech.host:9095/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 287682,
+      "name": "Khandbari FM 105.8",
+      "slug": "Khandbari_FM_105.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/15/29154edd3d4c1da17eb88bd9ed577178.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.8",
+        "dialStripped": "1058"
+      },
+      "aliases": {
+        "cleanName": "khandbari 105.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khandbari",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Khandbari, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 194782,
+          "url": "http://live.itechnepal.com:8286/stream?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194783,
+          "url": "http://live.itechnepal.com:8286/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 88551,
+      "name": "Radio Sailung Community FM 104",
+      "slug": "Radio_Sailung_Community_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/2e/a52eea4310778336c5a11be3f2004d21.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.0",
+        "dialStripped": "1040"
+      },
+      "aliases": {
+        "cleanName": "sailung community 104",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dolakha",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Dolakha, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134424,
+          "url": "http://live.itechnepal.com:9174/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 234220,
+      "name": "Hamro Radio 103.4",
+      "slug": "Hamro_Radio_103.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/bc/16bc4ca552958dd45ddc36970cae028c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "hamro 103.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dolakha",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Dolakha, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183754,
+          "url": "http://live.itechnepal.com:9551/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183755,
+          "url": "http://live.itechnepal.com:9551/stream?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 451744,
+      "name": "Radio Solu 101.2",
+      "slug": "Solu_FM_101.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/89/73892eeb74718255373f18a3cbba78a9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "solu 101.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Salleri",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Salleri, Solukhumbu, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217078,
+          "url": "http://live.itechnepal.com:9545/stream?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217079,
+          "url": "http://live.itechnepal.com:9545/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 461047,
+      "name": "Radio Suseli 106.3",
+      "slug": "Radio_Suseli_106.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/85/6a85f080bfa7bb2e0c1416bbc8701ec8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.3",
+        "dialStripped": "1063"
+      },
+      "aliases": {
+        "cleanName": "suseli 106.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Morang",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Morang, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217784,
+          "url": "http://live.itech.host:8846/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217785,
+          "url": "http://live.itech.host:8846/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253746,
+          "url": "https://live.itech.host:8846/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253747,
+          "url": "https://live.itech.host:8846/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 472656,
+      "name": "Times FM 90.6",
+      "slug": "Times_FM_90.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/36/2d36528187b6bae2ef614be561f290a2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.6",
+        "dialStripped": "906"
+      },
+      "aliases": {
+        "cleanName": "times 90.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218739,
+          "url": "http://astream.nepalipatro.com.np:8119/",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218740,
+          "url": "https://astream.nepalipatro.com.np:8119/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 107022,
+      "name": "KEEPS FM 98.3",
+      "slug": "KEEPS_FM_98.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/ad/0bad810595484b4be88ea90e02ce5601.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "keeps 98.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Asian Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148157,
+          "url": "http://streaming.hamropatro.com:8385/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269131,
+          "url": "http://streaming.hamropatro.com:8385/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 147928,
+      "name": "Damauli 94.2 FM",
+      "slug": "Damauli_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/54/885404ba4015265f47992f227b14ef83.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.2",
+        "dialStripped": "942"
+      },
+      "aliases": {
+        "cleanName": "damauli 94.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damauli",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Damauli, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 164513,
+          "url": "http://stream.hamropatro.com/8529",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 164514,
+          "url": "https://stream.hamropatro.com/8529/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 37109996,
+      "name": "Radio Marsyangdi",
+      "slug": "Radio_Marsyangdi_95.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/ca/85ca98ce1fd795bec7209fdbc48eb2ab.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "marsyangdi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lamjung",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Lamjung, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272999,
+          "url": "http://live.itechnepal.com:9120/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 273000,
+          "url": "http://live.itechnepal.com:9120/stream?type=.flv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 287590,
+      "name": "Khasyauli FM 91.8",
+      "slug": "Radio_Khasyeuli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/f2/9bf2e57b7242d0e69fb43de9ecf76e0c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.8",
+        "dialStripped": "918"
+      },
+      "aliases": {
+        "cleanName": "khasyauli 91.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Butwal",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Butwal, Rupandehi, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 194760,
+          "url": "http://streaming.softnep.net:8167/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 45264,
+      "name": "रेडियो ताप्लेजुङ",
+      "slug": "Radio_Taplejung_94.0_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/e9/41e90f138abf651bc3a56adc68f948ae.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94",
+        "dialStripped": "94"
+      },
+      "aliases": {
+        "cleanName": "reddiyo taaplejung",
+        "alsoKnownAs": "Radio Taplejung"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Taplejung",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Taplejung, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72627,
+          "url": "https://live.itech.host:9017/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 72626,
+          "url": "http://live.itech.host:9012/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 2720,
+      "name": "Good News FM",
+      "slug": "Good_News_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/43/394370584ead0a767569cc3b1508ab2b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "good news",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 6779,
+          "url": "http://live.itech.host:8162/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256123,
+          "url": "https://live.itech.host:8162/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 106987,
+      "name": "Tinau FM",
+      "slug": "Tinau_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/d9/c1d9e1231f437be79f189d017794d463.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": "tinau",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Butwal",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Butwal, Rupandehi, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Asian Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 260874,
+          "url": "http://217.79.245.66:8293/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148131,
+          "url": "http://217.79.245.66:8293/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 799757,
+      "name": "True Life In God Radio Nepali",
+      "slug": "TLIG_Radio_Nepali",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/cd/d9cd1013a09fdd97aac413ef80494a31.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "true life in god",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Christian Devotional Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229696,
+          "url": "https://stream.tligradio.org/listen/nepali/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 94582,
+      "name": "Chitwan Online FM",
+      "slug": "Chitwan_Online_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/4c/e14c6cff4c7c768b60e7cc1dfd1d4c88.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chitwan online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chitwan",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Chitwan, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Country Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139876,
+          "url": "http://streaming.hamropatro.com:8603/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 329725,
+      "name": "रेडियो सफलता १०३.४ मेगाहर्ज",
+      "slug": "Radio_Safalta_103.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/b8/6db82cd2f3f563a2d31730c770a441d9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "reddiyo sphltaa 103.4 megaahrj",
+        "alsoKnownAs": "Radio Safalta 103.4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pokhara",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Pokhara, Nepal",
+        "coordinates": {
+          "latitude": "28.2668900",
+          "longitude": "83.9685100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203233,
+          "url": "http://live.itechnepal.com:9144/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203232,
+          "url": "http://live.itechnepal.com:9144/stream?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 135787,
+      "name": "Classic FM 101.2",
+      "slug": "Classic_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/df/a2df7659208082ffa7939a52ec35e6ba.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "classic 101.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161676,
+          "url": "http://stream.hamropatro.com/8783",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 161677,
+          "url": "https://stream.hamropatro.com/8783/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 272445,
+      "name": "Saptarangi FM 101.6",
+      "slug": "Saptarangi_FM_101.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/cd/00cd8e8a3efbc1e72968eb2ad7d089f5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6",
+        "dialStripped": "1016"
+      },
+      "aliases": {
+        "cleanName": "saptarangi 101.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jhapa",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Jhapa, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190972,
+          "url": "http://streaming.softnep.net:8369/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245757,
+          "url": "http://streaming.softnep.net:8369/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 113199,
+      "name": "Radio Madhyabindu 101.0",
+      "slug": "Radio_Madhyabindu_101.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/9d/1d9d537ef90226a5be7616dfac1049dc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.0",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "madhyabindu 101.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nawalpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Nawalpur, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152248,
+          "url": "http://streaming.softnep.net:8077/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 272467,
+      "name": "Pathibhara FM",
+      "slug": "Pathivara_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/11/6f11a588db70fb594a8b91fcc07614c5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.6",
+        "dialStripped": "936"
+      },
+      "aliases": {
+        "cleanName": "pathibhara",
+        "alsoKnownAs": "Pathivara FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jhapa",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Jhapa, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190973,
+          "url": "https://live.itech.host:8749/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 113197,
+      "name": "Radio Hamro Pahunch",
+      "slug": "Radio_Hamro_Pahunch",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/77/3477caa00c67030db61f8662bc28f20c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.0",
+        "dialStripped": "890"
+      },
+      "aliases": {
+        "cleanName": "hamro pahunch",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tulsipur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Tulsipur, Rapti, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Classical Community Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152245,
+          "url": "http://live.itech.host:8688/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152246,
+          "url": "http://live.itech.host:8688/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152247,
+          "url": "https://live.itech.host:8693/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 113205,
+      "name": "Ilam FM",
+      "slug": "Ilam_FM_93.0_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/48/7f48b42698ca96af0bfbdbd6c73c85e7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.0",
+        "dialStripped": "930"
+      },
+      "aliases": {
+        "cleanName": "ilam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ilam",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Ilam, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Community Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152254,
+          "url": "http://live.itech.host:9635/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255951,
+          "url": "https://live.itech.host:9635/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152255,
+          "url": "http://live.itech.host:9635/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254020,
+          "url": "https://live.itech.host:9635/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 384744,
+      "name": "Radio Pariwartan 89.4",
+      "slug": "Radio_Pariwartan_89.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/a8/22a87a671b7c6ba19bf34693826a7a9e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.4",
+        "dialStripped": "894"
+      },
+      "aliases": {
+        "cleanName": "pariwartan 89.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Itahari",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Itahari, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210831,
+          "url": "http://betelgeuse.dribbcast.com:4770/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210830,
+          "url": "http://betelgeuse.dribbcast.com/proxy/radiopariwartan?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 210832,
+          "url": "https://betelgeuse.dribbcast.com/proxy/radiopariwartan?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 2658086,
+      "name": "Radio Nepalbani 94.9",
+      "slug": "Radio_Nepalbani_94.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/57/fb57bcb695d9d2457f2a16c7d63301f4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "94.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ilam",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Ilam, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231063,
+          "url": "http://live.itechnepal.com:8676/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231064,
+          "url": "http://live.itechnepal.com:8676/stream?type=.flv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 518779,
+      "name": "Vijaypur FM 98.8",
+      "slug": "Vijaypur_FM_98.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/6b/eb6b0739e26f1c59323a582d0fc2e1cd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.8",
+        "dialStripped": "988"
+      },
+      "aliases": {
+        "cleanName": "vijaypur 98.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sunsari",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Sunsari, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253825,
+          "url": "https://live.itech.host:9479/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 222096,
+          "url": "http://live.itechnepal.com:9479/stream?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 222097,
+          "url": "http://live.itech.host:9479/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 222094,
+          "url": "http://live.itechnepal.com:9479/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 432347,
+      "name": "sabaiko Radio",
+      "slug": "sabaiko_Radio",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sabaiko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": ", Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215341,
+          "url": "http://stream.zeno.fm/mmwzvd3qbofvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215342,
+          "url": "https://stream.zeno.fm/mmwzvd3qbofvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sa",
+          "name": "Sanskrit"
+        }
+      ]
+    },
+    {
+      "id": 432289,
+      "name": "Saptakoshi FM",
+      "slug": "Saptakoshi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/40/0d407abde421991e8f0b7238a6758414.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "saptakoshi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Itahari",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Itahari, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215333,
+          "url": "http://live.itech.host:4530/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215332,
+          "url": "http://live.itech.host:4530/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 269087,
+      "name": "Jayaprithvi F.M.",
+      "slug": "Jayaprithvi_F.M.",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/b7/d1b7a5fe80855ff6189f57f2f67d23e0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "jayaprithvi f m",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chainpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Chainpur, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classical Entertainment Folk News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190415,
+          "url": "http://streaming.softnep.net:8349/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 402928,
+      "name": "Radio Prakriti",
+      "slug": "Radio_Prakriti_93.4_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/c7/58c7d35a2c37b48a0ad7abb64abca63a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.4",
+        "dialStripped": "934"
+      },
+      "aliases": {
+        "cleanName": "prakriti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tulsipur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Tulsipur, Rapti, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212662,
+          "url": "http://live.itech.host:8934/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256932,
+          "url": "https://live.itech.host:8934/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 389941,
+      "name": "Sumhatlung FM",
+      "slug": "Sumhatlung_Fm_104.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/28/34284da2366eb1170d03002cfa1a20ac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.2",
+        "dialStripped": "1042"
+      },
+      "aliases": {
+        "cleanName": "sumhatlung",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phidim",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Phidim, Mechi, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211270,
+          "url": "http://streaming.softnep.net:8095/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 778137,
+      "name": "NewaFM 106.6",
+      "slug": "NewaFM_106.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/f3/2af32acdee8b304a2b7db51a14c0d989.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "newafm 106.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229467,
+          "url": "http://216.55.141.189:8683/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 31485,
+      "name": "ए वान एफ.एम.",
+      "slug": "A_One_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/5f/ce5ff276d6530273f17359f94c2b7859.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "e vaan eph em",
+        "alsoKnownAs": "A One FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jhapa",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Jhapa, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Ambient Asian Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50861,
+          "url": "http://stream.zeno.fm/0ghbmuim5brvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50862,
+          "url": "https://stream.zeno.fm/0ghbmuim5brvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 113925,
+      "name": "BP Bichar Radio",
+      "slug": "BP_Bichar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/54/4954aa7b86ffc7ab5a00e479f18c1307.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bp bichar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152841,
+          "url": "https://stream.hamropatro.com/5513/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152840,
+          "url": "http://stream.hamropatro.com/5513",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 94594,
+      "name": "My FM Online",
+      "slug": "My_FM_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/9a/459a015114f58a9b14ac1b46601c5263.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "my online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Janakpur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Janakpur, Nepal",
+        "coordinates": {
+          "latitude": "26.7182800",
+          "longitude": "85.9064600"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139896,
+          "url": "http://stream.zeno.fm/4uwwndf7xf8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139897,
+          "url": "https://stream.zeno.fm/4uwwndf7xf8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 106997,
+      "name": "Radio Janasanchar",
+      "slug": "Radio_Janasanchar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/6f/f16fe77cee905effb4612637cdfe958f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "janasanchar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bhaktapur",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Bhaktapur, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148137,
+          "url": "https://online.net.np/8116/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247453,
+          "url": "http://online.net.np/8116/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 747697,
+      "name": "Radio Tharuhat",
+      "slug": "Radio_Tharuhat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/16/38163e2595b294bf6c36df46814cf253.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tharuhat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Karaiyamai",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Karaiyamai, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229327,
+          "url": "https://stream.zeno.fm/pq0bz4vez38uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 229326,
+          "url": "http://stream.zeno.fm/pq0bz4vez38uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 153857,
+      "name": "Radio Dhorbarahi 103.8",
+      "slug": "Radio_dhorbarahi_88.2_Mhz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/e3/29e3833219f11e8b8598c94cf18a70de.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.8",
+        "dialStripped": "1038"
+      },
+      "aliases": {
+        "cleanName": "dhorbarahi 103.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tanahun",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Tanahun, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165530,
+          "url": "https://live.itech.host:9496/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256499,
+          "url": "https://live.itech.host:9491/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165528,
+          "url": "http://live.itech.host:9491/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165529,
+          "url": "http://live.itech.host:9491/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 3092910,
+      "name": "GoalNepal Radio",
+      "slug": "GoalNepal_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/22/1222d7f6ca4f0939ce873953cc6502c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "goalnepal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 110738,
+      "name": "Radio Barahi",
+      "slug": "Radio_Barahi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/9c/849cf2789ad417d3458bef6a44821b77.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.2",
+        "dialStripped": "992"
+      },
+      "aliases": {
+        "cleanName": "barahi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaski",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kaski, Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150718,
+          "url": "http://core.itech.host:7015/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 12480868,
+      "name": "Choice FM",
+      "slug": "Choice_FM_90.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/b6/82b668383586504b257d82ceab6d935e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "choice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gorkha",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Gorkha, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 238519,
+          "url": "http://live.itech.host:8466/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257537,
+          "url": "https://live.itechnepal.com:8466/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238520,
+          "url": "http://live.itechnepal.com:8466/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 174403,
+      "name": "Kanchanjungha FM",
+      "slug": "Kanchanjungha_FM_92.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/71/7e71bcf5917a6652bb963dd79dabf46f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.6",
+        "dialStripped": "926"
+      },
+      "aliases": {
+        "cleanName": "kanchanjungha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jhapa",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Jhapa, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 170818,
+          "url": "http://live.itechnepal.com:8420/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 3187802,
+      "name": "Saugaat FM 103.6",
+      "slug": "Saugaat_FM_103.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/d4/b8d45497af273e9ce3e9c4e8e697f420.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.6",
+        "dialStripped": "1036"
+      },
+      "aliases": {
+        "cleanName": "saugaat 103.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baitadi",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Baitadi, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231951,
+          "url": "http://live.itech.host:9659/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ne",
+          "name": "Nepali"
+        }
+      ]
+    },
+    {
+      "id": 287684,
+      "name": "Khumbu FM 93.2",
+      "slug": "Himal_FM_90.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/c4/dfc4cf3834bd822840556cd47c1cbf27.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.2",
+        "dialStripped": "932"
+      },
+      "aliases": {
+        "cleanName": "khumbu 93.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Salleri",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Salleri, Solukhumbu, Nepal",
+        "coordinates": {
+          "latitude": "27.6679833",
+          "longitude": "84.3631085"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265832,
+          "url": "http://91.121.113.129:8278/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194784,
+          "url": "http://91.121.113.129:8278/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    }
+  ]
+}

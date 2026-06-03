@@ -1,0 +1,3377 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:46:13.740Z",
+  "endpoint": "/countries/Suriname/radios",
+  "countryCode": "sr",
+  "countryName": "Suriname",
+  "expectedCount": 41,
+  "count": 41,
+  "data": [
+    {
+      "id": 104507,
+      "name": "Apintie Radio",
+      "slug": "Radio_Apintie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/47/f44764866007cbfa5d19b5384d79c493.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "apintie",
+        "alsoKnownAs": "Apintie FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4140,
+        "byCountry": {
+          "us": 6,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 259199,
+          "url": "http://surilive.com:8000/stream/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 145987,
+          "url": "http://surilive.com:8000/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 314432,
+      "name": "LIM FM SU 91.7",
+      "slug": "LIM_FM_SU",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/0c/c00c831c34ff644518477be22c949f00.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "lim su 91.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2160,
+        "byCountry": {
+          "us": 8,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200712,
+          "url": "http://radiostream.limfmsu.com:8000/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 69132,
+      "name": "Radio Koyeba Suriname",
+      "slug": "Radio_Koyeba_Suriname_104.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/8a/6b8aa2832032f135a966a679c4e81dd9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "koyeba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2160,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 9,
+          "br": 1,
+          "es": 1,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110075,
+          "url": "http://worldstreaminglive.com:8020/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239741,
+          "url": "http://beta.surilive.com/koyeba/",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239742,
+          "url": "https://beta.surilive.com/koyeba/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110074,
+          "url": "http://162.244.80.245:8020/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 56914,
+      "name": "Pipel FM",
+      "slug": "Sky_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/bc/9ebc6ef4426e9d3dfc952c8fa314ce96.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "pipel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Oldies Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2070,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93740,
+          "url": "http://rs.suricloud.com/radio/8010/radio.mp3?_=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93741,
+          "url": "https://rs.suricloud.com/radio/8010/radio.mp3?_=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 214645,
+      "name": "Radio Garuda",
+      "slug": "Radio_Garuda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/12/85123f9e28a59f6d406ea3900204de91.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "garuda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1710,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258442,
+          "url": "http://surilive.com/garuda/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239245,
+          "url": "http://surilive.com/garuda/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 180406,
+          "url": "http://162.244.80.245:8004/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180407,
+          "url": "http://worldstreaminglive.com/proxy/grdsur/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239246,
+          "url": "https://surilive.com/garuda/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 180408,
+          "url": "https://worldstreaminglive.com/proxy/grdsur/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 57008,
+      "name": "Radio 10 Suriname",
+      "slug": "Radio_10_Magic_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/21/ba212a4b5ae03a8379e55534303d614a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1 / 88.7 / 103.7",
+        "dialStripped": "881 / 887 / 1037"
+      },
+      "aliases": {
+        "cleanName": "10",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1410,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 2,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93981,
+          "url": "https://s5.radio.co/s85a633f73/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 93980,
+          "url": "http://s5.radio.co/s85a633f73/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 85942,
+      "name": "abc - Ampie's Broadcasting Corporation",
+      "slug": "Radio_ABC_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/ca/3fca6544abb23e2b2049d0a3ea4e4143.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "abc ampie s broadcasting corporation",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258460,
+          "url": "http://surilive.com:8020/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 258459,
+          "url": "http://surilive.com:8020/stream/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241971,
+          "url": "https://surilive.com:8020/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 131716,
+          "url": "http://surilive.com:8020/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 72312,
+      "name": "Ishara Radio",
+      "slug": "Radio_Ishara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/df/e8dfe71168f42864366ba42123c5b732.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.7",
+        "dialStripped": "1007"
+      },
+      "aliases": {
+        "cleanName": "ishara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nieuw Nickerie",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Nieuw Nickerie, Suriname",
+        "coordinates": {
+          "latitude": "5.7831900",
+          "longitude": "-55.2000750"
+        }
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114544,
+          "url": "http://a8.asurahosting.com:7030/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243158,
+          "url": "https://a8.asurahosting.com:7030/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 38820,
+      "name": "Sangeetmala Radio",
+      "slug": "Sangeetmala",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/06/92064b292de71dca5a8b41bc955413d5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "sangeetmala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63028,
+          "url": "http://rs.suricloud.com:8030/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242764,
+          "url": "https://rs.suricloud.com:8030/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63027,
+          "url": "http://rs.suricloud.com/radio/8030/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63029,
+          "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 72316,
+      "name": "Acme 91.3 FM",
+      "slug": "RP_Acme",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/01/0801577a197c8e1de86fc57b938cc1bd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "acme 91.3",
+        "alsoKnownAs": "Radio Rapar , RP Acme 91.3 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114553,
+          "url": "http://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114554,
+          "url": "https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 33225,
+      "name": "Radio 9 Suriname ",
+      "slug": "Radio_9_Suriname",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8b/9c/8b9c17046537f0971083db947b226742.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54436,
+          "url": "http://rs.suricloud.com/radio/8060/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54437,
+          "url": "https://rs.suricloud.com/radio/8060/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 455116,
+      "name": "Radio SRS 96.3",
+      "slug": "Radio_SRS_Suriname",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/02/bc0245a144966cc4e95ae015eccbd0c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "srs 96.3",
+        "alsoKnownAs": "Stichting Radio Suriname 96.3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258416,
+          "url": "http://surilive.com:8060/stream/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217388,
+          "url": "http://surilive.com:8060/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 51283,
+      "name": "Trishul Radio",
+      "slug": "Trishul_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/7a/2c7accd5e56793ca5a7314defbdd3f08.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "trishul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Oldies Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83126,
+          "url": "http://tbn.kloud.xyz:8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83127,
+          "url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39126,
+      "name": "Shalom Suriname Radio",
+      "slug": "Shalom_Radio_94.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/71/1c71989603fb120327dd62f49921b4da.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "shalom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 63557,
+          "url": "https://worldstreaminglive.com/proxy/radioshalom/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63555,
+          "url": "http://worldstreaminglive.com:8014/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63556,
+          "url": "http://162.244.80.245:8014/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 72522,
+      "name": "Trishul Broadcasting Network",
+      "slug": "Trishul_Broadcasting_Network",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/fd/19fd9df5af77932f3fea13ab69a46a64.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "trishul broadcasting network",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114810,
+          "url": "http://tbn.kloud.xyz:8050/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114811,
+          "url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114812,
+          "url": "https://cdn.suricloud.com/live/hls/tbnfm/index.m3u8",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 1426,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 72343,
+      "name": "Ek Sitara Radio",
+      "slug": "Ek_Sitara_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/b8/1ab839bd02ead2817947577401d30625.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "ek sitara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114576,
+          "url": "http://dione.shoutca.st:8129/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114578,
+          "url": "https://eksitara-radiohosting2.radioca.st/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114577,
+          "url": "http://eksitara-radiohosting2.radioca.st/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 137658,
+      "name": "Color Radio",
+      "slug": "Color_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/8e/b48e729830c993202de84d0d07ca78b0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "color",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Lite Pop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161998,
+          "url": "http://surilive.com:8070/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253031,
+          "url": "https://surilive.com:8070/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 347679,
+      "name": "Radio Rasonic 1 Nickerie",
+      "slug": "Radio_Rasonic_1_Nickerie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/4e/0a4eec896308b8a17347748df86a3fa3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.3",
+        "dialStripped": "1053"
+      },
+      "aliases": {
+        "cleanName": "rasonic 1 nickerie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nieuw Nickerie",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Nieuw Nickerie, Suriname",
+        "coordinates": {
+          "latitude": "5.7831900",
+          "longitude": "-55.2000750"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205487,
+          "url": "http://stream.streamgenial.stream/6etys88fup8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205489,
+          "url": "https://stream.streamgenial.stream/6etys88fup8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205488,
+          "url": "http://us5new.listen2myradio.com:8136/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 112711,
+      "name": "Chutney FM 100.1",
+      "slug": "Sangeetmala_Radio_100.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/62/ab6233551959469dcacaa50e28c4e05e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "chutney 100.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152036,
+          "url": "http://rs.suricloud.com:8070/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 37860,
+      "name": "Radio Shruti",
+      "slug": "Shruti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/64/f96409011ca347ab651839c5750478ea.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shruti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Alternative Bhangra Entertainment Lite Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61531,
+          "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61530,
+          "url": "http://rs.suricloud.com/radio/8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 460648,
+      "name": "Surjavibes Radio",
+      "slug": "Surjavibes_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/8b/4a8b8ea60af6dd1369b6ddd23ddcfba9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "surjavibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Art Culture Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217728,
+          "url": "http://s5.radio.co/s1735f3c1d/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217729,
+          "url": "https://s5.radio.co/s1735f3c1d/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "id",
+          "name": "Indonesian"
+        }
+      ]
+    },
+    {
+      "id": 21372,
+      "name": "FM.sr Sranan Radio",
+      "slug": "FM.sr_Sranan_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/67/ad67fb1948413ce9c3c8c4caf1edfd31.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sr sranan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31745,
+          "url": "http://my.surilive.com/listen/sr/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 155,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 31746,
+          "url": "https://my.surilive.com/listen/sr/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 150,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 347729,
+      "name": "NIO FM",
+      "slug": "Radio_LBV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/ad/f8ad8643b1235800966bafc06ecd1f8c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.5",
+        "dialStripped": "1075"
+      },
+      "aliases": {
+        "cleanName": "nio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205507,
+          "url": "http://niofm.beheerstream.nl:8060/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 121779,
+      "name": "Double B Buskondee Media",
+      "slug": "Double_B_Buskondee_Media",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/11/1111b1ff39ca7d9ae17a68db14a3e591.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "double b buskondee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Community Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156058,
+          "url": "http://stream.zeno.fm/rnf3xu9tgs8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156059,
+          "url": "https://stream.zeno.fm/rnf3xu9tgs8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 106166,
+      "name": "Asosye Radio 99.7 FM",
+      "slug": "Asosye_Radio_99.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/36/2a/362a1c25f5f978cdcaf000ccbc3a9d8f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "asosye 99.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229323,
+          "url": "https://beta.surilive.com/asosye/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 229322,
+          "url": "http://beta.surilive.com/asosye/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 147367,
+          "url": "http://stream.zeno.fm/q4wkxqmdqchvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147368,
+          "url": "https://stream.zeno.fm/q4wkxqmdqchvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 118044,
+      "name": "Radio Boskopu 93.5 FM",
+      "slug": "Radio_Boskopu_93.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/7c/307c44aa9176f24b7d97f239574c50d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "boskopu 93.5",
+        "alsoKnownAs": "Stichting Radio Boskopu Suriname 93.5 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Community Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154546,
+          "url": "https://stream.zeno.fm/wwgta3fqsfhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 154545,
+          "url": "http://stream.zeno.fm/wwgta3fqsfhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 112960,
+      "name": "Radio Sargam",
+      "slug": "Radio_Sargam_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/c0/efc0deadfa0646a204aa764b5f0e64ae.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "sargam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Folk Lite Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152130,
+          "url": "http://rs.suricloud.com:8130/radio.mp3?",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152132,
+          "url": "https://rs.suricloud.com:8130/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152131,
+          "url": "http://rs.suricloud.com/radio/8130/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152134,
+          "url": "https://rs.suricloud.com/radio/8130/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152129,
+          "url": "http://rs.suricloud.com:8130/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 386214,
+      "name": "Pertjajah Radio",
+      "slug": "Pertjajah_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/96/e09633cbe7e9583afb1515f732f62567.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "pertjajah",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210966,
+          "url": "http://pl2024.radioca.st:8283/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 87147,
+      "name": "SCCNradio smoothfm",
+      "slug": "SCCN_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6e/cc/6ecca26f02ad223efa13c861d8441414.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "sccnradio smoothfm",
+        "alsoKnownAs": "B104 Smooth FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Sports Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 132452,
+          "url": "http://video1.getstreamhosting.com:8340/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132451,
+          "url": "http://video1.getstreamhosting.com:18340/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 188945,
+      "name": "Gov.Radio Suriname",
+      "slug": "Gov.Radio_Suriname",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/87/f087b51d1da34bc3cb04d26a6df9a379.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gov",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Europe Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174655,
+          "url": "https://stream.zeno.fm/084958y3ynhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 174654,
+          "url": "http://stream.zeno.fm/084958y3ynhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 104275,
+      "name": "Anjisa 101.3 FM",
+      "slug": "Anjisa_1013_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/ee/83ee4d82d85b8980e2654c638ea74a22.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "anjisa 101.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Europe Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 258858,
+      "name": "Radio Immanuel Suriname 95.9 FM",
+      "slug": "Radio_Immanuel_Suriname_93.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/60/1060ea23f5056fee60b585332d3413c9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "immanuel 95.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188059,
+          "url": "http://surilive.com:8030/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 257808,
+          "url": "https://surilive.com:8030/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 24699211,
+      "name": "Ramasha Media",
+      "slug": "Ramasha_Media",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/d7/34d7f924486219616dadc6addcd36801.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "ramasha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 247633,
+          "url": "http://listen.ramashamedia.com:8330/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 247634,
+          "url": "https://listen.ramashamedia.com:8330/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 8638958,
+      "name": "Beat FM 92.1",
+      "slug": "Radio_Noer",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/58/4c587aa1596877e3713319dff19c111b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "beat 92.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 235832,
+          "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235831,
+          "url": "http://audio-edge-hy4wy.blr.d.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 54883,
+      "name": "Neutralradio",
+      "slug": "Neutralradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/d5/90d548cb9d33dae8753533f0e55b9b63.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "neutralradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lelydorp",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Lelydorp, Suriname",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "60s 70s 80s Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 89364,
+          "url": "http://cast1.torontocast.com:2220/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 245821,
+      "name": "Rp The Hot one",
+      "slug": "Radio_RP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/fd/2bfd34f03d5f3d3e0f178f03243626d5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "rp the hot one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185846,
+          "url": "http://audio-edge-es6pf.mia.g.radiomast.io/2ce0ffa5-dd88-491e-9f9f-925a7ce36b13",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185847,
+          "url": "https://audio-edge-es6pf.mia.g.radiomast.io/2ce0ffa5-dd88-491e-9f9f-925a7ce36b13",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 303314,
+      "name": "Tareno Media",
+      "slug": "Tareno_Media",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/5c/2b5c59241c30c5f6fc78dd45ad6c2372.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tareno",
+        "alsoKnownAs": "Radio Tareno"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kwamalasamutu",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Kwamalasamutu, Sipaliwini, Suriname",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 199446,
+          "url": "http://radiostream.tarenomedia.com/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 281227,
+      "name": "Radio Kabar Katresnan RK2",
+      "slug": "RK2_SKK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/1b/701bb0c9eaeccd51882b47fbe5af574d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "kabar katresnan rk2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192207,
+          "url": "http://s2.free-shoutcast.com:18050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 56169,
+      "name": "Suri-Lite Online Radio",
+      "slug": "suri_lite",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/57/e3/57e30a84c7300c19d4f65b3f2758cee0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suri lite online",
+        "alsoKnownAs": "Suri-Lite Internet Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91686,
+          "url": "https://cast.surilite.net/lite/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91685,
+          "url": "http://cast.surilite.net/lite/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 319734,
+      "name": "Rádio LPM",
+      "slug": "Radio_LPM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/67/c8677ce32dadcf69a97376e8c6f8bf89.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "lpm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paramaribo",
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": "Paramaribo, Paramaribo District, Suriname",
+        "coordinates": {
+          "latitude": "5.8663800",
+          "longitude": "-55.1668200"
+        }
+      },
+      "genre": {
+        "text": "Hits News Pop Portuguese",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201701,
+          "url": "http://surilive.com:8050/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261314,
+          "url": "http://surilive.com:8050/stream/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 92,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 380234,
+      "name": "ChuckieRadio 597",
+      "slug": "ChuckieRadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/f5/caf51c46e7e1b0999b3015bb397d1904.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chuckieradio 597",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "locationText": ", Suriname",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210493,
+          "url": "http://stream.zeno.fm/uxv2t75ub0hvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210494,
+          "url": "https://stream.zeno.fm/uxv2t75ub0hvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    }
+  ]
+}

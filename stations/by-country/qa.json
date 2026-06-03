@@ -1,0 +1,2808 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:02.257Z",
+  "endpoint": "/countries/Qatar/radios",
+  "countryCode": "qa",
+  "countryName": "Qatar",
+  "expectedCount": 29,
+  "count": 29,
+  "data": [
+    {
+      "id": 72797,
+      "name": "قناة اﻟﺠﺰﻳﺮﺓ اﻟﻌﺮﺑﻴﺔ",
+      "slug": "Al_Jazeera_Audio_Arabic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/21/932101e0a9df990cf39bcc3b531ab245.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "qn",
+        "alsoKnownAs": "Al Jazeera Audio - Arabic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 54600,
+        "byCountry": {
+          "us": 101,
+          "gb": 33,
+          "au": 28,
+          "de": 31,
+          "fr": 155,
+          "br": 2,
+          "es": 14,
+          "mx": 1,
+          "jp": 1,
+          "in": 5,
+          "it": 28,
+          "ar": 2,
+          "ca": 57,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115123,
+          "url": "http://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115125,
+          "url": "https://live-hls-audio-aja-fa.getaj.net/VOICE-AJA/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 101479,
+      "name": "Al Jazeera Audio - English",
+      "slug": "Al_Jazeera_Audio_English",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/de/35dec47f007a2af6b48f9128dc82f940.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "al jazeera audio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 25020,
+        "byCountry": {
+          "us": 119,
+          "gb": 48,
+          "au": 68,
+          "de": 8,
+          "fr": 13,
+          "br": 8,
+          "es": 6,
+          "mx": 5,
+          "jp": 1,
+          "in": 25,
+          "it": 8,
+          "ar": 3,
+          "ca": 55,
+          "cl": 2,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143929,
+          "url": "http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 124311,
+      "name": "Monte Carlo Doualiya - MC Doualiya",
+      "slug": "Monte_Carlo_Doualiya_MC_Doualiya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/34/24342b98cbe81536f1f7fcb62260c780.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.4",
+        "dialStripped": "934"
+      },
+      "aliases": {
+        "cleanName": "monte carlo doualiya mc doualiya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4560,
+        "byCountry": {
+          "us": 14,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 8,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156868,
+          "url": "http://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156869,
+          "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 161598,
+      "name": "Quran Radio",
+      "slug": "Quran_Radio_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/16/8a16818d46a4e37d2aa8bee7d4111390.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "quran",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 3,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 167026,
+          "url": "http://live.kwikmotion.com/qmcquranradiolive/quranradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 167027,
+          "url": "https://live.kwikmotion.com/qmcquranradiolive/quranradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 406444,
+      "name": "Quran Radio",
+      "slug": "Quran_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/19/0519e4119db1d19cf984c19a766f664c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "quran",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213023,
+          "url": "https://live.kwikmotion.com/qmcquranradio2live/quranradio2/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213022,
+          "url": "http://live.kwikmotion.com/qmcquranradio2live/quranradio2/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72892,
+      "name": "إذاعة صوت الخليج FM",
+      "slug": "sout_al_khaleej",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/fd/5afd8aba186935030899306b2a8e7c28.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "dh swt lkhlyj",
+        "alsoKnownAs": "Sout Al Khaleej FM "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115248,
+          "url": "http://ruby.streamguys.com:8120/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115247,
+          "url": "http://ruby.streamguys.com:8120/sar-qatar-2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72897,
+      "name": "إذاعة قطر",
+      "slug": "Radio_Qatar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/53/98532f32a346361ad106356752c4e811.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.8",
+        "dialStripped": "908"
+      },
+      "aliases": {
+        "cleanName": "dh qtr",
+        "alsoKnownAs": "Radio Qatar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 10,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115253,
+          "url": "http://live.kwikmotion.com/qmcqatarradiolive/qatarradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115254,
+          "url": "https://live.kwikmotion.com/qmcqatarradiolive/qatarradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 106823,
+      "name": "Malayalam 98.6 FM",
+      "slug": "Malayalam_98.6_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/3e/0c3e0530f7390a5d60e2f9d3fa963809.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.6",
+        "dialStripped": "986"
+      },
+      "aliases": {
+        "cleanName": "malayalam 98.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Asian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 23,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148004,
+          "url": "http://vokcast.bluecast.in:8227/986fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72483,
+      "name": "Mirchi One Qatar",
+      "slug": "Mirchi_One_Qatar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/6a/986aa89fb9100b6f0f2ab243600fdadd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "mirchi one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 4,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 23,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114776,
+          "url": "http://20133.live.streamtheworld.com:80/QAT_HIN_GSTAAC_HI_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 140,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114773,
+          "url": "http://29093.live.streamtheworld.com:80/QAT_HIN_GSTAAC_HI_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114774,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC.aac",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114775,
+          "url": "http://27863.live.streamtheworld.com:80/QAT_HIN_GSTAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114777,
+          "url": "http://25443.live.streamtheworld.com:80/QAT_HIN_GSTAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242766,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC_HI.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242767,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114772,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC_HI.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72923,
+      "name": "إذاعة مزاجي 94.6",
+      "slug": "Mazaji_94.6_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/14/5214f0cd30c6ac10070034333b0b2a7d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "dh mzjy 94.6",
+        "alsoKnownAs": "Mazaji 94.6 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115290,
+          "url": "http://104.248.240.106:8443/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238617,
+          "url": "https://stream3.rcast.net/73183/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72929,
+      "name": "حبايب اف ام",
+      "slug": "QF_Radio_93.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/8f/d18fb161ee14bed497449d73ee56c3c3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "hbyb f m",
+        "alsoKnownAs": "Habaieb FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Middle Eastern Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115300,
+          "url": "http://188.166.95.19:8000/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265267,
+          "url": "http://188.166.95.19:8000/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265268,
+          "url": "http://188.166.95.19:8000/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72963,
+      "name": "FM 107 QATAR",
+      "slug": "Qatar_Urdu_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/74/6b749353f231f1aa6a2e354751ba25c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "107",
+        "alsoKnownAs": "قطر اُردو ریڈیو , Qatar Urdu Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Asian Community Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115347,
+          "url": "http://live.kwikmotion.com/qmcurduradiolive/urduradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115348,
+          "url": "https://live.kwikmotion.com/qmcurduradiolive/urduradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ur",
+          "name": "Urdu"
+        }
+      ]
+    },
+    {
+      "id": 106880,
+      "name": "Radio Suno - Radio Suno Kannada",
+      "slug": "Radio_Suno_Kannada",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/fe/92fe0a2b928cd9a056d09ff64376ca80.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suno suno kannada",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 9,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249141,
+          "url": "http://provisioning.streamtheworld.com/pls/RADIO_SUNO_MELODY_S06AAC.pls",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 148049,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148050,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_SUNO_MELODY_S06AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252814,
+          "url": "http://27143.live.streamtheworld.com:80/RADIO_SUNO_MELODY_S06_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148051,
+          "url": "http://14623.live.streamtheworld.com:80/RADIO_SUNO_MELODY_S06_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148052,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 85,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kn",
+          "name": "Kannada"
+        }
+      ]
+    },
+    {
+      "id": 72347,
+      "name": "Radio Olive",
+      "slug": "Radio_Olive",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/e5/dfe5f74066847ac546012e7b0d639177.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.3",
+        "dialStripped": "1063"
+      },
+      "aliases": {
+        "cleanName": "olive",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Entertainment Hits Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114586,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114587,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 114585,
+          "url": "http://22333.live.streamtheworld.com:80/OLIVE1063_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114584,
+          "url": "http://22533.live.streamtheworld.com:80/OLIVE1063AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114582,
+          "url": "http://25243.live.streamtheworld.com:80/OLIVE1063AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114583,
+          "url": "http://25633.live.streamtheworld.com:80/OLIVE1063_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114580,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 114588,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114581,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114579,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 20579,
+      "name": "Qabayan Radio",
+      "slug": "Qabayan_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/a5/98a532c078903f66c26046b56e618be4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "qabayan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29972,
+          "url": "https://c2.radioboss.fm/stream/478",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29971,
+          "url": "http://c2.radioboss.fm/stream/478",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 106942,
+      "name": "Radio Suno",
+      "slug": "QBS_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/d2/51d2253b5157f84aaf9432a6a3bf585c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "suno",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Devotional Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 5,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148091,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148098,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148092,
+          "url": "http://22183.live.streamtheworld.com:80/SUNO917AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 148093,
+          "url": "http://29003.live.streamtheworld.com:80/SUNO917_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148096,
+          "url": "http://22533.live.streamtheworld.com:80/SUNO917_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148097,
+          "url": "http://20863.live.streamtheworld.com:80/SUNO917AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 148094,
+          "url": "http://28563.live.streamtheworld.com:80/SUNO917_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148095,
+          "url": "http://25283.live.streamtheworld.com:80/SUNO917AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 148099,
+          "url": "https://22663.live.streamtheworld.com:443/SUNO917AAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 148100,
+          "url": "https://28563.live.streamtheworld.com:443/SUNO917_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ml",
+          "name": "Malayalam"
+        }
+      ]
+    },
+    {
+      "id": 73028,
+      "name": "QBS Radio",
+      "slug": "QBS_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/a3/38a367f53cac5450081039b3cf48b2fb.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "qbs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115447,
+          "url": "https://live.kwikmotion.com/qmcqbsradiolive/qbsradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115446,
+          "url": "http://live.kwikmotion.com/qmcqbsradiolive/qbsradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 264186,
+      "name": "Jamian Islamic Radio",
+      "slug": "Jamian_Islamic_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/83/a9836c2104a4e6b5dabdc1701e6f4698.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jamian islamic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189387,
+          "url": "http://stream.zeno.fm/4oml7drsqr2uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189388,
+          "url": "https://stream.zeno.fm/4oml7drsqr2uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 406465,
+      "name": "راديو اوريكس أف أم",
+      "slug": "Oryx_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/15/78159d821eca928c664037f1f59a2f5f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "rdyw wryks f m",
+        "alsoKnownAs": "Oryx FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "French Middle Eastern News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69232,
+      "name": "Radio Olive - Radio Olive Retro",
+      "slug": "Radio_Olive_Radio_Olive_Retro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/51/805139e7978bc80534b13b20198fc089.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "olive olive retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 110200,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110199,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252484,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_OLIVE_RETRO_S03_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110201,
+          "url": "http://16613.live.streamtheworld.com:80/RADIO_OLIVE_RETRO_S03_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110204,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03AAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110202,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_OLIVE_RETRO_S03AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252485,
+          "url": "http://16613.live.streamtheworld.com:80/RADIO_OLIVE_RETRO_S03AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 73036,
+      "name": "Fame FM Qatar",
+      "slug": "Fame_FM_Qatar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/b9/2db9656d4129761b668d52357e8f3a1a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "fame",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Dance Pop Top 40 World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115463,
+          "url": "http://19003.live.streamtheworld.com:80/SAM03AAC389_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115462,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC389.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115464,
+          "url": "http://26383.live.streamtheworld.com:80/SAM03AAC389_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115465,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC389.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72597,
+      "name": "Radio Olive - Radio Olive Nepal",
+      "slug": "Radio_Olive_Radio_Olive_Nepal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/55/74550fdd45d7729bb46d1279c93af35d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "olive olive",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114897,
+          "url": "http://14613.live.streamtheworld.com:80/RADIO_OLIVE_HITS_S02_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252524,
+          "url": "http://14613.live.streamtheworld.com:3690/RADIO_OLIVE_HITS_S02_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114895,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 74,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114898,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_OLIVE_HITS_S02AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114896,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249022,
+          "url": "http://provisioning.streamtheworld.com/pls/RADIO_OLIVE_HITS_S02AAC.pls",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114899,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02AAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 406466,
+      "name": "Radio Suno - Radio Suno Tamil",
+      "slug": "Radio_Suno_Tamil",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/d8/d0d8f2d5426c845a31f0fc427ba9d929.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suno suno tamil",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Tamil",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213026,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213027,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250424,
+          "url": "http://provisioning.streamtheworld.com/pls/RADIO_SUNO_TAMIL_S01.pls",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247968,
+          "url": "http://14993.live.streamtheworld.com:3690/RADIO_SUNO_TAMIL_S01AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213029,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_SUNO_TAMIL_S01AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213028,
+          "url": "http://14613.live.streamtheworld.com:80/RADIO_SUNO_TAMIL_S01_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 246401,
+      "name": "Hola Qatar Radio",
+      "slug": "Hola_Qatar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/b6/75b69f6cf9a69a669193239bddb43b0e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "hola",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Spanish Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185970,
+          "url": "http://live.kwikmotion.com/qmcholaradiolive/holaradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185971,
+          "url": "https://live.kwikmotion.com/qmcholaradiolive/holaradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 406471,
+      "name": "Uthamiyae FM",
+      "slug": "Uthamiyae_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/d8/67d8d73ed4ee06f6a1ac1c76d0c86a91.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uthamiyae",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213030,
+          "url": "http://51.89.173.53:8173/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213032,
+          "url": "https://ssl.aloncast.com:1595/",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213031,
+          "url": "http://51.89.173.53:8173/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 73199,
+      "name": "1variraamuddu",
+      "slug": "1variraamuddu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/c8/64c86e34060a447efe685f0b8ff04646.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1variraamuddu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": ", Qatar",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115727,
+          "url": "http://stream.zeno.fm/3rmk51f9938uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115728,
+          "url": "https://stream.zeno.fm/3rmk51f9938uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73231,
+      "name": "INTA FM 103.7",
+      "slug": "INTA_FM_103.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/50/5d50c745053c81642f68fccc4cac1585.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "inta 103.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Arabic Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115752,
+          "url": "https://s4.radio.co/s907eaefbe/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72626,
+      "name": "Radio Olive - Radio Olive Kids",
+      "slug": "Radio_Olive_Radio_Olive_Kids",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4d/ce/4dce5ce10c3bdd76737b06737f955418.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "olive olive kids",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114933,
+          "url": "http://27153.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114934,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 71,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114931,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114932,
+          "url": "http://14993.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252525,
+          "url": "http://16613.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 247511,
+          "url": "http://29306.live.streamtheworld.com:80/RADIO_OLIVE_CLUB_S04_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114930,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 406473,
+      "name": "Radio Suno - Radio Suno Lanka",
+      "slug": "Radio_Suno_Lanka",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/6a/7f6a73f6505d5dcdabf7dc247af05cf9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suno suno",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Doha",
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "locationText": "Doha, Qatar",
+        "coordinates": {
+          "latitude": "25.2793200",
+          "longitude": "51.5224500"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213034,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_HITS_S05AAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213033,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_HITS_S05.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213036,
+          "url": "http://16613.live.streamtheworld.com:80/RADIO_SUNO_HITS_S05AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253639,
+          "url": "http://17813.live.streamtheworld.com:80/RADIO_SUNO_HITS_S05_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213035,
+          "url": "http://14613.live.streamtheworld.com:80/RADIO_SUNO_HITS_S05_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249596,
+          "url": "http://provisioning.streamtheworld.com/pls/RADIO_SUNO_HITS_S05AAC.pls",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "si",
+          "name": "Sinhala"
+        }
+      ]
+    }
+  ]
+}

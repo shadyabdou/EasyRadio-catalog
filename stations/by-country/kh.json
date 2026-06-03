@@ -1,0 +1,884 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:40.103Z",
+  "endpoint": "/countries/Cambodia/radios",
+  "countryCode": "kh",
+  "countryName": "Cambodia",
+  "expectedCount": 11,
+  "count": 11,
+  "data": [
+    {
+      "id": 83418,
+      "name": "Love FM Phnom Penh",
+      "slug": "Radio_97.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/86/96868e4f269570da94455424b67bc6a4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "love phnom penh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Pop Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 2,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266701,
+          "url": "http://radio99.servradio.com:9298/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129820,
+          "url": "http://radio99.servradio.com:9298/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 66495,
+      "name": "LDP Radio",
+      "slug": "LDP_Online_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/f2/d7f2a158c60cece42a1c5b04970f78aa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ldp",
+        "alsoKnownAs": "League for Democracy Party"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "News Politics Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107202,
+          "url": "http://s6.voscast.com:9000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268299,
+          "url": "http://s6.voscast.com:9000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 86038,
+      "name": "ABC Cambodia",
+      "slug": "ABC_Cambodia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/38/bc38b48ad593ae94778d7bb2cf109ba8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.5",
+        "dialStripped": "1075"
+      },
+      "aliases": {
+        "cleanName": "abc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131748,
+          "url": "http://43.252.18.195:8888/broadwave.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 93572,
+      "name": "VAYO FM 105.5",
+      "slug": "Tonle_FM_105.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/43/0b43c3cfd4a098f8a4d7fb82d271c2b9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "vayo 105.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255702,
+          "url": "http://radio.vayofm.com/vayofm/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139319,
+          "url": "http://radio.vayofm.com:8010/vayofm",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139320,
+          "url": "https://radio.vayofm.com/vayofm/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "th",
+          "name": "Thai"
+        }
+      ]
+    },
+    {
+      "id": 282511,
+      "name": "Kampot Radio",
+      "slug": "Kampot_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/aa/87aa9541da1eb595497d6ecea4eec899.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kampot",
+        "alsoKnownAs": "Radio Oun [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kampot ",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Kampot , Kampot, Cambodia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Pop Rock Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192731,
+          "url": "https://radio.darrylcarter.co.uk/listen/listen/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 102,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 192732,
+          "url": "https://radio.darrylcarter.co.uk:8000/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 192730,
+          "url": "http://radio.darrylcarter.co.uk:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60384,
+      "name": "Khmer Christian FM Radio",
+      "slug": "Khmer_Christian_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/1b/fe1b9d285ed2e6b51708661d48b84d77.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "khmer christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98709,
+          "url": "http://stream.zeno.fm/vhnc2zrsbq8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98710,
+          "url": "https://stream.zeno.fm/vhnc2zrsbq8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 386502,
+      "name": "Phnom Penh Radio FM 103",
+      "slug": "Radio_103_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/d9/e2d916a55d0fbb5f1499466a1f5a3d4b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "phnom penh 103",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270686,
+          "url": "http://radio99.servradio.com:9294/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211003,
+          "url": "http://radio99.servradio.com:9294/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211004,
+          "url": "rtmp://119.82.248.12:1950/shoutcashflash_FM103/FM103.stream",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 106304,
+      "name": "Radio Free Asia - CH. 3: Khmer | Lao | Uyghur",
+      "slug": "Radio_Free_Asia_Khmer",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/36/db36ac0db98cdca1c29a1361a4eecfc1.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1374",
+        "dialStripped": "1374"
+      },
+      "aliases": {
+        "cleanName": "free asia ch 3 khmer lao uyghur",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 147502,
+          "url": "http://rfalive3.akacast.akamaistream.net/7/986/433979/v1/ibb.akacast.akamaistream.net/RFALive3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269125,
+          "url": "http://rfalive3.akacast.akamaistream.net/7/986/433979/v1/ibb.akacast.akamaistream.net/RFALive3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 441578,
+      "name": "Sweet FM 100.5 Siem Reab",
+      "slug": "Swest_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/63/836371580604e9c52f11fba8a498d301.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "sweet 100.5 siem reab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Siem Reap",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Siem Reap, Cambodia",
+        "coordinates": {
+          "latitude": "13.3617900",
+          "longitude": "103.8605600"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216372,
+          "url": "http://radio99.servradio.com:9308/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261512,
+          "url": "http://radio99.servradio.com:9308/;;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 195674,
+      "name": "Family FM",
+      "slug": "Family_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/9e/789e1b7d3e3cce1ccfa3030d62b46cf3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "family",
+        "alsoKnownAs": "FEBCambodia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176124,
+          "url": "http://176.31.118.194:10064/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 389998,
+      "name": "Tonle FM - VAYO",
+      "slug": "VAYO_Tonle_Radio_102.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/14/9e/149e389c4bc38dc578908935f38c6edb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "tonle vayo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211271,
+          "url": "http://5.133.182.164:20512/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    }
+  ]
+}

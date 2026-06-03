@@ -1,0 +1,993 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:33.619Z",
+  "endpoint": "/countries/Sint Maarten/radios",
+  "countryCode": "sint-maa",
+  "countryName": "Sint Maarten",
+  "expectedCount": 13,
+  "count": 13,
+  "data": [
+    {
+      "id": 81081,
+      "name": "PJD2 Radio",
+      "slug": "PJD2_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/33/c5333da660a5e7e00931a7137632a16c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "pjd2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126312,
+          "url": "http://142.4.219.8:8181/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126311,
+          "url": "http://pjd2radiofm.radioca.st:8181/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81150,
+      "name": "PJD2 Radio",
+      "slug": "PJD2_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/44/3e44b179fd50e5b47651579ab898b51a.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1300",
+        "dialStripped": "1300"
+      },
+      "aliases": {
+        "cleanName": "pjd2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126362,
+          "url": "http://pjd2radioam.radioca.st:8193/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126364,
+          "url": "http://pjd2radiofm.radioca.st:8181/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126363,
+          "url": "http://142.4.219.8:8193/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256422,
+          "url": "http://pjd2radiofm.radioca.st:8181/stream.m3u/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 226775,
+      "name": "SXM GOV Radio",
+      "slug": "SXM_GOV_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/eb/6ceb75704b0c151a7beab7d10bb62555.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "sxm gov",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182416,
+          "url": "http://s6.reliastream.com:8154/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 179040,
+      "name": "Energy NRJ SXM",
+      "slug": "Energy_NRJ_SXM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/b5/d2b554a26909a7c01195bb6c5b716d2d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "energy nrj sxm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171774,
+          "url": "http://2stream.dyndns.org:8000/nrjsxm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 8775908,
+      "name": "Bible Baptist Church St. Maarten",
+      "slug": "Bible_Baptist_Church_St._Maarten",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/9d/709d5cad1ec4025e0841900df8aae256.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bible baptist church st maarten",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236086,
+          "url": "https://a11.asurahosting.com:9060/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236085,
+          "url": "http://a11.asurahosting.com:9060/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 386766,
+      "name": "Pearl FM",
+      "slug": "Pearl_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/3f/4e3f0f290f32a3e00ae3749be79bd8e9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "pearl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211061,
+          "url": "http://stream.sxmradio.com:8060/channel6.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 22537,
+      "name": "Island 92",
+      "slug": "Island",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/9f/889f211f426d77742eae4312713a9edc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "island 92",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Simpson Bay",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Simpson Bay, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Blues Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34084,
+          "url": "https://ais-sa1.streamon.fm/7338_48k.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 34083,
+          "url": "http://ais-sa1.streamon.fm/7338_48k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 56453,
+      "name": "Dolfijn FM",
+      "slug": "Dolfijn_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/d2/e6d2019fcb3bf58d8d78d32d98cc897e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "dolfijn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 92353,
+          "url": "http://radiostreamfm.com/radio/8130/radio.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 92355,
+          "url": "https://radiostreamfm.com/radio/8130/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 92354,
+          "url": "http://radiostreamfm.com:8130/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 867525,
+      "name": "X 104.3",
+      "slug": "X_104.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/87/6c87d61cec6aaecdbab04afe7ca23151.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "x 104.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229972,
+          "url": "http://www.streamcontrol.net:16520/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 229973,
+          "url": "https://www.streamcontrol.net:8444/s/16520/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 45571,
+      "name": "Tropixx FM",
+      "slug": "Tropixx_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/4c/f94cab68c7f8923fd49fd93642459397.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "tropixx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73110,
+          "url": "http://201.220.14.41:8060/channel2.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267848,
+          "url": "http://201.220.14.41:8060/channel2.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37649756,
+      "name": "Z 105.1",
+      "slug": "Z_105.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/e7/8de790403335149059cad497f2a80682.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "z 105.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Simpson Bay",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Simpson Bay, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275104,
+          "url": "http://195.201.85.142:8077/STREAM",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 273927,
+          "url": "https://cosmo.shoutca.st:2199/tunein/zron-STREAM.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 150,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 390720,
+      "name": "Laser 101",
+      "slug": "Laser",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/1d/5e1d626c000eca2eb656c50de00bb75a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "laser 101",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211332,
+          "url": "http://stream.sxmradio.com:8060/channel7.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 57947,
+      "name": "Oasis 96.3",
+      "slug": "Oasis_96.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/be/98be8721e4c48243b2b1aa2a9974054a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "oasis 96.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Philipsburg",
+        "countryName": "Sint Maarten",
+        "countryCode": null,
+        "locationText": "Philipsburg, Sint Maarten",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Country Oldies Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95837,
+          "url": "http://201.220.14.41:8060/1043.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268160,
+          "url": "http://201.220.14.41:8060/1043.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

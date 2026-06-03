@@ -1,0 +1,1678 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:57.250Z",
+  "endpoint": "/countries/Benin/radios",
+  "countryCode": "bj",
+  "countryName": "Benin",
+  "expectedCount": 20,
+  "count": 20,
+  "data": [
+    {
+      "id": 43433,
+      "name": "RFI Afrique",
+      "slug": "RFI_Afrique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/ce/65cef1ac7e0a10906e7f35e4bcda8d49.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "rfi afrique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Information News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90960,
+        "byCountry": {
+          "us": 253,
+          "gb": 53,
+          "au": 3,
+          "de": 26,
+          "fr": 588,
+          "br": 3,
+          "es": 21,
+          "mx": 1,
+          "jp": 0,
+          "in": 5,
+          "it": 56,
+          "ar": 0,
+          "ca": 65,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 69709,
+          "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69708,
+          "url": "http://live02.rfi.fr/rfiafrique-96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69707,
+          "url": "http://live02.rfi.fr/rfiafrique-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 67,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69706,
+          "url": "http://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 375040,
+      "name": "ORTB Radio Bénin",
+      "slug": "ORTB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/6f/706f3f2a1eadf9f41d73a3c628176e43.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": "ortb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209382,
+          "url": "https://www.radioking.com/play/radio-benin/84430",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209381,
+          "url": "http://www.radioking.com/play/radio-benin/84430",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 136765,
+      "name": "Radio Immaculée Conception",
+      "slug": "Radio_Immaculee_Concepcion",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/e8/94e8c72989488c07588a49927a59b448.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.0",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "immaculee conception",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161835,
+          "url": "http://de1.streamingpulse.com:9079/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43566,
+      "name": "Radio Tokpa",
+      "slug": "Radio_Tokpa_104.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/05/9005b2eed9826f72f1ae906da61d39fd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "tokpa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 10,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69982,
+          "url": "https://radiotokpa.info/liveradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69981,
+          "url": "http://159.223.141.113:8019/live.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 208492,
+      "name": "Frissons Radio",
+      "slug": "Frissons_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/bd/9ebdc033ed851c93dc6dd717bb0a5368.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "frissons",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "News Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179279,
+          "url": "http://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179280,
+          "url": "https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 208619,
+      "name": "Fraternité FM",
+      "slug": "Fraternite_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/2d/6d2da19006c9f234a0ffc970cc14d5c9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "fraternite",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parakou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Parakou, Benin",
+        "coordinates": {
+          "latitude": "9.3371600",
+          "longitude": "2.6303100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179296,
+          "url": "http://radio8.pro-fhi.net:9099/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179295,
+          "url": "http://radio8.pro-fhi.net:9099/stream2/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265980,
+          "url": "http://radio8.pro-fhi.net:9099/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265979,
+          "url": "http://radio8.pro-fhi.net:9099/stream2/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265981,
+          "url": "https://radio8.pro-fhi.net:19099/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179297,
+          "url": "https://radio8.pro-fhi.net:19099/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 361656,
+      "name": "Océan FM",
+      "slug": "Ocean_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/ea/70ea141b14be8be9e500fb2b9a02790b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "ocean",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207123,
+          "url": "http://stream.zeno.fm/xk96565ugrhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207124,
+          "url": "https://stream.zeno.fm/xk96565ugrhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 5210284,
+      "name": "Radio Cotonou",
+      "slug": "Radio_Cotonou",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/c1/32c1d5264cfff9dc703b30ce97fb93d7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "cotonou",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 233091,
+          "url": "http://stream.zeno.fm/o9bspgm4y78vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 233092,
+          "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 113302,
+      "name": "BIP Radio",
+      "slug": "BIP_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/6a/4b6a869925a2602003947e63486c7472.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "bip",
+        "alsoKnownAs": "Bénin Info Première Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152315,
+          "url": "http://ice.creacast.com/bipradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152316,
+          "url": "https://ice.creacast.com/bipradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43676,
+      "name": "Radio Bénin Alafia",
+      "slug": "Radio_Benin_Alafia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/e7/aee7ace89d8e1ec27a938346f1845349.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "alafia",
+        "alsoKnownAs": "ORTF Radio Bénin Alafia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70197,
+          "url": "https://listen.radioking.com/radio/744487/stream/811039",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70196,
+          "url": "http://listen.radioking.com/radio/744487/stream/811039",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32571,
+      "name": "Alléluia Fm Bénin",
+      "slug": "Alleluia_Fm_Benin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/cd/3dcdd31c1ac69002c3c6d9f5b049b94d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "alleluia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Porto-Novo",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Porto-Novo, Benin",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53119,
+          "url": "https://alleluiafm.ice.infomaniak.ch/alleluiafm-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53118,
+          "url": "http://alleluiafm.ice.infomaniak.ch/alleluiafm-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 107151,
+      "name": "Atlantic FM Bénin",
+      "slug": "Atlantic_FM_Benin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/bd/17bd5adeb22eb6a3cab3f0e3dcc6a666.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.2",
+        "dialStripped": "922"
+      },
+      "aliases": {
+        "cleanName": "atlantic",
+        "alsoKnownAs": "ORTB Atlantic FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148243,
+          "url": "https://www.radioking.com/play/atlantic-fm-ortb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148244,
+          "url": "https://listen.radioking.com/radio/613798/stream/675604",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148242,
+          "url": "http://listen.radioking.com/radio/613798/stream/675604",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148241,
+          "url": "http://www.radioking.com/play/atlantic-fm-ortb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 89437,
+      "name": "Radio Parakou",
+      "slug": "Radio_Parakou",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/18/2e18754f8db6eb0652478f5315db8314.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "ORTB Radio Parakou"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parakou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Parakou, Benin",
+        "coordinates": {
+          "latitude": "9.3371600",
+          "longitude": "2.6303100"
+        }
+      },
+      "genre": {
+        "text": "Community French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135433,
+          "url": "http://www.radioking.com/play/radio-parakou",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135434,
+          "url": "https://www.radioking.com/play/radio-parakou",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 16952154,
+      "name": "Radio Maranatha",
+      "slug": "Radio_Maranatha_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/a1/9ca119c5eb3e6de8985835114bfee795.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "maranatha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241504,
+          "url": "http://154.72.112.49:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241505,
+          "url": "http://154.72.112.49:8000/live?type=.flv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 395671,
+      "name": "Radio Planète FM",
+      "slug": "Radio_planete",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/03/0f035aa31ee86cc1ca9ce85001e1d2ca.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "planete",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211820,
+          "url": "https://listen.radioking.com/radio/111193/stream/150295",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 211819,
+          "url": "http://listen.radioking.com/radio/111193/stream/150295",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75881,
+      "name": "Radio Gerddes FM",
+      "slug": "Radio_Gerddes_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/b9/27b9946704e0d77cba6a0fcb5bda9816.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5",
+        "dialStripped": "895"
+      },
+      "aliases": {
+        "cleanName": "gerddes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Porto-Novo",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Porto-Novo, Benin",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119074,
+          "url": "http://stream.zeno.fm/853k2xye37zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 119075,
+          "url": "https://stream.zeno.fm/853k2xye37zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 36584179,
+      "name": "Bénin Radio 4",
+      "slug": "Benin_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/85/988538b9eca12ad7df494cb2d9554bad.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": ", Benin",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265978,
+          "url": "https://stream.zeno.fm/650r0dwas9zvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265977,
+          "url": "http://stream.zeno.fm/650r0dwas9zvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44278,
+      "name": "Radio Web Aximin",
+      "slug": "Radio_Web_Aximin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/ae/07ae098396eb0bd7f24154dcd43fb080.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "web aximin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats French Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71390,
+          "url": "http://www.radioking.com/play/aximin",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71392,
+          "url": "https://www.radioking.com/play/aximin",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71391,
+          "url": "http://listen.radioking.com/radio/333013/stream/381412",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71393,
+          "url": "https://listen.radioking.com/radio/333013/stream/381412",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 24127063,
+      "name": "Deeman Radio",
+      "slug": "Deeman_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/cc/44ccd74d86d4f9ebd7faff793b188b17.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "deeman",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Parakou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Parakou, Benin",
+        "coordinates": {
+          "latitude": "9.3371600",
+          "longitude": "2.6303100"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246967,
+          "url": "http://ks.mycp.stream:11248/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 174787,
+      "name": "LMJ-RADIO",
+      "slug": "LMJ_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/d8/e9d80c5fc8a53d905bd1da5a1a639312.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lmj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cotonou",
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "locationText": "Cotonou, Benin",
+        "coordinates": {
+          "latitude": "6.3653600",
+          "longitude": "2.4183300"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171064,
+          "url": "http://stream.zeno.fm/pkv8q4yuwhhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 171065,
+          "url": "https://stream.zeno.fm/pkv8q4yuwhhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

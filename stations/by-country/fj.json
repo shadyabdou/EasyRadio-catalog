@@ -1,0 +1,1701 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:40.131Z",
+  "endpoint": "/countries/Fiji/radios",
+  "countryCode": "fj",
+  "countryName": "Fiji",
+  "expectedCount": 19,
+  "count": 19,
+  "data": [
+    {
+      "id": 62290,
+      "name": "Radio Navtarang Fiji Live - Hindi Radio",
+      "slug": "Radio_Navtarang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/1e/7b1e53e58bf270097767b1b2ff8aa7d8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8 / 101 / 101.4",
+        "dialStripped": "1008 / 101 / 1014"
+      },
+      "aliases": {
+        "cleanName": "navtarang live hindi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 19320,
+        "byCountry": {
+          "us": 176,
+          "gb": 2,
+          "au": 337,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 11,
+          "it": 0,
+          "ar": 0,
+          "ca": 78,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102123,
+          "url": "http://stream.rcs.revma.com/5f56gd8a303vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102124,
+          "url": "https://stream.rcs.revma.com/5f56gd8a303vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 69025,
+      "name": "Radio Fiji Two",
+      "slug": "Radio_Fiji_Two",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/68/bf/68bf2401bfe114c894cc9f116d7e3871.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "two",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Education Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 17550,
+        "byCountry": {
+          "us": 172,
+          "gb": 1,
+          "au": 264,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 8,
+          "it": 1,
+          "ar": 0,
+          "ca": 74,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110005,
+          "url": "http://peridot.streamguys.com:7150/RFTwo",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277077,
+          "url": "http://icecast1.sere.plus/RFTwo?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 21,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277078,
+          "url": "https://icecast1.sere.plus/RFTwo?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253328,
+          "url": "https://peridot.streamguys.com:7150/RFTwo",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 38574,
+      "name": "Radio Sargam Fiji",
+      "slug": "Radio_Sargam",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/57/61570f433e84bc7b2fc24767896aca36.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "sargam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 14700,
+        "byCountry": {
+          "us": 146,
+          "gb": 2,
+          "au": 199,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 35,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62594,
+          "url": "http://stream.rcs.revma.com/8a38ru8a303vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62595,
+          "url": "https://stream.rcs.revma.com/8a38ru8a303vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 48566,
+      "name": "Radio Fiji ONE",
+      "slug": "Radio_Fiji_ONE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/b5/bab5f581e2a8137e438648e717759184.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.0",
+        "dialStripped": "930"
+      },
+      "aliases": {
+        "cleanName": "one",
+        "alsoKnownAs": "Domoiviti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 8070,
+        "byCountry": {
+          "us": 11,
+          "gb": 6,
+          "au": 54,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77236,
+          "url": "http://peridot.streamguys.com:7150/RFOne",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77237,
+          "url": "https://peridot.streamguys1.com:7155/RFOne",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274871,
+          "url": "http://icecast1.sere.plus:8000/RFOne",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253560,
+          "url": "https://peridot.streamguys.com:7150/RFOne",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72287,
+      "name": "Radio Mirchi Fiji",
+      "slug": "Radio_Mirchi_Fiji",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/b6/79b6a502ed60fd0188995f93487b5d91.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.8",
+        "dialStripped": "978"
+      },
+      "aliases": {
+        "cleanName": "mirchi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7350,
+        "byCountry": {
+          "us": 83,
+          "gb": 3,
+          "au": 123,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 22,
+          "it": 0,
+          "ar": 1,
+          "ca": 15,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114518,
+          "url": "http://peridot.streamguys1.com:7150/MirchiFiji",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114519,
+          "url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241322,
+          "url": "https://peridot.streamguys1.com:7150/MirchiFiji",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275531,
+          "url": "https://icecast1.sere.plus/MirchiFiji",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 24,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275530,
+          "url": "http://icecast1.sere.plus:8000/MirchiFiji",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 85918,
+      "name": "Bula FM",
+      "slug": "Bula_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4d/63/4d631b61229e672776945105566371fe.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "bula",
+        "alsoKnownAs": "FBC - Bula FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tavua",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Tavua, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Community News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6630,
+        "byCountry": {
+          "us": 8,
+          "gb": 8,
+          "au": 59,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 3,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131701,
+          "url": "http://peridot.streamguys.com:7150/Bula",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277020,
+          "url": "http://icecast1.sere.plus:8000/Bula",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 21,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277021,
+          "url": "https://icecast1.sere.plus/Bula",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 21,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 56658,
+      "name": "Viti FM",
+      "slug": "Viti_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/10/e91091125331d9a4878d1cfe270e8dc8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "viti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5520,
+        "byCountry": {
+          "us": 14,
+          "gb": 14,
+          "au": 46,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 2,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93028,
+          "url": "https://stream.rcs.revma.com/3c11kc9a303vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93027,
+          "url": "http://stream.rcs.revma.com/3c11kc9a303vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21251,
+      "name": "Legend FM",
+      "slug": "viti_fm_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/93/1393787e04f08a8768ad7731b6c1332a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "legend",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Dance Reggae Rock Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2430,
+        "byCountry": {
+          "us": 5,
+          "gb": 3,
+          "au": 13,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31500,
+          "url": "https://stream.rcs.revma.com/7wnnz47a303vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31499,
+          "url": "http://stream.rcs.revma.com/7wnnz47a303vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 65398,
+      "name": "Bula FM",
+      "slug": "Bula_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/d8/48d809a6bf846f16b2dd6a36b3b45ba2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.6",
+        "dialStripped": "1026"
+      },
+      "aliases": {
+        "cleanName": "bula",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1980,
+        "byCountry": {
+          "us": 8,
+          "gb": 15,
+          "au": 50,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 251514,
+          "url": "https://peridot.streamguys.com:7150/Bula",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 26,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274701,
+          "url": "https://icecast1.sere.plus/Bula",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105826,
+          "url": "https://peridot.streamguys1.com:7155/Bula",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274700,
+          "url": "http://icecast1.sere.plus/Bula",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 105825,
+          "url": "http://peridot.streamguys.com:7150/Bula",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36567979,
+      "name": "FM 96",
+      "slug": "FM_96",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/3d/713d429435e55291d4c501a2ab319be2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "96",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 9,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265662,
+          "url": "http://stream.rcs.revma.com/q8txpfyyay3vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265663,
+          "url": "https://stream.rcs.revma.com/q8txpfyyay3vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49615,
+      "name": "Radio Fiji GOLD",
+      "slug": "Radio_Fiji_GOLD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/4e/d54e7b564ab5d0aee45c023409788e03.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 5,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 248899,
+          "url": "https://peridot.streamguys.com:7150/Gold",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 21,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 79483,
+          "url": "http://peridot.streamguys.com:7150/Gold",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277289,
+          "url": "https://icecast1.sere.plus/Gold?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277288,
+          "url": "http://icecast1.sere.plus/Gold?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32548,
+      "name": "Nai Talai FM",
+      "slug": "Nai_Talai_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/76/a1764875f1f449c71db734590aa4c12c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "nai talai",
+        "alsoKnownAs": "Na iTalai FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53066,
+          "url": "http://uk17freenew.listen2myradio.com:17131/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 485531,
+      "name": "2Day FM",
+      "slug": "2Day_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/e6/a7e609204970f4dabd56d4d5e2aedc6a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.4",
+        "dialStripped": "954"
+      },
+      "aliases": {
+        "cleanName": "2day",
+        "alsoKnownAs": "Today FM , Two Day FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 7,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253770,
+          "url": "https://peridot.streamguys.com:7150/2Day",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 27,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 219896,
+          "url": "http://peridot.streamguys.com:7150/2Day",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 219897,
+          "url": "https://peridot.streamguys1.com:7155/2Day",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 24,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277174,
+          "url": "http://icecast1.sere.plus/2Day?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277175,
+          "url": "https://icecast1.sere.plus/2Day?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 23,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 272625,
+      "name": "रेडियो नया जीवन",
+      "slug": "Radio_Naya_Jiwan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/e4/d9e4959ad975b41f61bbcf2e1b073293.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "reddiyo jiivn",
+        "alsoKnownAs": "Radio Naya Jiwan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190977,
+          "url": "http://uk21freenew.listen2myradio.com:18513/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280742,
+          "url": "http://uk17freenew.listen2myradio.com:30811/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72374,
+      "name": "Radio Nine Networks",
+      "slug": "Radio_Nine_Networks",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/40/9c40a3ad4af365c6d84460516ae343e6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nine networks",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": ", Fiji",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 4,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114615,
+          "url": "https://stream.zeno.fm/xbdjlxmmuzzvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114614,
+          "url": "http://stream.zeno.fm/xbdjlxmmuzzvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 60690,
+      "name": "Life FM Fiji",
+      "slug": "Life_FM_Fiji",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/72/f3/72f38494ba0a1c0ac82a453a6a50c694.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "life",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - Life FM Fiji"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99305,
+          "url": "https://stream2.rcast.net/65809/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232395,
+          "url": "http://streams3.vision.org.au:443/fiji.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232394,
+          "url": "http://streams3.vision.org.au/fiji.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99303,
+          "url": "http://live.rcast.net:8578/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99304,
+          "url": "https://stream1.rcast.net/65809/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232396,
+          "url": "https://streams3.vision.org.au/fiji.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232397,
+          "url": "https://streams3.vision.org.au:443/fiji.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60862,
+      "name": "Radio Light",
+      "slug": "Radio_Light_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/63/1b63279006565ac4a9e1001e342b0006.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.2",
+        "dialStripped": "1042"
+      },
+      "aliases": {
+        "cleanName": "light",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99735,
+          "url": "http://uk21freenew.listen2myradio.com:11031/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 87682,
+      "name": "Radio Rishtey",
+      "slug": "Radio_Rishtey",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/17/ec17d552ffdae29a8fcfb454328dbaa9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rishtey",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Labasa",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Labasa, Fiji",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College Current Affairs Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133153,
+          "url": "http://cast5.servcast.net:8048/stream?type=http&nocache=12589",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133152,
+          "url": "http://cast5.servcast.net:8048/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 19162561,
+      "name": "Life Worship",
+      "slug": "Life_Worship",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/53/0f537e12162911442d919b4bc0900e2d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "life worship",
+        "alsoKnownAs": "Life FM Fiji - Life Worship"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Suva",
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "locationText": "Suva, Fiji",
+        "coordinates": {
+          "latitude": "-17.4937375",
+          "longitude": "178.1770400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243838,
+          "url": "http://stream.zeno.fm/mrvrbms4g2vuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243839,
+          "url": "https://stream.zeno.fm/mrvrbms4g2vuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277364,
+          "url": "http://streams3.vision.org.au:8000/visionworship.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277365,
+          "url": "https://streams3.vision.org.au/visionworship.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 157,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277363,
+          "url": "http://streams3.vision.org.au/visionworship.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 141,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

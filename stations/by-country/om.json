@@ -1,0 +1,892 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:13.539Z",
+  "endpoint": "/countries/Oman/radios",
+  "countryCode": "om",
+  "countryName": "Oman",
+  "expectedCount": 11,
+  "count": 11,
+  "data": [
+    {
+      "id": 49651,
+      "name": "إذاعة الوصال",
+      "slug": "Al_Wisal_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/5d/085d324f694f6804a5cd2b406e70dae6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "dh lwsl",
+        "alsoKnownAs": "Al-Wisal Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Sports Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 79575,
+          "url": "http://uk7.internet-radio.com:8067/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73240,
+      "name": "Hala FM",
+      "slug": "Hala_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/32/d032be6dc4eb9129c8a221c8f9579cc5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "hala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Arabic Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115759,
+          "url": "http://listen-halafm.sharp-stream.com/halafmmid.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115760,
+          "url": "https://listen-halafm.sharp-stream.com/halafmmid.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 241159,
+      "name": "Hi FM - Oman",
+      "slug": "HI_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/50/bc500518845b4855fa27b87193177f31.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "hi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Pop Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 185329,
+          "url": "http://edge-audio-05-gos2.sharp-stream.com:80/hifmmid.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185328,
+          "url": "http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185330,
+          "url": "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185331,
+          "url": "https://edge-audio-04-thn.sharp-stream.com:80/hifmmid.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73241,
+      "name": "FMالشبيبة",
+      "slug": "Shabiba_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/c9/0fc9052849cf1b1cffc6fc77d1893f28.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5 / 98.5",
+        "dialStripped": "975 / 985"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "Shabiba FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits Information Politics",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115761,
+          "url": "http://stream.shabiba.fm:8010/shabiba",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115762,
+          "url": "https://stream.shabiba.fm:9010/shabiba",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 372185,
+      "name": "Virgin Radio Oman",
+      "slug": "Virgin_Radio_Oman",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/db/e9dbb3321a0e8417a0f07a7b6f58eeda.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "virgin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209091,
+          "url": "http://139.162.245.57:8115/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209089,
+          "url": "http://uk5.internet-radio.com:8115/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73238,
+      "name": "Muscat FM",
+      "slug": "Muscat_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/06/66069a62d0021f3d060c7072368c4089.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.3",
+        "dialStripped": "1053"
+      },
+      "aliases": {
+        "cleanName": "muscat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Arabic Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115756,
+          "url": "http://stream.aiir.com/r9fyk1khuywtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115757,
+          "url": "https://stream.aiir.com/r9fyk1khuywtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 18189,
+      "name": "Merge FM",
+      "slug": "Merge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/6c/b06c0983c1d76e25937145a4d4659b03.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.8",
+        "dialStripped": "1048"
+      },
+      "aliases": {
+        "cleanName": "merge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23549,
+          "url": "http://uk7.internet-radio.com:8040/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 372285,
+      "name": "T FM",
+      "slug": "T_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/b2/80b2715334256ef7cddf30b1d1630b90.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.4 / 91.0",
+        "dialStripped": "954 / 910"
+      },
+      "aliases": {
+        "cleanName": "t",
+        "alsoKnownAs": "Times Of Oman FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209105,
+          "url": "https://stream.timesofoman.fm:9018/tfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 38,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 209103,
+          "url": "http://stream.timesofoman.fm:8018/tfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 35,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 90537,
+      "name": "Hi FM - Throwback",
+      "slug": "Hi_FM_Throwback",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/e1/46e1c9f9ad72812feb5789e6a996b955.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hi throwback",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 136818,
+          "url": "https://listen-hifm.sharp-stream.com/hifmthrowback.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 136817,
+          "url": "http://listen-hifm.sharp-stream.com/hifmthrowback.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 10756,
+      "name": "JazzWave Radio",
+      "slug": "JazzWave_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/71/9c7186f0284a720ba00914b192fd4c49.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jazzwave",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14880,
+          "url": "https://servidor19-3.brlogic.com:7126/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 14879,
+          "url": "http://servidor19-3.brlogic.com:7126/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 193051,
+      "name": "Hi FM - Extra",
+      "slug": "Hi_FM_Extra",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/35/06356665b822284642cc39045e0036e0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hi extra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Muscat",
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "locationText": "Muscat, Oman",
+        "coordinates": {
+          "latitude": "23.3400624",
+          "longitude": "57.3610680"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175511,
+          "url": "https://listen-hifm.sharp-stream.com/hifmxtra.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175510,
+          "url": "http://listen-hifm.sharp-stream.com/hifmxtra.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

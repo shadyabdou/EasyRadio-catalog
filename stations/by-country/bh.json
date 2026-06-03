@@ -1,0 +1,675 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:49.878Z",
+  "endpoint": "/countries/Bahrain/radios",
+  "countryCode": "bh",
+  "countryName": "Bahrain",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 264607,
+      "name": "القران الكريم 106.1",
+      "slug": "Quran_Kareem_106.1",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "lqrn lkrym 106.1",
+        "alsoKnownAs": "Quran Kareem 106.1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Isa Town (Madīnat ʿĪsā)",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Isa Town (Madīnat ʿĪsā), Bahrain",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1650,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189504,
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1066,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72996,
+      "name": "Bahrain FM",
+      "slug": "Bahrain_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/bb/0bbbfc6fe28ecf0b25860f5f6ef6b498.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115387,
+          "url": "http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115388,
+          "url": "http://fms-sl01.bluecast.ae:8000/vok/live.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ffvorbis",
+          "bitrate": 64,
+          "contentType": "audio/ogg",
+          "works": true
+        },
+        {
+          "id": 252529,
+          "url": "https://185.105.4.106/live/radio-93-3/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 51601733,
+      "name": "Radio Bahrain 96.5",
+      "slug": "Radio_Bahrain_96.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/64/46648eaf5c4fdf6d3356bb304357a636.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "96.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Hits Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279570,
+          "url": "http://stream.aiir.com/uejfkn0dchcuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279571,
+          "url": "https://stream.aiir.com/uejfkn0dchcuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 67928,
+      "name": "Christmas Pinoy Mix",
+      "slug": "Christmas_Pinoy_Mix",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/cb/e3cb141e3f6dfba16e11cffc9dfb04ef.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christmas pinoy mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108842,
+          "url": "http://stream.zeno.fm/eiixalk3yo7uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108843,
+          "url": "https://stream.zeno.fm/eiixalk3yo7uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "tl",
+          "name": "Tagalog"
+        }
+      ]
+    },
+    {
+      "id": 112262,
+      "name": "BFBS Radio Bahrain",
+      "slug": "BFBS_Radio_Bahrain",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/10/95100f5919c995f8efa51ab944fa1893.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "bfbs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Hits Military Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151823,
+          "url": "http://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151824,
+          "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20863,
+      "name": "Radio N-R Bahrain",
+      "slug": "Radio_N_R_Bahrain",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/27/642782e51c742b7d4b37da6178a71b80.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "n r",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Asian Bollywood Jazz Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30645,
+          "url": "https://stream.zeno.fm/k7206g363hhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30643,
+          "url": "http://stream.zeno.fm/k7206g363hhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30644,
+          "url": "http://s5.radio.co/sdd891c1c2/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30646,
+          "url": "https://s5.radio.co/sdd891c1c2/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73195,
+      "name": "Shabakat Nur Radio",
+      "slug": "Shabakat_Nur_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/4d/db4de9c154ea27798180bb2b1dcb1612.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shabakat nur",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Isa Town (Madīnat ʿĪsā)",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Isa Town (Madīnat ʿĪsā), Bahrain",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115721,
+          "url": "https://albahrani.org/listen/shabakat_nur/HDradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115719,
+          "url": "http://albahrani.org/listen/shabakat_nur/HDradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115718,
+          "url": "http://albahrani.org/listen/shabakat_nur/SDradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115720,
+          "url": "https://albahrani.org/listen/shabakat_nur/SDradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73138,
+      "name": "Plus FM Bahrain",
+      "slug": "Plus_FM_Bahrain",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/3d/e53da0c1cb76caa57d201b04810b8a87.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.2",
+        "dialStripped": "892"
+      },
+      "aliases": {
+        "cleanName": "plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manama",
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "locationText": "Manama, Bahrain",
+        "coordinates": {
+          "latitude": "26.2153600",
+          "longitude": "50.5832000"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115621,
+          "url": "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

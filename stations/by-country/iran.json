@@ -1,0 +1,1451 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:00.305Z",
+  "endpoint": "/countries/Iran/radios",
+  "countryCode": "iran",
+  "countryName": "Iran",
+  "expectedCount": 18,
+  "count": 18,
+  "data": [
+    {
+      "id": 223191,
+      "name": "راديو گلها",
+      "slug": "Radio_Golha",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/60/f160a258388925e8aae405bc1068f299.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw glh",
+        "alsoKnownAs": "Radio Golha"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1770,
+        "byCountry": {
+          "us": 34,
+          "gb": 7,
+          "au": 2,
+          "de": 7,
+          "fr": 5,
+          "br": 3,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 181783,
+          "url": "mms://www.radiogolha.net/RadioGolha",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 20,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 181781,
+          "url": "mms://84.244.130.224/RadioGolha",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 20,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 181782,
+          "url": "mms://84.244.130.224:8080/radiogolha",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "asf",
+          "bitrate": 20,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 93372,
+      "name": "رادیو ایران",
+      "slug": "Radio_Iran",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/08/9408b1b07d5f01c36052e1a4a28a0bcb.gif",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "rdyw yrn",
+        "alsoKnownAs": "Radio Iran"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 7,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 138822,
+          "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 20900,
+      "name": "إذاعة طهران العربية",
+      "slug": "Radio_Tehran_Arabic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/48/8248a7da19abfef6ec2b3b3ff9e39c4c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh thrn l rby",
+        "alsoKnownAs": "Radio Tehran Arabic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30732,
+          "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-arabic/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 263357,
+      "name": "رادیو تهران",
+      "slug": "Radio_Tehran",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/19/bf199c92cc183d54df65e06429d11fc5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "rdyw thrn",
+        "alsoKnownAs": "Radio Tehran"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 189144,
+          "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-tehran/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": null,
+          "bitrate": 307,
+          "contentType": "application/x-mpegURL",
+          "works": true
+        },
+        {
+          "id": 189143,
+          "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72933,
+      "name": "رادیو جوان",
+      "slug": "IRIB_R_Javan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/61/e861117bc030192f0fd6acd4a6020d42.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "rdyw jwn",
+        "alsoKnownAs": "Radio Javan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115305,
+          "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-javan/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": null,
+          "bitrate": 307,
+          "contentType": "application/x-mpegURL",
+          "works": true
+        },
+        {
+          "id": 115303,
+          "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115304,
+          "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 34233507,
+      "name": "Press TV",
+      "slug": "Press_TV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/65/a0651dfe97e807b0c64ff04603e3b2a0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "press tv",
+        "alsoKnownAs": "IRIB Press TV"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 261771,
+          "url": "http://live.presstv.ir/hls/presstv.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2048,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261772,
+          "url": "https://live.presstv.ir/hls/presstv.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2048,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 263434,
+      "name": "رادیو رنگین‌کمان",
+      "slug": "Radio_Ranginkaman",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/47/fe475269c49af78ab0fef153328ec672.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw rngynkhmn",
+        "alsoKnownAs": "Radio Ranginkaman"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "LGBT Middle Eastern Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189157,
+          "url": "https://stream.zeno.fm/u6wh2czf8e9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 189155,
+          "url": "http://s2.radio.co/sccac9b205/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189158,
+          "url": "https://s2.radio.co/sccac9b205/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189159,
+          "url": "https://s2.radio.co/sccac9b205/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 263403,
+      "name": "راديو سلامت",
+      "slug": "Radio_Salamat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/81/11813860822b8c1ddc21becc76964949.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "rdyw slmt",
+        "alsoKnownAs": "IRIB Radio Salamat"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189147,
+          "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 73017,
+      "name": "رادیو نارمک",
+      "slug": "Radio_Narmak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/a2/62a2d01738942606908bbcbbe7051259.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw nrmkh",
+        "alsoKnownAs": "Radio Narmak"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115432,
+          "url": "http://streaming.live365.com/a99375",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115433,
+          "url": "http://edge1-b.exa.live365.net/a99375_live365",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 106939,
+      "name": "رودی موسیقی - رودیو موسیقی",
+      "slug": "Rodio_Music",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/75/9775011878776808a343eeb9da30764e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rwdy mwsyqy rwdyw mwsyqy",
+        "alsoKnownAs": "Webb of Rodio - Rodio Music"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Asian Middle Eastern Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 148089,
+          "url": "http://stream.rodio.ir:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148088,
+          "url": "http://stream.rodio.ir/radio/8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148090,
+          "url": "https://stream.rodio.ir/radio/8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 72976,
+      "name": "رادیو نمایش",
+      "slug": "Radio_Namayesh_107.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/c8/c3c8277213efac4e01dad839406ff2c7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.5",
+        "dialStripped": "1075"
+      },
+      "aliases": {
+        "cleanName": "rdyw nmysh",
+        "alsoKnownAs": "Radio Namayesh"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279728,
+          "url": "https://ncdn.telewebion.ir/radionamayesh/live/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1515,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279727,
+          "url": "http://ncdn.telewebion.ir/radionamayesh/live/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1515,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115360,
+          "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 182102,
+      "name": "Radio Eram",
+      "slug": "Radio_Eram",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/1f/671f2ffa9cb6523a472a169b4a901fda.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "eram",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Pop Rap Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172667,
+          "url": "https://radio1.radioeram.com/",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 172666,
+          "url": "http://37.59.47.192:8200/stream1/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 73060,
+      "name": "RadioZZA",
+      "slug": "RadioZZA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/f7/0cf728e9f34469404793c5596c9d0d1f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radiozza",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hip Hop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115494,
+          "url": "http://www.radioking.com/play/radiozza",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115497,
+          "url": "https://listen.radioking.com/radio/526993/stream/585379",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115496,
+          "url": "https://www.radioking.com/play/radiozza",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115495,
+          "url": "http://listen.radioking.com/radio/526993/stream/585379",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 4819900,
+      "name": "Persian World Radio",
+      "slug": "Persian_World_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/67/f66712a35ac052f712c532d018e864c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "persian world",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Persian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232710,
+          "url": "http://s2.radio.co/s42e63dc37/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232711,
+          "url": "https://s2.radio.co/s42e63dc37/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 4819957,
+      "name": "Persian Worship Radio",
+      "slug": "Persian_Worship_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/4a/054ad3ddc5f19bd27389067cbc01d7e1.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "persian worship",
+        "alsoKnownAs": "Persian World Radio - Persian Worship"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Persian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 232714,
+          "url": "http://streaming.radio.co/s0dbaf9904/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232715,
+          "url": "https://streaming.radio.co/s0dbaf9904/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 263479,
+      "name": "Mahabad",
+      "slug": "Mahabad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/57/9f/579f40f80dbfb73a65bee1fcc6228808.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "882",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "mahabad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mahabad",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Mahabad, Iran",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189170,
+          "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-mahabad/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 4819956,
+      "name": "Persian Word Radio",
+      "slug": "Persian_Word_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/67/db67fdf33046d197d513f95adb0d23b9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "persian word",
+        "alsoKnownAs": "Persian World Radio - Persian Word"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "Persian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232712,
+          "url": "http://streamer.radio.co/sbe2d98b74/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232713,
+          "url": "https://streamer.radio.co/sbe2d98b74/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36842231,
+      "name": "رادیو صبا",
+      "slug": "IRIB_Radio_Saba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/1c/911ced5970e879f69af0952113b3a057.gif",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "rdyw sb",
+        "alsoKnownAs": "IRIB Radio Saba"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tehran",
+        "countryName": "Iran",
+        "countryCode": null,
+        "locationText": "Tehran, Iran",
+        "coordinates": {
+          "latitude": "33.8849375",
+          "longitude": "51.5281424"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270069,
+          "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    }
+  ]
+}

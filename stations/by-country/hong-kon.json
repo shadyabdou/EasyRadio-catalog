@@ -1,0 +1,268 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:46.750Z",
+  "endpoint": "/countries/Hong Kong/radios",
+  "countryCode": "hong-kon",
+  "countryName": "Hong Kong",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 69557,
+      "name": "Metro Plus AM 1044",
+      "slug": "Metro_Plus_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/c8/9dc81c71e436a8bb4f76f05abe88b8b3.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1044",
+        "dialStripped": "1044"
+      },
+      "aliases": {
+        "cleanName": "metro plus 1044",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kowloon",
+        "countryName": "Hong Kong",
+        "countryCode": "HK",
+        "locationText": "Kowloon, Hong Kong",
+        "coordinates": {
+          "latitude": "22.3166700",
+          "longitude": "114.1833300"
+        }
+      },
+      "genre": {
+        "text": "Asian Chinese Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110658,
+          "url": "https://1942934317.rsc.cdn77.org/1942934317/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110654,
+          "url": "http://1942934317.rsc.cdn77.org/1942934317/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 71277,
+      "name": "良友电台",
+      "slug": "Liangyou_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/44/2b44bd2aa6c12732c6fb2b2916d62ec5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "liang you dian tai",
+        "alsoKnownAs": "Liangyou Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kowloon",
+        "countryName": "Hong Kong",
+        "countryCode": "HK",
+        "locationText": "Kowloon, Hong Kong",
+        "coordinates": {
+          "latitude": "22.3166700",
+          "longitude": "114.1833300"
+        }
+      },
+      "genre": {
+        "text": "Chinese Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113370,
+          "url": "https://listen.729ly.net:8001/ly729_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113365,
+          "url": "http://listen.729ly.net:8000/ly729_a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113369,
+          "url": "https://ly729.out.airtime.pro/ly729_b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113366,
+          "url": "http://ly729.out.airtime.pro:8000/ly729_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113367,
+          "url": "http://ly729.out.airtime.pro:8000/ly729_b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113368,
+          "url": "https://ly729.out.airtime.pro/ly729_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 102566,
+      "name": "商業電台 - AM864",
+      "slug": "CRHK_AM864",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/58/0d58e596fa062fec262dad911490dbf3.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "864",
+        "dialStripped": "864"
+      },
+      "aliases": {
+        "cleanName": "shang ye dian tai am864",
+        "alsoKnownAs": "CRHK - AM864"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hong Kong",
+        "countryName": "Hong Kong",
+        "countryCode": null,
+        "locationText": "Hong Kong, Hong Kong",
+        "coordinates": {
+          "latitude": "22.2855200",
+          "longitude": "114.1576900"
+        }
+      },
+      "genre": {
+        "text": "Jazz News Pop RnB",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    }
+  ]
+}

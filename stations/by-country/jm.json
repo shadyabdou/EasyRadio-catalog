@@ -1,0 +1,6235 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:16.590Z",
+  "endpoint": "/countries/Jamaica/radios",
+  "countryCode": "jm",
+  "countryName": "Jamaica",
+  "expectedCount": 72,
+  "count": 72,
+  "data": [
+    {
+      "id": 21562,
+      "name": "RJR 94 FM",
+      "slug": "RJR_94_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/d0/b0d0da4aad4045b1e087465fd517d99f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "rjr 94",
+        "alsoKnownAs": "Radio Jamaica"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Information News Reggae Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 23670,
+        "byCountry": {
+          "us": 257,
+          "gb": 41,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 11,
+          "es": 0,
+          "mx": 3,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 2,
+          "ca": 41,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32168,
+          "url": "http://rjrrj-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 140,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 32169,
+          "url": "https://rjrrj-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 140,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 65291,
+      "name": "Mello FM",
+      "slug": "Jamaicas_Mello_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/b2/04b29747f72e4fadf1d008d5863e2c4d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1",
+        "dialStripped": "881"
+      },
+      "aliases": {
+        "cleanName": "mello",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montego Bay",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Montego Bay, Oracabessa, Jamaica",
+        "coordinates": {
+          "latitude": "18.4711600",
+          "longitude": "-77.9188300"
+        }
+      },
+      "genre": {
+        "text": "Dance News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 11010,
+        "byCountry": {
+          "us": 129,
+          "gb": 22,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 50,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105714,
+          "url": "http://peridot.streamguys.com:5660/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3512,
+      "name": "Nationwide 90FM Jamaica Live",
+      "slug": "NationWide_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/32/a0323d499b20da1a8c9bbecfc851afb5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "nationwide 90fm live",
+        "alsoKnownAs": "Nationwide News Network"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 10650,
+        "byCountry": {
+          "us": 106,
+          "gb": 10,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 23,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7574,
+          "url": "https://stream.zeno.fm/sx58ugee4s5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7571,
+          "url": "http://stream.zenolive.com/sx58ugee4s5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7572,
+          "url": "http://stream.zeno.fm/sx58ugee4s5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7573,
+          "url": "https://stream.zenolive.com/sx58ugee4s5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20998,
+      "name": "GT Reggae Radio",
+      "slug": "GT_Reggae_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/82/1a82a32c593bb76b672b6cbb4e400604.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gt reggae",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Black River",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Black River, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dancehall Gospel Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7530,
+        "byCountry": {
+          "us": 74,
+          "gb": 92,
+          "au": 1,
+          "de": 5,
+          "fr": 23,
+          "br": 17,
+          "es": 3,
+          "mx": 5,
+          "jp": 0,
+          "in": 1,
+          "it": 7,
+          "ar": 3,
+          "ca": 39,
+          "cl": 1,
+          "co": 1,
+          "pe": 2
+        }
+      },
+      "streams": [
+        {
+          "id": 277930,
+          "url": "http://gtreggaeradio.radioca.st:8214/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232571,
+          "url": "http://gtreggaeradio.radioca.st:8214/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30940,
+          "url": "http://rosetta.shoutca.st:8039/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232572,
+          "url": "https://gtreggaeradio.radioca.st/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21569,
+      "name": "Gospel JA FM",
+      "slug": "Gospel_JA_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/21/82218a2f014aad1680b2a96315cf8c34.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7/91.9",
+        "dialStripped": "917/919"
+      },
+      "aliases": {
+        "cleanName": "gospel ja",
+        "alsoKnownAs": "Gospel JA"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Gospel Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7320,
+        "byCountry": {
+          "us": 64,
+          "gb": 5,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 19,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 30,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32180,
+          "url": "http://radio.usamogul.com:18004/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32181,
+          "url": "https://radio.usamogul.com:8004/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284492,
+          "url": "http://radio.usamogul.com:8004/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32182,
+          "url": "https://stream.usamogul.com:7001/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 63534,
+      "name": "The Edge 105 FM",
+      "slug": "The_Edge_105_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/12/f81229d0e101e23d79ddc4be946054f6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.3",
+        "dialStripped": "1053"
+      },
+      "aliases": {
+        "cleanName": "the edge 105",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5700,
+        "byCountry": {
+          "us": 84,
+          "gb": 16,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 4,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 26,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102778,
+          "url": "https://listen.radioking.com/radio/331171/stream/387835",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102777,
+          "url": "http://listen.radioking.com/radio/331171/stream/387835",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36004,
+      "name": "Fame 95 FM",
+      "slug": "Fame_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/66/cd66b31e319c8391176d04fd17bdd6ff.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "fame 95",
+        "alsoKnownAs": "Hitz 92FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Reggae Reggaeton RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4680,
+        "byCountry": {
+          "us": 45,
+          "gb": 12,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 5,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 21,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 58209,
+          "url": "http://stream.zenolive.com/d5mn12bchkeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 283826,
+          "url": "http://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 4470,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 283827,
+          "url": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 4470,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48729,
+      "name": "TBC Radio 88.5",
+      "slug": "TBC_RADIO_88.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/46/89463355b11ed18099f5d16b13f5f775.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "tbc 88.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4470,
+        "byCountry": {
+          "us": 27,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77586,
+          "url": "http://stream.zeno.fm/004dvn2qqy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77587,
+          "url": "https://stream.zeno.fm/004dvn2qqy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 26460,
+      "name": "Kool 97 FM",
+      "slug": "Kool_97_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/46/004690ab1e11da5a49d556d0f7003646.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "kool 97",
+        "alsoKnownAs": "Kool FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Hits Jazz Soul Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4170,
+        "byCountry": {
+          "us": 43,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 12,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 41637,
+          "url": "https://securestreams6.autopo.st:2328/stream.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41635,
+          "url": "http://stream.zeno.fm/we0agoxeeojvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41636,
+          "url": "https://stream.zeno.fm/we0agoxeeojvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 62318,
+      "name": "Love 101 FM - Live Radio Stream",
+      "slug": "Love_101_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/46/ce461f70bb35e9858ca4d744934b24e5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "love 101 live stream",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3960,
+        "byCountry": {
+          "us": 35,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 3,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 17,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102131,
+          "url": "https://stream.zeno.fm/webzstrtpy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102128,
+          "url": "http://stream.zenolive.com/webzstrtpy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102129,
+          "url": "http://stream.zeno.fm/webzstrtpy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102130,
+          "url": "https://stream.zenolive.com/webzstrtpy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 41434,
+      "name": "NCU FM",
+      "slug": "NCU_FM_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/5d/455d4f377d117e6809c33b5c3afe7698.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "ncu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mandeville",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Mandeville, Jamaica",
+        "coordinates": {
+          "latitude": "18.0416800",
+          "longitude": "-77.5071400"
+        }
+      },
+      "genre": {
+        "text": "College Education Gospel New Age",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3420,
+        "byCountry": {
+          "us": 34,
+          "gb": 7,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66355,
+          "url": "https://stream.zeno.fm/qvv8y1m06umtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66354,
+          "url": "http://stream.zeno.fm/qvv8y1m06umtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246369,
+          "url": "http://stream.zeno.fm/02wx8qznt1duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246370,
+          "url": "https://stream.zeno.fm/02wx8qznt1duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44431,
+      "name": "Zip 103 FM",
+      "slug": "Zip_103_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/bc/0cbc857ace6705a8931c34e6c7d76152.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1 / 103.3",
+        "dialStripped": "1031 / 1033"
+      },
+      "aliases": {
+        "cleanName": "zip 103",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 29,
+          "gb": 7,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 2,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 2,
+          "ca": 11,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71703,
+          "url": "http://stream.zeno.fm/8b0hqm93yceuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71704,
+          "url": "https://stream.zeno.fm/8b0hqm93yceuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71705,
+          "url": "https://live.zipfm.net/stream/zipfm-website/stream",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 457658,
+      "name": "Stylz FM",
+      "slug": "Roots_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/7e/3e7e971b19a76db2d4702e8027003e6d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "stylz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Antonio",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Port Antonio, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2430,
+        "byCountry": {
+          "us": 35,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 44,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217565,
+          "url": "https://stream.zeno.fm/0d1hpcmqqy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217564,
+          "url": "http://stream.zeno.fm/0d1hpcmqqy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81381,
+      "name": "Hitz 92FM",
+      "slug": "Hitz_92FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/17/2317616be7a219c7c2dd13b429d03dfb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "hitz 92fm",
+        "alsoKnownAs": "Hits 92FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Latin Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2280,
+        "byCountry": {
+          "us": 11,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 126636,
+          "url": "http://stream.zenolive.com/cvuemnkcgy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126639,
+          "url": "https://rjr92fm-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 140,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126638,
+          "url": "https://stream.zenolive.com/cvuemnkcgy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126637,
+          "url": "http://rjr92fm-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 140,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21262,
+      "name": "Riddim FM",
+      "slug": "Riddim_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/35/db3578bc7471514f136afccb53de719d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1/102.3/102.5",
+        "dialStripped": "1021/1023/1025"
+      },
+      "aliases": {
+        "cleanName": "riddim",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montego Bay",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Montego Bay, Oracabessa, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2010,
+        "byCountry": {
+          "us": 28,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 9,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 31521,
+          "url": "https://streams.radiomast.io/383d13cd-4729-4a94-abd5-9418fa7ef3ee?latency=low?type=.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31520,
+          "url": "http://streams.radiomast.io/383d13cd-4729-4a94-abd5-9418fa7ef3ee?latency=low?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31736,
+      "name": "Gospel FM Jamaica",
+      "slug": "The_Inspirational_Network_Gospel_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/4a/034ac74f7abcc92d0a986b6a9b5f6ae6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gospel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1800,
+        "byCountry": {
+          "us": 16,
+          "gb": 11,
+          "au": 2,
+          "de": 1,
+          "fr": 2,
+          "br": 5,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51391,
+          "url": "http://stream.zeno.fm/zpksre88rm0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51392,
+          "url": "https://stream.zeno.fm/zpksre88rm0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51390,
+          "url": "http://stream.zenolive.com/uqhtg9u0aceuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48940,
+      "name": "KLAS Sports Radio",
+      "slug": "KLAS_Sports_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/03/0303411d91bb94d19806f2d6ae74546b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.9",
+        "dialStripped": "899"
+      },
+      "aliases": {
+        "cleanName": "klas sports",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1710,
+        "byCountry": {
+          "us": 13,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78077,
+          "url": "http://stream.zeno.fm/2vaypn80g3quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 78078,
+          "url": "https://stream.zeno.fm/2vaypn80g3quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 459711,
+      "name": "SunCity 104.9 FM",
+      "slug": "SunCity_104.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/74/2374e86d78e581d768a33ea75589680f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "suncity 104.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Portmore",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Portmore, Jamaica",
+        "coordinates": {
+          "latitude": "17.9503200",
+          "longitude": "-76.8821500"
+        }
+      },
+      "genre": {
+        "text": "Dance Hip Hop Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1470,
+        "byCountry": {
+          "us": 11,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 8,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217643,
+          "url": "https://edge.mixlr.com/channel/ibrdq",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217642,
+          "url": "http://edge.mixlr.com/channel/ibrdq",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44665,
+      "name": "Richie B Radio",
+      "slug": "Richie_B_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/67/03679f4b98cf5134f571da380281b0be.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "richie b",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Dancehall Latin Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1410,
+        "byCountry": {
+          "us": 15,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71986,
+          "url": "https://c4.radioboss.fm:8428/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71985,
+          "url": "http://c4.radioboss.fm:8428/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21587,
+      "name": "Ghetto Vibe Radio",
+      "slug": "Ghetto_Vibe_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/7f/647f16a01259fc436dc14edef5feca03.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ghetto vibe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saint Catherine",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Saint Catherine, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 11,
+          "gb": 8,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 3,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32235,
+          "url": "https://www.radioking.com/play/ghetto-vibes-radio-station",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32233,
+          "url": "http://www.radioking.com/play/ghetto-vibes-radio-station",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32236,
+          "url": "https://listen.radioking.com/radio/499417/stream/556609",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32234,
+          "url": "http://listen.radioking.com/radio/499417/stream/556609",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31859,
+      "name": "Called Out Gospel Radio (C.O.G.R)",
+      "slug": "Called_Out_Gospel_Radio_C.O.G.R",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/7a/3b7a7631bec857fb53db19925471d0a5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "called out gospel c o g r",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 8,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 4,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 51634,
+          "url": "http://167.114.131.90:22020/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51636,
+          "url": "http://usa3.fastcast4u.com:2020/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51637,
+          "url": "https://usa3.fastcast4u.com/proxy/ennsvarb?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51635,
+          "url": "http://usa3.fastcast4u.com/proxy/ennsvarb?mp=/1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51638,
+          "url": "https://usa3.fastcast4u.com/proxy/ennsvarb/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 214205,
+      "name": "FYAH 105",
+      "slug": "FYAH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/a8/4fa88c2d6412df056c356927043a5d31.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7/105.9",
+        "dialStripped": "1057/1059"
+      },
+      "aliases": {
+        "cleanName": "fyah 105",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Hip Hop Latin Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180396,
+          "url": "http://listen.radioking.com/radio/459389/stream/514601",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180397,
+          "url": "https://listen.radioking.com/radio/459389/stream/514601",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21276,
+      "name": "Five Star FM Radio",
+      "slug": "Five_Star_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/30/92307d700fea7fca5cfac702efae6c1e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "five star",
+        "alsoKnownAs": "Five Star Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Reggae World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 8,
+          "gb": 4,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232302,
+          "url": "http://65.108.105.26:7814/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248756,
+          "url": "https://cast1.asurahosting.com/tunein/frank127-stream.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232301,
+          "url": "http://cast1.asurahosting.com/proxy/frank127/stream:8002/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232303,
+          "url": "https://cast1.asurahosting.com/proxy/frank127/stream:8002/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44557,
+      "name": "Island Buzz Radio",
+      "slug": "Island_Buzz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/00/540069dce0b43dba3c4f1987b0ff6014.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "island buzz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dancehall Latin Pop Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 4,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71829,
+          "url": "http://stream.zeno.fm/f6v9m47nxpltv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71830,
+          "url": "https://stream.zeno.fm/f6v9m47nxpltv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18268485,
+      "name": "Jamaica Dancehall Radio",
+      "slug": "Jamaica_Dancehall_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/14/9a14b2c26bac886041b9dbb5d61b7b55.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dancehall",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Dance Hits Pop Reggae Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 7,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 2,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243491,
+          "url": "https://stream.jamaicadancehallradio.com:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243489,
+          "url": "http://stream.jamaicadancehallradio.com:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243488,
+          "url": "http://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243490,
+          "url": "https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 111364,
+      "name": "BESS 100 FM",
+      "slug": "BESS_100_FM_100.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/93/6a936a935d734385dcccf5f456488499.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "bess 100",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150973,
+          "url": "http://stream.zeno.fm/vphgsxfrwcduv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150974,
+          "url": "https://stream.zeno.fm/vphgsxfrwcduv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 14828250,
+      "name": "IRIE FM",
+      "slug": "IRIE_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/5e/eb5ea8d8fa0121552a7a650a43f9d123.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.5",
+        "dialStripped": "1075"
+      },
+      "aliases": {
+        "cleanName": "irie",
+        "alsoKnownAs": "IRIE FM Jamaica"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 10,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239735,
+          "url": "https://stream.zeno.fm/c8n3ft7zmumtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239734,
+          "url": "http://stream.zeno.fm/c8n3ft7zmumtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21288,
+      "name": "Roots 96.1 FM",
+      "slug": "Roots_96.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/aa/9baab9e1e60c575854448016590ac96b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "roots 96.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Hits Reggae Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 5,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31575,
+          "url": "http://stream.zeno.fm/8w8vu5t7nbruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31574,
+          "url": "http://stream.zeno.fm/pnp236t7nbruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31576,
+          "url": "https://stream.zeno.fm/pnp236t7nbruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21118,
+      "name": "Alpha Boys Radio",
+      "slug": "Alpha_Boys_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/f7/3df7f2571f721c6443b026c89de50fbf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "alpha boys",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 2,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31205,
+          "url": "http://alphaboys-live.streamguys1.com/alphaboys.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 31206,
+          "url": "https://alphaboys-live.streamguys1.com/alphaboys.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31895,
+      "name": "Ufdv Gospel",
+      "slug": "Ufdv_Gospel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/4d/734de6a5f61189bf5fa14960b8160709.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ufdv gospel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51725,
+          "url": "http://us10a.serverse.com:8145/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51726,
+          "url": "http://us10a.serverse.com:8145/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44444,
+      "name": "Jahkno Radio",
+      "slug": "Jahkno_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/c2/6ac2f5229e49fa9426645b2a32f952ad.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jahkno",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71710,
+          "url": "http://streaming.radio.co/s00d41a200/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71711,
+          "url": "https://streaming.radio.co/s00d41a200/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 54451,
+      "name": "Jam1Rock Radio",
+      "slug": "Jam1Rock_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/d3/edd352c4f2d8918b18788357949f1cbc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jam1rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montego Bay",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Montego Bay, Oracabessa, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "60s 70s 90s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88730,
+          "url": "https://s39.radiolize.com:8220/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 88731,
+          "url": "https://stream.zeno.fm/0yfryyp7rs8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 88729,
+          "url": "http://stream.zeno.fm/0yfryyp7rs8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 88728,
+          "url": "http://s39.radiolize.com:8220/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21287,
+      "name": "Feel Jah FM",
+      "slug": "Feel_Jah_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/34/c53472d3b0cb132a6746367af9ebf65f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "feel jah",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Oldies Reggae Reggaeton",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257434,
+          "url": "/tmp/tmpg8j6gnul",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31572,
+          "url": "http://solid9.streamupsolutions.com:8018/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31573,
+          "url": "http://solid9.streamupsolutions.com:8018/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 334939,
+      "name": "More FM",
+      "slug": "More_FM_19",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/06/5806f67c99f2a84fd93a2fed0d67a4a0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "more",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montego Bay",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Montego Bay, Oracabessa, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257325,
+          "url": "http://uk19freenew.listen2myradio.com:15151/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203730,
+          "url": "http://uk22freenew.listen2myradio.com:38062/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282566,
+          "url": "http://uk17freenew.listen2myradio.com:21853/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43756,
+      "name": "KLB Streaming Fm Radio",
+      "slug": "KLB_Streaming_Fm_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/bb/f2bb4f7f51af44bb8b6b50d7d613d8a9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "klb streaming",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Caribbean Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70339,
+          "url": "http://stream.zeno.fm/jhikk3trszduv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70340,
+          "url": "https://stream.zeno.fm/jhikk3trszduv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61427,
+      "name": "Praise Hymn Radio",
+      "slug": "Praise_Hymn_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/c2/d1c2a4cf7d45d45c42771f7a4467a9b9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "praise hymn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Savanna-la-Mar",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Savanna-la-Mar, Negril, Jamaica",
+        "coordinates": {
+          "latitude": "18.2189500",
+          "longitude": "-78.1332000"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100982,
+          "url": "http://s2.voscast.com:8916/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100983,
+          "url": "http://198.178.123.5:8916/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21612,
+      "name": "Power 106 FM",
+      "slug": "Power",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/9d/e09dba9cc29552d636ee0d3fc03d3096.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "power 106",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Business News Reggae Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32282,
+          "url": "https://stream.zeno.fm/63qk6h62p6duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32281,
+          "url": "http://stream.zeno.fm/63qk6h62p6duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257115,
+          "url": "http://stream.zeno.fm/ajjfeu3epzyuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257116,
+          "url": "https://stream.zeno.fm/ajjfeu3epzyuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 2289,
+      "name": "Newstalk 93 FM",
+      "slug": "NewsTalk_93FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/a5/afa505bb3cef5f2fa51dd87669bba847.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "newstalk 93",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mona",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Mona, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College Dancehall Entertainment News Politics Pop Reggae Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 5991,
+          "url": "http://procyon.shoutca.st:8083/quality128/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267076,
+          "url": "http://procyon.shoutca.st:8083/quality128/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 5990,
+          "url": "http://newstalk93fm.radioca.st:8083/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267075,
+          "url": "http://newstalk93fm.radioca.st:8083/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 5989,
+          "url": "http://procyon.shoutca.st:8083/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21292,
+      "name": "Tun-It-Up Radio",
+      "slug": "TUN_IT_UP_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/25/1725e0d4d7a4f6152801ea4287af5f2e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tun it up",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Gospel Reggae Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31583,
+          "url": "http://tunitup2020.radioca.st:8321/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31584,
+          "url": "http://hydra.shoutca.st:8321/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266879,
+          "url": "http://tunitup2020.radioca.st:8321/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43723,
+      "name": "Riddim 1 Radio",
+      "slug": "Riddim_1_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/dd/4addaac5cf6f5ae274eb98f8d26ef65e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "riddim 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Hip Hop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 267821,
+          "url": "http://us2.internet-radio.com:8183/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70282,
+          "url": "http://stream.zeno.fm/ks691342bnzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70280,
+          "url": "http://us2.internet-radio.com:8183/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70283,
+          "url": "https://stream.zeno.fm/ks691342bnzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70281,
+          "url": "http://45.79.186.124:8183/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44448,
+      "name": "YardHype Radio",
+      "slug": "MadAnts_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/cc/3accdaf3f234c4aae46adf3f80cfb830.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yardhype",
+        "alsoKnownAs": "MadAnts Live [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71714,
+          "url": "http://carina.streamerr.co:8008/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71715,
+          "url": "https://carina.streamerr.co:2020/stream/madantslive/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71716,
+          "url": "https://carina.streamerr.co/stream/madantslive/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 19553505,
+      "name": "Allreggae.com Radio",
+      "slug": "All_Reggae_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/ea/06eacb68a28fce28d2a73c7f5c992d4d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "allreggae com",
+        "alsoKnownAs": "All Reggae Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243911,
+          "url": "http://s2.radio.co/s2f6338174/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243912,
+          "url": "https://s2.radio.co/s2f6338174/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21194,
+      "name": "Bless FM Radio",
+      "slug": "Bless_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/2d/da2d175e4483d4c2347687bb902b126a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bless",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Reggae Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31372,
+          "url": "http://stream.zeno.fm/9ivzotpvlbutv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31373,
+          "url": "https://stream.zeno.fm/9ivzotpvlbutv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44454,
+      "name": "Prince Data Radio",
+      "slug": "Prince_Data_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/2c/792cbb8b08d201c0043c65a21d392ed5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "prince data",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Reggae World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71717,
+          "url": "http://s4.radio.co/s5e92d4c81/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71718,
+          "url": "https://s4.radio.co/s5e92d4c81/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21691,
+      "name": "UFDV Radio",
+      "slug": "UFDV_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/20/58208471cd84c5508b18eb106d1880e4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ufdv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Gospel Rap Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32434,
+          "url": "http://us10a.serverse.com:8031/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32435,
+          "url": "http://us10a.serverse.com:8031/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1855,
+      "name": "Shugga Wayne Rockers Radio",
+      "slug": "Shugga_Wayne_Rockers_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/42/0d423199fa46d79444c5dae6b0a95b39.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shugga wayne rockers",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4975,
+          "url": "http://stream.zeno.fm/pagu8b4f9yzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4976,
+          "url": "https://stream.zeno.fm/pagu8b4f9yzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64646416,
+      "name": "Lovers Rock Radio",
+      "slug": "Lovers_Rock_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/d1/0dd16a5f646b0015cf3fd45f039d9678.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lovers rock",
+        "alsoKnownAs": "Jamaica Dancehall Radio - Lovers Rock Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "90s Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282772,
+          "url": "https://stream.jamaicadancehallradio.com:8070/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282769,
+          "url": "http://stream.jamaicadancehallradio.com:8070/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282771,
+          "url": "https://stream.jamaicadancehallradio.com/listen/lovers_rock_radio/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282768,
+          "url": "http://stream.jamaicadancehallradio.com/listen/lovers_rock_radio/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282770,
+          "url": "http://stream.jamaicadancehallradio.com:8070/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64255736,
+      "name": "Reggae Roots & Culture Reggae",
+      "slug": "Reggae_Roots_and_Culture_Reggae",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/94/5d946474eda1cc384dce821dae49a564.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "reggae roots culture reggae",
+        "alsoKnownAs": "Jamaica Dancehall Radio - Reggae Roots & Culture Reggae"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Calypso Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282655,
+          "url": "http://stream.jamaicadancehallradio.com/listen/reggae_roots/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282656,
+          "url": "http://stream.jamaicadancehallradio.com:8090/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282658,
+          "url": "https://stream.jamaicadancehallradio.com:8090/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282657,
+          "url": "https://stream.jamaicadancehallradio.com/listen/reggae_roots/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 44668,
+      "name": "UnityXM Radio",
+      "slug": "UnityXM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/e3/08e3abe2a6c43597838f53302a57670e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "unityxm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Dancehall Latin Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71987,
+          "url": "http://a8.asurahosting.com:7430/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44575,
+      "name": "4CS Radio JA",
+      "slug": "4CS_Radio_JA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/e0/66e06e43f8dbc7e78ca13b2d3affc114.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "4cs ja",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Spanish Town",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Spanish Town, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Dancehall Latin Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71848,
+          "url": "https://stream.zeno.fm/fcaalxyuyuhuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71847,
+          "url": "http://stream.zeno.fm/fcaalxyuyuhuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 4891,
+      "name": "Musgrove Music - BTM 97.1 FM",
+      "slug": "Musgrove_Music_BTM_97.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/c1/99c1b99af5f5af7e88999be4517d261e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "musgrove music btm 97.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 9362,
+          "url": "http://64.131.95.13:7736/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 9364,
+          "url": "https://us9.maindigitalstream.com/ssl/btm971",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 9363,
+          "url": "http://107.182.234.197:7736/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21693,
+      "name": "Worl Vybz Radio",
+      "slug": "Worl_Vybz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/ca/b2caef90ba2f61cbc6410f690590096f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "worl vybz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32448,
+          "url": "http://stream.zeno.fm/qudywhd1mrruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32449,
+          "url": "https://stream.zeno.fm/qudywhd1mrruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 413744,
+      "name": "RebelRadioLink",
+      "slug": "RebelRadioLink_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/43/e243986862d2efff7964c888f2d5b6f3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rebelradiolink",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213626,
+          "url": "http://streamer.radio.co/s830ce6f36/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213627,
+          "url": "https://streamer.radio.co/s830ce6f36/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 402656,
+      "name": "Presenz Radio",
+      "slug": "Presenz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/68/4e68820b4ae5095cc1b3fbdd53001ed3.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "presenz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian Entertainment Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212600,
+          "url": "http://servidor29-4.brlogic.com:7304/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 245839,
+      "name": "HOT102",
+      "slug": "HOT102",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/1b/ac1bca65b0e8706990095f8630950538.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9",
+        "dialStripped": "1019"
+      },
+      "aliases": {
+        "cleanName": "hot102",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264681,
+          "url": "http://s7.viastreaming.net:9055/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185855,
+          "url": "http://s7.viastreaming.net:9055/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 9480601,
+      "name": "Raining Bread Radio",
+      "slug": "Raining_Bread_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/3e/bd3e42a1289b0315777086397a463dcf.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "raining bread",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236354,
+          "url": "http://streams.radio.co/se93067d39/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236355,
+          "url": "https://streams.radio.co/se93067d39/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21351,
+      "name": "Righteous Vibes Radio (RVR)",
+      "slug": "Righteous_Vibes_Radio_RVR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/dd/5ddd33fd3c387cdd443302274d7b0daf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "righteous vibes rvr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Christian Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31705,
+          "url": "http://usa8.fastcast4u.com:7794/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 30855,
+      "name": "Best of Dancehall (BOD) - DUB CORNER",
+      "slug": "DUB_CORNER",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "best of dancehall bod dub corner",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dancehall Dubstep Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49579,
+          "url": "http://stream.zeno.fm/0wky9hzpiofuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49578,
+          "url": "http://stream.zeno.fm/z505xc97sd1uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49580,
+          "url": "https://stream.zeno.fm/z505xc97sd1uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49581,
+          "url": "https://stream.zeno.fm/0wky9hzpiofuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 4821777,
+      "name": "Roses 88.9 FM",
+      "slug": "Roses_88.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/8a/b38a6dee5332429289ee7d14493f09ba.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "roses 88.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "James Hill",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "James Hill, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232718,
+          "url": "http://www.ophanim.net:8040/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232719,
+          "url": "https://www.ophanim.net:8444/s/8040/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 575889,
+      "name": "YoungLife Radio",
+      "slug": "YoungLife_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/eb/6aeb2a3042922b94daed11da5984020d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "younglife",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227901,
+          "url": "https://stream.zeno.fm/q3uaxuqz4s8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227900,
+          "url": "http://stream.zeno.fm/q3uaxuqz4s8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64722377,
+      "name": "Boom Boom Music",
+      "slug": "Boom_Boom_Music",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/40/5e40c1372228c32457e45ba4882d76a5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "boom boom music",
+        "alsoKnownAs": "Jamaica Dancehall Radio - Boom Boom Music"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282785,
+          "url": "http://stream.jamaicadancehallradio.com:8020/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282784,
+          "url": "http://stream.jamaicadancehallradio.com:8020/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282786,
+          "url": "https://stream.jamaicadancehallradio.com/listen/world_team_music/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282787,
+          "url": "https://stream.jamaicadancehallradio.com:8020/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282783,
+          "url": "http://stream.jamaicadancehallradio.com/listen/world_team_music/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 511588,
+      "name": "VeHAeS",
+      "slug": "VeHAeS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/9a/e39a8e6d787d113e483aaef8d60893fb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vehaes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221623,
+          "url": "https://stream.zeno.fm/z6v39wcxm2zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 221621,
+          "url": "http://stream.zeno.fm/z6v39wcxm2zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64646417,
+      "name": "Stone love Radio",
+      "slug": "Stone_love_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/69/3569e35dfc76859c1ec59c97c3c283bf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "stone love",
+        "alsoKnownAs": "Jamaica Dancehall Radio - Stone love Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dance Dancehall",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282775,
+          "url": "http://stream.jamaicadancehallradio.com:8010/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282773,
+          "url": "http://stream.jamaicadancehallradio.com/listen/stonelove_immortal_sound/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282774,
+          "url": "http://stream.jamaicadancehallradio.com:8010/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282777,
+          "url": "https://stream.jamaicadancehallradio.com:8010/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282776,
+          "url": "https://stream.jamaicadancehallradio.com/listen/stonelove_immortal_sound/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64270009,
+      "name": "80s & 90s Dancehall Retro",
+      "slug": "80s_and_90s_Dancehall_Retro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/1c/551c1decd497db243636aad059566165.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "80s 90s dancehall retro",
+        "alsoKnownAs": "Jamaica Dancehall Radio - 80s & 90s Dancehall Retro"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282667,
+          "url": "https://stream.jamaicadancehallradio.com:8040/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282666,
+          "url": "https://stream.jamaicadancehallradio.com/listen/dancehall_retro_80s_90s/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282665,
+          "url": "http://stream.jamaicadancehallradio.com:8040/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282663,
+          "url": "http://stream.jamaicadancehallradio.com/listen/dancehall_retro_80s_90s/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282664,
+          "url": "http://stream.jamaicadancehallradio.com:8040/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64280788,
+      "name": "Souls Mix Rnb Hits",
+      "slug": "Souls_Mix_Rnb_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/8c/888c429dfbb1a5bad20574a0cd727512.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "souls mix rnb hits",
+        "alsoKnownAs": "Jamaica Dancehall Radio - Souls Mix Rnb Hits"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Rap RnB Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282687,
+          "url": "http://stream.jamaicadancehallradio.com:8030/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282689,
+          "url": "https://stream.jamaicadancehallradio.com/listen/souls_mix_rnb_hits/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282690,
+          "url": "https://stream.jamaicadancehallradio.com:8030/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282686,
+          "url": "http://stream.jamaicadancehallradio.com/listen/souls_mix_rnb_hits/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282688,
+          "url": "http://stream.jamaicadancehallradio.com:8030/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64275474,
+      "name": "T&R Entertainment",
+      "slug": "T_and_R_Entertainment",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/bd/f4bd9a7f438a400224c5adcf0e2a4720.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "t r entertainment",
+        "alsoKnownAs": "Jamaica Dancehall Radio - T&R Entertainment"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dance Dancehall Entertainment Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282684,
+          "url": "https://stream.jamaicadancehallradio.com:8060/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282683,
+          "url": "https://stream.jamaicadancehallradio.com/listen/dancehall/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282681,
+          "url": "http://stream.jamaicadancehallradio.com:8060/radio.mp3?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282680,
+          "url": "http://stream.jamaicadancehallradio.com/listen/dancehall/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282682,
+          "url": "http://stream.jamaicadancehallradio.com:8060/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 44477,
+      "name": "Jaradio Jamaica",
+      "slug": "JaRadio.com",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/3d/c73d150817eae42cd43f00147a0e1693.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jaradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hip Hop Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 267841,
+          "url": "http://209.126.108.37:8575/listen.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71727,
+          "url": "http://209.126.108.37:8575/listen.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 53918,
+      "name": "Mega Jamz 98 FM",
+      "slug": "Mega_Jamz_98_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/a4/50a4703e637549c7724a6b2b591e6359.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "mega jamz 98",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "70s 80s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87679,
+          "url": "https://ice9.securenetsystems.net:80/MEGAJAMZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 47948,
+      "name": "Love Peace Respect Life Talk Show Radio",
+      "slug": "Love_Peace_Respect_Life",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/c6/f8c6ce411e90ce6b917d0161567f6771.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "love peace respect life talk show",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manchester",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Manchester, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Culture Devotional Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76091,
+          "url": "https://stream.zeno.fm/jdkbwfmu9suvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76090,
+          "url": "http://stream.zeno.fm/jdkbwfmu9suvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21784,
+      "name": "JSQUAD ENTERTAINMENT RADIO",
+      "slug": "JSQUAD_ENTERTAINMENT_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/c7/9ec7357d786f3afee30b8ff867f8128f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jsquad entertainment",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": ", Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin Reggae Soca World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32614,
+          "url": "https://servidor14.brlogic.com:7160/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32613,
+          "url": "http://servidor14.brlogic.com:7160/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21823,
+      "name": "Zanj Radio",
+      "slug": "Zanj_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/b1/1eb125a5c643c8798eea76f63c0efb98.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zanj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Stony Hill",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Stony Hill, Jamaica",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lite Pop Reggae Soul World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32688,
+          "url": "https://stream.zenolive.com/yx5d62e3wy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32686,
+          "url": "http://stream.zenolive.com/yx5d62e3wy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32687,
+          "url": "http://stream.zeno.fm/yx5d62e3wy5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32689,
+          "url": "https://stream.zeno.fm/yx5d62e3wy5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21555,
+      "name": "PONdENDS.COM | RADIO | REAL YAAD VYBEZ",
+      "slug": "PONdENDS.COM_RADIO_REAL_YAAD_VYBEZ",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pondends com real yaad vybez",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "locationText": "Kingston, Jamaica",
+        "coordinates": {
+          "latitude": "17.9970200",
+          "longitude": "-76.7935800"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Reggae Soca",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266147,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

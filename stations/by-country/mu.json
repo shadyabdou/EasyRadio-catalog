@@ -1,0 +1,2916 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:43.916Z",
+  "endpoint": "/countries/Mauritius/radios",
+  "countryCode": "mu",
+  "countryName": "Mauritius",
+  "expectedCount": 37,
+  "count": 37,
+  "data": [
+    {
+      "id": 56490,
+      "name": "Radio Plus",
+      "slug": "Radio_Plus_Radio_Plus_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/b4/6fb4b9f76e6974249e210a01511dcbe8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6 / 87.7 / 89.3",
+        "dialStripped": "886 / 877 / 893"
+      },
+      "aliases": {
+        "cleanName": "plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 67890,
+        "byCountry": {
+          "us": 5,
+          "gb": 91,
+          "au": 21,
+          "de": 1,
+          "fr": 39,
+          "br": 4,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 6,
+          "it": 14,
+          "ar": 2,
+          "ca": 16,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 241191,
+          "url": "https://stream.radioplus.mu:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 92466,
+          "url": "http://stream.radioplus.mu:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72430,
+      "name": "MBC RM2 RADIO MASTI",
+      "slug": "MBC_Best_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/cc/e9ccf6daa1b5e8d21e31bb103a1f8eb7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "mbc rm2 masti",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - RM2 RADIO MASTI , MBC - Best FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moka",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Moka, Mauritius",
+        "coordinates": {
+          "latitude": "26.4186900",
+          "longitude": "-81.4173000"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30720,
+        "byCountry": {
+          "us": 2,
+          "gb": 57,
+          "au": 4,
+          "de": 2,
+          "fr": 38,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 1,
+          "in": 7,
+          "it": 5,
+          "ar": 0,
+          "ca": 12,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 18013,
+      "name": "Top FM",
+      "slug": "Top_FM_8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/3e/e33e0f2735d5bf015c68170670d036d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "top",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 25380,
+        "byCountry": {
+          "us": 12,
+          "gb": 39,
+          "au": 9,
+          "de": 1,
+          "fr": 17,
+          "br": 11,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 2,
+          "ar": 1,
+          "ca": 6,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 22885,
+          "url": "http://s3.voscast.com:10152/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279106,
+          "url": "http://s3.voscast.com:10153/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279105,
+          "url": "http://s3.voscast.com:10152/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 48444,
+      "name": "Radio One",
+      "slug": "Radio_One_R1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/45/65450a24822d1e8fff354ad19e7ccacb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 18240,
+        "byCountry": {
+          "us": 1,
+          "gb": 24,
+          "au": 20,
+          "de": 1,
+          "fr": 12,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 2,
+          "ca": 4,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 249965,
+          "url": "https://centova57.instainternet.com/tunein/vivavoceltd-stream.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76929,
+          "url": "https://centova57.instainternet.com/proxy/vivavoceltd/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76927,
+          "url": "http://centova57.instainternet.com:9278/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76928,
+          "url": "http://centova57.instainternet.com/proxy/vivavoceltd/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 48540,
+      "name": "MBC Radio Mauritius",
+      "slug": "MBC_Radio_Mauritius",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/9d/589d5d3b6b9dd07ade8afa698459faaa.png",
+      "dial": {
+        "band": "AM",
+        "dial": "819",
+        "dialStripped": "819"
+      },
+      "aliases": {
+        "cleanName": "mbc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 10830,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 1,
+          "de": 0,
+          "fr": 9,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 4,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 85917,
+      "name": "MBC Rodrigues FM",
+      "slug": "MBC_Rodrigues_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/04/8304770a6adb1fdcf58194ad7223df1c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "mbc rodrigues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 9030,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72441,
+      "name": "Radio Plus - Indiz",
+      "slug": "RadioPlus_Indiz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/57/ec/57ecc3840e4f6902d21bebaab5bac960.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "plus indiz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Dance Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 8190,
+        "byCountry": {
+          "us": 1,
+          "gb": 7,
+          "au": 4,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 2,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114731,
+          "url": "http://streamer.radio.co/sed5c5a375/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114732,
+          "url": "https://streamer.radio.co/sed5c5a375/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72443,
+      "name": "MBC - Radio Manoranjan RM3",
+      "slug": "MBC_Taal_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/44/fa44213bc231b33f075cc8cdd90a6e24.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2/94.0/95.6",
+        "dialStripped": "982/940/956"
+      },
+      "aliases": {
+        "cleanName": "mbc manoranjan rm3",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - RM3, MBC - Taal FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moka",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Moka, Mauritius",
+        "coordinates": {
+          "latitude": "26.4186900",
+          "longitude": "-81.4173000"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6810,
+        "byCountry": {
+          "us": 1,
+          "gb": 10,
+          "au": 1,
+          "de": 1,
+          "fr": 10,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 85920,
+      "name": "MBC RM1",
+      "slug": "MBC_Kool_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/23/3923571025fadfc88dff08edd14905f4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "mbc rm1",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - RM2 RADIO MASTI , MBC - Best FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moka",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Moka, Mauritius",
+        "coordinates": {
+          "latitude": "26.4186900",
+          "longitude": "-81.4173000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5400,
+        "byCountry": {
+          "us": 1,
+          "gb": 7,
+          "au": 2,
+          "de": 0,
+          "fr": 9,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 6,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 75865,
+      "name": "NRJ Maurice",
+      "slug": "NRJ_Maurice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/6b/606bcb84ebbe99e8f98ed0abc7b03124.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4",
+        "dialStripped": "924"
+      },
+      "aliases": {
+        "cleanName": "nrj maurice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "French Other Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4590,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 1,
+          "fr": 10,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119059,
+          "url": "http://streaming.nrjaudio.fm/ou3im7uizv6i",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 119060,
+          "url": "https://streaming.nrjaudio.fm/ou3im7uizv6i",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 119061,
+          "url": "https://scdn.nrjaudio.fm/adwz1/mu/55802/aac_64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 48750,
+      "name": "MBC - Radio Maurice",
+      "slug": "MBC_Radio_Maurice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/79/b979e5094c521455d1ee2000de64dec3.png",
+      "dial": {
+        "band": "AM",
+        "dial": "684",
+        "dialStripped": "684"
+      },
+      "aliases": {
+        "cleanName": "mbc maurice",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - Radio Maurice"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moka",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Moka, Mauritius",
+        "coordinates": {
+          "latitude": "26.4186900",
+          "longitude": "-81.4173000"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3090,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 1,
+          "de": 0,
+          "fr": 9,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 7,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 51875,
+      "name": "Wazaa FM",
+      "slug": "Wazaa_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/02/f802adb2ce2f3f6a47f9ecdadc7021a1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5 / 103.2",
+        "dialStripped": "1005 / 1032"
+      },
+      "aliases": {
+        "cleanName": "wazaa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ebène",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Ebène, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s 90s Bollywood Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2610,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84191,
+          "url": "https://listen.radioking.com/radio/660412/stream/724168",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84190,
+          "url": "http://listen.radioking.com/radio/660412/stream/724168",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21176,
+      "name": "Radio230",
+      "slug": "Radio230",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/94/e6941228683992dafec63ef0097bd354.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radio230",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": ", Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Reggae Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31338,
+          "url": "http://listen.radio230.com/listen/radio230/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31339,
+          "url": "https://listen.radio230.com/listen/radio230/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 56939,
+      "name": "Radio Plus - Hits",
+      "slug": "RadioPlus_HITS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/5f/875f8070e7a35f96f67d0fbb52cb52fc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "plus hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93826,
+          "url": "https://s3.radio.co/s1769ca1ac/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93825,
+          "url": "http://s3.radio.co/s1769ca1ac/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 33213,
+      "name": "Radio One - TROPICAL",
+      "slug": "Radio_One_TROPICAL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/07/910799703ba231bc5e4fba18c682b57d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one tropical",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 249554,
+          "url": "http://centova57.instainternet.com:9249/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54415,
+          "url": "http://centova57.instainternet.com:9249/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54416,
+          "url": "https://centova57.instainternet.com/proxy/webtropical/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 13576121,
+      "name": "MBC RM2 RADIO MASTI",
+      "slug": "MBC_RM2_RADIO_MASTI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/2f/3d2f3b3fb6fa4674fdf410ac0d5704f7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.4",
+        "dialStripped": "994"
+      },
+      "aliases": {
+        "cleanName": "mbc rm2 masti",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - RM2 RADIO MASTI , MBC - Best FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malherbes",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Malherbes, Mauritius",
+        "coordinates": {
+          "latitude": "-20.2123909",
+          "longitude": "57.5791891"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Hindi",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 1,
+          "de": 0,
+          "fr": 7,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 7,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 380393,
+      "name": "OUI Radio",
+      "slug": "OUI_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/14/851458cd85e292d7d619014e95479e0a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "oui",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vacoas-Phoenix",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Vacoas-Phoenix, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian French Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210501,
+          "url": "http://mu1stream.mushost.com:8080/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210503,
+          "url": "http://mu1stream.mushost.com:8080/stream2",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244468,
+          "url": "https://mu2stream.mushost.com:9443/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210505,
+          "url": "http://mu2stream.mushost.com:9443/index.html?sid=1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230491,
+          "url": "https://mu1stream.mushost.com:8443/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72245,
+      "name": "Radio One - Bollywood",
+      "slug": "Radio_One_Bollywood",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/da/b4daba21c8a1eb57cdec3864c8cf9473.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one bollywood",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 7,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 114426,
+          "url": "https://centova57.instainternet.com/proxy/webbollywood/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114425,
+          "url": "http://centova57.instainternet.com:9298/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 18084,
+      "name": "Radio Plus - Fever",
+      "slug": "RadioPlus_Fever",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/03/dc039f0322b14c6cb1434ca9dd53919e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "plus fever",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Pop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23217,
+          "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 23216,
+          "url": "http://streamer.radio.co/s3fe39a4a4/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 13977039,
+      "name": "KRAK RADIO",
+      "slug": "KRAK_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/5d/0c5d9710eba097188719650a4289eb58.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "krak",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239212,
+          "url": "https://s4.radio.co/s4e175e6fb/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239211,
+          "url": "http://s4.radio.co/s4e175e6fb/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 151,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 241847,
+      "name": "HitFM Mauritius",
+      "slug": "HitFM_Mauritius",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/90/1890100384718b980c10383a9d02155b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hitfm",
+        "alsoKnownAs": "Maurinews - (HIT FM Mauritius)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 4,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185353,
+          "url": "http://stream.zeno.fm/0w57nzzzveruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185355,
+          "url": "https://stream.zeno.fm/0w57nzzzveruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185354,
+          "url": "https://stream.zenolive.com/8e5h28q71bwtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185352,
+          "url": "http://stream.zenolive.com/8e5h28q71bwtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 4429,
+      "name": "NRJ Maurice",
+      "slug": "MBC_World_Hit_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/4d/df4db36050392a51af088f2285dc82d7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "nrj maurice",
+        "alsoKnownAs": "MBC - Music FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Le Morne",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Le Morne, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 238933,
+          "url": "http://streaming.nrjaudio.fm/oudbea2h9r57",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238934,
+          "url": "https://streaming.nrjaudio.fm/oudbea2h9r57",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 242087,
+      "name": "Radio One - 00's Hits",
+      "slug": "Radio_One_00s_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/1a/d41ade214f46dd8fa539f7a54dcde9c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one 00 s hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "00s Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 185382,
+          "url": "http://centova57.instainternet.com:9310/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 13590791,
+      "name": "MBC RM1",
+      "slug": "MBC_RM1_La_Radio_Nationale",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/38/7538ef1438cfa2b89a590efdfc589bc3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "mbc rm1",
+        "alsoKnownAs": "Mauritius Broadcasting Corporation - RM1 , MBC - Kool FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malherbes",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Malherbes, Mauritius",
+        "coordinates": {
+          "latitude": "-20.2123909",
+          "longitude": "57.5791891"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 242643,
+      "name": "Radio One - 100% HITS",
+      "slug": "Radio_One_HITS_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/9b/d39be87c9c1e0443c2868f5289def9ec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one 100 hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 185453,
+          "url": "http://centova57.instainternet.com:9310/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185454,
+          "url": "https://centova57.instainternet.com/proxy/webhits/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51393,
+      "name": "Radio One - Retro",
+      "slug": "Radio_One_Retro_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/90/f190b5ba6f0fe772e487d01ef8fd198f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 83331,
+          "url": "https://centova57.instainternet.com/proxy/webretro/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247230,
+          "url": "http://centova57.instainternet.com:9292/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83330,
+          "url": "http://centova57.instainternet.com:9292/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 4526,
+      "name": "International Christian Music and Hymns",
+      "slug": "International_Christian_Music_and_Hymns",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/4f/b34f21ef0d9d4cb53c6c60cc21387dc6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "international christian music and hymns",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": ", Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8933,
+          "url": "http://stream.zeno.fm/x6e5csebnf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8934,
+          "url": "https://stream.zeno.fm/x6e5csebnf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61797,
+      "name": "OUi Radio",
+      "slug": "Radio_ADO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/af/94af075b347a6aa8ff3a4496609a3480.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "oui",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Villes Jumelles",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Villes Jumelles, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101477,
+          "url": "http://mu2stream.mushost.com:9443/index.html?sid=1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51439,
+      "name": "Radio One - Gold",
+      "slug": "Radio_One_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/8f/658f9fb5b9af52db57261bf89ccd9aa6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83406,
+          "url": "http://centova57.instainternet.com:9255/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249357,
+          "url": "https://centova57.instainternet.com/tunein/webgold-stream.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83407,
+          "url": "https://centova57.instainternet.com/proxy/webgold/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 890066,
+      "name": "OUi Radio Rodrigues",
+      "slug": "OUi_Radio_Rodrigues",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/01/c101fb8efea51ff806821634be0fe5b0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "oui rodrigues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Mathurin",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Mathurin, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230025,
+          "url": "https://mu1stream.mushost.com:8554/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230024,
+          "url": "http://mu1stream.mushost.com:8554/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 498337,
+      "name": "Radio One - URBAN",
+      "slug": "Radio_One_URBAN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/ae/8cae02bd15c26aa5819a4c5c02837b4e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one urban",
+        "alsoKnownAs": "Radio One - 100% URBAN"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Pop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220675,
+          "url": "http://centova57.instainternet.com:9304/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220676,
+          "url": "https://centova57.instainternet.com/proxy/weburban/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 5818,
+      "name": "Best of Music Radio",
+      "slug": "Best_of_Music_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/aa/5aaaf3ad832940ca329e844866dd5b3f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "best of music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tamarin",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Tamarin, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "AAA Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 10645,
+          "url": "http://s4.voscast.com:8928/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 10646,
+          "url": "http://s4.voscast.com:8929/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 62200,
+      "name": "Zero Alpha Radio",
+      "slug": "Zero_Alpha_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/8e/aa8e665165e6485cde0cf2974e505e43.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zero alpha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Acoustic Adult Contemporary Classic Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102017,
+          "url": "http://streaming.live365.com/a49146?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102018,
+          "url": "https://streaming.live365.com/a49146?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 29321,
+      "name": "Radio One - Clubbing",
+      "slug": "Radio_One_Clubbing",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/c6/8ac67e9ee081a42bcad08e51e610fefc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "one clubbing",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits House Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 247231,
+          "url": "http://centova57.instainternet.com:9286/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47140,
+          "url": "https://centova57.instainternet.com/proxy/webclubbing/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47139,
+          "url": "http://centova57.instainternet.com:9286/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 423243,
+      "name": "Vibes Fm Mauritius",
+      "slug": "Vibes_Fm_Mauritius",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/3e/7f3e304c8b087a161023b7a4e79fc2ec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vibes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Louis",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Port Louis, Mauritius",
+        "coordinates": {
+          "latitude": "-20.1619400",
+          "longitude": "57.4988900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop RnB Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214538,
+          "url": "http://play.radioking.io/vibes-fm5",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214541,
+          "url": "https://play.radioking.io/vibes-fm5",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214537,
+          "url": "http://www.radioking.com/play/vibes-fm5",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214540,
+          "url": "https://www.radioking.com/play/vibes-fm5",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214542,
+          "url": "https://listen.radioking.com/radio/724220/stream/790157",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214539,
+          "url": "http://listen.radioking.com/radio/724220/stream/790157",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 114084,
+      "name": "Biltong.mu Radio",
+      "slug": "Biltong.mu_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/c1/a2c1032df37dba8e5828b14d87192006.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "biltong mu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tamarin",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Tamarin, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s Hits World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152979,
+          "url": "http://s3.radio.co/s135e9edde/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152980,
+          "url": "https://s3.radio.co/s135e9edde/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43899,
+      "name": "Aryon Air",
+      "slug": "Aryon_Air",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/13/bb1381cf82717255860a249847bc2b3f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aryon air",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Curepipe",
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "locationText": "Curepipe, Mauritius",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Caribbean Latin Pop Top 40 Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70621,
+          "url": "http://play.radioking.io/aryon-air-4",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70620,
+          "url": "http://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70624,
+          "url": "https://play.radioking.io/aryon-air-4",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70622,
+          "url": "http://listen.radioking.com/radio/267061/stream/312340",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70625,
+          "url": "https://listen.radioking.com/radio/267061/stream/312340",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70623,
+          "url": "https://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

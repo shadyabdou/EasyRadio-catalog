@@ -1,0 +1,228 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:24.817Z",
+  "endpoint": "/countries/São Tomé and Príncipe/radios",
+  "countryCode": "s-o-tom-",
+  "countryName": "São Tomé and Príncipe",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 20879163,
+      "name": "Radio Nacional de São Tomé e Príncipe",
+      "slug": "Radio_Nacional_de_Sao_Tome_e_Principe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/82/0f82e56c68dd9f7e4213ed19684111d7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "nacional de sao tome e principe",
+        "alsoKnownAs": "RNSTP"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "São Tomé",
+        "countryName": "São Tomé and Príncipe",
+        "countryCode": null,
+        "locationText": "São Tomé, São Tomé and Príncipe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244621,
+          "url": "http://radios2.justweb.pt:8086/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245589,
+          "url": "http://radios2.justweb.pt:8086/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 318364,
+      "name": "Radio Lobata",
+      "slug": "Radio_Lobata",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/cc/b8cc4cadbdb2373247e4f85952af17b1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "lobata",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "São Tomé",
+        "countryName": "São Tomé and Príncipe",
+        "countryCode": null,
+        "locationText": "São Tomé, São Tomé and Príncipe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201372,
+          "url": "http://uk16freenew.listen2myradio.com:13248/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 83973,
+      "name": "Rádio Fair Play São Tomé e Príncipe",
+      "slug": "Radio_Fair_Play_Sao_Tome_e_Principe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/61/5961c3a5825d559974904b98164580e9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fair play sao tome e principe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "São Tomé",
+        "countryName": "São Tomé and Príncipe",
+        "countryCode": null,
+        "locationText": "São Tomé, São Tomé and Príncipe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 130260,
+          "url": "http://stream.zeno.fm/z6kdmhgwcmktv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 130261,
+          "url": "https://stream.zeno.fm/z6kdmhgwcmktv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    }
+  ]
+}

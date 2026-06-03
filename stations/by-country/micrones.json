@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:54.908Z",
+  "endpoint": "/countries/Micronesia/radios",
+  "countryCode": "micrones",
+  "countryName": "Micronesia",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 60952,
+      "name": "Bible Baptist Radio Chuuk",
+      "slug": "The_Cross_Radio_V6MA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/e5/d7e5d8ce8783e4ba92b3278ecd796dfa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5 / 89.9",
+        "dialStripped": "885 / 899"
+      },
+      "aliases": {
+        "cleanName": "bible baptist chuuk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chuuk",
+        "countryName": "Micronesia",
+        "countryCode": null,
+        "locationText": "Chuuk, Micronesia",
+        "coordinates": {
+          "latitude": "6.9247700",
+          "longitude": "158.1610900"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99956,
+          "url": "https://streaming.radio.co/s25a6afba9/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99955,
+          "url": "http://streaming.radio.co/s25a6afba9/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

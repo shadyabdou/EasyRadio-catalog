@@ -1,0 +1,1617 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:00.336Z",
+  "endpoint": "/countries/Mozambique/radios",
+  "countryCode": "mz",
+  "countryName": "Mozambique",
+  "expectedCount": 22,
+  "count": 22,
+  "data": [
+    {
+      "id": 54418,
+      "name": "LM Radio Mozambique",
+      "slug": "LM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/73/517360a45ce96b65c404023d59ad1cf7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.8",
+        "dialStripped": "878"
+      },
+      "aliases": {
+        "cleanName": "lm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Matola",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Matola, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9622200",
+          "longitude": "32.4588900"
+        }
+      },
+      "genre": {
+        "text": "60s 70s 80s 90s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2790,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 3,
+          "de": 3,
+          "fr": 1,
+          "br": 2,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88652,
+          "url": "http://65.108.198.245:7072/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 88653,
+          "url": "https://cast6.asurahosting.com/proxy/lmradioc/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261308,
+          "url": "http://65.108.198.245:7072/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48884,
+      "name": "Radio Moçambique Antena Nacional",
+      "slug": "Radio_Mocambique_Antena_Nacional",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/a7/37a7934ec6a948b701ef45b0731778aa.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "mocambique antena nacional",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Portuguese Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2550,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 4,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77926,
+          "url": "http://node.stream-africa.com:8000/AntenaNacional",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252802,
+          "url": "http://node.stream-africa.com:8443/AntenaNacional",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 43507,
+      "name": "RM - Radio Maputo Desporto",
+      "slug": "RM_Radio_Maputo_Desporto",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/dc/59dcf14a3ab867d33fb53a7066073fd0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "rm desporto",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Hits Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246993,
+          "url": "https://node.stream-africa.com:8443/RMDesporto",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69848,
+          "url": "http://node.stream-africa.com:8000/RMDesporto",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 331040,
+      "name": "Rádio Miramar",
+      "slug": "Radio_Miramar_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/79/8c79dd6b60328eb4ac2617f2970ca7f4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "miramar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "News Portuguese Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203324,
+          "url": "http://nl.digitalrm.pt:8150/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243201,
+          "url": "https://nl.digitalrm.pt:8150/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63581,
+      "name": "RM - Emissão Provincial de Tete",
+      "slug": "RM_Emissao_Provincial_de_Tete",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/af/f7afc76ae28ec4854e7ea2e66fcd5ce9.png",
+      "dial": {
+        "band": "AM",
+        "dial": "963",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de tete",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tete",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Tete, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102825,
+          "url": "http://node.stream-africa.com:8000/TeteFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63617,
+      "name": "RM - Emissão Provincial de Gaza",
+      "slug": "RM_Emissao_Provincial_de_Gaza",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/df/99df611fb4671dfbbbb1885739dad116.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de gaza",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Xai-Xai",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Xai-Xai, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102878,
+          "url": "http://node.stream-africa.com:8000/Gaza",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 131430,
+      "name": "Cidade FM",
+      "slug": "Cidade_FM_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/7a/fe7a13ba250a43ac907d026950677f51.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9",
+        "dialStripped": "979"
+      },
+      "aliases": {
+        "cleanName": "cidade",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159800,
+          "url": "http://node.stream-africa.com:8000/RadioCidadeMaputo",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 250677,
+          "url": "http://node.stream-africa.com:8443/RadioCidadeMaputo",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63608,
+      "name": "RM - Emissão Provincial de Manica",
+      "slug": "RM_Emissao_Provincial_de_Manica",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/f5/76f51b561e355be113f510d18ea275b0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de manica",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chimoio",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Chimoio, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102863,
+          "url": "http://node.stream-africa.com:8000/ManicaFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 111438,
+      "name": "RM - Rádio Cidade Beira",
+      "slug": "RM_Radio_Cidade_Beira",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/86/1e86568b54ac9b9bc6eff04444d60429.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "rm cidade beira",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Beira",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Beira, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151015,
+          "url": "http://node.stream-africa.com:8000/RadioCidadeBeira",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 25421,
+      "name": "Rádio Moçambique Emissor Provincial de Nampula",
+      "slug": "Radio_Mocambique_Emissor_Provincial_de_Nampula",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/f5/c7f5867641f1fb8298d29335010d6be6.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "765",
+        "dialStripped": "765"
+      },
+      "aliases": {
+        "cleanName": "mocambique emissor provincial de nampula",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nampula",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Nampula, Mozambique",
+        "coordinates": {
+          "latitude": "-15.1164600",
+          "longitude": "39.2666000"
+        }
+      },
+      "genre": {
+        "text": "Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39869,
+          "url": "http://node.stream-africa.com:8000/Nampula",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 63643,
+      "name": "RM - Emissão Provincial de Inhambane",
+      "slug": "RM_Emissao_Provincial_de_Inhambane",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/54/ab540f2b81eb05bba2042d323fa1e789.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de inhambane",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Inhambane",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Inhambane, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102907,
+          "url": "http://node.stream-africa.com:8000/InhambaneFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63634,
+      "name": "RM - Emissão Provincial de Sofala",
+      "slug": "RM_Emissao_Provincial_de_Sofala",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/d0/f8d0f97dea6c73fa4435fd768674cbd3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de sofala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Beira",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Beira, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102894,
+          "url": "http://node.stream-africa.com:8000/Sofala",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63642,
+      "name": "RM - Emissão Provincial de Zambezia",
+      "slug": "RM_Emissao_Provincial_de_Zambezia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/ce/b5ce5779405a87667ad16bfbf716c530.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.8",
+        "dialStripped": "978"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de zambezia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Quelimane",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Quelimane, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102906,
+          "url": "http://node.stream-africa.com:8000/ZambeziaFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63635,
+      "name": "Emissão Provincial Maputo",
+      "slug": "Emissao_Provincial_Maputo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/63/9e63ae61d33d52e3a1d0e0834bd28d77.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "emissao provincial",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102895,
+          "url": "http://node.stream-africa.com:8000/MaputoFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63679,
+      "name": "Rádio Moçambique Emissao Provincial de Maputo",
+      "slug": "Radio_Mocambique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/dd/90dddb8180e4c6958f9a23936e17b852.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "mocambique emissao provincial de",
+        "alsoKnownAs": "Radio Mozambique EP Maputo"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "News Portuguese Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102951,
+          "url": "http://node.stream-africa.com:8000/RadioCidadeMaputo",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63669,
+      "name": "RM - Emissão Provincial de Niassa",
+      "slug": "RM_Emissao_Provincial_de_Niassa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/0b/110b9af6da9e450f153b6bb08207c9b1.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1260",
+        "dialStripped": "1260"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de niassa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lichinga",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Lichinga, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102933,
+          "url": "http://node.stream-africa.com:8000/NiassaFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 60877,
+      "name": "Radio Maria Mozambique",
+      "slug": "Radio_Maria_Mozambique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/75/33755cf3c14c70e137efcbf9d8baed1b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Matola",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Matola, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9622200",
+          "longitude": "32.4588900"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99771,
+          "url": "http://dreamsiteradiocp2.com:8088/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268231,
+          "url": "http://dreamsiteradiocp2.com:8088/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 335312,
+      "name": "Rádio 99Fm Moz",
+      "slug": "Radio_99Fm_Moz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/b8/05b8dfc331ee61d1a380041313dbe269.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "99fm moz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203790,
+          "url": "https://streaming2.99fm.co.mz/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 255,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 203789,
+          "url": "http://streaming2.99fm.co.mz/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 255,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 63706,
+      "name": "RM - Emissão Provincial de Cabo Delgado",
+      "slug": "RM_Emissao_Provincial_de_Cabo_Delgado",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/0d/a70d094fd5dc81687c7a078ceeba0196.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "rm emissao provincial de cabo delgado",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pemba",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Pemba, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102988,
+          "url": "http://node.stream-africa.com:8000/CaboDelgadoFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 138365,
+      "name": "MCR - Maputo Corridor",
+      "slug": "MCR_Maputo_Corridor",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/fe/70fe7453a17c004917190630f9aec03c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "mcr corridor",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 162193,
+          "url": "http://node.stream-africa.com:8000/MaputoCorridor",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 467364,
+      "name": "Radio Terra 90.0",
+      "slug": "Radio_Terra_90.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/c1/69c142a7d15b3a6ad2a6ffb87c44519e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "terra 90.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Maputo",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Maputo, Mozambique",
+        "coordinates": {
+          "latitude": "-25.9655300",
+          "longitude": "32.5832200"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218441,
+          "url": "https://stream.zeno.fm/vinnpmoaqopvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218440,
+          "url": "http://stream.zeno.fm/vinnpmoaqopvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 62053,
+      "name": "Radio Fot Lichinga",
+      "slug": "Radio_Fot_Lichinga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/34/92347ea501b740033880d215613bb3fd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "fot lichinga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lichinga",
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "locationText": "Lichinga, Mozambique",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Acoustic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101835,
+          "url": "http://stream.zeno.fm/vk1yf5a8z98uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 40,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101836,
+          "url": "https://stream.zeno.fm/vk1yf5a8z98uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 40,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    }
+  ]
+}

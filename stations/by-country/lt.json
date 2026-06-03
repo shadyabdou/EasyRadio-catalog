@@ -1,0 +1,4779 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:35.142Z",
+  "endpoint": "/countries/Lithuania/radios",
+  "countryCode": "lt",
+  "countryName": "Lithuania",
+  "expectedCount": 57,
+  "count": 57,
+  "data": [
+    {
+      "id": 92091,
+      "name": "Radio Lietus",
+      "slug": "Radio_Lietus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/8c/848c325da483ea6bcbe9d023bbb5fcbb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "lietus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe News Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5400,
+        "byCountry": {
+          "us": 17,
+          "gb": 85,
+          "au": 0,
+          "de": 12,
+          "fr": 3,
+          "br": 1,
+          "es": 9,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137976,
+          "url": "http://radio.m-1.fm/LIETUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137977,
+          "url": "https://radio.m-1.fm/lietus/aacp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 137978,
+          "url": "https://radio.m-1.fm/LIETUS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137975,
+          "url": "http://radio.m-1.fm:80/lietus/aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 137974,
+          "url": "http://radio.m-1.fm:80/lietus/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137973,
+          "url": "http://radio.m-1.fm:80/LIETUS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 22747,
+      "name": "Relax FM 104.3",
+      "slug": "Relax_FM_104.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/84/3484de4a25a1562cce79286be8c02620.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "relax 104.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Ambient Blues Jazz Lite Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5070,
+        "byCountry": {
+          "us": 10,
+          "gb": 81,
+          "au": 0,
+          "de": 7,
+          "fr": 3,
+          "br": 2,
+          "es": 3,
+          "mx": 2,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 34534,
+          "url": "http://stream1.relaxfm.lt/relaxfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34535,
+          "url": "http://stream1.rc.lt:80/relaxfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34536,
+          "url": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 55711,
+      "name": "Lietus Radio Vilnius - M-1 Radio",
+      "slug": "Lietus_Radio_Vilnius_M_1_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/22/1822fbc698de07667e944c59dc7376ab.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "lietus m 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ignalina",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Ignalina, Ignalina, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4920,
+        "byCountry": {
+          "us": 15,
+          "gb": 98,
+          "au": 0,
+          "de": 7,
+          "fr": 1,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 90771,
+          "url": "http://radio.m-1.fm:80/M-1M",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 90772,
+          "url": "http://radio.m-1.fm:80/M-1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 90775,
+          "url": "http://radio.m-1.fm:80/m1/aacp64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 87,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 90770,
+          "url": "http://radio.m-1.fm:80/M-1H",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 90773,
+          "url": "http://radio.m-1.fm:80/m1/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20428,
+      "name": "Power Hit Radio",
+      "slug": "Power_Hit_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/bd/f5bd2c502f55fb227a0a88dab79f2503.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "power hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3390,
+        "byCountry": {
+          "us": 4,
+          "gb": 55,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 1,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 29524,
+          "url": "https://ice2.powerhitradio.lt/PHR_AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29525,
+          "url": "https://ice1.powerhitradio.lt/PHR_AAC",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29526,
+          "url": "https://stream.powerhitradio.lt/PHR_AAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 3661,
+      "name": "RADIO R",
+      "slug": "Lithuanian_Radio_Programme",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/5f/5c5f6b302e8a81821f6ec945e0147a39.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.6",
+        "dialStripped": "1056"
+      },
+      "aliases": {
+        "cleanName": "r",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1980,
+        "byCountry": {
+          "us": 2,
+          "gb": 12,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 3,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 7800,
+          "url": "https://transliacija.rusradio.lt/rrb128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7799,
+          "url": "http://transliacija.rusradio.lt/rrb128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241599,
+          "url": "http://stream1.relaxfm.lt/rrb128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241600,
+          "url": "https://stream1.relaxfm.lt/rrb128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 91251,
+      "name": "RadioCentras",
+      "slug": "RadioCentras_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/68/ca688c547417f4d26047af4636992a63.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "radiocentras",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marijampole",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Marijampole, Marijampole, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1530,
+        "byCountry": {
+          "us": 3,
+          "gb": 13,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 137702,
+          "url": "https://stream1.rc.lt/rc128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137701,
+          "url": "http://stream1.rc.lt/rc128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 187807,
+      "name": "Radijo stotis M-1 Plius",
+      "slug": "M_1_Plius",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/65/9b65ae05bf67ebe8e7b94fb226e0f796.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "71.03",
+        "dialStripped": "7103"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis m 1 plius",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 2,
+          "gb": 21,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174089,
+          "url": "https://stream.m-1.fm/m1plius/aacp64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 174085,
+          "url": "http://stream.m-1.fm:80/m1plius/aacp64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 174087,
+          "url": "http://radio.m-1.fm:80/m1plius/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 174088,
+          "url": "http://radio.m-1.fm:80/m1plius/aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 174086,
+          "url": "http://stream.m-1.fm:80/m1plius/aacp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 87,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 174090,
+          "url": "https://stream.m-1.fm/m1plius/aacp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 3668,
+      "name": "Žiniu Radijas",
+      "slug": "Ziniu_Radijas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/e1/38e1ae426fbad042e26927d1196b5381.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "ziniu radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 2,
+          "gb": 5,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7805,
+          "url": "http://netradio.ziniur.lt/ziniur_64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7806,
+          "url": "https://netradio.ziniur.lt/ziniur_64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 92659,
+      "name": "Радио Лента",
+      "slug": "Radio_Lenta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/89/1789fc384aef699d5c24e1713fd0e997.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1557",
+        "dialStripped": "1557"
+      },
+      "aliases": {
+        "cleanName": "lenta",
+        "alsoKnownAs": "Radio Lenta"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas\t",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas\t, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 138217,
+          "url": "http://media-edge3.hostin.live/radio-lenta.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 138218,
+          "url": "https://media-edge3.hostin.live/radio-lenta.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 320244,
+      "name": "LRT RADIJAS",
+      "slug": "LR_LR1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/a7/98a70933729ce1186b1535420a4cec3a.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "612",
+        "dialStripped": "612"
+      },
+      "aliases": {
+        "cleanName": "lrt radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201889,
+          "url": "http://82.135.234.195:8000/lr.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201891,
+          "url": "https://lrt-cast.lrt.lt/lrt_radijas",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 353,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 201886,
+          "url": "http://lrt-cast.lrt.lt:80/lrt_radijas",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 320,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 201887,
+          "url": "mms://82.135.234.194/LR",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 160,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 201888,
+          "url": "http://lrt-radijas.data.lt/lrt_radijas/radio/playlist.m3u8?tokenhash=vuYpGcI7iBQ5nLFtLcLdnnzqjP0GTlUpCS4aLwLtCT5AimI00nd8UY_3x-qXDKey7LZ8o3qSJ02ob5NxR2hhvw==&tokenendtime=1445429659",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 582847,
+      "name": "ZIP FM",
+      "slug": "ZIP_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/54/ab543f672bdf460c946117c595034ce2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "zip",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 228598,
+          "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 228596,
+          "url": "http://stream1.zipfm.lt/zipfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 20447,
+      "name": "GOLD FM",
+      "slug": "Labas_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/05/d9052e54c2c2f7c7badf5661ec5085fb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas, Kaunas, Lithuania",
+        "coordinates": {
+          "latitude": "54.9000000",
+          "longitude": "23.9000000"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Europe Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 4,
+          "fr": 0,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29589,
+          "url": "http://stream.goldfm.lt:80/goldfm.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 268,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29592,
+          "url": "http://stream.goldfm.lt/goldfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29590,
+          "url": "http://stream.goldfm.lt/goldfm.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 218,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 29591,
+          "url": "http://stream.goldfm.lt:80/goldfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 173797,
+      "name": "LRT Radijas",
+      "slug": "LRT_Lituanica",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/29/fa29e273dce1a63211d92b2de2a23d6b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lrt radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 3,
+          "gb": 6,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 55971,
+      "name": "Laluna Radio",
+      "slug": "Laluna_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/f4/6ff4806e1d0730c00a0bde3edcde2868.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "laluna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 6,
+          "gb": 21,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91297,
+          "url": "http://stream.m-1.fm/laluna/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91300,
+          "url": "https://stream.m-1.fm/laluna/mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91301,
+          "url": "https://radio.m-1.fm/laluna/high",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 91298,
+          "url": "http://radio.m-1.fm:80/laluna/high",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 91299,
+          "url": "http://radio.m-1.fm:80/laluna/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 284699,
+      "name": "Radijo Stotis Kelyje",
+      "slug": "Radijo_Stotis_Kelyje_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/53/f7537876237e3be7c847ad3eb990fe2e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis kelyje",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas\t",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas\t, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 4,
+          "gb": 14,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 193572,
+          "url": "http://212.95.45.82:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 186905,
+      "name": "European Hit Radio",
+      "slug": "European_Hit_Radio_Lithuania",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/fb/a2fb01138a51c69cc21882a86b334481.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "european hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173689,
+          "url": "http://stream.ehr.lt:80/ehr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173688,
+          "url": "http://stream.ehr.lt/ehr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 52778,
+      "name": "Geras FM",
+      "slug": "Geras_FM_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/c8/03c83c8624547d218ed7a95c1526654a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9",
+        "dialStripped": "1019"
+      },
+      "aliases": {
+        "cleanName": "geras",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "90s Europe Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85847,
+          "url": "http://stream.goldfm.lt/gerasfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85848,
+          "url": "http://stream.goldfm.lt:80/gerasfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85849,
+          "url": "https://stream.goldfm.lt/gerasfm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 24329,
+      "name": "Pukas Radio",
+      "slug": "Pukas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/4e/cd4e730c6abbac46f57ead3fd369371c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "pukas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas\t",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas\t, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Europe Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 2,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 2,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 37605,
+          "url": "http://212.95.45.82:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37604,
+          "url": "http://212.95.45.82:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 324368,
+      "name": "Radio Maria Lithuania - Marijos Radijas",
+      "slug": "Radio_Maria_Lithuania_Marijos_Radijas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/75/e075aceb445e366aede292c7992c8827.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "maria marijos radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas\t",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas\t, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202539,
+          "url": "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 92,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 56049,
+      "name": "M-1 dance",
+      "slug": "Radio_Stotis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/c7/abc7cca127d02ca7db0a6e97b8de0628.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "m 1 dance",
+        "alsoKnownAs": "Radio Stotis [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91431,
+          "url": "http://radio.m-1.fm/m-1dance/aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 91432,
+          "url": "http://radio.m-1.fm/m-1dance/mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91434,
+          "url": "https://radio.m-1.fm/m-1dance/mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91433,
+          "url": "https://radio.m-1.fm/m-1dance/aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 144,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 284783,
+      "name": "Radijo Stotis Kelyje",
+      "slug": "Radijo_Stotis_Kelyje_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/75/ac752789b204a8b4733cf9658fb97b47.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.8",
+        "dialStripped": "998"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis kelyje",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Klaipeda",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Klaipeda, Klaipeda/Palanga, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 193578,
+          "url": "http://212.95.45.82:8024/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 193577,
+          "url": "http://212.95.45.82:8024/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 19770,
+      "name": "RadioCentras",
+      "slug": "RadioCentras",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/84/7984e50293c2bcacfbeade68e9125c9b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "radiocentras",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alytus",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Alytus, Alytus, Lithuania",
+        "coordinates": {
+          "latitude": "54.4000000",
+          "longitude": "24.0500000"
+        }
+      },
+      "genre": {
+        "text": "Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 7,
+          "au": 0,
+          "de": 4,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28017,
+          "url": "https://stream1.rc.lt/rc128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28016,
+          "url": "http://stream1.rc.lt:80/rc128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 25094,
+      "name": "Radijo Stotis Kelyje",
+      "slug": "Radijo_Stotis_Kelyje",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/7b/c47b9ccf658528beb96ed4ab1a8c91d7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.7",
+        "dialStripped": "1077"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis kelyje",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 4,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39211,
+          "url": "http://212.95.45.82:8024/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39212,
+          "url": "http://212.95.45.82:8024/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 320269,
+      "name": "LRT OPUS",
+      "slug": "LR_Opus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/50/b250b46a862085a24c9612e1d829320e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "lrt opus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201892,
+          "url": "https://stream-live.lrt.lt/opus/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 3667,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 249498,
+          "url": "http://stream-live.lrt.lt/opus/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 3667,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 1432,
+      "name": "Classic Rock FM",
+      "slug": "classic_rock_fm_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/b7/deb7aca029fbc671fa226318ebe9e4db.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.8",
+        "dialStripped": "878"
+      },
+      "aliases": {
+        "cleanName": "classic rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 3667,
+          "url": "http://5.20.223.18:80/crf128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 3666,
+          "url": "http://5.20.223.18:80/crf64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 188282,
+      "name": "EXTRA FM",
+      "slug": "KF_105.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/e3/48e33e8d228b8fad9d15ba08f1db6269.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.4",
+        "dialStripped": "1054"
+      },
+      "aliases": {
+        "cleanName": "extra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas, Kaunas, Lithuania",
+        "coordinates": {
+          "latitude": "54.9000000",
+          "longitude": "23.9000000"
+        }
+      },
+      "genre": {
+        "text": "Europe",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244813,
+          "url": "https://stream.rcs.revma.com/8cwskd80zxcwv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244815,
+          "url": "https://online.extrafm.lt:8443/extrafm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244812,
+          "url": "http://stream.rcs.revma.com/8cwskd80zxcwv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 17388,
+      "name": "LRT Klasika",
+      "slug": "LR2_Klasika",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/bf/b2bf75410d90fc8c944c75d4af5a32fa.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "lrt klasika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Classical Education",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21210,
+          "url": "http://lrt-cast.lrt.lt:80/lrt_klasika",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 316,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 21212,
+          "url": "https://lrt-cast.lrt.lt/lrt_klasika",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 319,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 280920,
+      "name": "Radijo Stotis Kapsai",
+      "slug": "Radijo_Stotis_Kapsai",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/86/3c863478903631a9c7a420836867101c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.2",
+        "dialStripped": "1002"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis kapsai",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marijampole",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Marijampole, Marijampole, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Europe Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192138,
+          "url": "http://91.211.246.42:8000/Kapsai-HD",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 458543,
+      "name": "Radio Stotis Tau",
+      "slug": "Radio_Stotis_Tau",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/79/507909c3c1fa506d4d7cae492ca5d340.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "stotis tau",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas, Kaunas, Lithuania",
+        "coordinates": {
+          "latitude": "54.9000000",
+          "longitude": "23.9000000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Europe Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217600,
+          "url": "http://radijas.tau.lt:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217601,
+          "url": "http://radijas.tau.lt:8000/stream2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 64,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 346171,
+      "name": "Neringa FM 89.8",
+      "slug": "Neringa_FM_89.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/96/5296c46e5ca72e1df4b9391c5b4b7602.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.8",
+        "dialStripped": "898"
+      },
+      "aliases": {
+        "cleanName": "neringa 89.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nida",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Nida, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205310,
+          "url": "http://185.11.24.72:8000/neringafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 178,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 114639,
+      "name": "Radijo Pulsas",
+      "slug": "Pulsas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/f3/67f30821ed8fef051219615ace23cff9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "radijo pulsas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Stackunai",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Stackunai, Birzai/Kupiškis/Rokiškis, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Europe Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153256,
+          "url": "http://streams.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153257,
+          "url": "https://streams.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 1064,
+      "name": "Rock radio",
+      "slug": "Rock_radio_10",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/77/8477647394955b663ce9cf81d800c5cb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 2583,
+          "url": "http://cast2.my-control-panel.com:8026/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2582,
+          "url": "http://cast2.my-control-panel.com:8026/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2581,
+          "url": "http://cast2.my-control-panel.com:8026/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2586,
+          "url": "https://cast2.my-control-panel.com/proxy/vladas/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2585,
+          "url": "http://65.21.202.84:8026/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2584,
+          "url": "http://cast2.my-control-panel.com/proxy/vladas/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 22422,
+      "name": "Pukas 2",
+      "slug": "Pukas_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/32/5a32f6eb488b6e4a3001cf3a67289206.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pukas 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas, Kaunas, Lithuania",
+        "coordinates": {
+          "latitude": "54.9000000",
+          "longitude": "23.9000000"
+        }
+      },
+      "genre": {
+        "text": "Blues Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 33840,
+          "url": "http://212.95.39.164:8074/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 409637,
+      "name": "Saulės Radijas FM 102.5",
+      "slug": "Saules_Radijas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/7f/b47fb70c680f58f98dba2ec71456595a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "saules radijas 102.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Šiauliai",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Šiauliai, Lithuania",
+        "coordinates": {
+          "latitude": "55.9333300",
+          "longitude": "23.3166700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213343,
+          "url": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213342,
+          "url": "http://saule-aac.vinlita.lt:8000/stream.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 461155,
+      "name": "Super FM Lithuania",
+      "slug": "Super_FM_Lithuania",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/4f/134f39befa128343952e09e462a0fa61.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "super",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217795,
+          "url": "http://stream.ehr.lt:80/superfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217796,
+          "url": "http://stream.ehr.lt/superfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217797,
+          "url": "https://stream.ehr.lt:8443/superfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 409651,
+      "name": "Radijo stotis FM99",
+      "slug": "FM99",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/71/5f71b71827a363d22ee85222738eecb8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alytus",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Alytus, Alytus, Lithuania",
+        "coordinates": {
+          "latitude": "54.4000000",
+          "longitude": "24.0500000"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213344,
+          "url": "https://securestream.casthost.net:8617/fm99",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 169,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 28623,
+      "name": "PoWeR Radio",
+      "slug": "PoWeR_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/ba/29babb38a59665b47ea6303291a65f4f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "power",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kretinga",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kretinga, Klaipeda/Palanga, Lithuania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance House Pop Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46150,
+          "url": "http://cast1.asurahosting.com/proxy/eventas/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46151,
+          "url": "https://cast1.asurahosting.com/proxy/eventas/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 89414,
+      "name": "Radio Znad Wilii",
+      "slug": "Znad_Willii",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/c9/74c9847f6f1f7fa452f7e06689f9635d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.8",
+        "dialStripped": "1038"
+      },
+      "aliases": {
+        "cleanName": "znad wilii",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Europe Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135409,
+          "url": "https://plays.zw.lt:443/zw128",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135408,
+          "url": "http://92.62.141.133/zw128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 573004,
+      "name": "Radijo stotis XXL FM",
+      "slug": "Radijo_stotis_XXL_FM_99.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/b4/40b41717ba1b85f77c09cf7ce62f7f50.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis xxl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Plungė",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Plungė, Lithuania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227749,
+          "url": "http://91.211.246.42:8000/XXL-FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 573006,
+      "name": "Radijo stotis XXL FM",
+      "slug": "Radijo_stotis_XXL_FM_88.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/2a/962aec4ff8b3864fae0b4b2e09f208b2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis xxl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Šiauliai",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Šiauliai, Lithuania",
+        "coordinates": {
+          "latitude": "55.9333300",
+          "longitude": "23.3166700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227750,
+          "url": "http://91.211.246.42:8000/XXL-FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 292111,
+      "name": "Radijo stotis XXL FM",
+      "slug": "Radijo_stotis_XXL_FM_95.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/02/6c0204f8245dec99ed7910cdbbcf38b5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis xxl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Klaipeda",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Klaipeda, Klaipeda/Palanga, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196140,
+          "url": "http://91.211.246.42:8000/XXL-FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 247289,
+      "name": "Hot FM",
+      "slug": "Radijo_stotis_HotFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/77/f877a0ce30f2ef17c102a6e156ddaa56.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hot",
+        "alsoKnownAs": "Radijo stotis HotFM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Klaipeda",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Klaipeda, Klaipeda/Palanga, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 186189,
+          "url": "http://c2.radioboss.fm/stream/1051",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186190,
+          "url": "https://c2.radioboss.fm/stream/1051",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 31479,
+      "name": "Vilnius Lounge",
+      "slug": "Vilnius_Lounge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/56/b8/56b89e1aa59237fd2cbfb0f39e45373a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Ambient Chillout Electronic Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50853,
+          "url": "http://vilniuslounge.radioca.st/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50854,
+          "url": "https://vilniuslounge.radioca.st/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38290,
+      "name": "Start FM",
+      "slug": "Start_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/08/f108631d3621059adf0c99b2bb2725a1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.2",
+        "dialStripped": "942"
+      },
+      "aliases": {
+        "cleanName": "start",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Alternative College Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62155,
+          "url": "https://eteris.startfm.lt/startfm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62154,
+          "url": "http://eteris.startfm.lt/startfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 631016,
+      "name": "Beveik Radijas",
+      "slug": "Beveik_radijas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/38/df3849450002a41c25e9a9ea9f39a177.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "beveik radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Alternative Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229075,
+          "url": "http://halo.streamerr.co:8330/radio_96kbps.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 110,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 229074,
+          "url": "http://halo.streamerr.co:8330/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 409721,
+      "name": "Radijo stotis XXL FM",
+      "slug": "Radijo_stotis_XXL_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/b0/cdb0f4b62cd6910ba16273d860d452df.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "radijo stotis xxl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Telšiai",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Telšiai, Lithuania",
+        "coordinates": {
+          "latitude": "55.2013774",
+          "longitude": "23.8547074"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213361,
+          "url": "http://91.211.246.42:8000/XXL-FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 188321,
+      "name": "XFM Radijas",
+      "slug": "Laivoji_Banga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/5a/d85adde69c30b3fe1655f06955c11af2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "xfm radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Europe Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174287,
+          "url": "http://88.119.151.74:8001/xfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 169,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 20236,
+      "name": "Palanga Street Radio (PSR)",
+      "slug": "Palanga_Street_Radio_PSR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/13/f01328394518cd33c7bf56ea13f8eecc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "palanga street psr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Electronic Europe Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29083,
+          "url": "http://stream.palanga.live:8000/palanga128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29084,
+          "url": "https://stream.palanga.live:8443/palanga128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 192900,
+      "name": "Extra FM",
+      "slug": "Extra_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/d8/94d8ed587fd2427be9a203eeb5ed5f12.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "extra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Adult Contemporary Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175469,
+          "url": "https://online.extrafm.lt:8443/extrafm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 192916,
+      "name": "Extra FM",
+      "slug": "KF_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/5f/395fa3bf515059c45912e675ac5d85c7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.4",
+        "dialStripped": "1054"
+      },
+      "aliases": {
+        "cleanName": "extra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kaunas",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Kaunas, Kaunas, Lithuania",
+        "coordinates": {
+          "latitude": "54.9000000",
+          "longitude": "23.9000000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175475,
+          "url": "http://online.extrafm.lt:8443/extrafm.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 175476,
+          "url": "https://online.extrafm.lt:8443/extrafm.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 397183,
+      "name": "Play Radio",
+      "slug": "Play_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/05/91056133394fa8a6daff895a60b4edae.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Dance Hip Hop Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212147,
+          "url": "http://stream.radiojar.com/d9cm273ystzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212148,
+          "url": "https://stream.radiojar.com/d9cm273ystzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 129932,
+      "name": "Christmas Radio",
+      "slug": "Christmas_Radio_8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/a3/fba31089d3d3bc32075c7dc6d477061b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christmas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": ", Lithuania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159335,
+          "url": "http://stream.zeno.fm/xevy5qiypbqvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 159336,
+          "url": "https://stream.zeno.fm/xevy5qiypbqvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 10789,
+      "name": "Jazz FM",
+      "slug": "Jazz_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/12/8c12bcf8cb6286491b07151649f2727f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "jazz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Jazz Smooth Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14990,
+          "url": "http://wowzaott1.penki.lt:1935/jazzfm/jazzfm.stream/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 14991,
+          "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 49979,
+      "name": "Monsters FM",
+      "slug": "Monsters_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/ff/6fffe855354f2223400d1302ea8b8942.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "monsters",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": ", Lithuania",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80529,
+          "url": "http://stream.zeno.fm/cwnt2qyr2zhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80530,
+          "url": "https://stream.zeno.fm/cwnt2qyr2zhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 397616,
+      "name": "PMR",
+      "slug": "PMR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/68/1d68b552b506ea952983e89e5771e513.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pmr",
+        "alsoKnownAs": "Pasaulio Muzikos Radijas"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Folk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256592,
+          "url": "http://pmr.lt/streams/pmr-web?1757275350064",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212260,
+          "url": "http://stream.pmr.lt/pmr.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212261,
+          "url": "http://stream.pmr.lt/pmr.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 212263,
+          "url": "https://stream.pmr.lt/pmr.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 212262,
+          "url": "https://stream.pmr.lt/pmr.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212264,
+          "url": "https://pmr.lt/streams/pmr-web?1757275350064",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 505392,
+      "name": "Utenos Radijas",
+      "slug": "Indros_Radijas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/ea/e5ea087be7ff819504a3ee75a0ad26fe.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "utenos radijas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Utena",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Utena, Lithuania",
+        "coordinates": {
+          "latitude": "55.5000000",
+          "longitude": "25.6000000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220933,
+          "url": "http://gyvai.ursrv.eu:80/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 30902,
+      "name": "radio.audiomastering.lt",
+      "slug": "radio.audiomastering.lt",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/7c/2a7cb880d04d95790d356bb69033edd2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "audiomastering lt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vilnius",
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "locationText": "Vilnius, Lithuania",
+        "coordinates": {
+          "latitude": "54.6891600",
+          "longitude": "25.2798000"
+        }
+      },
+      "genre": {
+        "text": "Ambient Drum and Bass Dubstep Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49670,
+          "url": "http://radio.audiomastering.lt:8000/hq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49667,
+          "url": "http://radio.audiomastering.lt:8000/guest",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49669,
+          "url": "http://radio.audiomastering.lt:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    }
+  ]
+}

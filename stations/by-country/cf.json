@@ -1,0 +1,282 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:51.864Z",
+  "endpoint": "/countries/Central African Republic/radios",
+  "countryCode": "cf",
+  "countryName": "Central African Republic",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 80004,
+      "name": "Radio Ndeke Luka",
+      "slug": "Radio_Ndeke_Luka_100.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/87/1787b1a6635600f0da1e436600a89ef5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "ndeke luka",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bangui",
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "locationText": "Bangui, Ombella-M'Poko, Central African Republic",
+        "coordinates": {
+          "latitude": "4.3612200",
+          "longitude": "18.5549600"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1590,
+        "byCountry": {
+          "us": 14,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 60,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 252617,
+          "url": "https://vps27.iron.oriented.ch/ndekeluka",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 124913,
+          "url": "http://havps36.iron.bsa.oriented.ch:8001/ndekeluka",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 31,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 124912,
+          "url": "http://vps27.iron.oriented.ch:8001/ndekeluka",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 31,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 124914,
+          "url": "https://stream.radiondekeluka.org/ndekeluka",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 124911,
+          "url": "http://stream.radiondekeluka.org:8001/ndekeluka",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 28,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43863,
+      "name": "HIT RADIO RCA",
+      "slug": "HIT_RADIO_RCA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/73/0973de912092ad9e08d8a5042533678b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "hit rca",
+        "alsoKnownAs": "Hit Radio Centrafrique"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bangui",
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "locationText": "Bangui, Ombella-M'Poko, Central African Republic",
+        "coordinates": {
+          "latitude": "4.3612200",
+          "longitude": "18.5549600"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Afropop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70550,
+          "url": "https://hr-rca.ice.infomaniak.ch/hr-rca-64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 70549,
+          "url": "http://hr-rca.ice.infomaniak.ch/hr-rca-64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 60359,
+      "name": "Antioch Christian Radio",
+      "slug": "Antioch_Christian_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/6b/a06b5fbc8baf0874fbd3561740a5723c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bangui",
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "locationText": "Bangui, Ombella-M'Poko, Central African Republic",
+        "coordinates": {
+          "latitude": "4.3612200",
+          "longitude": "18.5549600"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98660,
+          "url": "https://stream.zeno.fm/h6f8390w908uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98659,
+          "url": "http://stream.zeno.fm/h6f8390w908uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

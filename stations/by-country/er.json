@@ -1,0 +1,84 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:36.077Z",
+  "endpoint": "/countries/Eritrea/radios",
+  "countryCode": "er",
+  "countryName": "Eritrea",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 72401,
+      "name": "1vijant",
+      "slug": "1vijant",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/36/3e/363e856beb72a26b19894f772e2f9dec.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1vijant",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Eritrea",
+        "countryCode": "ER",
+        "locationText": ", Eritrea",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bollywood Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114671,
+          "url": "http://stream.zeno.fm/rc6pxnyr538uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114672,
+          "url": "https://stream.zeno.fm/rc6pxnyr538uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

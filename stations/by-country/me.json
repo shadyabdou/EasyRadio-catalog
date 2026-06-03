@@ -1,0 +1,2337 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:58.199Z",
+  "endpoint": "/countries/Montenegro/radios",
+  "countryCode": "me",
+  "countryName": "Montenegro",
+  "expectedCount": 30,
+  "count": 30,
+  "data": [
+    {
+      "id": 104010,
+      "name": "Radio Antena M",
+      "slug": "Radio_Antena_M",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/cf/a2cf8102144d0dd03854b6cf22bab8fc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.6",
+        "dialStripped": "876"
+      },
+      "aliases": {
+        "cleanName": "antena m",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145580,
+          "url": "http://radioservis.me:8010/antenamlive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256447,
+          "url": "https://radioservis.me:8010/antenamlive",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bs",
+          "name": "Bosnian"
+        }
+      ]
+    },
+    {
+      "id": 25598,
+      "name": "Radio D Plus",
+      "slug": "Radio_D_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/67/e5674e050b37d2569bb3db18f098c58a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "d plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40182,
+          "url": "http://radiodplus.radioca.st/xstream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 149,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238191,
+          "url": "http://tachyon.shoutca.st:8359/xstream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 151,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40181,
+          "url": "http://tachyon.shoutca.st:8303/xstream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 461426,
+      "name": "Радио Светигора",
+      "slug": "Radio_Svetigora",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/c1/ddc1068e8b9cafb37740935b1e04859d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "svetigora",
+        "alsoKnownAs": "Radio Svetigora"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cetinje",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Cetinje, Montenegro",
+        "coordinates": {
+          "latitude": "42.3906300",
+          "longitude": "18.9141700"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 217872,
+          "url": "http://159.69.117.253:8879/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217873,
+          "url": "http://159.69.117.253:8879/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 41337,
+      "name": "Radio Televizija Budva",
+      "slug": "Radio_Budva",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/15/b8151b226fef4e39c414e2ffafa9ba34.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "televizija budva",
+        "alsoKnownAs": "RT Budva"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Budva",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Budva, Montenegro",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "New Age Pop Top 40 World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66225,
+          "url": "http://c8.radioboss.fm:8199/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66224,
+          "url": "http://c8.radioboss.fm:8199/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247761,
+          "url": "https://c8.radioboss.fm:8199/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66223,
+          "url": "http://c8.radioboss.fm:8199/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252148,
+          "url": "https://c8.radioboss.fm:8199/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255301,
+          "url": "https://c8.radioboss.fm:8199/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 504,
+      "name": "MAG Radio - Pop Rock Ex Yu",
+      "slug": "MAG_Radio_Pop_Rock_Ex_Yu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/60/c860122a34ac1880f14f9e4a616e8d45.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag pop rock ex yu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1273,
+          "url": "http://radio.elmag.me/poprock.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 1274,
+          "url": "https://radio.elmag.me/poprock.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 129049,
+      "name": "Radio S1 CG",
+      "slug": "Radio_S1_CG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/21/0221ebb51163135f70077afe02026345.png",
+      "dial": {
+        "band": "Web",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "s1 cg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159010,
+          "url": "http://edge-rs-04.maksnet.tv/asmedia/radios1-cg/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 43,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159011,
+          "url": "https://edge-rs-04.maksnet.tv/asmedia/radios1-cg/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 43,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 40211,
+      "name": "Radio Kulturica Online",
+      "slug": "Radio_Kulturica_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/f2/caf2d403d8439ea22a6973ddb9a313d7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kulturica online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Downtempo Electro Funk Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 110772,
+      "name": "Radio Bar 91.8",
+      "slug": "Radio_Bar_918",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/3f/703f0791963ec96d7897c7dcd049234e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.8",
+        "dialStripped": "918"
+      },
+      "aliases": {
+        "cleanName": "bar 91.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bar",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Bar, Montenegro",
+        "coordinates": {
+          "latitude": "42.0930600",
+          "longitude": "19.1002800"
+        }
+      },
+      "genre": {
+        "text": "Balkan Folk News Weather",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150736,
+          "url": "http://161.97.93.84:9000/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 473481,
+      "name": "Radio Tivat",
+      "slug": "Radio_Tivat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/03/0d03be7384c7c288029affa145039c7e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "tivat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tivat",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Tivat, Montenegro",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Pop Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 271354,
+          "url": "http://radio.dukahosting.com:8008/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218903,
+          "url": "http://radio.dukahosting.com:8008/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 461454,
+      "name": "Радио Светигора",
+      "slug": "Radio_Svetigora_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/98/d598561ab0b5d9376b62fe00a78f340b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "svetigora",
+        "alsoKnownAs": "Radio Svetigora"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cetinje",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Cetinje, Montenegro",
+        "coordinates": {
+          "latitude": "42.3906300",
+          "longitude": "18.9141700"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217879,
+          "url": "http://159.69.117.253:8879/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217878,
+          "url": "http://159.69.117.253:8879/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 84,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 147951,
+      "name": "Radio Danilovgrad",
+      "slug": "Radio_Danilovgrad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/ae/f7ae3d15c506944a6b8e4aedd1781da4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "danilovgrad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Danilovgrad",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Danilovgrad, Montenegro",
+        "coordinates": {
+          "latitude": "42.6040488",
+          "longitude": "19.0882538"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 164517,
+          "url": "http://sirius.shoutca.st:8604/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 25014,
+      "name": "MAG Radio - Folk Gold",
+      "slug": "MAG_Radio_Folk_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/6b/076b9fd7c53d5063a2f4ce737777b2b4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag folk gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39029,
+          "url": "https://radio.elmag.me/folkgold.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39028,
+          "url": "http://radio.elmag.me/folkgold.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 37053913,
+      "name": "MAG Radio - Nostalgija",
+      "slug": "MAG_Radio_Nostalgija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/ab/24ab9f30b46d27450869fbe143bd9f91.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag nostalgija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272311,
+          "url": "http://radio.elmag.me/nostalgija.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272312,
+          "url": "https://radio.elmag.me/nostalgija.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 37053929,
+      "name": "MAG Radio - Caffe",
+      "slug": "MAG_Radio_Caffe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/83/5b83eab926a565d5188d6bc7f6eb3730.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag caffe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272313,
+          "url": "http://radio.elmag.me/cafe.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272314,
+          "url": "https://radio.elmag.me/cafe.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 52318,
+      "name": "Radio S3 CG",
+      "slug": "City_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/5c/7c5cec09b4529b8058b927dfbb8c114c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "s3 cg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85021,
+          "url": "http://stream.radios.rs:8018/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 90763,
+      "name": "MAG Radio - Kids",
+      "slug": "MAG_Radio_Kids",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/78/c87807bc0d9dab729f6197ffb4fc9983.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag kids",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Children & Family",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137083,
+          "url": "http://radio.elmag.me/kids.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137084,
+          "url": "https://radio.elmag.me/kids.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 105829,
+      "name": "Radio Art 365 ",
+      "slug": "Radio_Art_365",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/56/3f562be80dc45caaab2d0a3f2c4394c6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "art 365",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Art Dance Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 147101,
+          "url": "https://stream.zeno.fm/tmn32t00d48uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147100,
+          "url": "http://stream.zeno.fm/tmn32t00d48uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 82724,
+      "name": "MAG Radio - Love",
+      "slug": "MAG_Radio_Love",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/6f/fb6fa82d9247a4df166b6836f417735e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag love",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Love Songs",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 128936,
+          "url": "http://radio.elmag.me/love.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 128937,
+          "url": "https://radio.elmag.me/love.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 64116,
+      "name": "Elmag Radio",
+      "slug": "Elmag_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/d1/a3d1b55a5ca602d08c522f3e242da024.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "elmag",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103858,
+          "url": "http://radio.elmag.me/elmag.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103859,
+          "url": "https://radio.elmag.me/elmag.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 164326,
+      "name": "Radio DUX",
+      "slug": "adio_DUX_97.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/7a/5d7aa08f952826c209c84d06cdae68d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.4",
+        "dialStripped": "974"
+      },
+      "aliases": {
+        "cleanName": "dux",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tivat",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Tivat, Montenegro",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Balkan Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 167655,
+          "url": "http://www.radiodux.me:8000/radiodux",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hr",
+          "name": "Croatian"
+        }
+      ]
+    },
+    {
+      "id": 190191,
+      "name": "MAG Radio - Evergreen",
+      "slug": "MAG_Radio_Evergreen",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/71/a1712773262c2ddb748e6ee2920e2c74.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag evergreen",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Classics Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175076,
+          "url": "http://radio.elmag.me/evergreen.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 175077,
+          "url": "https://radio.elmag.me/evergreen.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 15049159,
+      "name": "MAG Radio",
+      "slug": "MAG_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/3e/fc3edc4931e9d18420d75ded5616339c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "mag",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239877,
+          "url": "http://radio.elmag.me/mag.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239878,
+          "url": "https://radio.elmag.me/mag.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 265895,
+      "name": "MAG Radio - Izvorne",
+      "slug": "MAG_Radio_Izvorne",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/08/4e08cf30abebe2274a1e8aa266aa82c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag izvorne",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189758,
+          "url": "http://radio.elmag.me/izvorne.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189759,
+          "url": "https://radio.elmag.me/izvorne.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 82925,
+      "name": "Radio Renome Podgorica",
+      "slug": "Radio_Renome",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/ab/05abb7e1b994b375e017336f1588dcd3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "podgorica",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Love Songs",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 129301,
+          "url": "http://r.name.ba:9316/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129303,
+          "url": "https://r.name.ba:7316/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129302,
+          "url": "https://r.name.ba:7316/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 427767,
+      "name": "RTCG",
+      "slug": "Radio_Crne_Gore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/2f/c22f7df758c71e9084646b003480c98a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "rtcg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214864,
+          "url": "http://rtcg.ipradio.rs:8008/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214865,
+          "url": "https://rtcg.ipradio.rs:9008/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hr",
+          "name": "Croatian"
+        }
+      ]
+    },
+    {
+      "id": 21105,
+      "name": "Reggaeneracija",
+      "slug": "Reggaeneracija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/06/6406618d627b79b3a27b5f6535e9074e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "reggaeneracija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Folk Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31174,
+          "url": "http://5.189.179.77:8000/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31175,
+          "url": "http://player.reggaeneracija.me:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31172,
+          "url": "http://5.189.179.77:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31173,
+          "url": "http://5.189.179.77:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31176,
+          "url": "https://player.reggaeneracija.me/proxy/reggaeneracija/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 29568,
+      "name": "Elektroniq Radio (EQR)",
+      "slug": "Elektroniq_Radio_EQR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e5/53/e553ef3a970425eebd5d21997bdfd146.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "elektroniq eqr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic House Pop Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 47524,
+          "url": "http://37.157.242.102:6415/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 46223998,
+      "name": "PLAY radio Montenegro",
+      "slug": "PLAY_radio_Montenegro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/d4/2cd4e833b7b729054fcd81d602d29ce7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "play",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277243,
+          "url": "http://stream.playradio.me:8001/play-me.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277244,
+          "url": "https://stream.playradio.me:8443/play-me.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66308,
+      "name": "MAG Radio - Party",
+      "slug": "MAG_Radio_Party",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/7c/fc7c6397fe58c674be1558359065dd3f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag party",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106900,
+          "url": "http://radio.elmag.me/party.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106901,
+          "url": "https://radio.elmag.me/party.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 10793,
+      "name": "MAG Radio - Jazz",
+      "slug": "MAG_Radio_Jazz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/c1/2cc1847907d7f59301852d95ac462fb1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mag jazz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Podgorica",
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "locationText": "Podgorica, Montenegro",
+        "coordinates": {
+          "latitude": "42.4411100",
+          "longitude": "19.2636100"
+        }
+      },
+      "genre": {
+        "text": "Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14997,
+          "url": "http://radio.elmag.me/jazz.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 14998,
+          "url": "https://radio.elmag.me/jazz.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

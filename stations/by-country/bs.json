@@ -1,0 +1,2414 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:49.090Z",
+  "endpoint": "/countries/Bahamas/radios",
+  "countryCode": "bs",
+  "countryName": "Bahamas",
+  "expectedCount": 27,
+  "count": 27,
+  "data": [
+    {
+      "id": 35387,
+      "name": "96.9FM GuardianRadio",
+      "slug": "96.9FM_GuardianRadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/3b/783b575e3bfa67b39a39bdb5273343f2.webp",
+      "dial": {
+        "band": "FM",
+        "dial": "96.9",
+        "dialStripped": "969"
+      },
+      "aliases": {
+        "cleanName": "96.9 guardianradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 12,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57801,
+          "url": "http://radiostreams.streamcomedia.com:8000/969guardianradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243002,
+          "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35389,
+      "name": "The National Voice - ZNS-1",
+      "slug": "Radio_Bahamas_ZNS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/5c/7a5cd95b998afd97ad59d12542892bed.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1540",
+        "dialStripped": "1540"
+      },
+      "aliases": {
+        "cleanName": "the national voice zns 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57804,
+          "url": "http://radiostreams.streamcomedia.com:8008/zns1540am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243223,
+          "url": "https://radiostreams.streamcomedia.com:8008/zns1540am",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18072,
+      "name": "100 Jamz",
+      "slug": "Jamz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/e9/d8e9bece3e1422ac1283dee677518851.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "100 jamz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 10,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23165,
+          "url": "http://ice66.securenetsystems.net/100JAMZ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242278,
+          "url": "https://ice66.securenetsystems.net:80/100JAMZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 35,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23166,
+          "url": "http://ice66.securenetsystems.net:80/100JAMZ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242277,
+          "url": "https://ice66.securenetsystems.net/100JAMZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 38,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35394,
+      "name": "Da Riddim 102.7",
+      "slug": "Da_Riddim_102.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/2a/6c2aaaa3c0f66b07f3743871b9c675f9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "da riddim 102.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freeport",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Freeport, Bahamas",
+        "coordinates": {
+          "latitude": "26.5333300",
+          "longitude": "-78.7000000"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57810,
+          "url": "http://24.244.147.200:8000/listen.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241235,
+          "url": "http://radio.dariddim.com/listen/dariddim/radio.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 266,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241240,
+          "url": "https://radio.dariddim.com:8000/radio.aac?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 266,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241239,
+          "url": "https://radio.dariddim.com:8000/radio.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 258,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241236,
+          "url": "http://radio.dariddim.com:8000/radio.aac?&_ic2=1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 251,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 237435,
+          "url": "https://a7.asurahosting.com:7700/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237434,
+          "url": "http://a7.asurahosting.com/listen/02.7_da_riddim/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241238,
+          "url": "https://radio.dariddim.com/listen/dariddim/radio.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 258,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241237,
+          "url": "http://radio.dariddim.com:8000/radio.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 244,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35390,
+      "name": "Inspiration 107.9 FM - ZNS-2",
+      "slug": "Inspiration_1240_ZNS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/69/01697c54e323f479009d8f2b2f65eea0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "inspiration 107.9 zns 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Education Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 57805,
+          "url": "http://radiostreams.streamcomedia.com:8006/zns1079fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57806,
+          "url": "https://radiostreams.streamcomedia.com:8006/zns1079fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35391,
+      "name": "The Light - ZNS-3",
+      "slug": "Radio_Bahamas_ZNS_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/58/ee583616fe3d0c22b731fc7bc0c86724.png",
+      "dial": {
+        "band": "AM",
+        "dial": "810",
+        "dialStripped": "810"
+      },
+      "aliases": {
+        "cleanName": "the light zns 3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freeport",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Freeport, Bahamas",
+        "coordinates": {
+          "latitude": "26.5333300",
+          "longitude": "-78.7000000"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57807,
+          "url": "http://radiostreams.streamcomedia.com:8002/zns810am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251581,
+          "url": "https://radiostreams.streamcomedia.com:8002/zns810am",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35393,
+      "name": "Global Radio",
+      "slug": "Global_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/47/7e47e38a675048ad7a9378f5d3834ac2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "global",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Hits Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 57808,
+          "url": "http://ice64.securenetsystems.net/GLOBALBS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57809,
+          "url": "http://ice64.securenetsystems.net:80/GLOBALBS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18135,
+      "name": "HOT 91.7 FM",
+      "slug": "HOT_91.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/4c/e44c1f4a524ae6b347120345ee3459ed.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "hot 91.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 23386,
+          "url": "https://ice25.securenetsystems.net:80/HOT917FM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23384,
+          "url": "http://ice25.securenetsystems.net:80/HOT917FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23385,
+          "url": "http://ice25.securenetsystems.net/HOT917FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23387,
+          "url": "https://ice25.securenetsystems.net/HOT917FM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32328,
+      "name": "Joy 101.9 FM",
+      "slug": "Joy_101.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/3a/b33a5ad15ab6eb37670b292fa458359f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9",
+        "dialStripped": "1019"
+      },
+      "aliases": {
+        "cleanName": "joy 101.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52643,
+          "url": "http://ice42.securenetsystems.net/JOYFM242",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52645,
+          "url": "https://ice42.securenetsystems.net/JOYFM242",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52644,
+          "url": "https://ice42.securenetsystems.net:80/JOYFM242",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52642,
+          "url": "http://ice42.securenetsystems.net:80/JOYFM242",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 41,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31923,
+      "name": "Gospel 107.1 FM",
+      "slug": "Gospel_107.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/41/fd4113197187a385713c737d409f1572.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.1",
+        "dialStripped": "1071"
+      },
+      "aliases": {
+        "cleanName": "gospel 107.1",
+        "alsoKnownAs": "Gospel 107"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Christian Gospel Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51790,
+          "url": "http://c25.radioboss.fm:8186/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 51791,
+          "url": "https://c25.radioboss.fm:8186/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35400,
+      "name": "BBN 102.3FM",
+      "slug": "BBN_102.3FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/aa/5eaae98a8832c3fbefe84ae99ce8f693.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "bbn 102.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257374,
+          "url": "/tmp/tmpd2nh5ikz",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 157,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57816,
+          "url": "http://radiocdn1.streamcomedia.com:5670/tprb1023fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35401,
+      "name": "Y98 Radio",
+      "slug": "Y98_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/01/110134edeb5ce36a270d463ed6ffe45e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "y98",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57817,
+          "url": "http://ice42.securenetsystems.net/Y98FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57819,
+          "url": "https://ice42.securenetsystems.net/Y98FM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57820,
+          "url": "https://ice42.securenetsystems.net:80/Y98FM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57818,
+          "url": "http://ice42.securenetsystems.net:80/Y98FM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32026,
+      "name": "Your Gospel Express",
+      "slug": "Your_Gospel_Express",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/8a/628a3996e12984ed3681500233f11d2c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "your gospel express",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51994,
+          "url": "https://listen.radioking.com/radio/311906/stream/359057",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51991,
+          "url": "http://www.radioking.com/play/your-gospel-express",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51992,
+          "url": "http://listen.radioking.com/radio/311906/stream/359057",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51993,
+          "url": "https://www.radioking.com/play/your-gospel-express",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35407,
+      "name": "WORD SBC Radio",
+      "slug": "WORD_SBC_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/50/0f50c681f47807b4a739e3cd8512c879.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "word sbc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57832,
+          "url": "http://ais-sa1.streamon.fm/7013_64k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57833,
+          "url": "https://ais-sa1.streamon.fm/7013_64k.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35399,
+      "name": "Bahamian Or Nuttin!",
+      "slug": "Bahamian_Or_Nuttin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/78/c1784b52a0aa8190fc6723004fda61a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": "bahamian or nuttin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57815,
+          "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57814,
+          "url": "http://s2.reliastream.com:8078/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57813,
+          "url": "http://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35403,
+      "name": "103 The Beat",
+      "slug": "ZSR_103.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/a1/55a11eb0db4345da5ed3c1e0066b0a8a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "103 the beat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57822,
+          "url": "https://stream.radiojar.com/01d8c449cyduv?1752229867",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57821,
+          "url": "http://stream.radiojar.com/01d8c449cyduv?1752229867",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 26247,
+      "name": "STAR 106.5 FM",
+      "slug": "STAR_106.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/2b/212bebf6ed5cbb5ad38b07c3850064d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "star 106.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 41256,
+          "url": "http://radiostreams.streamcomedia.com:8020/star1065fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35405,
+      "name": "Power 104.5fm",
+      "slug": "Power_104.5fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/46/0a46d2f035bf2d14dd5277cb1ac6e5a7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "power 104.5",
+        "alsoKnownAs": "Power 104.5 F.M - ZNS-3-FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Caribbean Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57827,
+          "url": "http://radiostreams.streamcomedia.com:8004/zns1045fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35413,
+      "name": "Vibe 93.1 FM",
+      "slug": "Vibe_93.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/53/e85313d535a3de0e11a62a70a783d24c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "vibe 93.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Caribbean Dancehall Reggae Soca Tropical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57844,
+          "url": "https://ice26.securenetsystems.net:80/VIBES931",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57845,
+          "url": "https://ice26.securenetsystems.net/VIBES931",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57843,
+          "url": "http://ice26.securenetsystems.net/VIBES931",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57842,
+          "url": "http://ice26.securenetsystems.net:80/VIBES931",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35411,
+      "name": "DA GROOVE/WSOUL",
+      "slug": "DA_GROOVEWSOUL",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "da groove wsoul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "60s 70s 80s Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 57841,
+          "url": "http://198.178.123.5:11628/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57840,
+          "url": "http://s2.voscast.com:11628/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267641,
+          "url": "http://198.178.123.5:11628/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21802,
+      "name": "The Blaze 98.3 FM",
+      "slug": "The_Blaze_98.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/13/31133858e90229283f61cc7bede0fca6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "the blaze 98.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moss Town",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Moss Town, Great Exuma, Bahamas",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32654,
+          "url": "http://amber.streamcomedia.com:5670/theblaze983fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35416,
+      "name": "Rudon Media Group FM",
+      "slug": "Rudon_Media_Group_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/f4/82f434626b7a584348562110969c76a2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rudon group",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57852,
+          "url": "http://stream.zeno.fm/3nypm6eyxxquv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 19803,
+      "name": "Radio lclhst",
+      "slug": "Radio_lclhst",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lclhst",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28115,
+          "url": "http://95.211.222.118:1337/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266751,
+          "url": "http://95.211.222.118:1337/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28116,
+          "url": "http://s1.radio.lclhst.net:1437/r1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35417,
+      "name": "Praysefm101.1",
+      "slug": "Praysefm101.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/1e/421e023838fc7fe18136dc51a589ea79.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "praysefm 101.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57856,
+          "url": "https://ice41.securenetsystems.net/PRAYSE",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57854,
+          "url": "http://ice41.securenetsystems.net/PRAYSE",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57855,
+          "url": "https://ice41.securenetsystems.net:80/PRAYSE",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57853,
+          "url": "http://ice41.securenetsystems.net:80/PRAYSE",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35406,
+      "name": "Glory 93.9 FM",
+      "slug": "Glory_93.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/a1/cba171f24becfd2d29c7dd9066b175fd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "glory 93.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57830,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC173.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57829,
+          "url": "http://15113.live.streamtheworld.com:80/SAM01AAC173_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275360,
+          "url": "http://15113.live.streamtheworld.com:3690/SAM01AAC173_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57828,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC173.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57831,
+          "url": "https://26343.live.streamtheworld.com:443/SAM01AAC173_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252055,
+          "url": "http://26343.live.streamtheworld.com:80/SAM01AAC173_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35414,
+      "name": "KLPM88.9FM",
+      "slug": "KLPM88.9FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/d5/e8d571dc02ce55a3e824054b7da41904.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "klpm 88.9",
+        "alsoKnownAs": "Kingdom Living 89.9 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freeport",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Freeport, Bahamas",
+        "coordinates": {
+          "latitude": "26.5333300",
+          "longitude": "-78.7000000"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57846,
+          "url": "http://s4.radio.co/s440e54fd7/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57849,
+          "url": "https://s4.radio.co/s440e54fd7/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57848,
+          "url": "https://s4.radio.co/s440e54fd7/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57847,
+          "url": "http://s4.radio.co/s440e54fd7/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 35420,
+      "name": "Cool Cats Radio",
+      "slug": "Cool_Cats_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/66/e366e3627a338626d7cb370f31887e91.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cool cats",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nassau",
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "locationText": "Nassau, Bahamas",
+        "coordinates": {
+          "latitude": "25.0582300",
+          "longitude": "-77.3430600"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57862,
+          "url": "https://echo.exmedia.co:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57861,
+          "url": "http://echo.exmedia.co:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

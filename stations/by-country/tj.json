@@ -1,0 +1,307 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:55.964Z",
+  "endpoint": "/countries/Tajikistan/radios",
+  "countryCode": "tj",
+  "countryName": "Tajikistan",
+  "expectedCount": 4,
+  "count": 4,
+  "data": [
+    {
+      "id": 50148,
+      "name": "Радио Пайванд",
+      "slug": "Radio_Payvand",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/cc/85cc742c1fbbcf2c40be5c347445e13f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "paivand",
+        "alsoKnownAs": "Radio Payvand"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khujand",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "locationText": "Khujand, Tajikistan",
+        "coordinates": {
+          "latitude": "38.5869788",
+          "longitude": "69.3979079"
+        }
+      },
+      "genre": {
+        "text": "Comedy Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80858,
+          "url": "http://c6.radioboss.fm:8234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80859,
+          "url": "https://c6.radioboss.fm:18234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "tg",
+          "name": "Tajik"
+        }
+      ]
+    },
+    {
+      "id": 47936,
+      "name": "Радиои Садои Душанбе",
+      "slug": "Radio_Sadoi_Dushanbe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8b/61/8b61b9fe8347d9cc99e968cd23d9d5ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.2",
+        "dialStripped": "1022"
+      },
+      "aliases": {
+        "cleanName": "radioi sadoi dushanbe",
+        "alsoKnownAs": "Radio Sadoi Dushanbe"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dushanbe",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "locationText": "Dushanbe, Tajikistan",
+        "coordinates": {
+          "latitude": "38.5357500",
+          "longitude": "68.7790500"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76065,
+          "url": "http://185.121.1.27:8000/sdushanbe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 73559,
+      "name": "Radio Tiroz 103.7",
+      "slug": "Radio_Tiroz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/eb/17ebbb2558a0b5b1cb7aa8934c72cc6d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "tiroz 103.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khujand",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "locationText": "Khujand, Tajikistan",
+        "coordinates": {
+          "latitude": "38.5869788",
+          "longitude": "69.3979079"
+        }
+      },
+      "genre": {
+        "text": "Russian Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116145,
+          "url": "http://eu1.fastcast4u.com:21608/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 47926,
+      "name": "Радиои Аврупои Точикистон",
+      "slug": "Radio_Free_Tajikistan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/df/6fdfc9a84101e76f707497ac2886e3d8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radioi avrupoi tochikiston",
+        "alsoKnownAs": "Radio Free Tajikistan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dushanbe",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "locationText": "Dushanbe, Tajikistan",
+        "coordinates": {
+          "latitude": "38.5357500",
+          "longitude": "68.7790500"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76044,
+          "url": "http://stream.radiojar.com/mn1ukbapn3quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76045,
+          "url": "https://stream.radiojar.com/mn1ukbapn3quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

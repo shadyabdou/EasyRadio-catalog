@@ -1,0 +1,3280 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:31.250Z",
+  "endpoint": "/countries/Rwanda/radios",
+  "countryCode": "rw",
+  "countryName": "Rwanda",
+  "expectedCount": 41,
+  "count": 41,
+  "data": [
+    {
+      "id": 48516,
+      "name": "Radio Rwanda",
+      "slug": "Radio_Rwanda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/f4/93f49767b5cfd5c884eb06a463792356.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.7",
+        "dialStripped": "1007"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 11100,
+        "byCountry": {
+          "us": 20,
+          "gb": 6,
+          "au": 1,
+          "de": 12,
+          "fr": 10,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 15,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77113,
+          "url": "http://listen.rba.co.rw:3000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 90,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 49495,
+      "name": "B&B Kigali 89.7FM",
+      "slug": "B_and_B_Kigali",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/0d/b50dea42b0fa8ad41cef8f8feb2e509d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "b b 89.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5400,
+        "byCountry": {
+          "us": 14,
+          "gb": 3,
+          "au": 1,
+          "de": 8,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 2,
+          "it": 3,
+          "ar": 0,
+          "ca": 9,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 79074,
+          "url": "http://eu4.fastcast4u.com:5072/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 79075,
+          "url": "http://178.32.146.184:5072/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255573,
+          "url": "http://eu4.fastcast4u.com:5072/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48669,
+      "name": "Radio TV 10",
+      "slug": "Radio10_876_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/72/a5/72a5bbb22633dc26ca1f287f87adea54.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.6",
+        "dialStripped": "876"
+      },
+      "aliases": {
+        "cleanName": "tv 10",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4680,
+        "byCountry": {
+          "us": 10,
+          "gb": 2,
+          "au": 1,
+          "de": 5,
+          "fr": 6,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 11,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77463,
+          "url": "http://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77464,
+          "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 90923,
+      "name": "102.3 Kiss FM",
+      "slug": "102.3_Kiss_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/6b/856b6e5b1ee8b992a8885075aeb7f2b6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "102.3 kiss",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3690,
+        "byCountry": {
+          "us": 12,
+          "gb": 1,
+          "au": 0,
+          "de": 5,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137388,
+          "url": "http://kissfm-atunwadigital.streamguys1.com/kissfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 137389,
+          "url": "https://kissfm-atunwadigital.streamguys1.com/kissfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43456,
+      "name": "Magic FM",
+      "slug": "Magic_FM_12",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/8e/918eda7315ece63a3d56821be8a1103c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "magic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3540,
+        "byCountry": {
+          "us": 6,
+          "gb": 3,
+          "au": 0,
+          "de": 9,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 2,
+          "it": 4,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 69757,
+          "url": "http://listen.rba.co.rw:8080/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 3652,
+      "name": "Radio 1",
+      "slug": "Radio_1_10",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/de/91de881a9aff786a46b253539a975d8c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3480,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 7793,
+          "url": "http://80.241.215.175:5000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43491,
+      "name": "KT Radio 96.7fm",
+      "slug": "KT_Radio_96.7fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/64/2d6445e32afb37d20d02b957f9dbe7f0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "kt 96.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1800,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 69825,
+          "url": "https://stream.zeno.fm/q84wt2xdf18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69824,
+          "url": "http://stream.zeno.fm/q84wt2xdf18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 204091,
+      "name": "Radio Flash FM",
+      "slug": "Flash_FM_Rwanda_89.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/f4/0af4732c7757921a5874920cd12ceda4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.2",
+        "dialStripped": "892"
+      },
+      "aliases": {
+        "cleanName": "flash",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1650,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 3,
+          "fr": 2,
+          "br": 7,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 178063,
+          "url": "http://80.241.215.175:7410/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69176,
+      "name": "Radio Maria Rwanda",
+      "slug": "Radio_Maria_Rwanda_99.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/5a/135abae6209b4e6e24c6a2c10f2d41f1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Karongi",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Karongi, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Education Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110112,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268371,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38767,
+      "name": "Radio Isango Star",
+      "slug": "Radio_Isango_Star",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/39/1939e9fff6bf22b2f17f8a57972364f2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5",
+        "dialStripped": "915"
+      },
+      "aliases": {
+        "cleanName": "isango star",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 3,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 259350,
+          "url": "http://80.241.215.175:8000/;;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62921,
+          "url": "http://80.241.215.175:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 81,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 43523,
+      "name": "Radio Flash",
+      "slug": "Radio_Flash_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/5f/b35f04743d254fa6bf169475c3055f10.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "flash",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Entertainment News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 4,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69878,
+          "url": "http://80.241.215.175:7410/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38902,
+      "name": "SDA Radio Station",
+      "slug": "SDA_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/c5/04c553dccc85723e228b94ceaf805cb2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sda station",
+        "alsoKnownAs": "Seventh Day Adventists Radio Station"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63158,
+          "url": "https://stream.zeno.fm/tx5ktvnp4ehvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63157,
+          "url": "http://stream.zeno.fm/tx5ktvnp4ehvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 43582,
+      "name": "Radio Rubavu",
+      "slug": "Radio_Rubavu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/03/fa03853fb8decfb400cb7b998f285d54.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "rubavu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rubona",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Rubona, Rubavu District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70007,
+          "url": "http://listen.rba.co.rw:4000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 43560,
+      "name": "Radio Huye",
+      "slug": "Radio_Huye",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/fa/4afa30cdf0f38fd5b00e431f9eb8e5b8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "huye",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Butare",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Butare, Huye District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69970,
+          "url": "http://listen.rba.co.rw:5050/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 324489,
+      "name": "Radio Maria Rwanda",
+      "slug": "Radio_Maria_Rwanda_97.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/7f/227f7a853e8f0e59d423be59fc099a50.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 7,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270417,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202558,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43594,
+      "name": "Radio Musanze",
+      "slug": "Radio_Musanze",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/47/f24706fced5d3df36766c29e164b6107.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "musanze",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ruhengeri",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Ruhengeri, Musanze District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Education Entertainment Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70027,
+          "url": "http://listen.rba.co.rw:5000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 43607,
+      "name": "Radio Nyagatare",
+      "slug": "Radio_Nyagatare",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/a4/49a47ea86c2d816817e05870513f6e19.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nyagatare",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Nyagatare, Nyagatare District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70059,
+          "url": "http://listen.rba.co.rw:3050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 424886,
+      "name": "94.3 Royal FM",
+      "slug": "94.3_Royal_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/14/9e14e3f5a8908bbbc991ee5e80046dc7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "94.3 royal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239778,
+          "url": "https://stream3.rcast.net/73260",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 256606,
+          "url": "http://stream3.rcast.net/73260",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 283016,
+          "url": "http://live3.rcast.net:8100/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 214606,
+          "url": "http://stream.zeno.fm/w54dstn6dkhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214607,
+          "url": "https://stream.zeno.fm/w54dstn6dkhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43603,
+      "name": "Umucyo Radio",
+      "slug": "Umucyo_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/e1/73e18e9ff69ecabf7147be199e6c32ab.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "umucyo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian Community Gospel Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70054,
+          "url": "http://80.241.215.175:4000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43683,
+      "name": "94.7 Voice of Africa FM",
+      "slug": "Voice_of_Africa_94.7_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d6/8e/d68ef58bed30284d75390ac7ab814103.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "94.7 voice of africa",
+        "alsoKnownAs": "94.7 VOA FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246487,
+          "url": "http://stream.zeno.fm/kh4b0hch5suuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70215,
+          "url": "https://stream.zeno.fm/ngdqdn0kh3duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70214,
+          "url": "https://stream.zeno.fm/xaddmq0bilntv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70213,
+          "url": "http://stream.zeno.fm/ngdqdn0kh3duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246488,
+          "url": "https://stream.zeno.fm/kh4b0hch5suuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70212,
+          "url": "http://stream.zeno.fm/xaddmq0bilntv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 43662,
+      "name": "Radio Rusizi",
+      "slug": "Radio_Rusizi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/4c/0e4cae6e5b3f624d8d2352eff502a7df.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.8",
+        "dialStripped": "898"
+      },
+      "aliases": {
+        "cleanName": "rusizi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cyangugu",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Cyangugu, Rusizi District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70164,
+          "url": "http://listen.rba.co.rw:9000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 325245,
+      "name": "Radio Maria Rwanda",
+      "slug": "Radio_Maria_Rwanda_88.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/e3/01e3b94487f8875342f6549eef8ea55c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202692,
+          "url": "http://dreamsiteradiocp.com:8044/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202691,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261329,
+          "url": "http://dreamsiteradiocp.com:8044/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261330,
+          "url": "http://dreamsiteradiocp2.com:8098/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43632,
+      "name": "InezaStar Radio",
+      "slug": "InezaStar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/8d/fb8d1014e39601062fd61251e43793c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "inezastar",
+        "alsoKnownAs": "IS Radio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70112,
+          "url": "http://stream.zeno.fm/3mn8c2zhv4jvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70113,
+          "url": "https://stream.zeno.fm/tyjc7tt2ozmvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70111,
+          "url": "http://stream.zeno.fm/tyjc7tt2ozmvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 43672,
+      "name": "Imbaraga Internet Radio",
+      "slug": "Imbaraga_Internet_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/17/ca17717407a96caa8c43ed5db0c5a280.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "imbaraga internet",
+        "alsoKnownAs": "Imbaraga Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70186,
+          "url": "http://206.221.188.122:7473/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70188,
+          "url": "https://dc4.serverse.com/proxy/imbaraga/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70185,
+          "url": "http://dc4.serverse.com:7473/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70187,
+          "url": "http://dc4.serverse.com/proxy/imbaraga/stream?1691299885536",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70189,
+          "url": "https://dc4.serverse.com/proxy/imbaraga/stream?1691299885536/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 430356,
+      "name": "92.8 FM Radio O",
+      "slug": "92.8_Authentic_Radio_Rwanda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/e0/04e0157a890aa4261d1f7f33549d466d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "92.8 o",
+        "alsoKnownAs": "Authentic Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215228,
+          "url": "http://stream.zeno.fm/421kxexvy7zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215229,
+          "url": "https://stream.zeno.fm/421kxexvy7zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43685,
+      "name": "104.1 Power FM",
+      "slug": "Power_FM_15",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/bd/99bd158affc53a4c808ee5840d3fa043.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "104.1 power",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70221,
+          "url": "https://stream.zeno.fm/7x01t240vhhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70220,
+          "url": "http://stream.zeno.fm/7x01t240vhhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87592,
+      "name": "Radio Salus",
+      "slug": "Radio_Salus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/65/20652e3531cddcb5331b028e0c5e2057.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9 / 97.0",
+        "dialStripped": "1019 / 970"
+      },
+      "aliases": {
+        "cleanName": "salus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133032,
+          "url": "http://salus.nur.ac.rw:8006/saluslive",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 69722,
+      "name": "Online Radio Station",
+      "slug": "Online_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/ba/1fba17a46662aebee9fea7b9aaf715ce.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "online station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Dance Education Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110943,
+          "url": "http://stream.zenolive.com/y0px28by1ehvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110944,
+          "url": "http://stream.zeno.fm/y0px28by1ehvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110945,
+          "url": "https://stream.zenolive.com/y0px28by1ehvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110946,
+          "url": "https://stream.zeno.fm/y0px28by1ehvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 245631,
+      "name": "The Voice Of Hope",
+      "slug": "The_Voice_Of_Hope",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/df/1cdf2901d0316b891aaf3be39b4a02cf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the voice of hope",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185822,
+          "url": "https://stream.zeno.fm/gdt49nl7eukuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185821,
+          "url": "http://stream.zeno.fm/gdt49nl7eukuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 38,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43642,
+      "name": "Radio ISIBO",
+      "slug": "Radio_ISIBO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/15/c31567e154ca236a93a0b46a56876660.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "isibo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70130,
+          "url": "https://stream.zeno.fm/dsewultj9f1vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70129,
+          "url": "http://stream.zeno.fm/dsewultj9f1vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 430361,
+      "name": "Ubuvumbuzi Radio",
+      "slug": "Ubuvumbuzi_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/50/b450a6751c55632ef583bdfe3c33e769.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ubuvumbuzi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rubona",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Rubona, Rubavu District, Rwanda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215231,
+          "url": "https://stream.zeno.fm/hafy0pv20f9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 215230,
+          "url": "http://stream.zeno.fm/hafy0pv20f9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 43757,
+      "name": "Radio Inteko",
+      "slug": "Radio_Inteko",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/49/a9497580288b18ae31ea99d11303ae14.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "inteko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70341,
+          "url": "http://listen.rba.co.rw:7000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 218337,
+      "name": "Gendana n'igihe radio",
+      "slug": "Gendana_nigihe_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/f7/e4f78bf86235080ad8f6a9f0a8c30f98.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gendana n igihe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181035,
+          "url": "http://stream.zeno.fm/30ez4nw6rqvuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 38,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 181036,
+          "url": "https://stream.zeno.fm/30ez4nw6rqvuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 44310,
+      "name": "Polo Radio",
+      "slug": "Polo_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/c4/2dc45a4a75001cf9725fac1fd91aa79d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "polo",
+        "alsoKnownAs": "Polo Claude FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Dance Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71467,
+          "url": "https://stream.zenolive.com/mwqqavavdhruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71468,
+          "url": "https://stream.zeno.fm/mwqqavavdhruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 283150,
+      "name": "KC Radio",
+      "slug": "KC_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/45/b445983748b659195f545a0ba1da2dee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kc",
+        "alsoKnownAs": "Kigali Connect Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 193020,
+          "url": "http://stream.zeno.fm/tpgvk3y7dp3tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 193021,
+          "url": "https://stream.zeno.fm/tpgvk3y7dp3tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 430374,
+      "name": "YoungTech",
+      "slug": "YoungTech",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/8f/108fe96e2d4aaddfc1796addd98f679a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "youngtech",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215232,
+          "url": "http://stream.zeno.fm/gsam8rtu438uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215233,
+          "url": "https://stream.zeno.fm/gsam8rtu438uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 5027133,
+      "name": "MENYA FM",
+      "slug": "MENYA_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/68/b0/68b0cf0532e04dcb1efb82145723eae0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "menya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232854,
+          "url": "http://stream.zeno.fm/4tajagopuhuvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232855,
+          "url": "https://stream.zeno.fm/4tajagopuhuvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 87671,
+      "name": "Uwezo Radio Station",
+      "slug": "Uwezo_Radio_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/98/4398d5fac2823427446d80f4fe7c503c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uwezo station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "College Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133135,
+          "url": "http://stream.zeno.fm/audx03t33hhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133136,
+          "url": "https://stream.zeno.fm/audx03t33hhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sw",
+          "name": "Swahili"
+        }
+      ]
+    },
+    {
+      "id": 164594,
+      "name": "Dusabane Radio",
+      "slug": "Dusabane_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/ac/4aacea4a7963dd6d383c86dc6158ddef.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dusabane",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "00s 80s Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 167748,
+          "url": "https://stream.zeno.fm/dyp3x44fns8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 167747,
+          "url": "http://stream.zeno.fm/dyp3x44fns8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 120538,
+      "name": "KU Bright Fm",
+      "slug": "KU_Bright_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/88/37883a71f75fb48bf371b8a15d049171.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ku bright",
+        "alsoKnownAs": "Kigaliupdates Fm"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hip Hop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155654,
+          "url": "http://stream.zeno.fm/00dfaapsmd0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155655,
+          "url": "https://stream.zeno.fm/00dfaapsmd0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 80054,
+      "name": "Jebra Radio",
+      "slug": "Jebra_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/2e/552e49350c46ad8461c6d8b650be2d8e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jebra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kigali",
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "locationText": "Kigali, Rwanda",
+        "coordinates": {
+          "latitude": "-1.9499500",
+          "longitude": "30.0588500"
+        }
+      },
+      "genre": {
+        "text": "African Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 124992,
+          "url": "https://stream.zeno.fm/rmeapnsbp27tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 124991,
+          "url": "http://stream.zeno.fm/rmeapnsbp27tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,1695 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:19.775Z",
+  "endpoint": "/countries/Kazakhstan/radios",
+  "countryCode": "kz",
+  "countryName": "Kazakhstan",
+  "expectedCount": 22,
+  "count": 22,
+  "data": [
+    {
+      "id": 956,
+      "name": "Радио Той Думан",
+      "slug": "Radio_Toi_Duman",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/79/cd7939806894bba7f0b5bd31f202eba1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "toi duman",
+        "alsoKnownAs": "Radio Toi Duman"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3960,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 2302,
+          "url": "http://stream.gakku.kz:8000/live.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 56828,
+      "name": "Европа Плюс Казахстан",
+      "slug": "Europa_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/8c/428ca3d3cdd70d4424b874c09af74059.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "evropa plius",
+        "alsoKnownAs": "Europa Plus Kazakhstan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1860,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 93494,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 93495,
+          "url": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 53606,
+      "name": "Retro FM",
+      "slug": "Retro_FM_Almaty",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/a3/d9a33c6a8f601e490a3cf9d8d39214f8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.0",
+        "dialStripped": "1070"
+      },
+      "aliases": {
+        "cleanName": "retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "70s 80s 90s Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1470,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 3,
+          "fr": 1,
+          "br": 1,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 87121,
+          "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87120,
+          "url": "http://retroserver.streamr.ru:8043/retro128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 73506,
+      "name": "Radio N-S FM",
+      "slug": "NS_Radio_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/52/6a5259c48163d3a5d1ab26a53f126cf2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "n s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116079,
+          "url": "http://icecast.ns.kz:1450/radions",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 169,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116080,
+          "url": "https://service.ns.kz/bc/live",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 150,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116081,
+          "url": "https://icecast.ns.kz/radions",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 156,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 48088,
+      "name": "Qazaq Radiosy",
+      "slug": "Kazak_R",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/87/9787c783ace4b571418db8be626f1357.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.8",
+        "dialStripped": "1068"
+      },
+      "aliases": {
+        "cleanName": "qazaq radiosy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Astana",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Astana, Kazakhstan",
+        "coordinates": {
+          "latitude": "47.2369153",
+          "longitude": "69.3251591"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Russian Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76288,
+          "url": "http://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76290,
+          "url": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76289,
+          "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 52519,
+      "name": "90s Eurodance",
+      "slug": "Miramhan_Moguinov",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/f5/63f5d01c149ebb371ab8c28495a494af.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "90s eurodance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Semey",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Semey, Kazakhstan",
+        "coordinates": {
+          "latitude": "50.4267500",
+          "longitude": "80.2666900"
+        }
+      },
+      "genre": {
+        "text": "90s Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 8,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 3,
+          "ar": 0,
+          "ca": 3,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 85392,
+          "url": "https://listen1.myradio24.com/5967",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85391,
+          "url": "http://listen1.myradio24.com:9000/5967",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20513,
+      "name": "Радиостанция 102.2",
+      "slug": "Energy_FM_1022",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/af/4baf8a249de6ad6db944cbf92aaec11c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.2",
+        "dialStripped": "1022"
+      },
+      "aliases": {
+        "cleanName": "radiostantsiia 102.2",
+        "alsoKnownAs": "Energy FM 102.2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 29780,
+          "url": "http://89.219.34.117:8008/NEWENERGY",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29781,
+          "url": "http://89.219.34.117:8008/NEWENERGY_256k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 25442,
+      "name": "Radio Qazaq",
+      "slug": "Astana_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/80/6c80dc53607d497d3cf72fa5e4e4d463.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "qazaq",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Astana",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Astana, Kazakhstan",
+        "coordinates": {
+          "latitude": "47.2369153",
+          "longitude": "69.3251591"
+        }
+      },
+      "genre": {
+        "text": "Folk Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 39900,
+          "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 52834,
+      "name": "Жаңа FM",
+      "slug": "ZhanaFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/1a/a21aa4ed33244bc219ad6f23d9856040.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "zhan a",
+        "alsoKnownAs": "ZhanaFM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Karaganda",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Karaganda, Kazakhstan",
+        "coordinates": {
+          "latitude": "47.2369153",
+          "longitude": "69.3251591"
+        }
+      },
+      "genre": {
+        "text": "90s Dance Hits News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85920,
+          "url": "http://live.zhanafm.kz:8000/zhanafm_onair",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 52550,
+      "name": "90s Eurodance",
+      "slug": "Miramhan_Moguinov_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/b2/60b209ea43f3a004f2856a112590af12.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "90s eurodance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Semey",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Semey, Kazakhstan",
+        "coordinates": {
+          "latitude": "50.4267500",
+          "longitude": "80.2666900"
+        }
+      },
+      "genre": {
+        "text": "90s Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85428,
+          "url": "http://listen1.myradio24.com:9000/5967",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85429,
+          "url": "https://listen1.myradio24.com/5967",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 309378,
+      "name": "Жұлдыз FM",
+      "slug": "Zhuldyz_FM_Star_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/67/466763e47ed2921f95b1f2221db4aba7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "zhu ldyz",
+        "alsoKnownAs": "Zhuldyz FM , Star FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 200237,
+          "url": "http://91.201.214.229:8000/zhulduz",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 52161,
+      "name": "Synthwave Club",
+      "slug": "Synthwave_Club",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/b7/44b7928a6bdb222ba3951e714d8c4af2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "synthwave club",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "80s Synthpop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84708,
+          "url": "http://stream.zenolive.com/ay8y2c7q9c0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84710,
+          "url": "https://stream.zenolive.com/ay8y2c7q9c0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84711,
+          "url": "https://stream.zeno.fm/ay8y2c7q9c0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84709,
+          "url": "http://stream.zeno.fm/ay8y2c7q9c0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17134,
+      "name": "Classic радиосы",
+      "slug": "Hit_FM_7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/42/de42ba5860005d0de6a85c4ef3fc8c6b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "classic radiosy",
+        "alsoKnownAs": "Classic radiosi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20610,
+          "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 48175,
+      "name": "Shalqar radiosy",
+      "slug": "Shalkar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/5c/835c9a73eabdc4d3c281af1cff15ad93.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "shalqar radiosy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Astana",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Astana, Kazakhstan",
+        "coordinates": {
+          "latitude": "47.2369153",
+          "longitude": "69.3251591"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Religious Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76434,
+          "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 466513,
+      "name": "Тенгри FM",
+      "slug": "Radio_Tengri_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/fe/76fe3a69524953c8250889a44ae9b435.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.5",
+        "dialStripped": "1075"
+      },
+      "aliases": {
+        "cleanName": "tengri",
+        "alsoKnownAs": "Radio Tengri FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218379,
+          "url": "http://91.201.214.229:8000/tengrifm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249823,
+          "url": "https://91.201.214.229/tengrifm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 25867,
+      "name": "Radio Bulbul",
+      "slug": "Radio_Bulbul_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/87/5f87baf2d774b788f74c818bc98b72ee.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bulbul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40688,
+          "url": "https://stream.laut.fm/radiobulbul",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40687,
+          "url": "http://stream.laut.fm/radiobulbul",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 48261758,
+      "name": "Palmera Blanca Radio",
+      "slug": "Palmera_Blanca_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/cd/05cdfa3daffeed690594d51852225b11.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "palmera blanca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Chillout Electronic Lo-Fi Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277897,
+          "url": "https://daystream.palmerablanca.com/daystream-128.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 283553,
+          "url": "https://daystream.palmerablanca.com/daystream-192.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73720,
+      "name": "Радио КН",
+      "slug": "Radio_KN_101.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/ec/43ec2c42ddacf91df9f9965bdd8e5b2f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "kn",
+        "alsoKnownAs": "Radio KN 101.5"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kostanay",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Kostanay, Kazakhstan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Russian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    },
+    {
+      "id": 252940,
+      "name": "Radio Ice",
+      "slug": "Radio_Ice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/6e/186e055200cf4947d6d21e528dfa9e0e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oskemen",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Oskemen, Kazakhstan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lite Pop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187100,
+          "url": "https://onair.radio1922.ru/64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 29546431,
+      "name": "Svetilo.Online",
+      "slug": "Svetilo.Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/40/ab40d8bf53f0edb39dc968f4ea9e0c45.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "svetilo online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Ambient Easy Listening",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257046,
+          "url": "http://streams.svetilo.online/listen/svetilo.online/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257047,
+          "url": "https://streams.svetilo.online/listen/svetilo.online/radio.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 121879,
+      "name": "Business FM",
+      "slug": "Business_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/61/c861c24fc4748ce392930c22f69a2df6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "business",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Business Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156192,
+          "url": "http://bfmreg.hostingradio.ru/kz.bfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156193,
+          "url": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 122281,
+      "name": "Radio Bulbul",
+      "slug": "Radio_Bulbul",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/87/5f87baf2d774b788f74c818bc98b72ee.png",
+      "dial": {
+        "band": "Web",
+        "dial": "123",
+        "dialStripped": "123"
+      },
+      "aliases": {
+        "cleanName": "bulbul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Almaty",
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "locationText": "Almaty, Kazakhstan",
+        "coordinates": {
+          "latitude": "43.2565400",
+          "longitude": "76.9284800"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156443,
+          "url": "http://bulbul.hostingradio.ru:8057/bulbul128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "kk",
+          "name": "Kazakh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:36.791Z",
+  "endpoint": "/countries/Sierra Leone/radios",
+  "countryCode": "sl",
+  "countryName": "Sierra Leone",
+  "expectedCount": 10,
+  "count": 10,
+  "data": [
+    {
+      "id": 441089,
+      "name": "Capital Radio Sierra Leone",
+      "slug": "Capital_Radio_Sierra_Leone",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/c4/3dc4108eb0bc921376f9c7e8c913d25c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "capital sierra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216327,
+          "url": "http://global.citrus3.com:8262/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216329,
+          "url": "https://tx.sharp-stream.com/http_live.php?i=capitalradiosl.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216328,
+          "url": "https://global.citrus3.com:8262/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61819,
+      "name": "Fountain of Peace Radio",
+      "slug": "FOP_RADIO_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/36/da363a71234bc07b31d4d7bd88515d10.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "fountain of peace",
+        "alsoKnownAs": "FoP Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moyamba",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Moyamba, Sierra Leone",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101533,
+          "url": "https://fopradio.out.airtime.pro/fopradio_b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101532,
+          "url": "https://fopradio.out.airtime.pro/fopradio_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101530,
+          "url": "http://fopradio.out.airtime.pro:8000/fopradio_a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 497969,
+      "name": "UrbanwaveFM",
+      "slug": "UrbanwaveFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/91/bf91bcad4670a017834863c85535f61f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "urbanwavefm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220608,
+          "url": "https://fast.citrus3.com:2020/stream/urbanwavefmsierraleone",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 145,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 220607,
+          "url": "http://fast.citrus3.com:8586/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 138,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 212518,
+      "name": "FusionSound Radio",
+      "slug": "FusionSound_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/33/c633614f4b898e16c58f41bb95e19dc0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fusionsound",
+        "alsoKnownAs": "FusionSound Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Urban World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180247,
+          "url": "http://radio.fusionsoundradio.com:8000/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37022270,
+      "name": "Radio Democracy",
+      "slug": "Radio_Democracy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/85/c185b91716119ac0fb2713abc4f411e1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "democracy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272068,
+          "url": "https://stream.zenolive.com/002mg43wt4zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272067,
+          "url": "http://stream.zenolive.com/002mg43wt4zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 441298,
+      "name": "Radio Maria Sierra Leone",
+      "slug": "Radio_Maria_Sierra_Leone",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/5d/2c5db2d4d94dc26508c6dd65f8184d33.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "maria sierra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216346,
+          "url": "http://dreamsiteradiocp2.com:8056/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271204,
+          "url": "http://dreamsiteradiocp2.com:8056/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61222,
+      "name": "FSV Media",
+      "slug": "FSV_Media",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/68/306869a4a1d53a70fd08b7c18b802674.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fsv",
+        "alsoKnownAs": "Voice of Horemow . Future Star Vision Media"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100601,
+          "url": "http://stream.zeno.fm/v1auf05nq18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100602,
+          "url": "https://stream.zeno.fm/v1auf05nq18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64273,
+      "name": "Beline Media Empire",
+      "slug": "Benedict_Freedom_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/90/bb90673377bfef0553aafa57e3381fe0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "beline empire",
+        "alsoKnownAs": "Benedict Freedom FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Makeni",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Makeni, Sierra Leone",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Other Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104158,
+          "url": "https://stream.zeno.fm/5tm2e5uxqf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104157,
+          "url": "http://stream.zeno.fm/5tm2e5uxqf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61242,
+      "name": "Trinity Pro Radio",
+      "slug": "Trinity_Pro_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/29/27290b42b7790ca0cc341e29a1118378.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "trinity pro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Freetown",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Freetown, Sierra Leone",
+        "coordinates": {
+          "latitude": "8.4840000",
+          "longitude": "-13.2299400"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100648,
+          "url": "http://stream.zeno.fm/yag7m6nf0d0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100649,
+          "url": "https://stream.zeno.fm/yag7m6nf0d0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44242,
+      "name": "Radio Binkongoh",
+      "slug": "Radio_Binkongoh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/ff/22ff76e6e42253f5434bb79014ed1ec8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "binkongoh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Koidu Town",
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "locationText": "Koidu Town, Sierra Leone",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Gospel Reggae World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71324,
+          "url": "http://tamkorfai1.radioca.st:8215/konomanda",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:34.330Z",
+  "endpoint": "/countries/Liechtenstein/radios",
+  "countryCode": "li",
+  "countryName": "Liechtenstein",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 3728,
+      "name": "SRF 1 Ostschweiz",
+      "slug": "DRS_1_Ostschweiz",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "88.2",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "srf 1 ostschweiz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vaduz",
+        "countryName": "Liechtenstein",
+        "countryCode": "LI",
+        "locationText": "Vaduz, Liechtenstein",
+        "coordinates": {
+          "latitude": "47.1415100",
+          "longitude": "9.5215400"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7878,
+          "url": "https://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 7877,
+          "url": "http://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 422715,
+      "name": "Radio Vaterland",
+      "slug": "Radio_Vaterland",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/00/de003ae2e5be45257c754cfc4634ad31.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vaterland",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vaduz",
+        "countryName": "Liechtenstein",
+        "countryCode": "LI",
+        "locationText": "Vaduz, Liechtenstein",
+        "coordinates": {
+          "latitude": "47.1415100",
+          "longitude": "9.5215400"
+        }
+      },
+      "genre": {
+        "text": "Pop RnB Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214402,
+          "url": "http://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214403,
+          "url": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 53307,
+      "name": "FirstHits",
+      "slug": "FirstHits_Lichtenstein",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/78/16781ae78ebb88b681cc519f22b3a056.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "firsthits",
+        "alsoKnownAs": "FirstHits Lichtenstein"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vaduz",
+        "countryName": "Liechtenstein",
+        "countryCode": "LI",
+        "locationText": "Vaduz, Liechtenstein",
+        "coordinates": {
+          "latitude": "47.1415100",
+          "longitude": "9.5215400"
+        }
+      },
+      "genre": {
+        "text": "90s Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86802,
+          "url": "http://stream.laut.fm/firsthits",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 86803,
+          "url": "https://stream.laut.fm/firsthits",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    }
+  ]
+}

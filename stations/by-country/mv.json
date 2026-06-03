@@ -1,0 +1,97 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:40.712Z",
+  "endpoint": "/countries/Maldives/radios",
+  "countryCode": "mv",
+  "countryName": "Maldives",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 97575,
+      "name": "Voice of Maldives - Dhivehi Raajjeyge Adu",
+      "slug": "Voice_of_Maldives",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/df/50df5a51e0adaea70911cab31b45de22.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1449",
+        "dialStripped": "1449"
+      },
+      "aliases": {
+        "cleanName": "voice of dhivehi raajjeyge adu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malé",
+        "countryName": "Maldives",
+        "countryCode": "MV",
+        "locationText": "Malé, Maldives",
+        "coordinates": {
+          "latitude": "4.1748000",
+          "longitude": "73.5088800"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239644,
+          "url": "http://radio.psm.mv:8000/draair",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254889,
+          "url": "http://radio.psm.mv/draair",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142106,
+          "url": "https://radio.psm.mv/draair",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

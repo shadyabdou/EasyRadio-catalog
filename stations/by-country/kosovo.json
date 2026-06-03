@@ -1,0 +1,2477 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:24.007Z",
+  "endpoint": "/countries/Kosovo/radios",
+  "countryCode": "kosovo",
+  "countryName": "Kosovo",
+  "expectedCount": 29,
+  "count": 29,
+  "data": [
+    {
+      "id": 58413,
+      "name": "Radio Dukagini",
+      "slug": "Radio_Dukagini",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/9b/489b468d3bf07b4509f3479a4e9b3686.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.7",
+        "dialStripped": "997"
+      },
+      "aliases": {
+        "cleanName": "dukagini",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Peja",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Peja, Kosovo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hard Rock News Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 11,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266599,
+          "url": "http://s2.voscast.com:8826/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96345,
+          "url": "http://s2.voscast.com:8826/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96344,
+          "url": "http://s2.voscast.com:8824/radiodukagjini",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 293779,
+      "name": "RTK - Radio Kosova",
+      "slug": "Radio_Kosova_RTK1_R_Kosova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/59/0d59f480c92d7b979f7f088a894a645d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtk kosova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 3,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196786,
+          "url": "http://82.114.72.2:8088/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264922,
+          "url": "http://82.114.72.2:8088/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264923,
+          "url": "http://82.114.72.2:8088/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 89127,
+      "name": "Radio Fontana",
+      "slug": "Radio_Fontana_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/6e/026e08c99c9c129fc6306a1d5d514a34.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.8",
+        "dialStripped": "988"
+      },
+      "aliases": {
+        "cleanName": "fontana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Istok",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Istok, Kosovo",
+        "coordinates": {
+          "latitude": "42.7808300",
+          "longitude": "20.4875000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 9,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135076,
+          "url": "http://144.76.221.56:8010/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 293753,
+      "name": "Radio Kosova e Lirë",
+      "slug": "Radio_Kosova_e_Lire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/01/9b015476675f7a1a78deb08af7d25cb3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.2",
+        "dialStripped": "942"
+      },
+      "aliases": {
+        "cleanName": "kosova e lire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196774,
+          "url": "http://quasar.shoutca.st:8018/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 222883,
+      "name": "Radio Gjakova",
+      "slug": "Radio_Gjakova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/96/d19630b17e7da7ced84fbe37e7942ffc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100",
+        "dialStripped": "100"
+      },
+      "aliases": {
+        "cleanName": "gjakova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gjakova",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Gjakova, District of Đakovica, Kosovo",
+        "coordinates": {
+          "latitude": "42.5758538",
+          "longitude": "20.8562381"
+        }
+      },
+      "genre": {
+        "text": "Current Affairs Entertainment Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 6,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181762,
+          "url": "http://37.26.69.30:8080/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264824,
+          "url": "http://37.26.69.30:8080/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 25578,
+      "name": "Radio Muzika",
+      "slug": "Radio_Muzika",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/bc/dfbc2288959392478ae065466e347e3a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "muzika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Klina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Klina, Kosovo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 3,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40146,
+          "url": "https://cast3.asurahosting.com/proxy/mrika/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40145,
+          "url": "http://cast3.asurahosting.com/proxy/mrika/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40143,
+          "url": "http://cast3.asurahosting.com:7040/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284298,
+          "url": "http://65.108.124.70:7689/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40144,
+          "url": "http://65.108.124.70:7689/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 295543,
+      "name": "Radio Shqipëria e Lirë",
+      "slug": "Radio_Skenderaj",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/0c/290cee83e9d89908ffb7995f5c9408f9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shqiperia e lire",
+        "alsoKnownAs": "Radio Skenderaj [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skenderaj",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Skenderaj, Kosovo",
+        "coordinates": {
+          "latitude": "42.5758538",
+          "longitude": "20.8562381"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197689,
+          "url": "https://a1.asurahosting.com/listen/radio_skenderaj/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197688,
+          "url": "http://a1.asurahosting.com:9820/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197687,
+          "url": "http://a1.asurahosting.com/listen/radio_skenderaj/radio.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 295512,
+      "name": "Radio Nostalgjia",
+      "slug": "Radio_Nostalgjia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/72/f9/72f9f55fe0365844c1280b0dbac7befa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nostalgjia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197680,
+          "url": "http://radionos.radioca.st:8410/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 250394,
+          "url": "http://radionos.radioca.st:8410/listen.pls?sid=1",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 25108,
+      "name": "Klan Kosova FM",
+      "slug": "Klan_Kosova_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/0c/9a0cf0ef317e3642c871a1d89af8f4f8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2 / 90.8",
+        "dialStripped": "952 / 908"
+      },
+      "aliases": {
+        "cleanName": "klan kosova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39241,
+          "url": "http://s4.radio.co/sd1d1904dc/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39242,
+          "url": "https://s4.radio.co/sd1d1904dc/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 295672,
+      "name": "Radio Maria Kosovo",
+      "slug": "Radio_Maria_Kosovo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/fd/d5fdc0e1aa3fac5113aee3a5d1f26bf9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.4",
+        "dialStripped": "1074"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 263964,
+          "url": "http://dreamsiteradiocp2.com:8124/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258949,
+          "url": "http://dreamsiteradiocp2.com:8124/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258950,
+          "url": "http://dreamsiteradiocp.com:8110/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258951,
+          "url": "http://149.202.202.72:8110/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258952,
+          "url": "http://dreamsiteradiocp2.com:8124/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258953,
+          "url": "http://149.202.69.190:8124/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197745,
+          "url": "http://dreamsiteradiocp.com:8110/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197746,
+          "url": "http://dreamsiteradiocp2.com:8124/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197748,
+          "url": "http://149.202.69.190:8124/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197749,
+          "url": "http://149.202.202.72:8110/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 296046,
+      "name": "Radio Zeri i Shtimes",
+      "slug": "Radio_Zeri",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/2f/f42f4880aefe8d5ddea5aae4c8589919.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "zeri i shtimes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Štimlje",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Štimlje, Kosovo",
+        "coordinates": {
+          "latitude": "42.5758538",
+          "longitude": "20.8562381"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197811,
+          "url": "http://radio.1dhe1.com:8090/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197810,
+          "url": "http://164.68.108.187:8090/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197809,
+          "url": "http://radio.1dhe1.com:8090/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 295651,
+      "name": "Radio Rainca",
+      "slug": "Radio_Rainca",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/70/4f7053ee8197c475541b3ccaca103cf8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rainca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rainca",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Rainca, Kosovo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197729,
+          "url": "http://radiocast.ch:8000/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197728,
+          "url": "http://radiocast.ch:8000/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 65412,
+      "name": "Radio Club FM Kosove",
+      "slug": "Club_FM_Kosove",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/bc/67bc08cb51e5295483a589bf58a3c435.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "club",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105845,
+          "url": "http://cp1.sednastream.com:8022/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105846,
+          "url": "http://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264185,
+          "url": "http://cp1.sednastream.com:8022/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105847,
+          "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 69947,
+      "name": "Paper Radio 91.1",
+      "slug": "Paper_Radio_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/24/7724d78b8d485127e61546438a707249.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "paper 91.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Art Education Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111416,
+          "url": "http://business.playfm.al:8170/paperplay",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111417,
+          "url": "https://business.playfm.al:8170/paperplay",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 3099242,
+      "name": "Hits Radio",
+      "slug": "Hits_Radio_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/57/5057f2f04e5d0ba2cc0e6f76a2083701.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Peja",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Peja, Kosovo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231781,
+          "url": "http://ec6.yesstreaming.net:2080/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231782,
+          "url": "https://ec6.yesstreaming.net:2085/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 28944,
+      "name": "Radio Ilirida",
+      "slug": "Radio_Zeri_i_ILIRIDES",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/77/d977b52603d6b69f153b5f50726d03e5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ilirida",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Rock Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46764,
+          "url": "http://eu1.reliastream.com:8015/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 55749,
+      "name": "Radio KFOR 90.2 Shqip",
+      "slug": "Radio_K4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/b0/54b08c90545e0aebcff6e24bf66734ac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "kfor 90.2 shqip",
+        "alsoKnownAs": "Radio K4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 90872,
+          "url": "http://80.80.160.232:8080/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264826,
+          "url": "http://80.80.160.232:8080/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 90871,
+          "url": "http://fm.radiokfor.com:8080/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264827,
+          "url": "http://fm.radiokfor.com:8080/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 295685,
+      "name": "Radio Vala Rinore",
+      "slug": "Radio_Vala_Rinore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/5d/9a5d7acb91bbf4d845638704e179f428.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "vala rinore",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197753,
+          "url": "http://ca3.rcast.net:8024/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197752,
+          "url": "http://ca3.rcast.net:8024/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261301,
+          "url": "http://ca3.rcast.net:8024/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 498208,
+      "name": "Radio Basi - Urban Vibe",
+      "slug": "Radio_Basi_Urban_Vibe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/56/df/56dfcc4db9f293ca81d6156ad1bd1cda.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "basi urban vibe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Dance Hip Hop Hits Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220647,
+          "url": "http://stream.zenolive.com/cygx0fcb27zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220649,
+          "url": "https://stream.zenolive.com/cygx0fcb27zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 229921,
+      "name": "Radio Gračanica",
+      "slug": "Radio_Gracanica_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/c0/4cc0135302dd50d474710a61f9904f3a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "gracanica",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Community News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182897,
+          "url": "http://188.40.95.74:8012/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 24265,
+      "name": "Kolektiv Radio",
+      "slug": "Kolektiv_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/2b/6d2bf14266e7f4c30e5a61a625d8bd0b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kolektiv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Prizren",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Prizren, Kosovo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hard Rock Jazz Metal Punk Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 37472,
+          "url": "http://studio28.radiolize.com/radio/8100/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 37473,
+          "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 37471,
+          "url": "http://studio28.radiolize.com:8100/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 115688,
+      "name": "RTK - Radio Blue Sky",
+      "slug": "RTK_2_Blue_Sky_Blue_Sky_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/6a/4b6a4fa131594a62e199923eb626dc2f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3 / 97.7",
+        "dialStripped": "933 / 977"
+      },
+      "aliases": {
+        "cleanName": "rtk blue sky",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153493,
+          "url": "http://82.114.72.2:8098/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269193,
+          "url": "http://82.114.72.2:8098/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 294296,
+      "name": "Radio 7 Kosova",
+      "slug": "Radio_7_Kosova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/c7/27c752c162f3679c6be6ef3fe2f92807.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "7 kosova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197040,
+          "url": "http://cp1.sednastream.com:8028/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 295952,
+      "name": "Radio Prishtina 89.8",
+      "slug": "Radio_Prishtina_89.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/c0/94c0eb302844c6baa8083c35fe3be229.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.8",
+        "dialStripped": "898"
+      },
+      "aliases": {
+        "cleanName": "prishtina 89.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Dance Hip Hop Hits Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197802,
+          "url": "http://stream.radio.co/sbe73908d2/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197803,
+          "url": "https://stream.radio.co/sbe73908d2/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 286702,
+      "name": "Radio KFOR 96.6 Srpski",
+      "slug": "Radio_KFOR_96.6_Srpski",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/53/8253986e5b5ef871f99a0001d80df411.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "kfor 96.6 srpski",
+        "alsoKnownAs": "Radio K4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 194474,
+          "url": "http://radiokfor.com/2/proxy/proxy.php",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 194475,
+          "url": "https://radiokfor.com/2/proxy/proxy.php",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sr",
+          "name": "Serbian"
+        }
+      ]
+    },
+    {
+      "id": 39826,
+      "name": "Radio Basi",
+      "slug": "Radio_Basi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/13/5e1351252c83396006323b3e898bafa4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "basi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Funk Hip Hop Hits Rock Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64203,
+          "url": "http://stream.zenolive.com/2wpb7e2mp7zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64204,
+          "url": "https://stream.zenolive.com/2wpb7e2mp7zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35635463,
+      "name": "Radio Basi - Hits Only",
+      "slug": "Radio_Basi_Hits_Only",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/21/0e21279e8a33c8e7d04031935bb61b45.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "basi hits only",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop Rock Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264075,
+          "url": "http://stream.zeno.fm/40u8n7a8ma0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264076,
+          "url": "https://stream.zeno.fm/40u8n7a8ma0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 296032,
+      "name": "UBT Radio",
+      "slug": "UBT_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/37/b737fc7b72214519cfab6fe7977fa38a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ubt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pristina",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Pristina, District of Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6727200",
+          "longitude": "21.1668800"
+        }
+      },
+      "genre": {
+        "text": "Business Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197806,
+          "url": "http://radiostream.ubt-uni.net/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197807,
+          "url": "http://radiostream.ubt-uni.net:80/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197808,
+          "url": "https://radiostream.ubt-uni.net/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 59669650,
+      "name": "Radio Fushë Kosova",
+      "slug": "Radio_Fushe_Kosova",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/3d/213d73ca120e9a04a5544cf12bfb6aad.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fushe kosova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kosovo Polje",
+        "countryName": "Kosovo",
+        "countryCode": null,
+        "locationText": "Kosovo Polje, Pristina, Kosovo",
+        "coordinates": {
+          "latitude": "42.6639400",
+          "longitude": "21.0961100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281741,
+          "url": "http://rcp.ultaserver.com:8028/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281742,
+          "url": "https://rcp.ultaserver.com/8028/stream/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281740,
+          "url": "http://rcp.ultaserver.com:8028/stream/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:38.502Z",
+  "endpoint": "/countries/Falkland Islands/radios",
+  "countryCode": "falkland",
+  "countryName": "Falkland Islands",
+  "expectedCount": 2,
+  "count": 2,
+  "data": [
+    {
+      "id": 169485,
+      "name": "Falklands Radio",
+      "slug": "Falkland_Islands_Radio_Service",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/6a/846a05223a9e9219b758beff188a3c7d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "falklands",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Stanley",
+        "countryName": "Falkland Islands",
+        "countryCode": null,
+        "locationText": "Stanley, East Falkland Island, Falkland Islands",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169012,
+          "url": "https://streaming.broadcastradio.com:8332/flklnd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169011,
+          "url": "http://87.117.222.91:8330/flklnd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253129,
+          "url": "https://streaming.broadcastradio.com:8330/flklnd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169010,
+          "url": "http://streaming.broadcastradio.com:8330/flklnd",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 112237,
+      "name": "BFBS Radio Falklands",
+      "slug": "BFBS_Radio_Falklands",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/05/7705835c759a1dd83af22fd4f03f2409.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "bfbs falklands",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Stanley",
+        "countryName": "Falkland Islands",
+        "countryCode": null,
+        "locationText": "Stanley, East Falkland Island, Falkland Islands",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Military News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151762,
+          "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151761,
+          "url": "http://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

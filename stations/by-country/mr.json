@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:43.122Z",
+  "endpoint": "/countries/Mauritania/radios",
+  "countryCode": "mr",
+  "countryName": "Mauritania",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 72977,
+      "name": "إذاعة موريتانيا",
+      "slug": "Radio_Mauritanie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/40/fd40db0ad3374fd7d21ed748ec16c7ff.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "dh mwrytny",
+        "alsoKnownAs": "Radio Mauritanie"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nouakchott",
+        "countryName": "Mauritania",
+        "countryCode": "MR",
+        "locationText": "Nouakchott, Mauritania",
+        "coordinates": {
+          "latitude": "18.0858100",
+          "longitude": "-15.9785000"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115361,
+          "url": "http://ec6.yesstreaming.net:2760/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115362,
+          "url": "https://ec6.yesstreaming.net:2760/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

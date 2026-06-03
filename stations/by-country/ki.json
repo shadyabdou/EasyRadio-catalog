@@ -1,0 +1,84 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:23.069Z",
+  "endpoint": "/countries/Kiribati/radios",
+  "countryCode": "ki",
+  "countryName": "Kiribati",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 119044,
+      "name": "Radio Kiribati",
+      "slug": "Radio_Kiribati",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/79/2279ec2dcd71b8d883a83b8c695ca704.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1440",
+        "dialStripped": "1440"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "BPA Radio , Broadcasting and Publications Authority Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bairiki",
+        "countryName": "Kiribati",
+        "countryCode": "KI",
+        "locationText": "Bairiki, South Tarawa, Kiribati",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155012,
+          "url": "http://streamer5.rightclickitservices.com:19790/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155011,
+          "url": "http://streamer5.rightclickitservices.com:9790/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

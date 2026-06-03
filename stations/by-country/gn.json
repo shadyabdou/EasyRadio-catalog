@@ -1,0 +1,809 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:38.710Z",
+  "endpoint": "/countries/Guinea/radios",
+  "countryCode": "gn",
+  "countryName": "Guinea",
+  "expectedCount": 10,
+  "count": 10,
+  "data": [
+    {
+      "id": 43584,
+      "name": "Soleil Fm Guinée",
+      "slug": "Soleil_Fm_Guinee",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/ae/8daec6b917d756e76bb9b560caa4d0e7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "soleil guinee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70012,
+          "url": "http://stream.radiojar.com/7cu7t0tnr68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70013,
+          "url": "https://stream.radiojar.com/7cu7t0tnr68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51264,
+      "name": "Radio Nostalgie Guinée",
+      "slug": "NOSTALGIE_GUINEE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/e1/66e1a295398dbd1e6ef3b1c71a1c84c4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": "nostalgie guinee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83098,
+          "url": "https://stream.zeno.fm/85whutype7duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83097,
+          "url": "http://stream.zeno.fm/85whutype7duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 93536,
+      "name": "Radio Espace FM",
+      "slug": "Radio_Espace_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/62/d1625b02e006f209f7c361fe4c0adef0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.6",
+        "dialStripped": "996"
+      },
+      "aliases": {
+        "cleanName": "espace",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139276,
+          "url": "http://mediastreaming.zentechnologies.net:8000/espace",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139277,
+          "url": "http://mediastreaming.zentechnologies.net:8000/espace.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69650,
+      "name": "Radio Fouta Djallon Internationale (RFDI)",
+      "slug": "RFDI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/78/f278b03f470f3e3fae7bba34e742b0c1.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "internationale rfdi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Fouta Djallon",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Fouta Djallon, Guinea",
+        "coordinates": {
+          "latitude": "10.0977778",
+          "longitude": "-11.9195806"
+        }
+      },
+      "genre": {
+        "text": "Education Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110810,
+          "url": "http://stream.zeno.fm/e59pwkvm3reuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110811,
+          "url": "https://stream.zeno.fm/e59pwkvm3reuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69550,
+      "name": "Radio Bonheur FM",
+      "slug": "bonheurfmguinee",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/3a/113ad9ab6d44009edd47054039469118.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "bonheur",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Education News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110650,
+          "url": "https://stream.zeno.fm/gzxp5eqkafeuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110646,
+          "url": "http://stream.zenolive.com/2ee8m52mb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110648,
+          "url": "http://stream.zeno.fm/2ee8m52mb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110649,
+          "url": "http://stream.zeno.fm/gzxp5eqkafeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 39392,
+      "name": "Sabari FM 97.3",
+      "slug": "Sabari_Fm_Guinee",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/da/4cda4a7e7ed9b5979e096ec4ec6e9bf8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "sabari 97.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64010,
+          "url": "http://stream.zeno.fm/91qv0ybb7bruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64011,
+          "url": "https://stream.zeno.fm/91qv0ybb7bruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 29649206,
+      "name": "Radiodiffusion Télévision Guinéenne (RTG)",
+      "slug": "Radiodiffusion_Television_Guineenne_RTG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/10/7010692d122671bf9734ae4cc2fc4ee6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "radiodiffusion television guineenne rtg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257141,
+          "url": "https://stream.zeno.fm/1aa3sabr2ehvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257140,
+          "url": "http://stream.zeno.fm/1aa3sabr2ehvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 384145,
+      "name": "Radio Voix de la Paix",
+      "slug": "Radio_Voix_de_la_Paix",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/66/ec6600c4cdda4b69e74ecad34157f990.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "voix de la paix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 210756,
+          "url": "http://dreamsiteradiocp5.com:8137/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 74,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 72211,
+      "name": "Kania Zik FM",
+      "slug": "Kania_Zik_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/1a/301a8faa8631ad5eaa57cb4ae49c344a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.0",
+        "dialStripped": "1070"
+      },
+      "aliases": {
+        "cleanName": "kania zik",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kindia",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Kindia, Guinea",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "African Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114372,
+          "url": "http://stream.zeno.fm/6bq9ey3tp0hvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114373,
+          "url": "https://stream.zeno.fm/eer08x3tp0hvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43912,
+      "name": "Radio Africasport",
+      "slug": "Radio_Africasport",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/1e/971e22e6829268419f3f322858a9d46d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "africasport",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Conakry",
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "locationText": "Conakry, Guinea",
+        "coordinates": {
+          "latitude": "9.5379500",
+          "longitude": "-13.6772900"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70658,
+          "url": "https://stream.zeno.fm/gda6zc0avuhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70657,
+          "url": "http://stream.zeno.fm/gda6zc0avuhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

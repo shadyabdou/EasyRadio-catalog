@@ -1,0 +1,2575 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:27.000Z",
+  "endpoint": "/countries/Vietnam/radios",
+  "countryCode": "vn",
+  "countryName": "Vietnam",
+  "expectedCount": 34,
+  "count": 34,
+  "data": [
+    {
+      "id": 70587,
+      "name": "VOV1",
+      "slug": "VOV1_675_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/c8/e1c8f10089d41348feaf1ad0b80bac5b.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "675",
+        "dialStripped": "675"
+      },
+      "aliases": {
+        "cleanName": "vov1",
+        "alsoKnownAs": "VOV1 - Thời sự"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Culture Current Affairs News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 3,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112630,
+          "url": "rtmp://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 256,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 112632,
+          "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70589,
+      "name": "VOVGT - TP Hồ Chí Minh",
+      "slug": "VOV_Giao_Thong_Ho_Chi_Minh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/81/7b81c30de4d21494cf8a37ce3eafff3d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "vovgt tp ho chi minh",
+        "alsoKnownAs": "VOV Traffic Station "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ho Chi Minh City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Ho Chi Minh City, Vietnam",
+        "coordinates": {
+          "latitude": "10.8230200",
+          "longitude": "106.6296500"
+        }
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112635,
+          "url": "http://vovstream.1cdn.vn/vovlive/vovGTHCM.sdp_aac/playlist_w1964460948.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 112633,
+          "url": "http://pull.vovgiaothong.vn/live/209caa25018d10006ee73f7b00000000/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": null,
+          "bitrate": 255,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 112637,
+          "url": "https://pull.vovgiaothong.vn/live/209caa25018d10006ee73f7b00000000/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 255,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70590,
+      "name": "VOH FM 99.9",
+      "slug": "VOH_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/c9/7dc9763e8c78d74dadf3d2304fff74a4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "voh 99.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ho Chi Minh City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Ho Chi Minh City, Vietnam",
+        "coordinates": {
+          "latitude": "10.8230200",
+          "longitude": "106.6296500"
+        }
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70579,
+      "name": "M Radio Việt Nam",
+      "slug": "M_Radio_Viet_Nam",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/29/7129ee3b494f74885bea506a77aca7c4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "m viet nam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": ", Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 112617,
+          "url": "https://stream.zeno.fm/4q7y9hvkp2zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112616,
+          "url": "http://stream.zeno.fm/4q7y9hvkp2zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70592,
+      "name": "VOH AM 610",
+      "slug": "VOH_am",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/2d/642d14d433a6ee47758a51278c7c6bb4.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "610",
+        "dialStripped": "610"
+      },
+      "aliases": {
+        "cleanName": "voh 610",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ho Chi Minh City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Ho Chi Minh City, Vietnam",
+        "coordinates": {
+          "latitude": "10.8230200",
+          "longitude": "106.6296500"
+        }
+      },
+      "genre": {
+        "text": "Asian News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112642,
+          "url": "https://strm.voh.com.vn/radio/channel2/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70593,
+      "name": "VOV Giao thông",
+      "slug": "VOV_Geo_Thong_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/8f/dd8f1cf26b2ec0e425568644be3f7b90.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.0",
+        "dialStripped": "910"
+      },
+      "aliases": {
+        "cleanName": "vov giao thong",
+        "alsoKnownAs": "VOV Traffic Station"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112643,
+          "url": "http://play.vovgiaothong.vn/live/gthn/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 230,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70591,
+      "name": "VOV2",
+      "slug": "VOV2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/b2/ffb2ba6293f3394d42c52c910a7ab710.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "vov2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tam Dao",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Tam Dao, Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "15.8333271",
+          "longitude": "106.5181561"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112640,
+          "url": "http://stream.vovmedia.vn:10128/vov2",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112641,
+          "url": "https://stream.vovmedia.vn/vov2/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70595,
+      "name": "VOV3",
+      "slug": "VOV3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/f1/40f1294358df490d70321577f0711c63.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "vov3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ho Chi Minh City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Ho Chi Minh City, Vietnam",
+        "coordinates": {
+          "latitude": "10.8230200",
+          "longitude": "106.6296500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112650,
+          "url": "https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112649,
+          "url": "https://stream.vovmedia.vn/vov3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112647,
+          "url": "http://streaming1.vov.vn:1935/audio/vovvn1_vov3.stream_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 112648,
+          "url": "http://stream.vov.vn/audio/vovvn1_vov3.stream_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 112646,
+          "url": "http://stream.vovmedia.vn:10128/vov3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70582,
+      "name": "Radio Hà Nội FM96",
+      "slug": "Radio_Ha_Noi_FM96",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/10/ef10bc5138cb964eea3861a85725b147.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "ha noi",
+        "alsoKnownAs": "Radio Hanoi FM96"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 252499,
+          "url": "http://cloudcdnfm90.tek4tv.vn/HANOI96/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112622,
+          "url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70581,
+      "name": "Há Nội Community Radio",
+      "slug": "Ha_Noi_Community_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/80/50804f3ae2dc4709a4c5e72bab132556.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ha noi community",
+        "alsoKnownAs": "Hanoi Community Radio (HCR)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112621,
+          "url": "https://ha-noi-community-radio.radiocult.fm/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 112620,
+          "url": "http://ha-noi-community-radio.radiocult.fm/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70604,
+      "name": "Đài Phát thanh và Truyền hình Tây Ninh",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Tay_Ninh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/b6/9db605831d17ce02d398c79b5827529c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh tay ninh",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Tay Ninh"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tây Ninh",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Tây Ninh, Tây Ninh, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112666,
+          "url": "http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.42c01f,mp4a.40.2",
+          "bitrate": 2755,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 45385,
+      "name": "Đài Phát thanh và Truyền hình Đồng Tháp",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Dong_Thap",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/e8/65e895c1bd6b40d20c556febb198d9cc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh dong thap",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Dong Thap"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cao Lanh",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Cao Lanh, Đồng Tháp, Vietnam",
+        "coordinates": {
+          "latitude": "15.8333271",
+          "longitude": "106.5181561"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72801,
+          "url": "https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 692,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 72800,
+          "url": "http://64d0d74b76158.streamlock.net:1935/THDTR/thdtradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 699,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70612,
+      "name": "Đài Phát thanh và Truyền hình Bình Thuận",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Binh_Thuan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/e6/98e6ce436c8cde4842cd47db632f2a11.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh binh thuan",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Binh Thuan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phan Thiết",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Phan Thiết, Bình Thuận, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112677,
+          "url": "http://64d0d74b76158.streamlock.net:1935/BTVR/binhthuanradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.64001f,mp4a.40.2",
+          "bitrate": 1727,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 112678,
+          "url": "https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1724,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70601,
+      "name": "Đài Phát thanh và Truyền hình Bạc Liêu",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Bac_Lieu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/db/17dbd7cbde7d094f69ff90e79067bfc4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh bac lieu",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Bac Lieu"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bạc Liêu",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Bạc Liêu, Bạc Liêu, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70602,
+      "name": "Đài Phát thanh và Truyền hình Tuyên Quang",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Tuyen_Quang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/29/ea291919585625455afad968bc4e3357.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh tuyen quang",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Tuyen Quang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tuyên Quang",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Tuyên Quang, Tuyên Quang, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112662,
+          "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1110,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112663,
+          "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 251766,
+          "url": "http://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1107,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70594,
+      "name": "VOV 24/7 - English",
+      "slug": "VOV_247_English",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/ec/0eeca924c8c628ad782c094d69fb2f47.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vov 24 7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Community Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112645,
+          "url": "https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112644,
+          "url": "http://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 70586,
+      "name": "FM 90 Đài Phát thanh và Truyền hình Hà Nội",
+      "slug": "Hanoi_Radio_and_Television",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/c3/61c3000a2d3eafcd4c7e282250cc0d8b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "90 dai phat thanh va truyen hinh ha noi",
+        "alsoKnownAs": "Hanoi Radio and Television"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70585,
+      "name": "Bình Dương Radio",
+      "slug": "Binh_Duong_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/2a/192a4036023be747aa18a5739501cc36.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": "binh duong",
+        "alsoKnownAs": "BTV Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Thủ Dầu Một City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Thủ Dầu Một City, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112627,
+          "url": "http://btvfm011220.cdn.vnns.io/dd7413624fa3e1d68b65188f5c5d56d41721228955/btv-fm.tms/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.4d4015,mp4a.40.2",
+          "bitrate": 473,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 112628,
+          "url": "https://btvfm011220.cdn.vnns.io/dd7413624fa3e1d68b65188f5c5d56d41721228955/btv-fm.tms/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 473,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70598,
+      "name": "Đài Phát thanh và Truyền hình Kiên Giang",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Kien_Giang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/1b/a21b5bbf71f0884665a4251da08183c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh kien giang",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Kien Giang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rạch Giá",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Rạch Giá, Kiên Giang, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70600,
+      "name": "Đài Phát thanh và Truyền hình Bến Tre",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Ben_Tre",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/b6/cab6f67892e5bf6cbc200e3ace2348cf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh ben tre",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Ben Tre"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bến Tre",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Bến Tre, Bến Tre, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112659,
+          "url": "http://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 112660,
+          "url": "https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70603,
+      "name": "Đài Phát thanh và Truyền hình Hà Giang",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Ha_Giang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/25/55/2555f0e742f39ccf5c279cf3c71ff59c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh ha giang",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Ha Giang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hà Giang",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hà Giang, Hà Giang, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112665,
+          "url": "http://113.162.84.113:8081/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70605,
+      "name": "Đài Phát thanh và Truyền hình Yên Bái",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Yen_Bai",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/31/d031cff513a2c06e2626385fb59739a5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh yen bai",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Yen Bai"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Đồng Tâm",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Đồng Tâm, Yên Bái, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 42506,
+      "name": "VOV 5 - VOV WORLD SERVICE",
+      "slug": "VOV_5_VOV_WORLD_SERVICE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/0e/900ec421fdd71054a6a589c7bf8447a7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "vov 5 vov world service",
+        "alsoKnownAs": "VOV 5 - Hệ phát thanh đối ngoại"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": "Culture Current Affairs News Politics",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68329,
+          "url": "https://stream.vovmedia.vn/vov5/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 68327,
+          "url": "rtmp://streaming1.vov.vn:1935/audio/vovvn1_vov5.stream_aac",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "unknown",
+          "works": true
+        },
+        {
+          "id": 68328,
+          "url": "http://streaming1.vov.vn:1935/audio/vovvn1_vov5.stream_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 68326,
+          "url": "http://stream.vovmedia.vn:10128/vov5",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 50,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 70596,
+      "name": "Đài Phát thanh và Truyền hình Tiền Giang",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Tien_Giang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/ea/37ea09f21a4ac709c4182d4e49d32340.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh tien giang",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Tien Giang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mỹ Tho",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Mỹ Tho, Tiền Giang, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112651,
+          "url": "http://123.25.238.45:1935/live/radio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70597,
+      "name": "HTV 7",
+      "slug": "HTV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/8d/e78dd0ee70f2bf20489b41df27c5e15b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "htv 7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ho Chi Minh City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Ho Chi Minh City, Vietnam",
+        "coordinates": {
+          "latitude": "10.8230200",
+          "longitude": "106.6296500"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112655,
+          "url": "https://htvc271120.cdn.vnns.io/0f377bb3b2fafad724b6e27d4d2a1a351705278608/htv7.cat.720p.tms/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1366,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112652,
+          "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.640028,mp4a.40.2",
+          "bitrate": 2259,
+          "contentType": "application/x-mpegURL",
+          "works": true
+        },
+        {
+          "id": 112653,
+          "url": "http://htvc271120.cdn.vnns.io/0f377bb3b2fafad724b6e27d4d2a1a351705278608/htv7.cat.720p.tms/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.42c01f,mp4a.40.2",
+          "bitrate": 1366,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 112654,
+          "url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2748,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70611,
+      "name": "Đài Phát thanh và Truyền hình Cần Thơ",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Can_Tho",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/31/8d310b8addbdf2345399f766f5b919f9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh can tho",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Can Tho"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Can Tho",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Can Tho, Mekong Delta, Vietnam",
+        "coordinates": {
+          "latitude": "15.8333271",
+          "longitude": "106.5181561"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112676,
+          "url": "https://live.canthotv.vn/live/radio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 168,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112675,
+          "url": "http://live.canthotv.vn:1935/live/radio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 170,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70610,
+      "name": "Đài Phát thanh và Truyền hình Đắk Lắk",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Dak_Lak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/1c/f01cce42eab4b4f36b0f8f224f913e67.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh dak lak",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Dak Lak"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Buôn Mê Thuột",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Buôn Mê Thuột, Đắk Lắk, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112673,
+          "url": "http://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1422,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112674,
+          "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1421,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70608,
+      "name": "Đài Phát thanh và Truyền hình Hải Phòng",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Hai_Phong_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/d1/23d1172097f820142d4abf4c7b3a3eaa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.2",
+        "dialStripped": "1022"
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh hai phong",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Hai Phong"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hai Phong",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hai Phong, Hai Phong, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112672,
+          "url": "https://1253562137.e.cdneverest.net/2FUk0qp77wRbLJRR8SCGxw/1737074257/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 334,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112671,
+          "url": "http://1253562137.e.cdneverest.net/2FUk0qp77wRbLJRR8SCGxw/1737074257/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.640015,mp4a.40.2",
+          "bitrate": 334,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70615,
+      "name": "VOV 4",
+      "slug": "VOV_4_Ehtnic_Minority_Language_Programming",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/ea/0aeaec6b2c9687b1ee52bb8844833953.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "vov 4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanoi",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Hanoi, Vietnam",
+        "coordinates": {
+          "latitude": "21.0245000",
+          "longitude": "105.8411700"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112679,
+          "url": "http://stream.vovmedia.vn:10128/vov4",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112682,
+          "url": "https://stream.vovmedia.vn/vov4/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112681,
+          "url": "http://streaming1.vov.vn:1935/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 70584,
+      "name": "Đài Phát thanh Truyền hình An Giang",
+      "slug": "An_Giang_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/9c/5b9c5bac4a825efcfd416776a4e3c34c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh truyen hinh an giang",
+        "alsoKnownAs": "An Giang Radio and Television Station, ATV Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Long Xuyên City",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Long Xuyên City, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Children & Family Community Entertainment Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112625,
+          "url": "http://221.133.9.35:1935/live/1.stream_360p/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.4d401f,mp4a.40.2",
+          "bitrate": 1182,
+          "contentType": "application/x-mpegURL",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70599,
+      "name": "Đài Phát thanh và Truyền hình Nghệ An",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Nghe_An",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/49/1e49ee3486eab0f183fefd94865d2004.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh nghe an",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Nghe An"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vinh",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Vinh, Nghệ An, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112658,
+          "url": "https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 198,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 112657,
+          "url": "http://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 202,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 67735,
+      "name": "Voice of the Sky",
+      "slug": "Voice_of_the_Sky",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/a4/71a4934b558017fbf1b8998f41289ef1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of the sky",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Can Tho",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Can Tho, Mekong Delta, Vietnam",
+        "coordinates": {
+          "latitude": "15.8333271",
+          "longitude": "106.5181561"
+        }
+      },
+      "genre": {
+        "text": "Classical Folk Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108703,
+          "url": "http://freeuk22.listen2myradio.com:6683/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70606,
+      "name": "Đài Phát thanh và Truyền hình Bắc Kạn",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Bac_Kan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/f0/6df03f750e544b4bec419c305c9dad5d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh bac kan",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Bac Kan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bắc Kạn",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Bắc Kạn, Bắc Kạn, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 70607,
+      "name": "Đài Phát thanh và Truyền hình Hậu Giang",
+      "slug": "Dai_Phat_thanh_va_Truyen_hinh_Hau_Giang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/f2/fdf289acd45034e4c0c49861493cb14a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dai phat thanh va truyen hinh hau giang",
+        "alsoKnownAs": "Dai Phat thanh va Truyen hinh Hau Giang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vị Thanh",
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "locationText": "Vị Thanh, Hậu Giang, Vietnam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 112669,
+          "url": "http://60acee235f4d5.streamlock.net:1935/HGTVR/hgtvradio/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.640028,mp4a.40.2",
+          "bitrate": 2784,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 112670,
+          "url": "https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 2783,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    }
+  ]
+}

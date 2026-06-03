@@ -1,0 +1,441 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:55.473Z",
+  "endpoint": "/countries/French West Indies/radios",
+  "countryCode": "french-w",
+  "countryName": "French West Indies",
+  "expectedCount": 6,
+  "count": 6,
+  "data": [
+    {
+      "id": 36530,
+      "name": "SOS Radio ",
+      "slug": "SOS_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/b6/97b62ea86061e9d3963a2c4509368423.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "sos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marigot",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Marigot, Saint Martin, French West Indies",
+        "coordinates": {
+          "latitude": "18.0666700",
+          "longitude": "-63.0833300"
+        }
+      },
+      "genre": {
+        "text": "Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59034,
+          "url": "http://2stream.dyndns.org:8000/sosradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 108,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21294,
+      "name": "Radio Transat",
+      "slug": "Radio_Transat_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/43/e943249725eb1c0d043c1fac7ef0b844.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7 / 105.9",
+        "dialStripped": "937 / 1059"
+      },
+      "aliases": {
+        "cleanName": "transat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marigot",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Marigot, Saint Martin, French West Indies",
+        "coordinates": {
+          "latitude": "18.0666700",
+          "longitude": "-63.0833300"
+        }
+      },
+      "genre": {
+        "text": "Pop Reggae Rock Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 10,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31589,
+          "url": "https://n13.rcs.revma.com/dy09pqzctwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31588,
+          "url": "http://stream.rcs.revma.com/dy09pqzctwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31587,
+          "url": "http://n13.rcs.revma.com/dy09pqzctwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 36531,
+      "name": "SOS Radio",
+      "slug": "SOS_Radio_95.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/61/cf6113d0f4f64348b88e52ee16886ec5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "sos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marigot",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Marigot, Saint Martin, French West Indies",
+        "coordinates": {
+          "latitude": "18.0666700",
+          "longitude": "-63.0833300"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59035,
+          "url": "http://2stream.dyndns.org:8000/sosradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 92,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 21702,
+      "name": "Radio Maranatha",
+      "slug": "Radio_Maranatha_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/e5/f7e5da893972b6de6d32bffc61bd164a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "maranatha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Grand Case",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Grand Case, Saint Martin, French West Indies",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Reggae Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32465,
+          "url": "http://stream.b4c.tv:8000/r-maranatha",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36532,
+      "name": "Radio Saint Martin 101.5 Fm",
+      "slug": "Radio_Sxm_101.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/b2/f6b2517156b1fcd9f20e65ef152b50ec.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "saint martin 101.5",
+        "alsoKnownAs": "Radio Sxm 101.5"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marigot",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Marigot, Saint Martin, French West Indies",
+        "coordinates": {
+          "latitude": "18.0666700",
+          "longitude": "-63.0833300"
+        }
+      },
+      "genre": {
+        "text": "Caribbean World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59036,
+          "url": "http://s2.voscast.com:10512/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36534,
+      "name": "RDI Saint-Martin",
+      "slug": "RDI_Saint_Martin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/ca/5eca273f3464bc6e286fe599e6395772.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.9",
+        "dialStripped": "899"
+      },
+      "aliases": {
+        "cleanName": "rdi saint martin",
+        "alsoKnownAs": "RDI - Radio d'Infos"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pic Paradis",
+        "countryName": "French West Indies",
+        "countryCode": null,
+        "locationText": "Pic Paradis, Saint Martin, French West Indies",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59037,
+          "url": "http://2stream.dyndns.org:8000/rdi_sxm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

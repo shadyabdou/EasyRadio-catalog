@@ -1,0 +1,2576 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:20.650Z",
+  "endpoint": "/countries/Vatican/radios",
+  "countryCode": "vatican",
+  "countryName": "Vatican",
+  "expectedCount": 29,
+  "count": 29,
+  "data": [
+    {
+      "id": 77567,
+      "name": "Radio Vaticana - Español",
+      "slug": "Radio_Vaticana_Espanol",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/0d/270deeb87fca2d4cefc50fca06b9e7a3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "espanol",
+        "alsoKnownAs": "Radio Vaticana - Spanish"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 6,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 4,
+          "ca": 1,
+          "cl": 1,
+          "co": 2,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 121055,
+          "url": "http://radio.vaticannews.va/stream-es",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 121054,
+          "url": "http://radio.vaticannews.va:80/stream-es",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 121056,
+          "url": "https://radio.vaticannews.va/stream-es",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 1589241,
+      "name": "Radio Vaticana - English",
+      "slug": "Radio_Vaticana_English",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/45/7b45e18aa01b99823aa44096f248eb26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Classical Gospel Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 230594,
+          "url": "http://radio.vaticannews.va/stream-en",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230595,
+          "url": "https://radio.vaticannews.va/stream-en",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230593,
+          "url": "http://radio.vaticannews.va:80/stream-en",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1589326,
+      "name": "Vaticana Radio",
+      "slug": "Vatican_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/45/f7452992afd5234b42c884599c6e0236.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.0",
+        "dialStripped": "1050"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian News Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 7,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230597,
+          "url": "http://radio.vaticannews.va/stream-it",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230598,
+          "url": "http://radio.vaticannews.va:80/stream-it",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 1589240,
+      "name": "Radio Vaticana - Français",
+      "slug": "Radio_Vaticana_Francais",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/7d/a87d98f9177c3bd86f6a35bb0f21863c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "Radio Vaticana - French"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230592,
+          "url": "https://radio.vaticannews.va/stream-fr",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230590,
+          "url": "http://radio.vaticannews.va:80/stream-fr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230591,
+          "url": "http://radio.vaticannews.va/stream-fr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 398705,
+      "name": "Radio Vaticana - Português",
+      "slug": "Radio_Vaticana_Portugues",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/c6/71c6418d8077fbf04b820defaa939569.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "portugues",
+        "alsoKnownAs": "Radio Vaticana - Portuguese"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Portuguese Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 4,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212299,
+          "url": "https://radio.vaticannews.va/stream-pt",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212297,
+          "url": "http://radio.vaticannews.va:80/stream-pt",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212298,
+          "url": "http://radio.vaticannews.va/stream-pt",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 20905,
+      "name": "Radio Vaticana - العربية",
+      "slug": "Radio_Vaticana_Arabic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/da/6dda54a76e88cadb6a3d3c72e69bb57e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "l rby",
+        "alsoKnownAs": "Radio Vaticana - Arabic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30745,
+          "url": "https://radio.vaticannews.va/stream-ar",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30743,
+          "url": "http://radio.vaticannews.va:80/stream-ar",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30744,
+          "url": "http://radio.vaticannews.va/stream-ar",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69739,
+      "name": "Radio InBlu",
+      "slug": "Radio_InBlu_Radio_inBlu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/0b/bf0b9d031857edcb1cc34dc7ec3d699b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "inblu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 106999,
+      "name": "Radio Vaticana - മലയാളം",
+      "slug": "Radio_Vaticana_Malayalam",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/29/d729f4ab2ab9881b7e476ca95ac21d19.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mlyaalln",
+        "alsoKnownAs": "Radio Vaticana - Malayalam"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Asian Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148139,
+          "url": "http://radio.vaticannews.va/stream-ml",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148140,
+          "url": "https://radio.vaticannews.va/stream-ml",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148138,
+          "url": "http://radio.vaticannews.va:80/stream-ml",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ml",
+          "name": "Malayalam"
+        }
+      ]
+    },
+    {
+      "id": 71273,
+      "name": "Radio Vaticana - 简体中文",
+      "slug": "Radio_Vaticana_Simplified_Chinese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/86/e88615c58eab5b7ffa6954ccd6ba2752.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jian ti zhong wen",
+        "alsoKnownAs": "Radio Vaticana - Simplified Chinese"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Chinese Christian Gospel Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113362,
+          "url": "http://radio.vaticannews.va/stream-zh",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113363,
+          "url": "https://radio.vaticannews.va/stream-zh",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113361,
+          "url": "http://radio.vaticannews.va:80/stream-zh",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 72385,
+      "name": "Radio Vaticana - हिंदी",
+      "slug": "Radio_Vaticana_Hindi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6e/0f/6e0fcbaac7d14d779840d1e3446232bc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hindii",
+        "alsoKnownAs": "Radio Vaticana - Hindi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114640,
+          "url": "https://radio.vaticannews.va/stream-hi",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114638,
+          "url": "http://radio.vaticannews.va:80/stream-hi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114639,
+          "url": "http://radio.vaticannews.va/stream-hi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 400414,
+      "name": "Radio Vaticana - Polski",
+      "slug": "Radio_Vaticana_Polski",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/76/2376f8845b4cb4010455247c381f0ab3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "polski",
+        "alsoKnownAs": "Radio Vaticana - Polish"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Polish Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212446,
+          "url": "http://radio.vaticannews.va/stream-pl",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212447,
+          "url": "https://radio.vaticannews.va/stream-pl",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212445,
+          "url": "http://radio.vaticannews.va:80/stream-pl",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pl",
+          "name": "Polish"
+        }
+      ]
+    },
+    {
+      "id": 473322,
+      "name": "Radio Vaticana - Tiếng việt",
+      "slug": "Radio_Vaticana_Tieng_viet",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/20/76205ca23507b2b3af8231b90d2245fa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tieng viet",
+        "alsoKnownAs": "Radio Vaticana - Vietnamese"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218837,
+          "url": "http://radio.vaticannews.va:80/stream-vi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218839,
+          "url": "https://radio.vaticannews.va/stream-vi",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218838,
+          "url": "http://radio.vaticannews.va/stream-vi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "vi",
+          "name": "Vietnamese"
+        }
+      ]
+    },
+    {
+      "id": 127257,
+      "name": "Radio Vaticana - Čeština",
+      "slug": "Radio_Vaticana_Cestina",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/ba/e8bacb7e5a7e516101b643cdb7aa7c25.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cestina",
+        "alsoKnownAs": "Radio Vaticana - Czech"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 158142,
+          "url": "http://radio.vaticannews.va/stream-cs",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 158143,
+          "url": "https://radio.vaticannews.va/stream-cs",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 158141,
+          "url": "http://radio.vaticannews.va:80/stream-cs",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "cs",
+          "name": "Czech"
+        }
+      ]
+    },
+    {
+      "id": 445442,
+      "name": "Radio Vaticana - Slovenčina",
+      "slug": "Radio_Vaticana_Slovencina",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/ee/d9ee9c80e672d5f9910945bdb33ae894.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "slovencina",
+        "alsoKnownAs": "Radio Vaticana - Slovak"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216697,
+          "url": "http://radio.vaticannews.va:80/stream-sk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216698,
+          "url": "http://radio.vaticannews.va/stream-sk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216699,
+          "url": "https://radio.vaticannews.va/stream-sk",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 467656,
+      "name": "Radio Vaticana - ትግርኛ",
+      "slug": "Radio_Vaticana_Tigrinya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/04/9704fec48ad6e6426048dccb67fc6653.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tegerenyaa",
+        "alsoKnownAs": "Radio Vaticana - Tigrinya"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218521,
+          "url": "http://radio.vaticannews.va:80/stream-ti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218522,
+          "url": "http://radio.vaticannews.va/stream-ti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218523,
+          "url": "https://radio.vaticannews.va/stream-ti",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ti",
+          "name": "Tigrinya"
+        }
+      ]
+    },
+    {
+      "id": 247799,
+      "name": "Radio Vaticana - Hrvatski",
+      "slug": "Radio_Vaticana_Hrvatski",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/31/d23153ea448f0f26f2a065495d9cb1e9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hrvatski",
+        "alsoKnownAs": "Radio Vaticana - Croatian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Balkan Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 186308,
+          "url": "http://radio.vaticannews.va/stream-hr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186307,
+          "url": "http://radio.vaticannews.va:80/stream-hr",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186309,
+          "url": "https://radio.vaticannews.va/stream-hr",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hr",
+          "name": "Croatian"
+        }
+      ]
+    },
+    {
+      "id": 43887,
+      "name": "Radio Vaticana - Kiswahili",
+      "slug": "Radio_Vaticana_Kiswahili",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/2f/8d2f73b276fc392fb936aedd444a135c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiswahili",
+        "alsoKnownAs": "Radio Vaticana - Swahili"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70599,
+          "url": "https://radio.vaticannews.va/stream-sw",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70597,
+          "url": "http://radio.vaticannews.va:80/stream-sw",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70598,
+          "url": "http://radio.vaticannews.va/stream-sw",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sw",
+          "name": "Swahili"
+        }
+      ]
+    },
+    {
+      "id": 37107253,
+      "name": "Radio Vaticana - Română",
+      "slug": "Radio_Vaticana_Romana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/6f/456f852cf59ca8d1b313bd1c3768bb55.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "romana",
+        "alsoKnownAs": "Radio Vaticana - Romanian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Romanian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272973,
+          "url": "https://radio.vaticannews.va/stream-ro",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272971,
+          "url": "http://radio.vaticannews.va:80/stream-ro",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272972,
+          "url": "http://radio.vaticannews.va/stream-ro",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ro",
+          "name": "Moldovan"
+        }
+      ]
+    },
+    {
+      "id": 445440,
+      "name": "Radio Vaticana - Slovenščina",
+      "slug": "Radio_Vaticana_Slovenscina",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/b3/63b32a27394cca5627543e64776565af.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "slovenscina",
+        "alsoKnownAs": "Radio Vaticana - Slovenian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216695,
+          "url": "http://radio.vaticannews.va/stream-sl",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216696,
+          "url": "https://radio.vaticannews.va/stream-sl",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216694,
+          "url": "http://radio.vaticannews.va:80/stream-sl",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sl",
+          "name": "Slovene"
+        }
+      ]
+    },
+    {
+      "id": 315812,
+      "name": "Radio Vaticana - Lietuvių",
+      "slug": "Radio_Vaticana_Lietuviu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/c1/24c1ca4a0b56dca6881dc7a97fd953cb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lietuviu",
+        "alsoKnownAs": "Radio Vaticana - Lithuanian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200981,
+          "url": "https://radio.vaticannews.va/stream-lt",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200979,
+          "url": "http://radio.vaticannews.va:80/stream-lt",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200980,
+          "url": "http://radio.vaticannews.va/stream-lt",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lt",
+          "name": "Lithuanian"
+        }
+      ]
+    },
+    {
+      "id": 38125225,
+      "name": "Radio Vaticana - Беларуская",
+      "slug": "Radio_Vaticana_Belarusian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/ca/f5ca8d40c8ce3acf14e3ba47430690a5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "Radio Vaticana - Belarusian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274518,
+          "url": "http://radio.vaticannews.va:80/stream-be",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274519,
+          "url": "http://radio.vaticannews.va/stream-be",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274520,
+          "url": "https://radio.vaticannews.va/stream-be",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 234831,
+      "name": "Radio Vaticana - Հայերէն",
+      "slug": "Radio_Vaticana_Armenian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/8f/ad8ffe437cb52d689be2ab4f005f970a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hayeren",
+        "alsoKnownAs": "Radio Vaticana - Armenian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183940,
+          "url": "https://radio.vaticannews.va/stream-hy",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183938,
+          "url": "http://radio.vaticannews.va:80/stream-hy",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183939,
+          "url": "http://radio.vaticannews.va/stream-hy",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hy",
+          "name": "Armenian"
+        }
+      ]
+    },
+    {
+      "id": 475199,
+      "name": "Radio Vaticana - தமிழ்",
+      "slug": "Radio_Vaticana_Tamil",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/b9/61b9e097016bd6996a89c0bb8551b452.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tmilll",
+        "alsoKnownAs": "Radio Vaticana - Tamil"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Tamil",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219084,
+          "url": "http://radio.vaticannews.va/stream-ta",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219085,
+          "url": "https://radio.vaticannews.va/stream-ta",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219083,
+          "url": "http://radio.vaticannews.va:80/stream-ta",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 312089,
+      "name": "Radio Vaticana - Български",
+      "slug": "Radio_Vaticana_Bulgarian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/7d/d27d2cb5327391d88e33319a11e0ae37.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "b lgarski",
+        "alsoKnownAs": "Radio Vaticana - Bulgarian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Balkan Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200642,
+          "url": "https://radio.vaticannews.va/stream-bg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200641,
+          "url": "http://radio.vaticannews.va/stream-bg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200640,
+          "url": "http://radio.vaticannews.va:80/stream-bg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bg",
+          "name": "Bulgarian"
+        }
+      ]
+    },
+    {
+      "id": 103307,
+      "name": "Radio Vaticana - አማርኛ",
+      "slug": "Radio_Vaticana_Amharic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/76/3d768cb2bec4107d6c653fe9b3c38398.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "amaarenyaa",
+        "alsoKnownAs": "Radio Vaticana - Amharic"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144866,
+          "url": "http://radio.vaticannews.va/stream-am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 144867,
+          "url": "https://radio.vaticannews.va/stream-am",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 144865,
+          "url": "http://radio.vaticannews.va:80/stream-am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "am",
+          "name": "Amharic"
+        }
+      ]
+    },
+    {
+      "id": 250764,
+      "name": "Radio Vaticana - Magyar",
+      "slug": "Radio_Vaticana_Magyar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/6c/856cd30ef007c846f4bbd4ca2c8343aa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "magyar",
+        "alsoKnownAs": "Radio Vaticana - Hungarian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Europe Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 186804,
+          "url": "http://radio.vaticannews.va:80/stream-hu",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186805,
+          "url": "http://radio.vaticannews.va/stream-hu",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186806,
+          "url": "https://radio.vaticannews.va/stream-hu",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hu",
+          "name": "Hungarian"
+        }
+      ]
+    },
+    {
+      "id": 280493,
+      "name": "Radio Vaticana - Українська",
+      "slug": "Radio_Vaticana_Ukrainian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/a1/44a100c9af76cda6141d1b14d0edb155.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ka",
+        "alsoKnownAs": "Radio Vaticana - Ukrainian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192079,
+          "url": "http://radio.vaticannews.va:80/stream-uk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192080,
+          "url": "http://radio.vaticannews.va/stream-uk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192081,
+          "url": "https://radio.vaticannews.va/stream-uk",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "uk",
+          "name": "Ukrainian"
+        }
+      ]
+    },
+    {
+      "id": 439516,
+      "name": "Radio Vaticana - Shqip",
+      "slug": "Radio_Vaticana_Shqip",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/eb/30eb833bb3fad1113d711f442cee2ad3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shqip",
+        "alsoKnownAs": "Radio Vaticana - Albanian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216138,
+          "url": "http://radio.vaticannews.va:80/stream-sq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216140,
+          "url": "https://radio.vaticannews.va/stream-sq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216139,
+          "url": "http://radio.vaticannews.va/stream-sq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 73749,
+      "name": "Radio Vaticana - Русский",
+      "slug": "Radio_Vaticana_Russian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/61/4f610bbf77366f37898670ade417f5f0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "russkii",
+        "alsoKnownAs": "Radio Vaticana - Russian"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Russian Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116448,
+          "url": "http://radio.vaticannews.va/stream-ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116447,
+          "url": "http://radio.vaticannews.va:80/stream-ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116449,
+          "url": "https://radio.vaticannews.va/stream-ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    }
+  ]
+}

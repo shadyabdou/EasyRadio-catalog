@@ -1,0 +1,431 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:19.404Z",
+  "endpoint": "/countries/American Samoa/radios",
+  "countryCode": "as",
+  "countryName": "American Samoa",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 196670,
+      "name": "V103 - WVUV-FM",
+      "slug": "WVUV_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/c9/81c9806b61f3fa4fe180712e9f85ea60.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "v103 wvuv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Faga`itua",
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "locationText": "Faga`itua, American Samoa",
+        "coordinates": {
+          "latitude": "-14.2780600",
+          "longitude": "-170.7025000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 44,
+          "gb": 0,
+          "au": 18,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176482,
+          "url": "https://ice26.securenetsystems.net/WVUV",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176481,
+          "url": "https://ice26.securenetsystems.net:80/WVUV",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 51,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176480,
+          "url": "http://ice26.securenetsystems.net:80/WVUV",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176479,
+          "url": "http://ice26.securenetsystems.net/WVUV",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 290433,
+      "name": "93KHJ - KKHJ-FM",
+      "slug": "KKHJ_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/ea/75ea10c4e39198b655a2b373f0895baf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "93khj kkhj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pago Pago",
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "locationText": "Pago Pago, American Samoa",
+        "coordinates": {
+          "latitude": "-14.2780600",
+          "longitude": "-170.7025000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 195603,
+          "url": "http://ice25.securenetsystems.net:80/KKHJ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 195602,
+          "url": "http://ice25.securenetsystems.net/KKHJ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 104743,
+      "name": "Eyespy Radio 87.5 FM",
+      "slug": "Eyespy_Radio_87.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/06/a106f1db771ffccd3d59d27ba7dbba4a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.5",
+        "dialStripped": "875"
+      },
+      "aliases": {
+        "cleanName": "eyespy 87.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Apia",
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "locationText": "Apia, American Samoa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop RnB Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146196,
+          "url": "http://streamer.radio.co/sb439bb05d/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 146197,
+          "url": "https://streamer.radio.co/sb439bb05d/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60523,
+      "name": "Remnant Christian Radio",
+      "slug": "Remnant_Christian_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/92/4992220bafb6c0e1051a9603660b3e53.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "remnant christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Apia",
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "locationText": "Apia, American Samoa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Christmas Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98962,
+          "url": "https://stream.zeno.fm/s41z9wgdaxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98961,
+          "url": "http://stream.zeno.fm/s41z9wgdaxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20841133,
+      "name": "Oldies 93.7 - KKHJ-HD2",
+      "slug": "KKHJ_HD2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/6d/5d6dd3e9588b1934589f4e7324c9e9de.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": "oldies 93.7 kkhj hd2",
+        "alsoKnownAs": "Oldies 93.7 - K229BG 93.7 FM Pavaiai, American Samoa"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pago Pago",
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "locationText": "Pago Pago, American Samoa",
+        "coordinates": {
+          "latitude": "-14.2780600",
+          "longitude": "-170.7025000"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244598,
+          "url": "http://ice26.securenetsystems.net/KKHJHD2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 244599,
+          "url": "https://ice26.securenetsystems.net:80/KKHJHD2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 244600,
+          "url": "https://ice26.securenetsystems.net/KKHJHD2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 244597,
+          "url": "http://ice26.securenetsystems.net:80/KKHJHD2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,4679 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:50.680Z",
+  "endpoint": "/countries/Bangladesh/radios",
+  "countryCode": "bd",
+  "countryName": "Bangladesh",
+  "expectedCount": 58,
+  "count": 58,
+  "data": [
+    {
+      "id": 106800,
+      "name": "বাংলাদেশ বেতার",
+      "slug": "Radio_Bangladesh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/f6/0df6bb8cec61c289bfa46f2b95c72bec.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar",
+        "alsoKnownAs": "Bangladesh Betar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Asian Classical Hits News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 10,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258925,
+          "url": "http://103.147.169.46:8263/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147992,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbdktraf/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147993,
+          "url": "http://103.147.169.46:8263/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147994,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 25326,
+      "name": "উত্তরবঙ্গ বেতার",
+      "slug": "Uttorbango_Betar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/4e/6f4e646ddc974d1165447ddada9344d5.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uttrbngg betaar",
+        "alsoKnownAs": "Uttorbango Betar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rangpur",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rangpur, Rangpur Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1200,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 21,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 39707,
+          "url": "https://stream.zeno.fm/spqbxkqxdf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39706,
+          "url": "http://stream.zeno.fm/spqbxkqxdf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 153919,
+      "name": "Dhaka FM 90.4",
+      "slug": "Dhaka_FM_90.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/13/4913fd62d3fa04ade51338780d8ed118.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "90.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265146,
+          "url": "http://118.179.219.244:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165545,
+          "url": "http://118.179.219.244:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 106827,
+      "name": "বাংলাদেশ বেতার",
+      "slug": "Bangladesh_Betar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/9f/fe9ffcf058d129d5da1a7c7475971b86.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar",
+        "alsoKnownAs": "Bangladesh Betar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chittagong",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Chittagong, Bangladesh",
+        "coordinates": {
+          "latitude": "22.3384000",
+          "longitude": "91.8316800"
+        }
+      },
+      "genre": {
+        "text": "Asian Classical Hits News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 5,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148007,
+          "url": "http://103.147.169.46:9236/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 72484,
+      "name": "Jago FM 94.4",
+      "slug": "Jago_FM_94.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/be/acbedfc113b2b36df82222bf933cf849.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.4",
+        "dialStripped": "944"
+      },
+      "aliases": {
+        "cleanName": "jago 94.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Asian Bollywood Entertainment Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 2,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114778,
+          "url": "http://139.59.86.99:12496/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 153923,
+      "name": "Radio Foorti",
+      "slug": "Radio_Foorti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/81/d881a51f8d27c48444ae6155da5c7445.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "foorti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165546,
+          "url": "http://119.148.23.88:1021/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265269,
+          "url": "http://119.148.23.88:1021/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 106845,
+      "name": "বাংলাদেশ বেতার",
+      "slug": "Radio_Bangladesh_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/8a/9c8a8a1c346bd0e7fe6d01d6e41db7ab.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "873",
+        "dialStripped": "873"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar",
+        "alsoKnownAs": "Bangladesh Betar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chittagong",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Chittagong, Bangladesh",
+        "coordinates": {
+          "latitude": "22.3384000",
+          "longitude": "91.8316800"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148011,
+          "url": "http://103.147.169.46:8920/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 106849,
+      "name": "বাংলাদেশ বেতার খুলনা FM 88.8MHz",
+      "slug": "Bangladesh_Betar_Khulna_FM_88.8MHz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/2f/182f7b8b6b6b342abeb702c83dd2076a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar khulnaa 88.8 mhz",
+        "alsoKnownAs": "Bangladesh Betar Khulna FM 88.8MHz"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khulna",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Khulna, Khulna Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148019,
+          "url": "http://as1.digitalsynapsebd.com:8263/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 153925,
+      "name": "Radio Today FM 89.6",
+      "slug": "Radio_Today",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/36/a5366e27d00b28dde3d722a426c62dac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "today 89.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165547,
+          "url": "http://stream.zenolive.com/8wv4d8g4344tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165550,
+          "url": "https://stream.zeno.fm/8wv4d8g4344tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165548,
+          "url": "http://stream.zeno.fm/8wv4d8g4344tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165549,
+          "url": "https://stream.zenolive.com/8wv4d8g4344tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 89104,
+      "name": "Radio Bhumi 92.8 FM",
+      "slug": "Radio_Bhumi_92.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/1b/c41b948401d8f304845bcbf67cc553c7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "bhumi 92.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Sports Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 135040,
+          "url": "https://stream.zeno.fm/ybf1umk1k18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135039,
+          "url": "http://stream.zeno.fm/ybf1umk1k18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 17976150,
+      "name": "বাংলাদেশ বেতার",
+      "slug": "Radio_Bangladesh_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/40/5f40214a0985b632e5ef4837b4dc65c4.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "630",
+        "dialStripped": "630"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar",
+        "alsoKnownAs": "Bangladesh Betar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Classical Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242479,
+          "url": "http://as3.digitalsynapsebd.com:8582/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 89086,
+      "name": "Radio Padma",
+      "slug": "Radio_Padma_99.2_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1d/44/1d44a1dda9e38662b02913969cdfb211.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.2",
+        "dialStripped": "992"
+      },
+      "aliases": {
+        "cleanName": "padma",
+        "alsoKnownAs": "পদ্মা নিউজ"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajshahi",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rajshahi, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135019,
+          "url": "http://radiopadmabd.radioca.st:8099/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135020,
+          "url": "https://radiopadmabd.radioca.st/radiopadma/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 89146,
+      "name": "রেডিও মহানন্দা",
+      "slug": "Radio_Mahananda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/10/9f10a70e6014397abf68cac30babb5a1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.8",
+        "dialStripped": "988"
+      },
+      "aliases": {
+        "cleanName": "reddio mhaanndaa",
+        "alsoKnownAs": "Radio Mahananda 98.8 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Asian Community Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279082,
+          "url": "http://centova47.instainternet.com/proxy/bspmorui?mp=/stream/;/;/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279083,
+          "url": "http://192.99.16.151:8435/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279084,
+          "url": "http://192.99.16.151:8435/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279085,
+          "url": "http://centova47.instainternet.com:8435/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279086,
+          "url": "https://centova47.instainternet.com/proxy/bspmorui?mp=/stream/;/;/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135093,
+          "url": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 108124,
+      "name": "Audio Play Bangla",
+      "slug": "Audio_Play_Bangla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/0f/300f308a984b1220d0f310fc4bfa9a26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "audio play",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mymensingh",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Mymensingh, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148997,
+          "url": "http://stream.zeno.fm/hrawdb5yx8ovv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148998,
+          "url": "https://stream.zeno.fm/hrawdb5yx8ovv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 153931,
+      "name": "96.4 Spice FM",
+      "slug": "Spice_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/eb/b8eb58a1c916a36a591bdd89e4ca7cad.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "96.4 spice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 25518,
+      "name": "Gaan Baksho",
+      "slug": "Gaan_Baksho",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/8c/078cb01987bb8ba2a5159400d69a8c22.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gaan baksho",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop Soft Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40042,
+          "url": "https://cast1.asurahosting.com/proxy/gaanbaks/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40041,
+          "url": "http://cast1.asurahosting.com/proxy/gaanbaks/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 106904,
+      "name": "Radio Dawah Bangla",
+      "slug": "Radio_Dawah_Bangla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/4d/2f4dc84e54b3c6c0db5023db1144568f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dawah",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Asian Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148066,
+          "url": "https://stream.zeno.fm/rzkykmse9zcuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148065,
+          "url": "http://stream.zeno.fm/rzkykmse9zcuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 106926,
+      "name": "Rajshahi FM",
+      "slug": "Rajshahi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/78/55785c6bc91071c9bd0f92c857565b2a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rajshahi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajshahi",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rajshahi, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148079,
+          "url": "https://stream.zeno.fm/nxfshdayjrdvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148078,
+          "url": "http://stream.zeno.fm/nxfshdayjrdvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 153935,
+      "name": "Radio Shadhin 92.4 FM",
+      "slug": "RADIO_SHADHIN_924FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/5c/785c6cc0968963f26311cc84643b285f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4",
+        "dialStripped": "924"
+      },
+      "aliases": {
+        "cleanName": "shadhin 92.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165553,
+          "url": "http://stream.zeno.fm/eabgu655puquv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165554,
+          "url": "https://stream.zeno.fm/eabgu655puquv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 105449,
+      "name": "Radio Guilherme Arantes",
+      "slug": "Radio_Guilherme_Arantes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/36/ec3674b40771b1db0af7bf32b3087a7c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "guilherme arantes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": ", Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 4,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146678,
+          "url": "http://stream.zeno.fm/0wquustp3a0uv",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 146679,
+          "url": "https://stream.zeno.fm/0wquustp3a0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 95337,
+      "name": "বাংলাদেশ বেতার সিলেট",
+      "slug": "Bangladesh_Betar_Sylhet_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/74/da747988acbf20a035a08c56c46bb46c.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "963",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar silett",
+        "alsoKnownAs": "Bangladesh Betar Sylhet AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sylhet",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Sylhet, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140567,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbsylham/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140566,
+          "url": "http://103.147.169.46:8096/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140565,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbsylham/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266075,
+          "url": "http://103.147.169.46:8096/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3878,
+      "name": "বাংলাদেশ বেতার-রাজশাহী",
+      "slug": "Bangladesh_Betar_Rajshahi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/09/aa090184d0d993e3ee75bdf491a3df0f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1080",
+        "dialStripped": "1080"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar raajshaahii",
+        "alsoKnownAs": "Bangladesh Betar Rajshahi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajshahi",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rajshahi, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8127,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8125,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbrajmw/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8126,
+          "url": "http://103.147.169.46:9240/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3874,
+      "name": "বাংলাদেশ বেতার-বরিশাল",
+      "slug": "Bangladesh_Betar_Barisal_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/46/bf46c833bbe19b244078a0ec90182b97.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1287",
+        "dialStripped": "1287"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar brishaal",
+        "alsoKnownAs": "Bangladesh Betar Barisal AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Barisal",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Barisal, Barisal Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8117,
+          "url": "http://103.147.169.46:8569/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8118,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbbaram/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8116,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbbaram/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 153943,
+      "name": "People's Radio",
+      "slug": "Peoples_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/5f/905f21edafb2f0711dccf1cf8f04a23a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "people s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246638,
+          "url": "https://s3.myradiostream.com:14498/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165555,
+          "url": "http://s3.myradiostream.com:14498/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3810,
+      "name": "বাংলাদেশ বেতার-রংপুর",
+      "slug": "Bangladesh_Betar_Rangpur_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/de/93dec35fbb970a002b8d950419321e39.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1053",
+        "dialStripped": "1053"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar rnpur",
+        "alsoKnownAs": "Bangladesh Betar Rangpur AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rangpur",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rangpur, Rangpur Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8013,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbranam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8014,
+          "url": "http://103.147.169.46:8622/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262766,
+          "url": "http://as1.digitalsynapsebd.com:8622/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8015,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbranam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3808,
+      "name": "বাংলাদেশ বেতার-কক্সবাজার",
+      "slug": "Bangladesh_Betar_Coxs_Bazar_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/2e/9a2e59551894335b6ae105707ca42170.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1314",
+        "dialStripped": "1314"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar kksbaajaar",
+        "alsoKnownAs": "Bangladesh Betar Cox's Bazar AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cox's Bazar",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Cox's Bazar, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8011,
+          "url": "http://103.147.169.46:8065/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8010,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbcoxam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 258675,
+          "url": "http://103.147.169.46:8065/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8012,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbcoxam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 9831529,
+      "name": "বাংলাদেশ বেতার-রাঙামাটি",
+      "slug": "Bangladesh_Betar_Rangamati_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/7d/ff7d809edf35a3bc57edebc45d6eac1f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1161",
+        "dialStripped": "1161"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar raangaamaatti",
+        "alsoKnownAs": "Bangladesh Betar Rangamati AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rangamati",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rangamati, Chittagong division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236570,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbrangam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236571,
+          "url": "http://103.147.169.46:8409/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236572,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbrangam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3867,
+      "name": "বাংলাদেশ বেতার-ঠাকুরগাঁও",
+      "slug": "Bangladesh_Betar_Thakurgaon_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/d2/7dd2755b8634b6f5450031cc0afa63c5.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "999",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar tthaakurgaano",
+        "alsoKnownAs": "Bangladesh Betar Thakurgaon AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Thakurgaon",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Thakurgaon, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8106,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbthaam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8104,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbthaam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8105,
+          "url": "http://103.147.169.46:8358/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3872,
+      "name": "বাংলাদেশ বেতার-বরিশাল",
+      "slug": "Bangladesh_Betar_Barisal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/44/b144a72be675c76997eed316c5c65f8e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar brishaal",
+        "alsoKnownAs": "Bangladesh Betar Barisal"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Barisal",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Barisal, Barisal Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8115,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbbarfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8113,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbbarfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8114,
+          "url": "http://103.147.169.46:8620/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3863,
+      "name": "বাংলাদেশ বেতার-কুমিল্লা",
+      "slug": "Bangladesh_Betar_Comilla_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/a3/ffa3deb3d9ac44f8e182f13396581cb0.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1413",
+        "dialStripped": "1413"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar kumillaa",
+        "alsoKnownAs": "Bangladesh Betar Comilla AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Comilla",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Comilla, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8096,
+          "url": "http://103.147.169.46:8430/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265831,
+          "url": "http://103.147.169.46:8430/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8095,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbcumam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8097,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbcumam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3865,
+      "name": "বাংলাদেশ বেতার-ঠাকুরগাঁও",
+      "slug": "Bangladesh_Betar_Thakurgaon",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/bc/5bbc81b8c28adabbfd05dcde6bfb6a80.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar tthaakurgaano",
+        "alsoKnownAs": "Bangladesh Betar Thakurgaon"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Thakurgaon",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Thakurgaon, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8102,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbthafm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8103,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbthafm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8101,
+          "url": "http://103.147.169.46:8276/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3877,
+      "name": "বাংলাদেশ বেতার-রাজশাহী",
+      "slug": "Bangladesh_Betar_Rajshahi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/38/60387bf85e6df312d948c497c678db6e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar raajshaahii",
+        "alsoKnownAs": "Bangladesh Betar Rajshahi FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rajshahi",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rajshahi, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8124,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbrajfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8123,
+          "url": "http://103.147.169.46:9244/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8122,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbrajfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 95321,
+      "name": "বাংলাদেশ বেতার সিলেট",
+      "slug": "Bangladesh_Betar_Sylhet",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/ab/46ab67773a3d4a5cfc99f045dcbe423a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar silett",
+        "alsoKnownAs": "Bangladesh Betar Sylhet"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sylhet",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Sylhet, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140557,
+          "url": "http://103.147.169.46:8246/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140559,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbsylhfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269016,
+          "url": "http://103.147.169.46:8246/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140558,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbsylhfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72627,
+      "name": "Radio Vivid Voice",
+      "slug": "Radio_Vivid_Voice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/14/d214dde61e198246c2d23bc4d4bb0399.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vivid voice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mymensingh",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Mymensingh, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Bollywood Other Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114935,
+          "url": "http://stream.zeno.fm/xuin6ocdc2juv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114936,
+          "url": "https://stream.zeno.fm/xuin6ocdc2juv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 25724,
+      "name": "Radio Capital",
+      "slug": "Radio_Capital_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/32/ba32ea87d978944abd988f8ccbedd509.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.8",
+        "dialStripped": "948"
+      },
+      "aliases": {
+        "cleanName": "capital",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40414,
+          "url": "http://server03.quran-uni.com:8078/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 87912,
+      "name": "Radio JKKNIU",
+      "slug": "Radio_JKKNIU",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/8e/648e9e63b5f0fa6526ab29959cc23961.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jkkniu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mymensingh",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Mymensingh, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133492,
+          "url": "http://stream.zeno.fm/risgdzpf1cxtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133493,
+          "url": "https://stream.zeno.fm/risgdzpf1cxtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3868,
+      "name": "বাংলাদেশ বেতার-বান্দরবান",
+      "slug": "Bangladesh_Betar_Bandarban_AM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/44/524424be80411d37fbda33617732c59f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1431",
+        "dialStripped": "1431"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar baandrbaan",
+        "alsoKnownAs": "Bangladesh Betar Bandarban AM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandarban",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Bandarban, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8107,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbbanam/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8109,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbbanam/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8108,
+          "url": "http://103.147.169.46:8238/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 112459,
+      "name": "রেডিও মেঘনা",
+      "slug": "Radio_Meghna",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/55/1b5535a53cfd283c71c3a25874be5c26.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "reddio meghnaa",
+        "alsoKnownAs": "Radio Meghna"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bhola",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Bhola, Barisal Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151961,
+          "url": "http://65.108.98.93:7008/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262054,
+          "url": "http://65.108.98.93:7008/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151962,
+          "url": "https://cast5.asurahosting.com/proxy/coastfo3/stream/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3870,
+      "name": "বাংলাদেশ বেতার-কক্সবাজার",
+      "slug": "Bangladesh_Betar_Coxs_Bazar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c5/ae/c5aecf8b08d2fec5b6a83109aa6c133c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar kksbaajaar",
+        "alsoKnownAs": "Bangladesh Betar Cox's Bazar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cox's Bazar",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Cox's Bazar, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8111,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbcoxfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8112,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbcoxfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8110,
+          "url": "http://103.147.169.46:8114/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50004,
+      "name": "Mku live",
+      "slug": "Mku_live",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mku live",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": ", Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80575,
+          "url": "http://stream.zeno.fm/te6d40dmr18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 40,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80576,
+          "url": "https://stream.zeno.fm/te6d40dmr18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 40,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3861,
+      "name": "বাংলাদেশ বেতার-কুমিল্লা",
+      "slug": "Bangladesh_Betar_Comilla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/98/7f98f79b4804fa2dd3fd5662279056f9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.6",
+        "dialStripped": "1036"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar kumillaa",
+        "alsoKnownAs": "Bangladesh Betar Comilla"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Comilla",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Comilla, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8092,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbcumfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8094,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbcumfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8093,
+          "url": "http://103.147.169.46:8428/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 110911,
+      "name": "BabaBetar",
+      "slug": "BabaBetar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/fa/52fa9bebe5f46646d62d2f116a01114d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bababetar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150881,
+          "url": "https://stream.zeno.fm/td69p2g21tzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150880,
+          "url": "http://stream.zeno.fm/td69p2g21tzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3806,
+      "name": "বাংলাদেশ বেতার-গোপালগঞ্জ",
+      "slug": "Bangladesh_Betar_Gopalganj",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/bc/09bc38cebbab0524df35e39374b1b612.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar gopaalgnyj",
+        "alsoKnownAs": "Bangladesh Betar Gopalganj"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gopalganj",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Gopalganj, Dhaka division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8008,
+          "url": "http://103.147.169.46:8432/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8009,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbgopfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262107,
+          "url": "http://103.147.169.46:8432/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8007,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbgopfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 432448,
+      "name": "Radio Sarabela",
+      "slug": "Radio_Sarabela",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/da/d3daedcb919ed83ee0849f72286cb591.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.8",
+        "dialStripped": "988"
+      },
+      "aliases": {
+        "cleanName": "sarabela",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Radhakrishnapur",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Radhakrishnapur, Rangpur Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215355,
+          "url": "http://broadcast.energytech.com.bd:80/;",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3876,
+      "name": "বাংলাদেশ বেতার-রংপুর",
+      "slug": "Bangladesh_Betar_Rangpur",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/11/b311344ede7f5ce066356f7949ef6692.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8 , 105.6",
+        "dialStripped": "888 , 1056"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar rnpur",
+        "alsoKnownAs": "Bangladesh Betar Rangpur"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rangpur",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rangpur, Rangpur Division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8119,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbranfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8121,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbranfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8120,
+          "url": "http://103.147.169.46:8624/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 87685,
+      "name": "BUET Radio",
+      "slug": "BUET_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/8a/da8aa88002e4e293696f4caef96c9012.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buet",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "College Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133154,
+          "url": "http://stream.zeno.fm/tq42hpva8a0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133155,
+          "url": "https://stream.zeno.fm/tq42hpva8a0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 100421,
+      "name": "Airesounds",
+      "slug": "Airesounds",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/9c/af9c89513f14c900e32d4f880d1dba35.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "airesounds",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": ", Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143200,
+          "url": "http://stream.zeno.fm/4digpltru0qvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 143201,
+          "url": "https://stream.zeno.fm/4digpltru0qvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3864,
+      "name": "বাংলাদেশ বেতার-রাঙামাটি",
+      "slug": "Bangladesh_Betar_Rangamati",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/19/af194b5209384b9604a82b52355eb71c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.2",
+        "dialStripped": "1032"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar raangaamaatti",
+        "alsoKnownAs": "Bangladesh Betar Rangamati"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rangamati",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Rangamati, Chittagong division, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8098,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbrangfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262108,
+          "url": "http://103.147.169.46:8360/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8100,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbrangfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8099,
+          "url": "http://103.147.169.46:8360/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72380,
+      "name": "Radio Madhoshi - Bangladesh",
+      "slug": "Radio_Madhoshi_Bangladesh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/a1/ffa166dc1181f0079fae06592b5f4223.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "madhoshi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114632,
+          "url": "http://stream.zeno.fm/7rsl8fsccf8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114633,
+          "url": "https://stream.zeno.fm/7rsl8fsccf8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 49965,
+      "name": "Js7 Redio",
+      "slug": "Js7_Redio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/1c/c71cf3f635440a00487354575a286b2d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "js7 redio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": ", Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80507,
+          "url": "http://stream.zeno.fm/aeed04tffg8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80508,
+          "url": "https://stream.zeno.fm/aeed04tffg8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 50013,
+      "name": "Biddashagor Chatrabash",
+      "slug": "Biddashagor_Chatrabash",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/5c/295c7b72bb1588fdc5432eae34676e33.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "biddashagor chatrabash",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": ", Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80592,
+          "url": "https://stream.zeno.fm/0utvg2u9qrhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80591,
+          "url": "http://stream.zeno.fm/0utvg2u9qrhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "bn",
+          "name": "Bengali"
+        }
+      ]
+    },
+    {
+      "id": 3859,
+      "name": "বাংলাদেশ বেতার-ময়মনসিংহ",
+      "slug": "Bangladesh_Betar_Mymensingh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/fb/87fb4dc162dcae8e6c05f4470cef71b5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar my mnsinh",
+        "alsoKnownAs": "Bangladesh Betar Mymensingh"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mymensingh",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Mymensingh, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8090,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbmymfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8091,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbmymfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8089,
+          "url": "http://103.147.169.46:8029/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72606,
+      "name": "Radio Goongoon",
+      "slug": "RadioGoonGoon",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/dd/4add87ebff989336106c111884ab09d7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "goongoon",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Culture Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 268418,
+          "url": "http://live.radiogoongoon.com:8888/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114908,
+          "url": "http://live.radiogoongoon.com:8888/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 67572,
+      "name": "Radio Euphonia",
+      "slug": "Radio_Euphonia_Bangladesh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/7c/f17c9f81879dc8be034ceba3054cd3be.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "euphonia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Classical Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108558,
+          "url": "https://stream.zeno.fm/risgdzpf1cxtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108557,
+          "url": "http://stream.zeno.fm/risgdzpf1cxtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 69017,
+      "name": "Radiovubon",
+      "slug": "Radiovubon",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/5f/815f97d7c426cdefd3113daff4d80a8f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radiovubon",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Entertainment Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 109995,
+          "url": "http://89.163.128.81:8877/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268370,
+          "url": "http://89.163.128.81:8877/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 110833,
+      "name": "বাংলাদেশ বেতার-বান্দরবান",
+      "slug": "Bangladesh_Betar_Bandarban",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/35/e235672b90a6340148b9ec78cdefdead.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "baanlaadesh betaar baandrbaan",
+        "alsoKnownAs": "Bangladesh Betar Bandarban"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandarban",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Bandarban, Bangladesh",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150815,
+          "url": "https://as1.digitalsynapsebd.com/proxy/bbbanfm/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150813,
+          "url": "http://as1.digitalsynapsebd.com/proxy/bbbanfm/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150814,
+          "url": "http://103.147.169.46:8326/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66673,
+      "name": "Impressive Radio",
+      "slug": "Impressive_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/50/5d50e9a8d7772510e496990712a40fc5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "impressive",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Meditation Other Soundtracks Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107482,
+          "url": "https://stream.zeno.fm/7e7yqhdmpm0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107481,
+          "url": "http://stream.zeno.fm/7e7yqhdmpm0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 113380,
+      "name": "Radio Lakshyapar",
+      "slug": "Radio_Lakshyapar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/f4/3ef41ee37d95592112edf37903c62b59.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lakshyapar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhaka",
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "locationText": "Dhaka, Bangladesh",
+        "coordinates": {
+          "latitude": "23.7104000",
+          "longitude": "90.4074400"
+        }
+      },
+      "genre": {
+        "text": "Bhangra",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152354,
+          "url": "http://lakshyapar.getstreamhosting.com:7738/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

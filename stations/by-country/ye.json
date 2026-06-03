@@ -1,0 +1,1074 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:31.271Z",
+  "endpoint": "/countries/Yemen/radios",
+  "countryCode": "ye",
+  "countryName": "Yemen",
+  "expectedCount": 14,
+  "count": 14,
+  "data": [
+    {
+      "id": 48684,
+      "name": "إذاعة صنعاء",
+      "slug": "Sanaa_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/bf/bcbfbe3620dc09e69846787ecf39bbd0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "dh sn",
+        "alsoKnownAs": "Sana'a Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sana'a",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Sana'a, Yemen",
+        "coordinates": {
+          "latitude": "15.3547200",
+          "longitude": "44.2066700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5730,
+        "byCountry": {
+          "us": 18,
+          "gb": 3,
+          "au": 3,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77497,
+          "url": "http://167.235.100.96:7183/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77498,
+          "url": "http://167.235.100.96:7183/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77499,
+          "url": "https://dc5.serverse.com/proxy/pbmhbvxs/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77496,
+          "url": "http://dc5.serverse.com/proxy/pbmhbvxs/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 321826,
+      "name": "نور الإيمان تريم",
+      "slug": "Noor_Al_Eman_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/d5/1fd53f7e01e6679a90ef603cf26d11a0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "nwr lymn trym",
+        "alsoKnownAs": "Noor Al Eman Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seiyun",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Seiyun, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1890,
+        "byCountry": {
+          "us": 31,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 263664,
+          "url": "https://edge.mixlr.com/channel/boaht",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202131,
+          "url": "http://edge.mixlr.com/channel/boaht",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 97634,
+      "name": "بندر عدن",
+      "slug": "Bandar_Adan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/78/2f78264d6afc404dbd93814c613a240f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "bndr dn",
+        "alsoKnownAs": "Bandar Adan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aden",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Aden, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1740,
+        "byCountry": {
+          "us": 11,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142178,
+          "url": "https://r.fm-radio.net/bndr/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142177,
+          "url": "http://r.fm-radio.net/bndr",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72875,
+      "name": "إذاعة سيئون",
+      "slug": "Seiyun_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/30/be30d9f4662af582381ff7e52bdb4c47.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "837",
+        "dialStripped": "837"
+      },
+      "aliases": {
+        "cleanName": "dh syy wn",
+        "alsoKnownAs": "Seiyun Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seiyun",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Seiyun, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 14,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115227,
+          "url": "http://s2.radio.co/s26c62011e/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115228,
+          "url": "https://s2.radio.co/s26c62011e/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72882,
+      "name": "Delta FM",
+      "slug": "Delta_FM_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/8a/838aed4bafc24adc05cae1d79d7265c6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "delta",
+        "alsoKnownAs": "إذاعة دلتا اف ام"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sana'a",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Sana'a, Yemen",
+        "coordinates": {
+          "latitude": "15.3547200",
+          "longitude": "44.2066700"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1320,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115238,
+          "url": "http://168.119.10.136:7057/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115237,
+          "url": "http://168.119.10.136:7057/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72931,
+      "name": "سام أف أم",
+      "slug": "SAM_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/6c/046ca092626ade6b7ad65727e5fac165.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "sm f m",
+        "alsoKnownAs": "SAM FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sanaa",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Sanaa, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115302,
+          "url": "http://edge.mixlr.com/channel/kijwr",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 97643,
+      "name": "نور عدنFM",
+      "slug": "Noor_Aden_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/75/1e75b40d5d728c33caaeb3fe6614fd39.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "nwr dnfm",
+        "alsoKnownAs": "Noor Aden FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aden",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Aden, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142186,
+          "url": "https://c2.radioboss.fm:8768/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142185,
+          "url": "http://c2.radioboss.fm:8768/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 72935,
+      "name": "Mareb Radio",
+      "slug": "Mareb_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/9f/1a9f0f6599a82dbea5980b77ae9688bc.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5",
+        "dialStripped": "895"
+      },
+      "aliases": {
+        "cleanName": "mareb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ma'rib",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Ma'rib, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115308,
+          "url": "http://radio.al7eah.net:8034/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 23505847,
+      "name": "إذاعة 21 سبتمبر",
+      "slug": "September_21_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/d4/a5d4e7a77e0cded59b0bd843491c52b7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "dh 21 sbtmbr",
+        "alsoKnownAs": "September 21 Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sanaa",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Sanaa, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 262524,
+          "url": "http://sept21.radioca.st:8488/stream100/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245910,
+          "url": "http://sept21.radioca.st:8488/stream100/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 153767,
+      "name": "إذاعة طيرمانة إف إم",
+      "slug": "Tayramana_FM_101.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/a1/7da1dd73526517bb0ec67788dd9a858e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "dh tyrmn f m",
+        "alsoKnownAs": "Tayramana FM 101.1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sana'a",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Sana'a, Yemen",
+        "coordinates": {
+          "latitude": "15.3547200",
+          "longitude": "44.2066700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165492,
+          "url": "http://c2.radioboss.fm/stream/1144",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165493,
+          "url": "https://c2.radioboss.fm/stream/1144",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73196,
+      "name": "إذاعة دار الحديث السلفية بالضالع",
+      "slug": "Dar_Al_Hadith_Salafist_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/8e/338e884f5bc46e0c7baf2c9d7e803b1b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh dr lhdyth lslfy bldl",
+        "alsoKnownAs": "Dar Al-Hadith Salafi Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aḑ Ḑāli",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Aḑ Ḑāli, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115722,
+          "url": "http://daralhdeth.com:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115723,
+          "url": "https://daralhdeth.com/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3336618,
+      "name": "عدنية اف ام",
+      "slug": "Adaniafm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/5c/095cf99b19e0909338e2a0a107ec043b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "dny f m",
+        "alsoKnownAs": "Adaniafm"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aden",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Aden, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232145,
+          "url": "https://r.fm-radio.net/adania/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232144,
+          "url": "http://r.fm-radio.net/adania",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 22565001,
+      "name": "إذاعة دار الحديث السلفية بالمدي",
+      "slug": "Dar_Al_Hadith_Salafist_Radio_in_Al_Madi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/38/473820114792b8764da390fcf3c3c086.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh dr lhdyth lslfy blmdy",
+        "alsoKnownAs": "Dar Al-Hadith Salafist Radio in Al-Madi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aden",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Aden, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 245485,
+          "url": "https://radio2.daralhdeth.com/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245484,
+          "url": "http://radio2.daralhdeth.com:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 30135769,
+      "name": "إذاعة ذكركم للقرآن الكريم",
+      "slug": "Dakrkm_Radio_FM_88.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/b3/7fb322039aff576bd5e4e8469668193a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "dh dhkrkm llqran lkrym",
+        "alsoKnownAs": "Dakrkm Radio FM 88.9"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Shibam",
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "locationText": "Shibam, Yemen",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257483,
+          "url": "https://r.fm-radio.net/quran/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257482,
+          "url": "http://r.fm-radio.net/quran/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

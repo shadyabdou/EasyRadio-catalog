@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:52.674Z",
+  "endpoint": "/countries/Chad/radios",
+  "countryCode": "td",
+  "countryName": "Chad",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 95213,
+      "name": "Hit Radio Tchad",
+      "slug": "Hit_Radio_Tchad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/92/9e9234c2dadcb0a53be68c47f3c53cda.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "hit tchad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "N'Djamena",
+        "countryName": "Chad",
+        "countryCode": "TD",
+        "locationText": "N'Djamena, Chad",
+        "coordinates": {
+          "latitude": "12.1067200",
+          "longitude": "15.0444000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140522,
+          "url": "https://hr-tchad.ice.infomaniak.ch/hr-tchad-64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140521,
+          "url": "http://hr-tchad.ice.infomaniak.ch/hr-tchad-64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 114,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

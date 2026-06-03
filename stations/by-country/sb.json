@@ -1,0 +1,109 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:38.102Z",
+  "endpoint": "/countries/Solomon Islands/radios",
+  "countryCode": "sb",
+  "countryName": "Solomon Islands",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 60691,
+      "name": "Laef FM Solomon Islands",
+      "slug": "Laef_FM_Solomon_Islands",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/17/7717367b56b7c5b322a459d3ee8a48ea.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5 / 88.0",
+        "dialStripped": "935 / 880"
+      },
+      "aliases": {
+        "cleanName": "laef solomon islands",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - Laef FM Solomon Islands"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Honiara",
+        "countryName": "Solomon Islands",
+        "countryCode": "SB",
+        "locationText": "Honiara, Solomon Islands",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99306,
+          "url": "http://streams3.vision.org.au/solomon.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99309,
+          "url": "https://streams3.vision.org.au:443/solomon.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 113,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99308,
+          "url": "https://streams3.vision.org.au/solomon.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 119,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99307,
+          "url": "http://streams3.vision.org.au:443/solomon.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

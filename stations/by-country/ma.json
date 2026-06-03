@@ -1,0 +1,4916 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:59.618Z",
+  "endpoint": "/countries/Morocco/radios",
+  "countryCode": "ma",
+  "countryName": "Morocco",
+  "expectedCount": 60,
+  "count": 60,
+  "data": [
+    {
+      "id": 48365,
+      "name": "Radio Mars",
+      "slug": "Radio_Mars_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/0c/e60c9d0aafe94f92eed411a6c1e8a6c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "mars",
+        "alsoKnownAs": "Radio Mars Maroc"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 65520,
+        "byCountry": {
+          "us": 55,
+          "gb": 16,
+          "au": 1,
+          "de": 14,
+          "fr": 122,
+          "br": 2,
+          "es": 28,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 73,
+          "ar": 2,
+          "ca": 58,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 76677,
+          "url": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76678,
+          "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 90443,
+      "name": "MFM Radio",
+      "slug": "Casa_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/47/f547892e8ab9e35fc0c372e589527c71.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.7",
+        "dialStripped": "887"
+      },
+      "aliases": {
+        "cleanName": "mfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Hits Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 48120,
+        "byCountry": {
+          "us": 25,
+          "gb": 5,
+          "au": 1,
+          "de": 6,
+          "fr": 82,
+          "br": 2,
+          "es": 18,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 36,
+          "ar": 1,
+          "ca": 14,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241336,
+          "url": "https://a5.asurahosting.com:7980/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 136783,
+          "url": "http://a5.asurahosting.com:7980/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 48378,
+      "name": "Radio Aswat",
+      "slug": "Aswat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/b9/aeb92c4014cbf767057435c1f25a8f71.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "aswat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 37380,
+        "byCountry": {
+          "us": 38,
+          "gb": 6,
+          "au": 5,
+          "de": 9,
+          "fr": 142,
+          "br": 1,
+          "es": 28,
+          "mx": 1,
+          "jp": 1,
+          "in": 7,
+          "it": 43,
+          "ar": 1,
+          "ca": 17,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 76721,
+          "url": "http://icepe4.infomaniak.ch:80/aswat-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76720,
+          "url": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76722,
+          "url": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48394,
+      "name": "Medi1 Radio",
+      "slug": "Medi_1_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/a0/bba0883a253aba21c200d14a9b8c5059.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "medi1",
+        "alsoKnownAs": "Medi1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk Weather",
+        "tags": []
+      },
+      "popularity": {
+        "global": 26490,
+        "byCountry": {
+          "us": 13,
+          "gb": 2,
+          "au": 1,
+          "de": 2,
+          "fr": 48,
+          "br": 0,
+          "es": 10,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 8,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241753,
+          "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76792,
+          "url": "http://live.medi1.com/medi1",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76793,
+          "url": "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76791,
+          "url": "http://51.222.88.199/medi1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76790,
+          "url": "http://51.222.88.199:80/medi1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 251,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254569,
+          "url": "http://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72804,
+      "name": "إذاعــة أم كلثوم",
+      "slug": "Radio_Oum_Kalthoum",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/c4/c3c4e30ae4ee8282e01fa406d7239f36.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh m klthwm",
+        "alsoKnownAs": "Radio Oum Kalthoum"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 26310,
+        "byCountry": {
+          "us": 17,
+          "gb": 5,
+          "au": 6,
+          "de": 4,
+          "fr": 35,
+          "br": 1,
+          "es": 6,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 4,
+          "ar": 1,
+          "ca": 8,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115128,
+          "url": "http://stream.zeno.fm/puv30d6l1bjtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115132,
+          "url": "https://streaming2.rimradio.ma:8000/oumkalthoum/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115130,
+          "url": "https://stream.zeno.fm/puv30d6l1bjtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115131,
+          "url": "https://streaming2.rimradio.ma/oumkalthoum/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115129,
+          "url": "http://streaming2.rimradio.ma:8000/oumkalthoum",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72805,
+      "name": "Chada FM",
+      "slug": "Chada_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/fe/50fec23c089392073d8cd46a3f62ceda.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.8",
+        "dialStripped": "1008"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Art Culture Devotional",
+        "tags": []
+      },
+      "popularity": {
+        "global": 15810,
+        "byCountry": {
+          "us": 12,
+          "gb": 3,
+          "au": 1,
+          "de": 4,
+          "fr": 39,
+          "br": 1,
+          "es": 7,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 9,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115133,
+          "url": "http://edge11.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1741,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115134,
+          "url": "https://edge11.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1757,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 28721,
+      "name": "Hit Radio",
+      "slug": "HIT_RADIO_100p_HITS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/68/4468afc5dab0dd99b6610464223957e9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.8",
+        "dialStripped": "998"
+      },
+      "aliases": {
+        "cleanName": "hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits House",
+        "tags": []
+      },
+      "popularity": {
+        "global": 14940,
+        "byCountry": {
+          "us": 16,
+          "gb": 8,
+          "au": 0,
+          "de": 9,
+          "fr": 56,
+          "br": 2,
+          "es": 18,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 22,
+          "ar": 1,
+          "ca": 19,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46352,
+          "url": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46353,
+          "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 91609,
+      "name": "Med Radio",
+      "slug": "Med_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/c9/f1c94fa6adf63a44388040550ad89af2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.2",
+        "dialStripped": "882"
+      },
+      "aliases": {
+        "cleanName": "med",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Culture Information Politics Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 13350,
+        "byCountry": {
+          "us": 18,
+          "gb": 5,
+          "au": 1,
+          "de": 3,
+          "fr": 65,
+          "br": 1,
+          "es": 14,
+          "mx": 0,
+          "jp": 0,
+          "in": 6,
+          "it": 19,
+          "ar": 0,
+          "ca": 8,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137853,
+          "url": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137852,
+          "url": "http://medradio.ice.infomaniak.ch/medradio-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72812,
+      "name": "Yabiladi Radio - Chaabi Maroc",
+      "slug": "Yabiladi_Radio_Chaabi_Maroc",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/8d/2b8d55d29866b4bec6f2a942cb93aa81.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yabiladi chaabi maroc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Hits News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 9480,
+        "byCountry": {
+          "us": 5,
+          "gb": 3,
+          "au": 1,
+          "de": 2,
+          "fr": 63,
+          "br": 1,
+          "es": 6,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 8,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 115143,
+          "url": "http://57.128.22.216:8100/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72813,
+      "name": "إذاعة مدينة إف إم المغرب",
+      "slug": "Radio_Medina_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/d0/12d00b77987d74c6ca1b1acd79c19ae7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.0",
+        "dialStripped": "970"
+      },
+      "aliases": {
+        "cleanName": "dh mdyn f m lmgrb",
+        "alsoKnownAs": "Radio Medina FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6870,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 16,
+          "br": 1,
+          "es": 3,
+          "mx": 1,
+          "jp": 0,
+          "in": 6,
+          "it": 4,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115144,
+          "url": "http://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115145,
+          "url": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48574,
+      "name": "إذاعة طنجة المتوسط",
+      "slug": "Radio_Tanger_Med",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/63/ed6396103411f7d23c2bf83483806f70.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh tnj lmtwst",
+        "alsoKnownAs": "Radio Tanger Med"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ksar es Seghir",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Ksar es Seghir, Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community News Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6840,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 1,
+          "de": 2,
+          "fr": 19,
+          "br": 1,
+          "es": 11,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 9,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77255,
+          "url": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77253,
+          "url": "http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-96.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77252,
+          "url": "http://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77256,
+          "url": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77254,
+          "url": "http://statslive.infomaniak.ch/playlist/radiotangermed-22/radiotangermed-22-192.mp3/playlist.m3u",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 91843,
+      "name": "Atlantic Radio",
+      "slug": "Atlantic_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/00/3100ae0b8251f5b401f159a53639b1a2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": "atlantic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Information News Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6540,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 2,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 137907,
+          "url": "http://atlantic-sonic.nindohost.net:9300/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240794,
+          "url": "https://atlantic-sonic.nindohost.net:9300/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 52716,
+      "name": "راديو مراكش بلوس",
+      "slug": "Web_Radio_Marrakech_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/6a/9a6a0d5e87a2564d6b86157118ef046c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw mrksh blws",
+        "alsoKnownAs": "Web Radio Marrakech Plus"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marrakech",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Marrakech, Morocco",
+        "coordinates": {
+          "latitude": "33.3562111",
+          "longitude": "-6.1904463"
+        }
+      },
+      "genre": {
+        "text": "90s Arabic Art",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6330,
+        "byCountry": {
+          "us": 3,
+          "gb": 4,
+          "au": 1,
+          "de": 2,
+          "fr": 14,
+          "br": 2,
+          "es": 4,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 4,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 85749,
+          "url": "http://cast5.my-control-panel.com/proxy/marrakec/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85750,
+          "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 327060,
+      "name": "Medi 1 Radio - Tarab",
+      "slug": "Medi_1_Radio_Tarab",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/8a/f08ae70ca81f31af5347cf1a1f91ba44.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 tarab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 5940,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 11,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 202877,
+          "url": "https://live.medi1.com/Tarab",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 181,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202876,
+          "url": "http://live.medi1.com/Tarab",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 148,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 43452,
+      "name": "Radio Atbir",
+      "slug": "Radio_Atbir",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/ba/a1ba403e5cdb9804005dd3aec554b0bc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "atbir",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Agadir",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Agadir, Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Arabic Middle Eastern World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5580,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 15,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 5,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69748,
+          "url": "http://stream.zeno.fm/bqdbb6hd0neuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69750,
+          "url": "https://stream.zeno.fm/bqdbb6hd0neuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69747,
+          "url": "http://stream.zenolive.com/bqdbb6hd0neuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69749,
+          "url": "https://stream.zenolive.com/bqdbb6hd0neuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20418,
+      "name": "Hit Radio - 100% Mgharba",
+      "slug": "Hit_Radio_100_Mgharba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/f6/9cf614362e5c2d06332e66de22c408d0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 mgharba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Electronic Middle Eastern Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3450,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 15,
+          "br": 1,
+          "es": 4,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 6,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29506,
+          "url": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29505,
+          "url": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72841,
+      "name": "Yabiladi Radio - Amazigh Azawan",
+      "slug": "Yabiladi_Radio_Amazigh_Azawan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/09/2a0936a51fd32b75cc8e7f2497daa309.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yabiladi amazigh azawan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3360,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 11,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115181,
+          "url": "http://57.128.22.216:9000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72846,
+      "name": "أشكيدإف إم",
+      "slug": "Radio_Achkid_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/c5/0fc53f53981ea3fdbed39344fcafcc9c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shkydf m",
+        "alsoKnownAs": "AchkidFm , Radio Yan Plus [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Middle Eastern Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2940,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115186,
+          "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115185,
+          "url": "http://stream.zeno.fm/7nqu31p6xg0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72839,
+      "name": "زين بلادي",
+      "slug": "Zine_Bladi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/94/da94cd29ca44df0810b61dc2c31158b8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zyn bldy",
+        "alsoKnownAs": "Zine Bladi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Islamic Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2730,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 12,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115179,
+          "url": "http://asmaki.ma:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115180,
+          "url": "https://asmaki.ma:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 103513,
+      "name": "Medi 1 Radio - Andalouse",
+      "slug": "Medi_1_Radio_Andalouse",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/b8/69b8ade27f47f30d66327d572e90abb0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 andalouse",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 2670,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 6,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145123,
+          "url": "http://live.medi1.com/Andalouse",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 200,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145124,
+          "url": "https://live.medi1.com/Andalouse",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 177,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73220,
+      "name": "أضواء إف إم - أضواء إف إم1",
+      "slug": "AdwaaFM_AdwaaFM1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/d1/b3d13779ab2fda24f3cde2cb69548f3b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dw f m dw f m1",
+        "alsoKnownAs": "AdwaaFM - AdwaaFM1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "40s Afrobeats Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2370,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115740,
+          "url": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115739,
+          "url": "http://stream.zeno.fm/5bxh2nh0x1zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 4463193,
+      "name": "U Radio",
+      "slug": "U_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/98/e298025fee90a0a53295982146ce23d8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99",
+        "dialStripped": "99"
+      },
+      "aliases": {
+        "cleanName": "u",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "00s 80s 90s French Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2250,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 2,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232494,
+          "url": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232493,
+          "url": "http://uradio-aac.ice.infomaniak.ch/uradio.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 56861,
+      "name": "Hit Radio - 100% Way Way",
+      "slug": "Hit_Radio_Way_Way",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/62/f762cb0db3161ea78eb58da938ec611e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 way way",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2040,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93579,
+          "url": "https://wayway.ice.infomaniak.ch/wayway-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93578,
+          "url": "http://wayway.ice.infomaniak.ch/wayway-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 91246,
+      "name": "RadioPlus Agadir ",
+      "slug": "RadioPlus_Agadir",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/7d/d57d98cc6bfe40253715ef3f3082c700.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4 ",
+        "dialStripped": "924 "
+      },
+      "aliases": {
+        "cleanName": "radioplus agadir",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Agadir",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Agadir, Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1680,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137696,
+          "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137695,
+          "url": "http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38673,
+      "name": "Radio Star Maroc",
+      "slug": "radiostarmarocfm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/36/3936467a4d5bda77485aff993421f3f0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star maroc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Salé",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Salé, Rabat-Salé-Kénitra, Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Dance Electro Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 14,
+          "br": 1,
+          "es": 4,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 7,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62774,
+          "url": "http://a2.asurahosting.com:6100/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249985,
+          "url": "http://a2.asurahosting.com:6100/listen.pls?sid=1",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 4105,
+      "name": "Yabiladi Radio - Nayda Urban Music",
+      "slug": "Yabiladi_Radio_Nayda_Urban_Music",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/15/d915ed20fc80195a3ecd14254bfdf433.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yabiladi nayda urban music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic French Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1500,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8406,
+          "url": "http://57.128.22.216:9100/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "POP Music Morocco",
+      "slug": "POP_Music_Morocco",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/e1/d5e157081c4c982d9e265a76ecf83177.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pop music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1320,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 468,
+          "url": "http://stream.zeno.fm/9e9gk29dfc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 469,
+          "url": "https://stream.zeno.fm/9e9gk29dfc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 43515,
+      "name": "أضواء إف إم - أضواء إف إم5",
+      "slug": "AdwaaFM_AdwaaFM5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/75/dd75f1c499bf194ce77bfd005d5cc47f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dw f m dw f m5",
+        "alsoKnownAs": "AdwaaFM - AdwaaFM5"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Arabic News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1200,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69863,
+          "url": "https://stream.zeno.fm/ezxx195gq2zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69862,
+          "url": "http://stream.zeno.fm/ezxx195gq2zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 28228,
+      "name": "DJ Tekness Radio",
+      "slug": "DJ_Tekness_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/f4/e4f4a8c378053de1f1309c42a56b269f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dj tekness",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Deep House Electro House Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 3,
+          "es": 4,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 3,
+          "ar": 1,
+          "ca": 2,
+          "cl": 1,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 45429,
+          "url": "https://stream.zeno.fm/xcmv558wquhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45428,
+          "url": "http://stream.zeno.fm/xcmv558wquhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 327339,
+      "name": "Medi 1 Radio - Nayda",
+      "slug": "Medi_1_Radio_Nayda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/ed/dced168329e2a005dadf150abf8b473b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 nayda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1050,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202884,
+          "url": "https://live.medi1.com/Nayda",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 165,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202883,
+          "url": "http://live.medi1.com/Nayda",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 156,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 43528,
+      "name": "Radio Yabiladi",
+      "slug": "Radio_Yabiladi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/1b/e41bcf78c2ed54e5a63b7be4414aa0da.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yabiladi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 6,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69888,
+          "url": "http://57.128.22.216:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 124800,
+      "name": "Cap Radio",
+      "slug": "Cap_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/01/3f0159a6eb8ff920e209a97eefa63e8b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cap",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 3,
+          "br": 1,
+          "es": 4,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 157036,
+          "url": "https://listen.radioking.com/radio/710810/stream/776366",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 157035,
+          "url": "http://listen.radioking.com/radio/710810/stream/776366",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 48085,
+      "name": "RadioPlus Casablanca",
+      "slug": "RadioPlus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/a2/5ba207838f178a3f3b837b6702b585d9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "radioplus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76280,
+          "url": "http://d3-soundcast-edge-1.infomaniak.ch:80/laradioplus-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76281,
+          "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 76279,
+          "url": "http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 327490,
+      "name": "Medi 1 Radio - Soufi",
+      "slug": "Medi_1_Radio_Soufi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/a8/67a8683a9d003b9be925991ccd175f8e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 soufi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202892,
+          "url": "http://live.medi1.com/Soufi",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 172,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202893,
+          "url": "https://live.medi1.com/Soufi",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 155,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 16969,
+      "name": "Medi 1 Radio - Classique",
+      "slug": "Medi_1_Radio_Classique",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/72/c872dd45c681843e5d23ccfc659eb6fa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 classique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20321,
+          "url": "http://live.medi1.com/Classique",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 150,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20322,
+          "url": "https://live.medi1.com/Classique",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 150,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72911,
+      "name": "أضواء إف إم - أضواء إف إم2",
+      "slug": "AdwaaFM_AdwaaFM2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/0d/7c0d1b50ec04fe3d57dc773da9a29ffe.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dw f m dw f m2",
+        "alsoKnownAs": "AdwaaFM - AdwaaFM2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Middle Eastern Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115272,
+          "url": "https://stream.zeno.fm/vrrtqsh0x1zuv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115271,
+          "url": "http://stream.zeno.fm/vrrtqsh0x1zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 75925,
+      "name": "Rap Lbeldi",
+      "slug": "Rap_Lbeldi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/32/5232c8672b9533d3650f326ee9a57642.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rap lbeldi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "French Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 119134,
+          "url": "http://stream.zeno.fm/ivdufrl7q0quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 119135,
+          "url": "https://stream.zeno.fm/ivdufrl7q0quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 72907,
+      "name": "Radio425fm2",
+      "slug": "Radio_425_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/6e/446e5255db7686f005a9818064fe2beb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radio425fm2",
+        "alsoKnownAs": "Radio Joussour 2 [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115267,
+          "url": "https://stream.zeno.fm/emqjxlmcq1avv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115266,
+          "url": "http://stream.zeno.fm/emqjxlmcq1avv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69367,
+      "name": "Morocco English Radio",
+      "slug": "Morocco_English_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/7e/887eb96c512ee39eff97b1edd485d23b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Business Education News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 110383,
+          "url": "https://streamer.radio.co/s6cba51492/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110381,
+          "url": "http://streamer.radio.co/s6cba51492/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 327823,
+      "name": "Medi 1 Radio - Française",
+      "slug": "Medi_1_Radio_Francaise",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/50/515095f6347ed10d0d9a387f0c50ba03.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202931,
+          "url": "http://live.medi1.com/Francaise",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 176,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202932,
+          "url": "https://live.medi1.com/Francaise",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 168,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72990,
+      "name": "SNRT Radio Ujda",
+      "slug": "SNRT_Radio_Ujda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/2c/862c9353d613a06f141985e3d52d52ef.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.0",
+        "dialStripped": "1040"
+      },
+      "aliases": {
+        "cleanName": "snrt ujda",
+        "alsoKnownAs": "SNRT Radio Régionale Ujda"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oujda",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Oujda, Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115381,
+          "url": "https://hts05.brascast.com:13546/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 69635,
+      "name": "راديو منارات",
+      "slug": "Radio_Manarat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/b4/27b44dbd7a000b30f5cfc9d8f3d59f75.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw mnrt",
+        "alsoKnownAs": "Radio Manarat"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110782,
+          "url": "http://listen.radioking.com/radio/252934/stream/297379",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110781,
+          "url": "http://www.radioking.com/play/r-dyo-mn-r-t-radio-manarate",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110783,
+          "url": "https://www.radioking.com/play/r-dyo-mn-r-t-radio-manarate",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110784,
+          "url": "https://listen.radioking.com/radio/252934/stream/297379",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 43666,
+      "name": "أضواء إف إم - أضواء إف إم4",
+      "slug": "AdwaaFM_AdwaaFM4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/af/a4af4de3f08a0b7a883b1e799af3f8e5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dw f m dw f m4",
+        "alsoKnownAs": "AdwaaFM - AdwaaFM4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Arabic Children & Family Education",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70174,
+          "url": "https://stream.zeno.fm/8wrs2bh0x1zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70173,
+          "url": "http://stream.zeno.fm/8wrs2bh0x1zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20939,
+      "name": "Hit Radio - 100% Urban",
+      "slug": "Hit_Radio_100_R_and_B",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/c9/dfc99793b074cdb3a1f7ca7f5ca6dc94.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 urban",
+        "alsoKnownAs": "Hit Radio - 100% R&B [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Blues Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 30806,
+          "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30805,
+          "url": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 9077051,
+      "name": "سماء راديو",
+      "slug": "SAMAA_Radio_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/dd/d7dd91f33adb21488b488bbcda443546.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sm rdyw",
+        "alsoKnownAs": "SAMAA Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236214,
+          "url": "https://stream.zeno.fm/nezfuswpyjfuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236213,
+          "url": "http://stream.zeno.fm/nezfuswpyjfuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 242277,
+      "name": "Hit Radio 100% TikTok",
+      "slug": "HIT_Radio_8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/cc/30cce031d958d758e29f1a9af36fb9a9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 tiktok",
+        "alsoKnownAs": "Hit Radio - 100% Buzz [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185403,
+          "url": "https://buzz.ice.infomaniak.ch/buzz-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185402,
+          "url": "http://icepe4.infomaniak.ch:80/buzz-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185401,
+          "url": "http://buzz.ice.infomaniak.ch/buzz-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 73033,
+      "name": "Radio425fm",
+      "slug": "Radio_425_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/7c/167cf630f827a243de1f2c45df3a6f39.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radio425fm",
+        "alsoKnownAs": "Radio Joussour [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casablanca",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Casablanca, Morocco",
+        "coordinates": {
+          "latitude": "33.5883100",
+          "longitude": "-7.6113800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115458,
+          "url": "http://stream.zeno.fm/heepkvo1lfavv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 242510,
+      "name": "Medi 1 Radio - Hits",
+      "slug": "Medi_1_Radio_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/d5/bad5637bd7cac3d52d8e58b255e29c9a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185420,
+          "url": "https://live.medi1.com/Hits",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 179,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185419,
+          "url": "http://live.medi1.com/Hits",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 173,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20621,
+      "name": "Hit Radio - 100% Party",
+      "slug": "Hit_Radio_100_Dancefloor",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/7b/e07b33f7cb795f7b81e071e2b7d78327.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 party",
+        "alsoKnownAs": "Hit Radio - 100% Dancefloor [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30099,
+          "url": "http://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30101,
+          "url": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30100,
+          "url": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 65067,
+      "name": "Medi 1 Radio - DJ",
+      "slug": "Medi_1_Radio_DJ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/8f/4c8f5d1ddce21ff7490bb474858131d4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 dj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105375,
+          "url": "http://live.medi1.com/Dj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 187,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105376,
+          "url": "https://live.medi1.com/Dj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 181,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 43694,
+      "name": "أضواء إف إم - أضواء إف إم3",
+      "slug": "AdwaaFM_AdwaaFM3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/42/eb42e530dde1c8a497105a6d84a98f71.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dw f m dw f m3",
+        "alsoKnownAs": "AdwaaFM - AdwaaFM3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Arabic Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70234,
+          "url": "https://stream.zeno.fm/x4451xh0x1zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70233,
+          "url": "http://stream.zeno.fm/x4451xh0x1zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 10739,
+      "name": "Medi 1 Radio - Jazz",
+      "slug": "Medi_1_Radio_Jazz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/e7/5be7c2fb77e02d8175aec403915e4a20.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 jazz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14840,
+          "url": "http://live.medi1.com/Jazz",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 171,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 14841,
+          "url": "https://live.medi1.com/Jazz",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 56089,
+      "name": "Hit Radio - 100% Cover",
+      "slug": "Hit_Radio_100_Cover",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/c9/1bc9b848f8cda949d4db2ea196f13fdd.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 cover",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91513,
+          "url": "http://cover2.ice.infomaniak.ch/cover2-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91514,
+          "url": "http://icepe12.infomaniak.ch:80/cover2-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91512,
+          "url": "http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91515,
+          "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 28394,
+      "name": "La Confiserie Sonore",
+      "slug": "La_Confiserie_Sonore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/7b/667bff8def71e94f014978fe9eb65a2c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "la confiserie sonore",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marrakech",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Marrakech, Morocco",
+        "coordinates": {
+          "latitude": "33.3562111",
+          "longitude": "-6.1904463"
+        }
+      },
+      "genre": {
+        "text": "Deep House Electro House Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45737,
+          "url": "http://listen.radioking.com/radio/115108/stream/154390",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45739,
+          "url": "https://listen.radioking.com/radio/115108/stream/154390",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45738,
+          "url": "http://www.radioking.com/play/la-confiserie-sonore",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 62008,
+      "name": "Medi 1 Radio - Acoustic",
+      "slug": "Medi_1_Radio_Acoustic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/f6/9df6c33d72bbbbd009ef3790cdd298dd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 acoustic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Acoustic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101770,
+          "url": "http://live.medi1.com/Acoustic",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 194,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101771,
+          "url": "https://live.medi1.com/Acoustic",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 156,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 51410,
+      "name": "Hit Radio - 100% Classic",
+      "slug": "Hit_Radio_100_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/bb/23bb8f28fc30fb19d0a920d221a2b31f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hit 100 classic",
+        "alsoKnownAs": "Hit Radio - 100% Gold [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Rabat, Morocco",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83359,
+          "url": "http://gold.ice.infomaniak.ch/gold-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83360,
+          "url": "https://gold.ice.infomaniak.ch/gold-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32738,
+      "name": "Medi 1 Radio - Latino",
+      "slug": "Medi_1_Radio_Latino",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/25/2d2599c370c18137d15e16eb1c8cc228.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 latino",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53406,
+          "url": "http://live.medi1.com/Latino",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 190,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53407,
+          "url": "https://live.medi1.com/Latino",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73228,
+      "name": "Hexagone FM",
+      "slug": "Hexagone_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/7f/e77f2e8ab8c98e7ed1c99d01c1255172.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hexagone",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Meknes",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Meknes, Morocco",
+        "coordinates": {
+          "latitude": "33.3562111",
+          "longitude": "-6.1904463"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Arabic Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115741,
+          "url": "http://radio.ready2play.fr:1700/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115742,
+          "url": "https://radio.ready2play.fr:1705/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 29152,
+      "name": "Alpha Radio",
+      "slug": "ALPHA_RADIO_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/eb/12eb3e4879b4226a6cbb467bc3e1bfb0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "alpha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": ", Morocco",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Dance Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46949,
+          "url": "http://manager4.streamradio.fr:1310/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46950,
+          "url": "https://manager4.streamradio.fr:1315/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 46547,
+      "name": "Medi 1 Radio - Lounge",
+      "slug": "Medi_1_Radio_Lounge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/80/9f80745d6ee31988f2ba3ef3b4943832.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "medi 1 lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tangier",
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "locationText": "Tangier, Morocco",
+        "coordinates": {
+          "latitude": "35.7672700",
+          "longitude": "-5.7997500"
+        }
+      },
+      "genre": {
+        "text": "Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74385,
+          "url": "http://live.medi1.com/Lounge",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 175,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74386,
+          "url": "https://live.medi1.com/Lounge",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 183,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1537 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:15.581Z",
+  "endpoint": "/countries/Afghanistan/radios",
+  "countryCode": "af",
+  "countryName": "Afghanistan",
+  "expectedCount": 19,
+  "count": 19,
+  "data": [
+    {
+      "id": 72898,
+      "name": "بورجل راډیو",
+      "slug": "Boorjal_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/1a/861a5aad1b761f8ce3a0d05f1957a8aa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bwrjl rdyw",
+        "alsoKnownAs": "Boorjal Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Arabic News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 6,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115256,
+          "url": "https://s49.radiolize.com/radio/8180/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115257,
+          "url": "https://s49.radiolize.com:8180/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277278,
+          "url": "https://ec1.everestcast.host:1920/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277277,
+          "url": "http://ec1.everestcast.host:1920/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115255,
+          "url": "http://s49.radiolize.com:8180/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 98769,
+      "name": "رادیو بیگم",
+      "slug": "Begum_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/90/8e9075f36cd1e6107f696389c1bffab9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "rdyw bygm",
+        "alsoKnownAs": "Begum FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Middle Eastern News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142632,
+          "url": "http://s5.radio.co/se6264cb34/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142633,
+          "url": "https://s5.radio.co/se6264cb34/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 98803,
+      "name": "Radio Spogmai",
+      "slug": "Radio_Spogmai",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/ba/93ba9b5686ddc32aa7ced63884a17954.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "spogmai",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142635,
+          "url": "http://ca10.rcast.net:8026/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142636,
+          "url": "https://stream2.rcast.net/61805/;",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 39005,
+      "name": "Shamshad Radio FM",
+      "slug": "Shamshad_Radio_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/ca/29ca1dc53d0e60eb7783bf67a827d496.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.4",
+        "dialStripped": "1034"
+      },
+      "aliases": {
+        "cleanName": "shamshad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63357,
+          "url": "http://nl1.streamingpulse.com:7080/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 25527,
+      "name": "رادیو حقیقت",
+      "slug": "Afghan_Radio_Haqiqat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/49/2c495f721b5d289d533a3cdfc117aea3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw hqyqt",
+        "alsoKnownAs": "Afghan Radio Haqiqat"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aybak",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Aybak, Samangan, Afghanistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40054,
+          "url": "http://stream.zeno.fm/pz3s6zrgwzzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40055,
+          "url": "https://stream.zeno.fm/pz3s6zrgwzzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 98869,
+      "name": "BFBS Afghanistan 102.1",
+      "slug": "BFBS_Afghanistan_102.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/7a/467aeae0a831de0e9a9841602a6c8c95.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1",
+        "dialStripped": "1021"
+      },
+      "aliases": {
+        "cleanName": "bfbs 102.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 142641,
+          "url": "https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs9.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142639,
+          "url": "http://icy-e-03-boh.sharp-stream.com/ssvcbfbs9.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142640,
+          "url": "https://icy-e-03-boh.sharp-stream.com/ssvcbfbs9.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142638,
+          "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs9.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73002,
+      "name": "سلام وطندار",
+      "slug": "Salam_Watandar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/0d/980d117770d305da418c3398bab7ad3f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "slm wtndr",
+        "alsoKnownAs": "Salam Watandar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Arabic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115404,
+          "url": "http://176.31.248.14:12238/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115403,
+          "url": "http://176.31.248.14:12238/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115405,
+          "url": "https://s10.myradiostream.com/:12238/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115406,
+          "url": "https://s10.myradiostream.com/:12238/stream.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 69656,
+      "name": "Radio Ariana FM 93.5",
+      "slug": "Radio_Ariana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/42/5b423d4537462b6fe2fae38325abccab.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "ariana 93.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110814,
+          "url": "http://streams.radio.co/sa3345aaa8/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110815,
+          "url": "https://streams.radio.co/sa3345aaa8/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 98847,
+      "name": "Taleemul Quran Radio",
+      "slug": "Taleemul_Quran_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/05/090556dd6a71e9a93ff08ec84be59dad.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "taleemul quran",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kandahar",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kandahar, Afghanistan",
+        "coordinates": {
+          "latitude": "34.9663020",
+          "longitude": "67.0938543"
+        }
+      },
+      "genre": {
+        "text": "Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142637,
+          "url": "http://radio.hewadict.com:8004/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60512,
+      "name": "Sadaye Zindagi - Afghan Christian Radio",
+      "slug": "Sadaye_Zindagi_Afghan_Christian_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/ea/45ea248a273d30d262710e390c507740.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sadaye zindagi afghan christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98950,
+          "url": "http://afghanradio.org:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268225,
+          "url": "http://afghanradio.org:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 98961,
+      "name": "Radio Tarhan",
+      "slug": "Radio_Tarhan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/b2/a6b2038e44bb3d66df55f5438d18c8fd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tarhan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Middle Eastern Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142648,
+          "url": "https://stream.zeno.fm/cspa89xfsc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142647,
+          "url": "http://stream.zeno.fm/cspa89xfsc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 98903,
+      "name": "رادیو آشپزی",
+      "slug": "Radio_Cooking",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/64/6664afc2be738e2cc2640ca6badf5dc1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw ashpzy",
+        "alsoKnownAs": "Radio Cooking"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Culture Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142644,
+          "url": "http://stream.zeno.fm/dk6riq4gsybuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142645,
+          "url": "https://stream.zeno.fm/dk6riq4gsybuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 73067,
+      "name": "Jawanan 97.5 FM",
+      "slug": "Jawanan_97.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/65/42657eec205eefebaf8ab5f6906f33e8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "jawanan 97.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Arabic College",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115509,
+          "url": "http://s3.radio.co/s3a13a855f/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115511,
+          "url": "https://s3.radio.co/s3a13a855f/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115512,
+          "url": "https://s3.radio.co/s3a13a855f/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 98897,
+      "name": "Radio Killid - RKK",
+      "slug": "Radio_Killid_RKK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/b5/00b5a60411d89b06c0dd942efe12d464.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "killid rkk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kabul",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Kabul, Afghanistan",
+        "coordinates": {
+          "latitude": "34.5281300",
+          "longitude": "69.1723300"
+        }
+      },
+      "genre": {
+        "text": "Art Culture Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142643,
+          "url": "http://s1.voscast.com:7886/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 99079,
+      "name": "MUSCIYYYYYY",
+      "slug": "MUSCIYYYYYY",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/d0/35d0c37100d34f61ed09a46b2d976249.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "musciyyyyyy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": ", Afghanistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142654,
+          "url": "http://stream.zeno.fm/k16kxmd3cf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142655,
+          "url": "https://stream.zeno.fm/k16kxmd3cf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 98904,
+      "name": "رادیو فجر بلخ",
+      "slug": "Fajr_FM_96.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/94/1394d24328b12b9d0440970742b2de3f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "rdyw fjr blkh",
+        "alsoKnownAs": "Fajr FM 96.3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mazari Sharif",
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": "Mazari Sharif, Afghanistan",
+        "coordinates": {
+          "latitude": "34.9663020",
+          "longitude": "67.0938543"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142646,
+          "url": "http://www.hewadwal.com:8004/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 99088,
+      "name": "DOFAGCHVU",
+      "slug": "DOFAGCHVU",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/24/4224c8fea627214e553c41e7ad15df9d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dofagchvu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": ", Afghanistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142656,
+          "url": "http://stream.zeno.fm/llfrfowpslcvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142657,
+          "url": "https://stream.zeno.fm/llfrfowpslcvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 31000,
+      "name": "Lone Star Ambient",
+      "slug": "Lone_Star_Ambient",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/77/1c77617b08e8d1e2d3e2cf39c6c8534e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lone star ambient",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": ", Afghanistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49830,
+          "url": "http://stream.zeno.fm/ebwirsb4ddvtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49831,
+          "url": "https://stream.zeno.fm/ebwirsb4ddvtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 72403,
+      "name": "Vidyasagar 1",
+      "slug": "Vidyasagar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/5c/b55c0ef2e302408cf78386667505bb39.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vidyasagar 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "locationText": ", Afghanistan",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bollywood Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114676,
+          "url": "https://stream.zeno.fm/g428kyg3138uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114675,
+          "url": "http://stream.zeno.fm/g428kyg3138uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

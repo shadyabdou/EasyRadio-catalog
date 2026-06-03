@@ -1,0 +1,426 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:46:14.902Z",
+  "endpoint": "/countries/Swaziland/radios",
+  "countryCode": "swazilan",
+  "countryName": "Swaziland",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 129297,
+      "name": "Voice of the Church FM - VOCFM",
+      "slug": "Voice_of_the_Church_FM_VOCFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/31/f5318fa6979f4ef93e5bac8dc0889b76.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "voice of the church vocfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manzini",
+        "countryName": "Swaziland",
+        "countryCode": null,
+        "locationText": "Manzini, Swaziland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2190,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159066,
+          "url": "https://edge.iono.fm/xice/350_low.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 36,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159062,
+          "url": "http://edge.iono.fm/xice/350_high.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 144,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159065,
+          "url": "https://edge.iono.fm/xice/350_high.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 157,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159064,
+          "url": "https://edge.iono.fm/xice/350_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159063,
+          "url": "http://edge.iono.fm/xice/350_low.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159061,
+          "url": "http://edge.iono.fm/xice/350_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 82,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 169936,
+      "name": "EBIS Radio 1",
+      "slug": "EBIS_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/ac/85ac4822e6d2d53b35a052661ae51ddc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "ebis 1",
+        "alsoKnownAs": "Eswatini Broadcasting and Information Services Radio 1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mbabane",
+        "countryName": "Swaziland",
+        "countryCode": null,
+        "locationText": "Mbabane, Swaziland",
+        "coordinates": {
+          "latitude": "-26.3166700",
+          "longitude": "31.1333300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1170,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243602,
+          "url": "http://securestreams.autopo.st:2617/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169357,
+          "url": "http://ebisradio.zapto.org:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 169945,
+      "name": "EBIS Radio 2",
+      "slug": "EBIS_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/ee/27ee8000436d5eb5036fc550287d93de.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "ebis 2",
+        "alsoKnownAs": "Eswatini Broadcasting and Information Services Radio 2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mbabane",
+        "countryName": "Swaziland",
+        "countryCode": null,
+        "locationText": "Mbabane, Swaziland",
+        "coordinates": {
+          "latitude": "-26.3166700",
+          "longitude": "31.1333300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169361,
+          "url": "http://ebisradio.zapto.org:8002/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 30990,
+      "name": "Blue Sky FM - Ambient",
+      "slug": "Blue_Sky_FM_Ambient",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/43/59437eefdd22ba5f413d916c936f1a96.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "blue sky ambient",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Swaziland",
+        "countryCode": null,
+        "locationText": ", Swaziland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49810,
+          "url": "http://stream.zeno.fm/1w5ec6zfbxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49811,
+          "url": "https://stream.zeno.fm/1w5ec6zfbxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44137,
+      "name": "WillyBamz Stereo",
+      "slug": "WillyBamz_Stereo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/e4/6ce4b83308b962947253da6439a4e56f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "willybamz stereo",
+        "alsoKnownAs": "WillyBamz Top Stereo"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mbabane",
+        "countryName": "Swaziland",
+        "countryCode": null,
+        "locationText": "Mbabane, Swaziland",
+        "coordinates": {
+          "latitude": "-26.3166700",
+          "longitude": "31.1333300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71106,
+          "url": "https://stream.zeno.fm/dr9wmwug8yzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71105,
+          "url": "http://stream.zeno.fm/dr9wmwug8yzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

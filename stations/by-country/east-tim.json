@@ -1,0 +1,248 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:28.089Z",
+  "endpoint": "/countries/East Timor/radios",
+  "countryCode": "east-tim",
+  "countryName": "East Timor",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 23978298,
+      "name": "AWR TImor Leste",
+      "slug": "Adventist_World_Radio_Timor_Leste",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/89/ab899b5cdacd742c8cad6558ae3a0987.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "awr timor leste",
+        "alsoKnownAs": "Adventist World Radio Timor Leste"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dili",
+        "countryName": "East Timor",
+        "countryCode": null,
+        "locationText": "Dili, East Timor",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246566,
+          "url": "https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246567,
+          "url": "https://mediacp-id1.arenastreaming.com:8014/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246565,
+          "url": "http://mediacp-id1.arenastreaming.com:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256329,
+          "url": "http://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 474352,
+      "name": "Radio Liberdade Dili",
+      "slug": "Radio_Liberdade_Dili",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/75/f275a43d24e40b3c407e2d7666f78c65.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.8",
+        "dialStripped": "958"
+      },
+      "aliases": {
+        "cleanName": "liberdade dili",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dili",
+        "countryName": "East Timor",
+        "countryCode": null,
+        "locationText": "Dili, East Timor",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249655,
+          "url": "https://streaming.kalohan.net:2199/tunein/raliber-stream.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271365,
+          "url": "http://66.94.113.212:8186/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50055,
+      "name": "Buji watamtum",
+      "slug": "Buji_watamtum",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/85/fc853b1cc856993e8e1774bf8b263300.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buji watamtum",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "East Timor",
+        "countryCode": null,
+        "locationText": ", East Timor",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80672,
+          "url": "https://stream.zeno.fm/w31n2dyhwf9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80671,
+          "url": "http://stream.zeno.fm/w31n2dyhwf9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

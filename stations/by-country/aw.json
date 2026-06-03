@@ -1,0 +1,2031 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:39.146Z",
+  "endpoint": "/countries/Aruba/radios",
+  "countryCode": "aw",
+  "countryName": "Aruba",
+  "expectedCount": 26,
+  "count": 26,
+  "data": [
+    {
+      "id": 476194,
+      "name": "Top FM 95.1",
+      "slug": "Top_FM_95.1_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/21/97210dbf71c19dcfa8e1512130a4d1d9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "top 95.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Cruz",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Santa Cruz, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219115,
+          "url": "http://c11.radioboss.fm:8437/topfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255656,
+          "url": "https://c11.radioboss.fm:8437/topfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 215037,
+      "name": "GFM Galactica 99.9",
+      "slug": "GFM_Galactica_99.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/28/e9285fd4253543645385ca765cd46f0d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gfm galactica 99.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Christian Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180438,
+          "url": "http://stream.zenolive.com/ywr9n56pnc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180441,
+          "url": "https://stream.zeno.fm/1vsvg56pnc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180440,
+          "url": "https://stream.zenolive.com/ywr9n56pnc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 180439,
+          "url": "http://stream.zeno.fm/1vsvg56pnc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 89198,
+      "name": "Radio Bo Guia 88.9 FM",
+      "slug": "Bo_Guia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/09/5d099e8d6169fff618623d60be6551e8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "bo guia 88.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 254061,
+          "url": "https://whooshserver.net:9880/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252738,
+          "url": "https://whooshserver.net:9880/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 135167,
+          "url": "http://whooshserver.net:9880/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 135165,
+          "url": "http://whooshserver.net:9880/mobile",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 135166,
+          "url": "http://whooshserver.net:9880/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250253,
+          "url": "https://whooshserver.net:9880/mobile",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 376167,
+      "name": "Radio Victoria Aruba",
+      "slug": "Radio_Victoria_93.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/1b/be1b9922fc44c02f9e8906b9dabfcc9f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1",
+        "dialStripped": "931"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 209639,
+          "url": "https://stream.zeno.fm/702pgnahqchvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209637,
+          "url": "http://stream.zeno.fm/702pgnahqchvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 376141,
+      "name": "Magic 96.5",
+      "slug": "Magic_96.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/e2/d5e2854872e0fd67e710a161a06e19fe.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "magic 96.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 209635,
+          "url": "http://158.69.114.190:8072/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 50573,
+      "name": "Oldies 99.9 Aruba",
+      "slug": "Oldies_99.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/87/95877d84c8f055e61a79051f11de02e1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "oldies 99.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81727,
+          "url": "http://stream.zeno.fm/tnkgv5vms68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81726,
+          "url": "http://stream.zeno.fm/ca2yy5vms68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81728,
+          "url": "https://stream.zeno.fm/ca2yy5vms68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81729,
+          "url": "https://stream.zeno.fm/tnkgv5vms68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 56113,
+      "name": "Super Exitos Aruba",
+      "slug": "Super_Exitos_Aruba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/fa/ecfaf5b9e7fe5898602930df616cfd8f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "super exitos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 264834,
+          "url": "http://82.145.59.200:29493/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91555,
+          "url": "https://securestreams2.autopo.st:1264/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91553,
+          "url": "http://stream.zeno.fm/28d9wayzmc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91552,
+          "url": "http://82.145.59.200:29493/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91554,
+          "url": "https://stream.zeno.fm/28d9wayzmc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 209303,
+      "name": "Fresh FM 104.3",
+      "slug": "Fresh_FM_104.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/90/bb90241345ad3093896f0714e94b7faa.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "fresh 104.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "00s 80s 90s Europe",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 179544,
+          "url": "http://www.fresharuba.com:8006/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179545,
+          "url": "http://www.fresharuba.com:8006/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 376293,
+      "name": "Power FM 101.7",
+      "slug": "Blizz_101.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/77/5477c7ae13fa35c2e87e156922cba694.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "power 101.7",
+        "alsoKnownAs": "Blizz 101.7 (formerly)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209648,
+          "url": "http://vcp11.myplaytv.com:1935/powerfm/powerfm/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 3164,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21806,
+      "name": "Cool FM 98.9",
+      "slug": "Cool_FM_98.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/33/8733a737acbe595eaad5c55ff83f4f4d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "cool 98.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Entertainment Reggaeton Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32659,
+          "url": "http://coolaruba.com:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 55767,
+      "name": "Hit94 FM",
+      "slug": "Hit94_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/a9/46a9453c83c8fc638924db33e17d9c4d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1 ",
+        "dialStripped": "941 "
+      },
+      "aliases": {
+        "cleanName": "hit94",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 90919,
+          "url": "http://162.244.80.20:8490/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "name": "Ambiente Musica dj Aruba",
+      "slug": "Ambiente_Musica_dj_Aruba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/0b/810b3d254ec848e8ae92e121bac5b64b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ambiente musica dj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": ", Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 9821,
+          "url": "https://stream.zeno.fm/whluhyt6t88tv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 9820,
+          "url": "http://stream.zeno.fm/whluhyt6t88tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 376728,
+      "name": "Mas FM 105.1",
+      "slug": "Mas_FM_105.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/38/9038c185cb46d1085ea4337454276f56.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "mas 105.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Latin Spanish Tropical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209715,
+          "url": "https://c13.radioboss.fm:8647/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209714,
+          "url": "http://c13.radioboss.fm:8647/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 45324,
+      "name": "Radio Tropical Aruba",
+      "slug": "Radio_Tropical_Aruba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/35/bc356c80ef06d47986e5a4d01549f543.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tropical",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Nicolas",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "San Nicolas, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Latin Tropical World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 81494,
+      "name": "Lion FM Aruba",
+      "slug": "Lion_FM_Aruba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/b8/1cb81f2f94f1509f3f53dc9089fe09e9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dance Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126732,
+          "url": "http://stream.zeno.fm/kelk9nrrydzvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126733,
+          "url": "https://stream.zeno.fm/kelk9nrrydzvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 519790,
+      "name": "VIP Radio",
+      "slug": "YouthFever_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/03/8a031e36dbb35265a1d8d963cd061f9e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vip",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Noord",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Noord, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253826,
+          "url": "https://s02.whooshserver.net:8054/vip",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 222210,
+          "url": "http://s02.whooshserver.net:8054/vip",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 376973,
+      "name": "Radio 737",
+      "slug": "Radio_737",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/5c/a15c686dd4a7a68b8a509481628cbff9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "737",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209765,
+          "url": "http://cast4.my-control-panel.com:7170/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50026,
+      "name": "Lalolallollllllll",
+      "slug": "Lalolallollllllll",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/f7/6cf7cfb79b680ccbb7c02acb2b0316eb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lalolallollllllll",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": ", Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80617,
+          "url": "http://stream.zeno.fm/kanemge3ba9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80618,
+          "url": "https://stream.zeno.fm/kanemge3ba9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64472,
+      "name": "VIP Radio - VIP Dance",
+      "slug": "VIP_Radio_VIP_Dance",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/e0/dae024270b8b9de3d6942cbc43e23ae8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vip vip dance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Noord",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Noord, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104586,
+          "url": "http://s02.whooshserver.net:8054/dance",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 108,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50005,
+      "name": "1vadivucom",
+      "slug": "1vadivucom",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/6f/f56f8a3446cfaca9d8988a4307a99494.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1vadivucom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": ", Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80577,
+          "url": "http://stream.zeno.fm/g78xy2be838uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80578,
+          "url": "https://stream.zeno.fm/g78xy2be838uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 48404957,
+      "name": "VIP Radio - VIP Christmas",
+      "slug": "VIP_Radio_VIP_Christmas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/e0/f8e01649599e708e179eabc63277a215.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vip vip christmas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Noord",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Noord, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277985,
+          "url": "http://s03.whooshclouds.net:8501/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 25157,
+      "name": "VIP Radio - VIP Arubiano",
+      "slug": "VIP_Radio_VIP_Arubiano",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6a/c8/6ac8412b99b30bc7bbb422766be395ec.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vip vip arubiano",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Noord",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Noord, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39356,
+          "url": "http://s02.whooshserver.net:8054/aua",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 158,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 329417,
+      "name": "Mega 88 FM",
+      "slug": "Mega_88_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f3/cd/f3cd8706467d23415075f278751bc2d9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1 MHZ",
+        "dialStripped": "881 MHZ"
+      },
+      "aliases": {
+        "cleanName": "mega 88",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 203178,
+          "url": "http://s5.voscast.com:10219/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 203177,
+          "url": "http://s5.voscast.com:10218/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nl",
+          "name": "Dutch"
+        }
+      ]
+    },
+    {
+      "id": 8382703,
+      "name": "Heart Radio Aruba 106.7 fm",
+      "slug": "Heart_Radio_Aruba_106.7_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/db/c1db11757674335cc124e910fa9b735b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.7",
+        "dialStripped": "1067"
+      },
+      "aliases": {
+        "cleanName": "heart 106.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Dance Love Songs Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 235682,
+          "url": "http://live2.tensila.com/heart-v-1.heartar/hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1500,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 246787,
+          "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1500,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 81461,
+      "name": "Massive Aruba",
+      "slug": "Massive_103.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/1a/1e1a43b08654fb841cd3da2879ce4d84.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "massive",
+        "alsoKnownAs": "Massive 103.5 FM Aruba"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Nicolas",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "San Nicolas, Aruba",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126709,
+          "url": "http://surilive.com:8350/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254764,
+          "url": "https://surilive.com:8350/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 126710,
+          "url": "https://surilive.com:8350//stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 376733,
+      "name": "Ritmo 99.9",
+      "slug": "Ritmo_99.9",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ritmo 99.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oranjestad",
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "locationText": "Oranjestad, Aruba",
+        "coordinates": {
+          "latitude": "12.5239800",
+          "longitude": "-70.0270300"
+        }
+      },
+      "genre": {
+        "text": "Tropical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209716,
+          "url": "http://stream.zeno.fm/hm24fdaqdd0tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209717,
+          "url": "https://stream.zeno.fm/hm24fdaqdd0tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

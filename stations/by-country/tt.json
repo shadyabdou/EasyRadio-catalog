@@ -1,0 +1,5997 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:46:29.713Z",
+  "endpoint": "/countries/Trinidad and Tobago/radios",
+  "countryCode": "tt",
+  "countryName": "Trinidad and Tobago",
+  "expectedCount": 70,
+  "count": 70,
+  "data": [
+    {
+      "id": 208657,
+      "name": "I955 FM",
+      "slug": "I_95_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b6/b8/b6b8126f5c7e8138bf89c79261926977.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "i955",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Current Affairs Entertainment Gospel News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3780,
+        "byCountry": {
+          "us": 75,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 5,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179308,
+          "url": "http://ice31.securenetsystems.net/I95",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 179310,
+          "url": "https://ice31.securenetsystems.net:80/I95",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 179307,
+          "url": "http://ice31.securenetsystems.net:80/I95",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 179309,
+          "url": "https://ice31.securenetsystems.net/I95",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 62331,
+      "name": "Radio Tambrin 92.7 FM Live Stream",
+      "slug": "Radio_Tambrin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/c7/b4c7f5726b61738816fd1ec58f726a21.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "tambrin 92.7 live stream",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Scarborough",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Scarborough, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "11.1833300",
+          "longitude": "-60.7333300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2580,
+        "byCountry": {
+          "us": 53,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102135,
+          "url": "https://ice42.securenetsystems.net:80/TAMBRIN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 102134,
+          "url": "https://ice42.securenetsystems.net/TAMBRIN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 102132,
+          "url": "http://ice42.securenetsystems.net/TAMBRIN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 102133,
+          "url": "http://ice42.securenetsystems.net:80/TAMBRIN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21258,
+      "name": "94.1 Boom Champions",
+      "slug": "Rhythm_City_94_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/f2/76f2b95febe02d4895f60a1a590bef8d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "94.1 boom champions",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2250,
+        "byCountry": {
+          "us": 64,
+          "gb": 9,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 2,
+          "ca": 28,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 242503,
+          "url": "https://s8.yesstreaming.net:7103/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242504,
+          "url": "https://s8.yesstreaming.net:7103/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31510,
+          "url": "http://s8.yesstreaming.net:7103/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31509,
+          "url": "http://s8.yesstreaming.net:7103/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 264117,
+      "name": "ISAAC 98.1 FM",
+      "slug": "ISAAC_98.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/b2/84b218c3bb036498ab50e41e8319aa7f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "isaac 98.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Gospel Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2100,
+        "byCountry": {
+          "us": 30,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189357,
+          "url": "https://ice66.securenetsystems.net:80/FFBN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 189356,
+          "url": "https://ice66.securenetsystems.net/FFBN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 189354,
+          "url": "http://ice66.securenetsystems.net/FFBN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 189355,
+          "url": "http://ice66.securenetsystems.net:80/FFBN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 56804,
+      "name": "Sweet FM 100.1 FM",
+      "slug": "Sweet_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/00/0a0022da82d91bf4d85bd6832c5b345e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "sweet 100.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Caribbean Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1650,
+        "byCountry": {
+          "us": 28,
+          "gb": 5,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93433,
+          "url": "http://media.streambrothers.com:18448/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93434,
+          "url": "http://media.streambrothers.com:8448/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18060,
+      "name": "Slam 100.5 FM",
+      "slug": "Slam_100.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/a5/d0a58ef294bc72e415e9d9d65750191a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "slam 100.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 37,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 11,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23124,
+          "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243237,
+          "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 23125,
+          "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 42542,
+      "name": "96.1WEFM",
+      "slug": "WE_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/41/5841f88f4a62a201efc0021a1c650b43.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "96.1 wefm",
+        "alsoKnownAs": "OJO World - 96.1WEFM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Woodbrook",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Woodbrook, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Hip Hop Latin Pop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 49,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 20,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68381,
+          "url": "rtmp://fms.ttrn.org:1936/live/961wefm.sdp",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 196,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21591,
+      "name": "VIBE CT 105 FM",
+      "slug": "Vibe_CT_105_TBC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/90/c8905f003baa494d3fe8cc29ef56cfd2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "vibe ct 105",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1320,
+        "byCountry": {
+          "us": 27,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 15,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32247,
+          "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32246,
+          "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 4110,
+      "name": "Music Radio 97",
+      "slug": "Music_Radio_97_97.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/38/bc38efe94015d27aa9debd15e9fe4b3c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "music 97",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1200,
+        "byCountry": {
+          "us": 10,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8411,
+          "url": "http://ice42.securenetsystems.net/MR97",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 8413,
+          "url": "https://ice42.securenetsystems.net:80/MR97",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 8412,
+          "url": "http://ice42.securenetsystems.net:80/MR97",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 8414,
+          "url": "https://ice42.securenetsystems.net/MR97",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 365370,
+      "name": "103FM",
+      "slug": "FM_103",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/9a/e09ad1d74ae7deb8ba01247b6b609d0f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "103fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 20,
+          "gb": 5,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 21,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207807,
+          "url": "http://s4.myradiostream.com:14348/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38826,
+      "name": "Sangeet 106.1 FM",
+      "slug": "Sangeet_Radio_106",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/78/c378529152bba34b327f31a45cb4dc45.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "sangeet 106.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Hits News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 27,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 17,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63033,
+          "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63032,
+          "url": "http://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63031,
+          "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63034,
+          "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 365373,
+      "name": "Scorch Radio 101.1",
+      "slug": "Scorch_Radio_101.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/cd/70cd302a66a266b3846b8d05094847a3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "scorch 101.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 12,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 10,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243238,
+          "url": "https://s3.radio.co/sd03f5dd0c/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207810,
+          "url": "http://s3.radio.co/sd03f5dd0c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207813,
+          "url": "http://s3.radio.co/sd03f5dd0c/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207814,
+          "url": "https://s3.radio.co/sd03f5dd0c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48090,
+      "name": "Talk City 91.1 FM",
+      "slug": "Talk_City_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/75/d975f408c26d94cdc43a33709c52f533.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "talk city 91.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Christian News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 23,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76293,
+          "url": "http://media.streambrothers.com:18450/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81060,
+      "name": "WACK Radio 90.1 FM",
+      "slug": "WACK_90.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/ac/c6acfdc496cdc38cb4e9aa8023fe8562.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "wack 90.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Culture News Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 28,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 4,
+          "ca": 8,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 126297,
+          "url": "https://stream.zenolive.com/6178mp9emq5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126293,
+          "url": "http://stream.zenolive.com/231zgkfyrxmtv?1541351244",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126295,
+          "url": "http://stream.zenolive.com/n3vg32ukh0quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126296,
+          "url": "http://stream.zeno.fm/4h2xb1zme3vtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126294,
+          "url": "http://stream.zenolive.com/6178mp9emq5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126298,
+          "url": "https://stream.zeno.fm/4h2xb1zme3vtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 88997,
+      "name": "Radio Jaagriti",
+      "slug": "Radio_Jaagriti_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/06/8e06f8082c50ffe22fe2886b944887fd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "jaagriti",
+        "alsoKnownAs": "Radio & TV Jaagriti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Community Devotional Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 21,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 11,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278969,
+          "url": "http://radio.sibercdn.com/Radio_Jaagriti-15/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 460,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134912,
+          "url": "http://radio.sibercdn.com/Radio_Jaagriti-15/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 460,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 278971,
+          "url": "https://radio.sibercdn.com/Radio_Jaagriti-15/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 460,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242279,
+          "url": "https://radio.sibercdn.com/Radio_Jaagriti-15/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 460,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 345425,
+      "name": "Next 99.1FM",
+      "slug": "Next_99.1FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/ce/5eceea2f0917381fa04aa76b675156a9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "next 99.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Calypso Pop Soca Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 11,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205280,
+          "url": "http://media.streambrothers.com:18442/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 184,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81023,
+      "name": "RadioTrinbagoWeb",
+      "slug": "RadioTrinbagoWeb",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/1f/811f5f967a7c4d02bc9110b3e517bfbf.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radiotrinbagoweb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Folk Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 19,
+          "gb": 7,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126275,
+          "url": "http://stream.zeno.fm/3zfdc6an7tzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126276,
+          "url": "https://stream.zeno.fm/3zfdc6an7tzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72501,
+      "name": "Aakash Vani 106.5 FM",
+      "slug": "Sangeet_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/75/dd7593b024f3f4eae29c2b1ffe050780.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "aakash vani 106.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 7,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114796,
+          "url": "http://audio-edge-5bkfj.fra.h.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114797,
+          "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 365475,
+      "name": "Soca Switch Radio",
+      "slug": "Soca_Switch_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/3e/d43efe01e75f0e46fa5e579a8b6668b9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "soca switch",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Calypso Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 8,
+          "gb": 10,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207815,
+          "url": "http://stream.zeno.fm/4f738mzizi1uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207818,
+          "url": "https://stream.zeno.fm/4f738mzizi1uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 138,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21281,
+      "name": "Bacchanal Radio",
+      "slug": "Bacchanal_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/4d/ec4d8e4768c4f665be17f3a761bd8463.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bacchanal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montrose",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Montrose, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 10,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 13,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31555,
+          "url": "http://c13.radioboss.fm:8470/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245520,
+          "url": "https://c13.radioboss.fm:8470/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31556,
+          "url": "http://c13.radioboss.fm:8470/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242478,
+          "url": "https://c13.radioboss.fm:8470/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 4247,
+      "name": "107.7 Music for Life",
+      "slug": "107.7_Music_for_Life",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/af/8aafb410b72659b04dd2d335e878f26b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.7",
+        "dialStripped": "1077"
+      },
+      "aliases": {
+        "cleanName": "107.7 music for life",
+        "alsoKnownAs": "OJO World - 107.7 Music for Life"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Reggae Soca Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8582,
+          "url": "rtmp://fms.ttrn.org:1936/live/1077fm.sdp",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 196,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 242107,
+      "name": "Platinum Hits ",
+      "slug": "Platinum_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/ca/62caacf7296561f215707e121292ba47.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "platinum hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185383,
+          "url": "http://ice42.securenetsystems.net/PLATHITS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185384,
+          "url": "http://ice42.securenetsystems.net:80/PLATHITS",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185385,
+          "url": "https://ice42.securenetsystems.net/PLATHITS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185386,
+          "url": "https://ice42.securenetsystems.net:80/PLATHITS",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 72524,
+      "name": "Radio 90.5",
+      "slug": "Radio_905",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/ee/54ee0b75b0559aa6751e8664799db67e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "90.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Dance Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 7,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114817,
+          "url": "https://ice42.securenetsystems.net:80/CR90",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 43,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114816,
+          "url": "https://ice42.securenetsystems.net/CR90",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114814,
+          "url": "http://ice42.securenetsystems.net/CR90",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114815,
+          "url": "http://ice42.securenetsystems.net:80/CR90",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72337,
+      "name": "Win Radio 101.1",
+      "slug": "Masala",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/b6/cdb6955be7047ed3276a4c8671ab86ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "win 101.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chaguanas",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Chaguanas, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5166700",
+          "longitude": "-61.4166700"
+        }
+      },
+      "genre": {
+        "text": "Bollywood Caribbean News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 7,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 6,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114569,
+          "url": "http://stream.radio.co/s9f46a9bb1/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114571,
+          "url": "https://stream.radio.co/s9f46a9bb1/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114570,
+          "url": "https://stream.radio.co/s9f46a9bb1/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 76,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114568,
+          "url": "http://stream.radio.co/s9f46a9bb1/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39032,
+      "name": "Sky 99.5 FM",
+      "slug": "Life_Radio_99.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/59/9659ed28a4211fee2e5f9762db2e937a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "sky 99.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63400,
+          "url": "http://audio-edge-fp8o9.yyz.d.radiomast.io/efe56859-e3cb-4563-8e94-0320488b7cbd",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63401,
+          "url": "https://audio-edge-fp8o9.yyz.d.radiomast.io/efe56859-e3cb-4563-8e94-0320488b7cbd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 365667,
+      "name": "The Street 919FM",
+      "slug": "The_Street_919fm_Tobago",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/7e/9a7e96e593b445908efe3f43b519b1d0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.9",
+        "dialStripped": "919"
+      },
+      "aliases": {
+        "cleanName": "the street 919fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207828,
+          "url": "http://uk7freenew.listen2myradio.com:21153/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21616,
+      "name": "More 104.7 FM",
+      "slug": "104.7_More_Fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/3f/a73f8e2c7a7c6366995388b6238c8490.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "more 104.7",
+        "alsoKnownAs": "Iconic 104.7 [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "80s Oldies Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32290,
+          "url": "http://usa20.fastcast4u.com:2070/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239254,
+          "url": "http://a1.asurahosting.com:8930/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21661,
+      "name": "Radio12TT",
+      "slug": "Radio12TT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/03/2803f585c5d63ce4898a30ad1bb9f044.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radio12tt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Diego Martin",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Diego Martin, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Calypso News Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32390,
+          "url": "https://s2.radio.co/s23ce3db62/listen",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32389,
+          "url": "http://s2.radio.co/s23ce3db62/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 365589,
+      "name": "Power 102 FM",
+      "slug": "Power_FM_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/ed/c6ed7684cea43b841d8dc8f98a68c8fc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.1",
+        "dialStripped": "1021"
+      },
+      "aliases": {
+        "cleanName": "power 102",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255456,
+          "url": "https://s8.yesstreaming.net:7169/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207823,
+          "url": "http://s8.yesstreaming.net:7169/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207827,
+          "url": "https://s8.yesstreaming.net:17169/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207826,
+          "url": "https://s8.yesstreaming.net:17169/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253555,
+          "url": "https://s8.yesstreaming.net:7169/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207825,
+          "url": "http://s8.yesstreaming.net:7169/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39131,
+      "name": "Slam 100.5",
+      "slug": "WMJX_FM_100.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/85/54854b8904f1f93780708162589a0c16.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "slam 100.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Hits Jazz Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63562,
+          "url": "https://streams.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63561,
+          "url": "http://streams.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 365757,
+      "name": "Taj 92.3",
+      "slug": "Taj_92.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/b0/ffb0e5ef35ce28b79be958f7c6896a9a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "taj 92.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 10,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207830,
+          "url": "http://ice66.securenetsystems.net/TAJ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207833,
+          "url": "https://ice66.securenetsystems.net/TAJ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 26,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207832,
+          "url": "http://ice66.securenetsystems.net:80/TAJ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 41,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 207834,
+          "url": "https://ice66.securenetsystems.net:80/TAJ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31915,
+      "name": "Fresh Fire Gospel Radio TT",
+      "slug": "Fresh_Fire_Gospel_Radio_TT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/35/3035e49b3268d13f7c0a50565ae8d02d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fresh fire gospel tt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Gospel Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51775,
+          "url": "https://stream.zeno.fm/t7hky208ab5vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51774,
+          "url": "http://stream.zeno.fm/t7hky208ab5vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81000,
+      "name": "Caribbean Wave Radio QX93",
+      "slug": "Caribbean_Wave_Radio_QX93",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/20/31205f93f3d44f81da5e0700f4b819e0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "caribbean wave qx93",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Diego Martin",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Diego Martin, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Caribbean Latin Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126251,
+          "url": "http://s3.citrus3.com:8002/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126252,
+          "url": "https://s3.citrus3.com:8002/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49039380,
+      "name": "NETT Radio Trinidad",
+      "slug": "NETT_Radio_Trinidad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/5f/925f86cab07492a80667ee2633d9a405.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nett trinidad",
+        "alsoKnownAs": "New Era Radio, New Era TT Radio (NETT Radio)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dabadie",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Dabadie, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 4,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278664,
+          "url": "http://s5.radio.co/s00050971b/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 278665,
+          "url": "https://s5.radio.co/s00050971b/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 365898,
+      "name": "95 The Ultimate One",
+      "slug": "The_Best_Mix_TBC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/d4/a5d4504357e5e2f6ed6b17154227155a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "95 the ultimate one",
+        "alsoKnownAs": "951 The Best Mix [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207844,
+          "url": "http://streams.radiomast.io/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207842,
+          "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207846,
+          "url": "https://streams.radiomast.io/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207845,
+          "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21337,
+      "name": "High Energy FM",
+      "slug": "High_Energy_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/57/f2574b147e71a00a23f5fac9f4fe6189.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "high energy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Pop Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31680,
+          "url": "http://patmos.cdnstream.com:9605/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21742,
+      "name": "Mayaro Radio",
+      "slug": "Mayaro_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/bf/cbbfbb5c0be6b03619205e32077d6f63.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mayaro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": ", Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32540,
+          "url": "http://usa19.fastcast4u.com:6020/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32541,
+          "url": "https://usa19.fastcast4u.com:6020/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 245833,
+      "name": "Hott 93",
+      "slug": "Hott_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/44/a344353751ebc5b9ab5b2b2afc4d7149.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "hott 93",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Woodbrook",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Woodbrook, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185850,
+          "url": "http://ice41.securenetsystems.net/HOTT93",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 36,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185852,
+          "url": "https://ice41.securenetsystems.net/HOTT93",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185849,
+          "url": "http://ice41.securenetsystems.net:80/HOTT93",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185851,
+          "url": "https://ice41.securenetsystems.net:80/HOTT93",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 52140,
+      "name": "Hot Like Fire Radio Online",
+      "slug": "Hot_Like_Fire_Radio_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/d4/41d46fc57bd284398407e13cf4b5b910.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hot like fire online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Bhangra Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279382,
+          "url": "http://fpsnew1.listen2myradio.com:9078/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84661,
+          "url": "http://82.145.63.6:9078/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 28716637,
+      "name": "Reggae On The Radio",
+      "slug": "Reggae_On_The_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/6f/b36f1a4b18429604d168e220d5c348c2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "reggae on the",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Diego Martin",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Diego Martin, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Hits Pop Reggae Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256245,
+          "url": "http://s4.radio.co/s65553716f/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256246,
+          "url": "https://s4.radio.co/s65553716f/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 38139,
+      "name": "STAR 947",
+      "slug": "STAR_947",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/16/ee16670437d2530b2433daf6c51dbb64.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "star 947",
+        "alsoKnownAs": "OJO World - STAR 947"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Alternative Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61971,
+          "url": "rtmp://fms.ttrn.org:1936/live/star947.sdp",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 196,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 315440,
+      "name": "Lit 102.3 FM",
+      "slug": "Lit_102.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/45/3245b1a924b938bc7f594350530e7954.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "lit 102.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200890,
+          "url": "http://s8.yesstreaming.net:7106/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200891,
+          "url": "http://s8.yesstreaming.net:17106/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 200350,
+      "name": "Radio La Isla",
+      "slug": "Radio_La_Isla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/92/e292c024bd0419044bd9ecd33f2c11d8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.4",
+        "dialStripped": "1074"
+      },
+      "aliases": {
+        "cleanName": "la isla",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment Information Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 177210,
+          "url": "https://server10.emitironline.com:30132/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 177209,
+          "url": "http://server10.emitironline.com:8132/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254239,
+          "url": "https://server10.emitironline.com:8132/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 93244,
+      "name": "JO Radio HD",
+      "slug": "JO_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/56/97561f464987450f1291ab5c71ce322c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jo hd",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Arima",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Arima, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.6333300",
+          "longitude": "-61.2833300"
+        }
+      },
+      "genre": {
+        "text": "Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 138659,
+          "url": "http://stream.zeno.fm/xw3tbfhzftzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 138660,
+          "url": "https://stream.zeno.fm/xw3tbfhzftzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 238446,
+      "name": "Heartbeat 104.1FM",
+      "slug": "Ebony_104.1FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/c0/7fc04af20219356f24e7b9899ca92469.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "heartbeat 104.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Rock Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 184720,
+          "url": "http://ice42.securenetsystems.net/CLCL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184721,
+          "url": "http://ice42.securenetsystems.net:80/CLCL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184723,
+          "url": "https://ice42.securenetsystems.net:80/CLCL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184722,
+          "url": "https://ice42.securenetsystems.net/CLCL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21716,
+      "name": "Fyah Radio",
+      "slug": "Fyah_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/b8/44b8e4f45b5156cad21199035f74a1db.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fyah",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32493,
+          "url": "http://65.108.98.93:7628/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32494,
+          "url": "http://65.108.98.93:7628/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21898,
+      "name": "YOR Radio",
+      "slug": "YOR_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/52/2852a95638b1973395ade801957aa0ce.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yor",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Calypso Caribbean Reggae Soca Tropical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32803,
+          "url": "https://az13.yesstreaming.net:8220/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32802,
+          "url": "http://az13.yesstreaming.net:8220/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 38197,
+      "name": "Platinum Trini Hot 97 FM",
+      "slug": "Platinum_Trini_Hot_97_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/53/d4531f00636aa0cee7e9cc6971e71256.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "platinum trini hot 97",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": ", Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Electro Pop Rap Soca Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62063,
+          "url": "http://streaming.live365.com/a07630",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62064,
+          "url": "https://streaming.live365.com/a07630",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 243629,
+      "name": "Woods Hit Radio",
+      "slug": "Woods_Hit_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/b9/eab9ab2911cbcb83de26812132a560f7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "woods hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Classic Rock Hits Pop Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185583,
+          "url": "http://65.109.81.84:7048/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185585,
+          "url": "http://65.109.81.84:7048/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185584,
+          "url": "http://65.109.81.84:7048/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185582,
+          "url": "http://cast4.asurahosting.com/proxy/nigel/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185586,
+          "url": "https://cast4.asurahosting.com/proxy/nigel/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81016,
+      "name": "Caribbean Light Radio",
+      "slug": "Caribbean_Light_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/c9/2dc941cf25fe6a05810938b6b91f0031.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "caribbean light",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Arima",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Arima, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.6333300",
+          "longitude": "-61.2833300"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126269,
+          "url": "http://centova47.instainternet.com/proxy/tehillaradio?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126268,
+          "url": "http://192.99.16.151:8577/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126270,
+          "url": "https://centova47.instainternet.com/proxy/tehillaradio?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126267,
+          "url": "http://centova47.instainternet.com:8577/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 2870532,
+      "name": "Real Radio Trinidad and Tobago",
+      "slug": "Real_Radio_Trinidad_and_Tobago",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/84/e3846a62e7ae07b797cff567da7f00dc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "real trinidad and tobago",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Trincity",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Trincity, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Latin Top 40 Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231453,
+          "url": "http://streaming.radio.co/s3928a1fef/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231454,
+          "url": "https://streaming.radio.co/s3928a1fef/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44688,
+      "name": "Pure 977 Mixx FM",
+      "slug": "PURE_97.7FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/3e/e83e202d3386230de92d38188e2c3d3a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pure 977 mixx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Caribbean Dancehall Latin Reggae Rock Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72010,
+          "url": "http://uk22freenew.listen2myradio.com:15911/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252197,
+          "url": "http://uk25freenew.listen2myradio.com:18190/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69961,
+      "name": "Fully Catholic Radio",
+      "slug": "Fully_Catholic_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/0d/730d28754e97a25ddacddd2582453b0c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fully catholic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111434,
+          "url": "http://usa10.fastcast4u.com/fullycat2",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111435,
+          "url": "https://usa10.fastcast4u.com/fullycat2/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43902,
+      "name": "Smash Radio TT",
+      "slug": "Smash_Radio_TT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/a9/85a9569a4425175253b9c519423a36b4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "smash tt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Scarborough",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Scarborough, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "11.1833300",
+          "longitude": "-60.7333300"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Lite Pop Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70629,
+          "url": "http://media2.streambrothers.com:1935/8054/8054/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "avc1.4d401e,mp4a.40.2",
+          "bitrate": 679,
+          "contentType": "application/vnd.apple.mpegurl",
+          "works": true
+        },
+        {
+          "id": 70631,
+          "url": "https://media2.streambrothers.com:1936/8054/8054/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 676,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 81243,
+      "name": "FireJamz Radio",
+      "slug": "FireJamz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/e5/3ce502f3ae0416784113a623725992ee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "firejamz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": ", Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Caribbean Tropical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126451,
+          "url": "http://fpsnew1.listen2myradio.com:6731/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 81311,
+      "name": "TDG Radio",
+      "slug": "TDG_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/14/941477dfc5cfc144f087c334392173d7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tdg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Hits Latin Soca Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 126530,
+          "url": "http://stream.zeno.fm/p24bfbnspwzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 126531,
+          "url": "https://stream.zeno.fm/p24bfbnspwzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32505,
+      "name": "Beyond Borders Radio",
+      "slug": "Beyond_Borders_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/e9/8ae9fbd2dc1e9b86f649201b7445a77e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "beyond borders",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 53000,
+          "url": "https://stream.zeno.fm/4bx3kbcssa0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52999,
+          "url": "https://stream.zenolive.com/4bx3kbcssa0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52997,
+          "url": "http://stream.zenolive.com/4bx3kbcssa0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52998,
+          "url": "http://stream.zeno.fm/4bx3kbcssa0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 174774,
+      "name": "4 Elements Radio",
+      "slug": "4_Elements_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/1a/f71afcfbcb3cbf00c445af30ce47f928.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "4 elements",
+        "alsoKnownAs": "Four Elements Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171058,
+          "url": "http://198.245.61.103:8027/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 179266,
+      "name": "eNFX Radio",
+      "slug": "eNFX_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/02/5102bd8b51d714ed5dd3cc3a846b06c8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "enfx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": ", Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171827,
+          "url": "http://99.198.118.252:80/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269539,
+          "url": "http://99.198.118.252:80/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 218665,
+      "name": "GEN10Radio",
+      "slug": "GEN10Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/37/7137c25c309ac81b513c8e3585a62ba9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gen10radio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santa Cruz",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Santa Cruz, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279394,
+          "url": "http://listen.radioking.com/radio/860921/stream/930736",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279395,
+          "url": "https://play.radioking.io/gen10plus-radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279396,
+          "url": "https://listen.radioking.com/radio/860921/stream/930736",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 181128,
+          "url": "https://morcast.caster.fm:10550/YQyqE",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 181127,
+          "url": "http://morcast.caster.fm:10550/YQyqE",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21479,
+      "name": "iLive Caribbean",
+      "slug": "iLive_Caribbean",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/50/9150b84940767004c9522853e24f1189.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ilive caribbean",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Dance Reggae Soca",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31973,
+          "url": "http://s3.radio.co/s3b9185979/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31974,
+          "url": "https://s3.radio.co/s3b9185979/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 93247,
+      "name": "Storm HD Radio",
+      "slug": "Storm_HD_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/88/ec88301ae63d6b7588bad94fa0dc2ecb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "storm hd",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valencia",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Valencia, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s 90s Dance Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 138667,
+          "url": "http://e13972.cloudrad.io:8385/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 138668,
+          "url": "https://stream.zeno.fm/genh5b4ntbgvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 138666,
+          "url": "http://5.189.142.165:8385/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 138665,
+          "url": "http://stream.zeno.fm/genh5b4ntbgvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 189,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 500004,
+      "name": "O.U.R Radio",
+      "slug": "O.U.R_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/82/4a8226a1f677c944c588b1e3d5d0d71f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "o u r",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Alternative Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220785,
+          "url": "http://s4.radio.co/s3f123e0f6/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220788,
+          "url": "https://s4.radio.co/s3f123e0f6/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220787,
+          "url": "http://s4.radio.co/s3f123e0f6/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 220789,
+          "url": "https://s4.radio.co/s3f123e0f6/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 59658330,
+      "name": "Trini Mix Vibez Radio",
+      "slug": "Trini_Mix_Vibez_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/85/83856b23e4c8cfd47959dc5a90e2d02e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "trini mix vibez",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chaguanas",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Chaguanas, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5166700",
+          "longitude": "-61.4166700"
+        }
+      },
+      "genre": {
+        "text": "00s Adult Contemporary Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281720,
+          "url": "http://stream.zeno.fm/jmnpiwmyi4atv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281721,
+          "url": "https://stream.zeno.fm/jmnpiwmyi4atv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 275328,
+      "name": "JOINT SERVICES RADIO 1NE TT",
+      "slug": "JOINT_SERVICES_RADIO_1NE_TT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/41/20413633c94e5f05c5c08e025e675799.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "joint services 1ne tt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "San Fernando",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "San Fernando, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Soca Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 191340,
+          "url": "http://stream.zeno.fm/6ap6hzns5rhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191341,
+          "url": "https://stream.zeno.fm/6ap6hzns5rhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 372071,
+      "name": "Omega 99.1FM",
+      "slug": "Omega_99.1FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/88/ad883c6fc7077defd7a683ab70f94076.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "omega 99.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Hip Hop Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209027,
+          "url": "http://stream.zeno.fm/myrkddsn2uhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 209029,
+          "url": "https://stream.zeno.fm/myrkddsn2uhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60601,
+      "name": "True Christian Online Radio",
+      "slug": "True_Christian_Online_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/a9/40a97f796ca77c8c7ccae31a913ca942.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "true christian online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valencia",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Valencia, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99123,
+          "url": "http://stream.zeno.fm/qtwtzwwt3a0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99124,
+          "url": "https://stream.zeno.fm/qtwtzwwt3a0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49094,
+      "name": "Sports and the Word",
+      "slug": "Sports_and_the_Word",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/48/0f480bd7b50f034da1d55385e88a62eb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sports and the word",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port of Spain",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Port of Spain, Trinidad and Tobago",
+        "coordinates": {
+          "latitude": "10.5285731",
+          "longitude": "-61.3492331"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78469,
+          "url": "http://streamer.radio.co/sfad63a249/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 78472,
+          "url": "https://streamer.radio.co/sfad63a249/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78471,
+          "url": "https://streamer.radio.co/sfad63a249/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 72417,
+      "name": "ieRADIO",
+      "slug": "ieRADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/81/f481369e23a7f945cf85e1cff15d5da7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ieradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Diego Martin",
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": "Diego Martin, Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bollywood Hindu Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114698,
+          "url": "https://s3.radio.co/sce21a368c/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114697,
+          "url": "https://s3.radio.co/sce21a368c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 207,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "hi",
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "id": 140299,
+      "name": "Bamboo Creek Christmas Station",
+      "slug": "Bamboo_Creek_Christmas_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/f3/a1f3b99a8b253c9796b15678f8c5b94c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bamboo creek christmas station",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Trinidad and Tobago",
+        "countryCode": "TT",
+        "locationText": ", Trinidad and Tobago",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Children & Family Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 162718,
+          "url": "http://stream.zeno.fm/ulyywjadk69tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 162719,
+          "url": "https://stream.zeno.fm/ulyywjadk69tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1772 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:41.001Z",
+  "endpoint": "/countries/Cameroon/radios",
+  "countryCode": "cm",
+  "countryName": "Cameroon",
+  "expectedCount": 22,
+  "count": 22,
+  "data": [
+    {
+      "id": 25342,
+      "name": "Radio Balafon",
+      "slug": "Radio_Balafon_90.2_FM",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "balafon",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Folk French Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 0,
+          "de": 4,
+          "fr": 10,
+          "br": 1,
+          "es": 2,
+          "mx": 4,
+          "jp": 0,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39727,
+          "url": "https://broadcasting-channels.com:9043/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47540,
+      "name": "CRTV National Radio",
+      "slug": "CRTV_National_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d1/ce/d1ceebd816f37a5e3e92a7a81a4f310d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "crtv national",
+        "alsoKnownAs": "Cameroon Radio Television National Radio , CRTV Poste National Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75348,
+          "url": "https://live1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1776,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 75346,
+          "url": "http://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75347,
+          "url": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 47499,
+      "name": "ROYAL FM Cameroun",
+      "slug": "ROYAL_FM_Cameroun",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/4c/c34cf93c7e8a575682d2d3a1c10293e0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.4",
+        "dialStripped": "884"
+      },
+      "aliases": {
+        "cleanName": "royal cameroun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75277,
+          "url": "http://server.it-innov.com:8000/royalfm.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47559,
+      "name": "Radio Bonne Nouvelle",
+      "slug": "Radio_Bonne_Nouvelle",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/4c/f04c3ab230906b4c50f640d5fcae2790.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.6",
+        "dialStripped": "996"
+      },
+      "aliases": {
+        "cleanName": "bonne nouvelle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Christian French News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75367,
+          "url": "http://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75368,
+          "url": "https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47550,
+      "name": "Radio Equinoxe",
+      "slug": "Radio_Equinoxe_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/b7/cbb7e7aa54cd94c443b5201a53cdc772.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "equinoxe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75355,
+          "url": "https://listen.radioking.com/radio/39218/stream/76118",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75354,
+          "url": "http://listen.radioking.com/radio/39218/stream/76118",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43639,
+      "name": "Magic FM 100.1",
+      "slug": "Magic_FM_100.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/32/bb32188ccd9101393931713cea9c0373.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "magic 100.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70127,
+          "url": "https://stream.zeno.fm/eza2fd8zbfhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70126,
+          "url": "http://stream.zeno.fm/eza2fd8zbfhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47552,
+      "name": "ABK Radio 89.9 FM",
+      "slug": "ABK_radio_89.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/59/2e59ed5345a821a36592e05e1c92cab3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.9",
+        "dialStripped": "899"
+      },
+      "aliases": {
+        "cleanName": "abk 89.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "News Politics Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75358,
+          "url": "https://rstream.az-multimedia.com:8544/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47558,
+      "name": "Peña Mundi FM",
+      "slug": "Pena_Mundi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/06/0e06b4b1d00418e0688e109435830d66.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.6",
+        "dialStripped": "926"
+      },
+      "aliases": {
+        "cleanName": "pena mundi",
+        "alsoKnownAs": "peñamundi fm"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Information News Spanish Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75365,
+          "url": "http://stream.zeno.fm/15k8hpd4fm0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75366,
+          "url": "https://stream.zeno.fm/15k8hpd4fm0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43830,
+      "name": "Brightstar Studios",
+      "slug": "Brightstar_Studios",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/01/9501dc8d939928f835281ce4f952781c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "brightstar studios",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70490,
+          "url": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70487,
+          "url": "http://s17.ssl-stream.com/proxy/brightstar?mp=/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70488,
+          "url": "http://74.91.125.187:8098/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70489,
+          "url": "http://s17.ssl-stream.com:8098/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 47572,
+      "name": "Eagle FM HD",
+      "slug": "Eagle_FM_HD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/6e/126ec74a6529dc7941ac8de0aa49340e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "eagle hd",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": ", Cameroon",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Tamil",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75390,
+          "url": "http://streaming.radio.co/sf833cd785/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75391,
+          "url": "https://streaming.radio.co/sf833cd785/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 47589,
+      "name": "CRI Radio International",
+      "slug": "CRI_Radio_International",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/bf/d5bfea5c6a0b13319990ffa82331ceb7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cri international",
+        "alsoKnownAs": "Cameroun Radio International"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75441,
+          "url": "http://uk16freenew.listen2myradio.com:8654/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43967,
+      "name": "ROOTS RADIO",
+      "slug": "ROOTS_RADIO_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/d8/20d8189911912b3fdb0a8bab441e76ad.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "roots",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Caribbean Hip Hop Latin Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70754,
+          "url": "https://ecmanager2.pro-fhi.net:1515/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70753,
+          "url": "http://ecmanager2.pro-fhi.net:1515/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47570,
+      "name": "CHRISTRADIO Yaoundé",
+      "slug": "CHRISTRADIO_Yaounde",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/18/5418a01115c927a6f0fc291833f43b3c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "christradio yaounde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75389,
+          "url": "https://stream.zeno.fm/gtb3znv0h2zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75388,
+          "url": "http://stream.zeno.fm/gtb3znv0h2zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 13924538,
+      "name": "Season Radio",
+      "slug": "Season_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/98/2f98eb951826fffc21601634f50a968b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "season",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 239100,
+          "url": "http://stream.zeno.fm/rvilzsnnjdutv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239101,
+          "url": "https://stream.zeno.fm/rvilzsnnjdutv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43910,
+      "name": "Radio Voice of the Cross (RVC) - Yaounde",
+      "slug": "Radio_Voice_of_the_Cross_RVC_Yaounde",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/82/138278ff87b8d6de94ce2dca90df4d0b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of the cross rvc yaounde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yaoundé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Yaoundé, Cameroon",
+        "coordinates": {
+          "latitude": "3.8666700",
+          "longitude": "11.5166700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70651,
+          "url": "http://listen.radioking.com/radio/351811/stream/400894",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70650,
+          "url": "http://www.radioking.com/play/rvc-yaounde1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70653,
+          "url": "https://listen.radioking.com/radio/351811/stream/400894",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70652,
+          "url": "https://www.radioking.com/play/rvc-yaounde1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 47627,
+      "name": "Radio Al Houda",
+      "slug": "Radio_Al_Houda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/f3/48f3d5ae84d4e44063176d6f6c2666ad.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "al houda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Community Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75537,
+          "url": "https://stream.zeno.fm/ocyffqyhxzbvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75536,
+          "url": "http://stream.zeno.fm/ocyffqyhxzbvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47595,
+      "name": "holo vibe",
+      "slug": "holo_vibe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0f/d7/0fd7f2ff2dd6f6c6d10a0a6a99fc1d89.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "holo vibe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75451,
+          "url": "https://stream.zeno.fm/mhkoskaqqvvtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75450,
+          "url": "http://stream.zeno.fm/mhkoskaqqvvtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32299,
+      "name": "God's Love Line (GL Radio)",
+      "slug": "Gods_Love_Line_GL_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/ec/a9ec8a70a925130b32c63fe36249f996.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "god s love line gl",
+        "alsoKnownAs": "RVC Gospel (Z.T. Fomum)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Koumé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Koumé, Cameroon",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Christian Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52584,
+          "url": "http://www.radioking.com/play/gospel-jamburee",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52587,
+          "url": "https://listen.radioking.com/radio/246430/stream/290635",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52585,
+          "url": "http://listen.radioking.com/radio/246430/stream/290635",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 52586,
+          "url": "https://www.radioking.com/play/gospel-jamburee",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 47630,
+      "name": "Radio Jésus Vient",
+      "slug": "Radio_Jesus_Vient",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/b8/31b8cc3a932c613875c6b5a3a6967fb8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus vient",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Douala",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Douala, Cameroon",
+        "coordinates": {
+          "latitude": "4.0482700",
+          "longitude": "9.7042800"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75542,
+          "url": "https://stream.zeno.fm/jsgayqgxwdstv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75541,
+          "url": "http://stream.zeno.fm/jsgayqgxwdstv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 47622,
+      "name": "Teste lolo",
+      "slug": "Teste_lolo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/8b/6f8bf212567eb2c6337354e03050436f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "teste lolo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": ", Cameroon",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75525,
+          "url": "http://stream.zeno.fm/rtsgsmf34k0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75526,
+          "url": "https://stream.zeno.fm/rtsgsmf34k0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44258,
+      "name": "Radio Voice of the Cross (RVC) - Koumé",
+      "slug": "Radio_Voice_of_the_Cross_RVC_Koume",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/4b/ea4b9d1f8bbb24cc39ae96f37435cb63.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of the cross rvc koume",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Koumé",
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": "Koumé, Cameroon",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Christian Education Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71355,
+          "url": "https://listen.radioking.com/radio/232150/stream/275935",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71353,
+          "url": "http://listen.radioking.com/radio/232150/stream/275935",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71354,
+          "url": "https://www.radioking.com/play/radio-voice-of-the-cross-rvc",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71352,
+          "url": "http://www.radioking.com/play/radio-voice-of-the-cross-rvc",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 37098498,
+      "name": "237onair",
+      "slug": "237onair",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/aa/28aac5fad02957ff4552f4ba6fe4c186.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "237onair",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "locationText": ", Cameroon",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "African Afrobeats",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272854,
+          "url": "http://radio.237onair.com:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

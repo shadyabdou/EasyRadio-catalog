@@ -1,0 +1,1884 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:33.437Z",
+  "endpoint": "/countries/Zimbabwe/radios",
+  "countryCode": "zw",
+  "countryName": "Zimbabwe",
+  "expectedCount": 24,
+  "count": 24,
+  "data": [
+    {
+      "id": 38594,
+      "name": "Star FM Zimbabwe - Online Live Streaming",
+      "slug": "Star_FM_89.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/70/a370406a442b560ad9754dcc05fd853e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "star online live streaming",
+        "alsoKnownAs": "Star FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Information News Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7500,
+        "byCountry": {
+          "us": 45,
+          "gb": 199,
+          "au": 12,
+          "de": 9,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 9,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62612,
+          "url": "https://edge.iono.fm/xice/159_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 82,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 62611,
+          "url": "http://edge.iono.fm/xice/159_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 79,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21000,
+      "name": "Reggae Ambassadors Radio",
+      "slug": "Reggae_Ambassadors_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/69/3b69e75c0c86568590fb2c492ee95e0e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "reggae ambassadors",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Beitbridge",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Beitbridge, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dancehall Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6120,
+        "byCountry": {
+          "us": 16,
+          "gb": 36,
+          "au": 1,
+          "de": 5,
+          "fr": 20,
+          "br": 20,
+          "es": 2,
+          "mx": 2,
+          "jp": 1,
+          "in": 1,
+          "it": 7,
+          "ar": 3,
+          "ca": 3,
+          "cl": 1,
+          "co": 2,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 30943,
+          "url": "http://stream.zeno.fm/mvtbzpenhzzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 30944,
+          "url": "https://stream.zeno.fm/mvtbzpenhzzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48695,
+      "name": "Radio Zimbabwe",
+      "slug": "Radio_Zimbabwe_ZBC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/36/b836f6b6c8d5a3cb4cc8b9fc4872cde2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5520,
+        "byCountry": {
+          "us": 37,
+          "gb": 18,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 254840,
+          "url": "https://154.120.239.26:8040/nhepfenuro.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77520,
+          "url": "https://mainradiostreaming.zbc.co.zw:8040/nhepfenuro.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77519,
+          "url": "https://backupradiostreaming.zbc.co.zw:8040/nhepfenuro.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77518,
+          "url": "http://mainradiostreaming.zbc.co.zw:8040/nhepfenuro.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77516,
+          "url": "http://154.120.239.26:8040/nhepfenuro.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77517,
+          "url": "http://154.120.239.118:8040/nhepfenuro.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 85928,
+      "name": "National FM ZBC",
+      "slug": "National_FM_ZBC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/2b/b12b41ac832ce6804f6b3c24466040ed.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "national zbc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3990,
+        "byCountry": {
+          "us": 31,
+          "gb": 20,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131706,
+          "url": "http://154.120.239.26:8020/national.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43467,
+      "name": "Diamond FM Zimbabwe",
+      "slug": "Diamond_FM_Zim",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/a9/51a9f5f35327a9fc54da857b92623333.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.8",
+        "dialStripped": "1038"
+      },
+      "aliases": {
+        "cleanName": "diamond",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mutare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Mutare, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3270,
+        "byCountry": {
+          "us": 15,
+          "gb": 53,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69782,
+          "url": "https://edge.iono.fm/xice/160_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69781,
+          "url": "http://edge.iono.fm/xice/160_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43468,
+      "name": "ZiFM Stereo",
+      "slug": "ZiFM_Stereo_106.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/cf/d0cf78084f1036d9cc1a0606453c8b9f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.4",
+        "dialStripped": "1064"
+      },
+      "aliases": {
+        "cleanName": "zifm stereo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2970,
+        "byCountry": {
+          "us": 21,
+          "gb": 51,
+          "au": 1,
+          "de": 3,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69784,
+          "url": "https://edge.iono.fm/xice/134_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 78,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69783,
+          "url": "http://edge.iono.fm/xice/134_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 80,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43494,
+      "name": "Power FM Zimbabwe",
+      "slug": "Power_FM_Zimbabwe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/35/e435ba66467cd7c163cdeb99dd5d6878.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.6",
+        "dialStripped": "996"
+      },
+      "aliases": {
+        "cleanName": "power",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1980,
+        "byCountry": {
+          "us": 23,
+          "gb": 27,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69829,
+          "url": "http://154.120.239.26:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244768,
+          "url": "https://mainradiostreaming.zbc.co.zw:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242207,
+          "url": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 244767,
+          "url": "http://mainradiostreaming.zbc.co.zw:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69830,
+          "url": "http://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 124688,
+      "name": "Capitalk100.4FM",
+      "slug": "Capitalk_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/3c/993cb1ae8906ebedf8686df3f859182f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "capitalk 100.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1410,
+        "byCountry": {
+          "us": 11,
+          "gb": 21,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 157000,
+          "url": "http://edge.iono.fm/xice/162_low.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 157002,
+          "url": "https://edge.iono.fm/xice/162_low.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156999,
+          "url": "http://edge.iono.fm/xice/162_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 157001,
+          "url": "https://edge.iono.fm/xice/162_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 134464,
+      "name": "Classic 263 ",
+      "slug": "Classic_263",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/da/c2dadff88d52bb2688e4c2345f9b6275.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "classic 263",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 960,
+        "byCountry": {
+          "us": 14,
+          "gb": 6,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161483,
+          "url": "http://154.120.239.26:8030/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 238129,
+      "name": "Hevoi FM",
+      "slug": "Hevoi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/db/dadb485a74c96888eecaa59c9b8d0928.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.2",
+        "dialStripped": "1002"
+      },
+      "aliases": {
+        "cleanName": "hevoi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Masvingo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Masvingo, Masvingo Province, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 7,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 184662,
+          "url": "http://s27.myradiostream.com:17754/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38951,
+      "name": "Skyz Metro FM",
+      "slug": "Skyz_Metro_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/c5/42c54b5beef03698f2a5857be52ee0c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "skyz metro",
+        "alsoKnownAs": "Skys , Skies Metro FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63272,
+          "url": "http://stream.zeno.fm/2634b6n4qy8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63273,
+          "url": "https://stream.zeno.fm/2634b6n4qy8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 123197,
+      "name": "Khulumani FM 95.0",
+      "slug": "Khulumani_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/76/4876c0e393f2eefdd1c515c6d96d5117.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "khulumani 95.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156634,
+          "url": "http://khulumanistream.zbc.co.zw:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        },
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 345506,
+      "name": "Nehanda Radio",
+      "slug": "Nehanda_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/8e/398e7827f2fee11779c02f7d2c5f9315.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nehanda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 205288,
+          "url": "http://eu4.fastcast4u.com:5894/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 573243,
+      "name": "Ya FM",
+      "slug": "Ya_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/a4/eea44dae37f5988fde94f7ebe544f8b6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.8",
+        "dialStripped": "918"
+      },
+      "aliases": {
+        "cleanName": "ya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zvishavane",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Zvishavane, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227769,
+          "url": "http://173.212.241.223:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 583123,
+      "name": "Nyami Nyami FM",
+      "slug": "Nyami_Nyami_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/db/47dbf897d7fd219b542a4fd86da9bf82.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kariba",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Kariba, Mashonaland West, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 228640,
+          "url": "http://edge.iono.fm/xice/161_medium.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 228641,
+          "url": "https://edge.iono.fm/xice/161_medium.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 43641,
+      "name": "zimNETradio",
+      "slug": "Zim_Net_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/fb/62fb32157b8fa392e78cc65103bf8d49.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zimnetradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Talk Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70128,
+          "url": "http://66.175.232.23:8005/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 573338,
+      "name": "YaFM",
+      "slug": "YaFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/ed/1cedcb9184fe7ff5e13682426883ce4f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.8",
+        "dialStripped": "918"
+      },
+      "aliases": {
+        "cleanName": "yafm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Current Affairs Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265135,
+          "url": "http://173.212.241.223:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227783,
+          "url": "http://173.212.241.223:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279275,
+          "url": "http://207.180.222.146:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 16034446,
+      "name": "Luzibo Radio",
+      "slug": "Luzibo_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/e8/1ae87ebf17118c0dedc8231406d20fa4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "luzibo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240562,
+          "url": "http://backupradiostreaming.zbc.co.zw:8010/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 117,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240563,
+          "url": "https://backupradiostreaming.zbc.co.zw:8010/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 80157,
+      "name": "Investment Radio Africa ",
+      "slug": "Investment_Radio_Africa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/d8/4bd8cbc5a714950c192dd06ba8da5bc4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "investment africa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harare",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Harare, Harare, Zimbabwe",
+        "coordinates": {
+          "latitude": "-17.8277200",
+          "longitude": "31.0533700"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125127,
+          "url": "http://stream.zeno.fm/pb9w7wk6rxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125128,
+          "url": "https://stream.zeno.fm/pb9w7wk6rxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 482941,
+      "name": "Remnant Tunes",
+      "slug": "Remnant_Tunes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/c4/f8c4d20510cb8f678ce675047297d3b8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "remnant tunes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219692,
+          "url": "http://remnantunes.com:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 28882,
+      "name": "nust.fm",
+      "slug": "nust.fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/21/e3218b7b59f14b423344258d8388892f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "nust",
+        "alsoKnownAs": "National University of Science and Technology FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College Hip Hop Pop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46628,
+          "url": "https://stream.zeno.fm/zz40oe1wtfwtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46627,
+          "url": "http://stream.zeno.fm/zz40oe1wtfwtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 88513,
+      "name": "Kasambabezi Community Radio",
+      "slug": "Kasambabezi_Community_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/1b/471ba0017dea12b1c0753b42f3720998.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "kasambabezi community",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kariba",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Kariba, Mashonaland West, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134374,
+          "url": "https://stream.zeno.fm/5b5i6nuqbxtvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134373,
+          "url": "http://stream.zeno.fm/5b5i6nuqbxtvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 470837,
+      "name": "ThebesMedia Radio",
+      "slug": "ThebesMedia_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/82/52828e867f33b306387bc3041526d49e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "thebesmedia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218690,
+          "url": "https://stream.zeno.fm/kgoj0wfkb91uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218689,
+          "url": "http://stream.zeno.fm/kgoj0wfkb91uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 22639,
+      "name": "Breeze FM 91.2",
+      "slug": "Breeze_FM_91.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/9a/5e9a2dd1b2bda412d0832d29905c7be1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "breeze 91.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria Falls",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Victoria Falls, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Blues Country Downtempo Electronic House Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34322,
+          "url": "http://stream.zeno.fm/d1vbtsfem98uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34323,
+          "url": "https://stream.zeno.fm/d1vbtsfem98uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6910 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:45:34.725Z",
+  "endpoint": "/countries/Slovakia/radios",
+  "countryCode": "sk",
+  "countryName": "Slovakia",
+  "expectedCount": 78,
+  "count": 78,
+  "data": [
+    {
+      "id": 445555,
+      "name": "Radio VLNA",
+      "slug": "Radio_VLNA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/e5/07e554db9b977e8f127efa526d84aa3c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "vlna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 4710,
+        "byCountry": {
+          "us": 3,
+          "gb": 10,
+          "au": 1,
+          "de": 5,
+          "fr": 6,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216718,
+          "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216719,
+          "url": "https://stream.radiovlna.sk/vlna-hi.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 427412,
+      "name": "RTVS - Rádio Slovensko",
+      "slug": "SRo_1_Radio_Slovensko",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/e4/d7e47094915352a229edc6df31ce8e18.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "rtvs slovensko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 3120,
+        "byCountry": {
+          "us": 4,
+          "gb": 6,
+          "au": 1,
+          "de": 5,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 214826,
+          "url": "http://live.slovakradio.sk:8000/Slovensko_32.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214825,
+          "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 56746,
+      "name": "Rádio Expres",
+      "slug": "Radio_Expres",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/63/b263f71b6e7b09f705f9f6b7a8ca10c7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.6",
+        "dialStripped": "1076"
+      },
+      "aliases": {
+        "cleanName": "expres",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 2730,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 1,
+          "de": 2,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265387,
+          "url": "http://stream.bauermedia.sk/128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265388,
+          "url": "https://stream.bauermedia.sk/128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 56838,
+      "name": "Europa 2",
+      "slug": "Radio_Okey",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/98/e69833bc2d20265b2ee271f3727f7784.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.8",
+        "dialStripped": "1048"
+      },
+      "aliases": {
+        "cleanName": "europa 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 2100,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265211,
+          "url": "http://stream.bauermedia.sk/europa2.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 40297,
+      "name": "Fun Rádio",
+      "slug": "Fun_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/56/125685031559678d1183d2297f71fca4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "fun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1830,
+        "byCountry": {
+          "us": 1,
+          "gb": 7,
+          "au": 1,
+          "de": 2,
+          "fr": 7,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64896,
+          "url": "https://stream.funradio.sk/fun192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64893,
+          "url": "https://stream.funradio.sk:8000/fun64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64894,
+          "url": "https://stream.funradio.sk/fun128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64888,
+          "url": "http://stream.funradio.sk:8000/fun128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64890,
+          "url": "http://stream.funradio.sk:8000/test-b.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64889,
+          "url": "http://stream.funradio.sk:8000/fun192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64891,
+          "url": "http://stream.funradio.sk:8000/test-a.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64895,
+          "url": "https://stream.funradio.sk:8000/fun128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64887,
+          "url": "http://stream.funradio.sk:8000/fun64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64897,
+          "url": "https://stream.funradio.sk:8000/fun192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64892,
+          "url": "https://stream.funradio.sk/fun64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64898,
+          "url": "https://stream.funradio.sk:18000/test-b.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 40298,
+      "name": "Fun Rádio - Dance",
+      "slug": "Fun_Radio_Running",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/77/13777d742da7882d42dbb2fa18263739.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fun dance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1770,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 1,
+          "de": 1,
+          "fr": 19,
+          "br": 9,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 1,
+          "ca": 3,
+          "cl": 2,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 64899,
+          "url": "http://stream.funradio.sk:8000/dance128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64900,
+          "url": "https://stream.funradio.sk/dance128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64901,
+          "url": "https://stream.funradio.sk:8000/dance128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 40301,
+      "name": "Fun Rádio - 80-90",
+      "slug": "Fun_Radio_Cafe_Del_Fun",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/d7/42d7dfaa42e84b4b9d94b4eddea0ba6a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fun 80 90",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "80s 90s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 64904,
+          "url": "https://stream.funradio.sk:8000/80-90-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64902,
+          "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64903,
+          "url": "https://stream.funradio.sk/80-90-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 123799,
+      "name": "InfoVojna",
+      "slug": "InfoVojna",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/75/3f75ecc5a8dc0bf41d08526369b542b6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "infovojna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Military News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156788,
+          "url": "http://stream3.infovojna.bz:8002/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156787,
+          "url": "http://stream2.infovojna.bz:8002/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156786,
+          "url": "http://stream1.infovojna.bz:8002/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156789,
+          "url": "http://ply.infovojna.bz:8002/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 57421,
+      "name": "Rádio Melody",
+      "slug": "Jemne_Melodie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/a0/40a093c5e0d1920a259c14786b0c6ad1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6",
+        "dialStripped": "1066"
+      },
+      "aliases": {
+        "cleanName": "melody",
+        "alsoKnownAs": "Jemné Melódie [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Soft Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264956,
+          "url": "http://stream.bauermedia.sk/melody-lo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264957,
+          "url": "https://stream.bauermedia.sk/melody-lo.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 36454741,
+      "name": "Rádio Melody",
+      "slug": "Radio_Jemne",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/39/3339e5aab9db25100256c037911de242.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6",
+        "dialStripped": "1066"
+      },
+      "aliases": {
+        "cleanName": "melody",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 0,
+          "gb": 3,
+          "au": 1,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264954,
+          "url": "http://stream.bauermedia.sk/melody-lo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264955,
+          "url": "https://stream.bauermedia.sk/melody-lo.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 123797,
+      "name": "Radio Lumen",
+      "slug": "Radio_Lumen",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/09/b5094972deeeded76637926a4a28d20a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "lumen",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156785,
+          "url": "http://audio.lumen.sk:8000/live128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 111399,
+      "name": "Radio Best FM",
+      "slug": "Radio_Best_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/16/bd16b5d83d11ae879287867e26583619.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.6",
+        "dialStripped": "956"
+      },
+      "aliases": {
+        "cleanName": "best",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150990,
+          "url": "http://stream3.bestfm.sk:8000/128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150989,
+          "url": "http://stream3.bestfm.sk:8000/160.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 75,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250297,
+          "url": "https://stream3.bestfm.sk:8000/160.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250298,
+          "url": "https://stream3.bestfm.sk:8000/128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150988,
+          "url": "http://stream3.bestfm.sk:8000/aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250296,
+          "url": "https://stream3.bestfm.sk:8000/aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 37738,
+      "name": "Slobodny Vysielac",
+      "slug": "Slobodny_Vysielac",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/4c/134cb93f6fa5535058c590ccbd5e4f2a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "slobodny vysielac",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": ", Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Europe Hits Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61365,
+          "url": "http://vysielanie.online:8020/SV128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254517,
+          "url": "https://vysielanie.online:8020/SV128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 123804,
+      "name": "Rádio Regina Stred",
+      "slug": "SRo_4_R_Regina_B.B",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "stred",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156790,
+          "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156791,
+          "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 111511,
+      "name": "Radio Beta",
+      "slug": "Radio_Beta_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b6/88/b688af3aa3ebab59fd8dbb7b3548eb9e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "beta",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bojnice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bojnice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Culture Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151082,
+          "url": "http://109.71.67.102:8000/beta_live_high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151081,
+          "url": "http://109.71.67.102:8000/beta_live_low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 440876,
+      "name": "Rádio SiTy",
+      "slug": "Radio_SiTy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/c5/46c5f95b37f11caa8f55ea4b51a00213.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "sity",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216313,
+          "url": "https://radiosity.online:8000/aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 216311,
+          "url": "http://radiosity.online:8000/aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 216312,
+          "url": "http://icecast.radiosity.sk:443/hq1.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 37816,
+      "name": "RTVS Rádio_FM",
+      "slug": "SRo_4_Radio_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1a/65/1a65560503cde74277f82e8420863e32.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.4",
+        "dialStripped": "1054"
+      },
+      "aliases": {
+        "cleanName": "rtvs radio_fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Hits Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61480,
+          "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61479,
+          "url": "http://icecast.stv.livebox.sk/fm_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 208991,
+      "name": "Frontinus Radio",
+      "slug": "Frontinus_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/90/6f90a7167eeedc2e10ffee504a96f56c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "frontinus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Žilina",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Žilina, Slovakia",
+        "coordinates": {
+          "latitude": "49.2231500",
+          "longitude": "18.7394100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179439,
+          "url": "http://stream.frontinus.sk:8000/frontinus64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179438,
+          "url": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 60867,
+      "name": "русин ФМ",
+      "slug": "rusyn_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/44/ca445edbc497e12a792762228c742ca8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rusin",
+        "alsoKnownAs": "rusyn FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99754,
+          "url": "https://stream.rusyn.fm/rusyny.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99753,
+          "url": "http://stream.rusyn.fm/rusyny.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 293871,
+      "name": "Rádio Košice",
+      "slug": "Radio_Kosice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/e3/cde3ae91a52c56d5cf611ea6ca5bb150.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "kosice",
+        "alsoKnownAs": "Rádio KE"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 196819,
+          "url": "http://stream.21.sk:8000/radiokosice-128b.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196820,
+          "url": "http://stream.21.sk:8000/radiokosice-64b.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196816,
+          "url": "http://stream.21.sk:8000/radiokosice-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196821,
+          "url": "https://stream.21.sk/radiokosice-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196817,
+          "url": "http://176.102.98.74:8000/radiokosice-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196822,
+          "url": "https://stream.21.sk/radiokosice-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196818,
+          "url": "http://176.102.98.74:8000/radiokosice-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 196815,
+          "url": "http://stream.21.sk:8000/radiokosice-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 38193,
+      "name": "Trnavské Rádio",
+      "slug": "Trnavske_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/46/3e46ba3a2c336ad6be64509f014a1c33.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "trnavske",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Trnava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Trnava, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62060,
+          "url": "http://stream.trnavskeradio.sk/trnavske",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62061,
+          "url": "http://178.162.198.129:8025/trnavske",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62062,
+          "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 40324,
+      "name": "Fun Rádio - Radio CZ-SK",
+      "slug": "Fun_Radio_Pre_Deti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/2f/c72f7c26f69d257f2673cc8c4a44a081.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fun cz sk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64945,
+          "url": "https://stream.funradio.sk:8000/cs128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64944,
+          "url": "https://stream.funradio.sk/cs128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64943,
+          "url": "http://stream.funradio.sk:8000/cs128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 89486,
+      "name": "Rádio Regina Východ",
+      "slug": "SRo_4_R_Regina_Kosic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/11/9711632f7d87c5b3119346d66c8eaca0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "vychod",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "Community News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 2,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135481,
+          "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135484,
+          "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135483,
+          "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135482,
+          "url": "http://icecast.stv.livebox.sk/regina-ba_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 40339,
+      "name": "Fun Radio - Chill",
+      "slug": "Fun_Radio_Chill",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/5a/ed5aeca27f5a89ac0239c2a998da2b60.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fun chill",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Chillout",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64974,
+          "url": "https://stream.funradio.sk:8000/chill64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64976,
+          "url": "https://stream.funradio.sk/chill64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64973,
+          "url": "https://stream.funradio.sk:8000/chill128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64971,
+          "url": "http://stream.funradio.sk:8000/chill128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64975,
+          "url": "https://stream.funradio.sk/chill128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64972,
+          "url": "http://stream.funradio.sk:8000/chill64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 159453,
+      "name": "Dobré Rádio",
+      "slug": "Dobre_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/6c/ee6ca8efa7ddece72834fb485de4b99b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.0",
+        "dialStripped": "1070"
+      },
+      "aliases": {
+        "cleanName": "dobre",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 166554,
+          "url": "http://stream.dobreradio.sk:8000/dobreradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 445252,
+      "name": "Rádio Mária Slovensko",
+      "slug": "Radio_Maria_Slovensko",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/7b/db7bc728a8499ccbdfe9f7d6ee1d02f0.png",
+      "dial": {
+        "band": "DAB",
+        "dial": "10C",
+        "dialStripped": "10C"
+      },
+      "aliases": {
+        "cleanName": "maria slovensko",
+        "alsoKnownAs": "Radio Maria Slovakia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216667,
+          "url": "http://dreamsiteradiocp5.com:8012/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 427738,
+      "name": "RTVS - Radio FM",
+      "slug": "RTVS_Radio_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/36/9b36dac41e88e664babf686258e7be27.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "rtvs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214861,
+          "url": "http://icecast.stv.livebox.sk/fm_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214862,
+          "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 52194,
+      "name": "Rádio Šírava",
+      "slug": "Radio_Sirava",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/26/f5261f5e3fe116fc5d61013f317ca82d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7 / 93.9",
+        "dialStripped": "897 / 939"
+      },
+      "aliases": {
+        "cleanName": "sirava",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Michalovce",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Michalovce, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s Adult Contemporary Hits News Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84759,
+          "url": "http://stream.sepia.sk:8000/radiosirava.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84761,
+          "url": "https://stream.sepia.sk/radiosirava.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84760,
+          "url": "https://stream.sepia.sk:8000/radiosirava.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 315430,
+      "name": "RTVS - Radio Litera",
+      "slug": "RTVS_Radio_Litera",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/c0/38c0148e1d9727bbb36f9f75789a3602.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtvs litera",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": ", Bratislava, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Art",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200888,
+          "url": "http://icecast.stv.livebox.sk/litera_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200887,
+          "url": "http://icecast.stv.livebox.sk:80/litera_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200889,
+          "url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 445759,
+      "name": "Rádio Regina Západ",
+      "slug": "Slovensky_Rozhlas_4_Radio_Regina_Bratislava",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/e7/29e7a04e0ead96bf6e7fc9a8bf016d49.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "zapad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216732,
+          "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216730,
+          "url": "http://icecast.stv.livebox.sk/regina-ba_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216731,
+          "url": "http://icecast.stv.livebox.sk:80/regina-ba_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50608,
+      "name": "Rádio Vlna - Oldies Party",
+      "slug": "Radio_Vlna_Oldies_Party",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/ab/c2ab03460cd223e00cc94bb5c8b8e7d6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vlna oldies party",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81810,
+          "url": "http://stream.radiovlna.sk:8000/party-lo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81811,
+          "url": "http://stream.radiovlna.sk:8000/party-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81813,
+          "url": "https://stream.radiovlna.sk:8000/party-hi.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81812,
+          "url": "https://stream.radiovlna.sk:8000/party-lo.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 24204,
+      "name": "Rádio Rock SV",
+      "slug": "Radio_Rock_SV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/c3/b5c321aa732bd4edad2ac560da8d3b1c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock sv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Hard Rock Metal Punk Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 37345,
+          "url": "http://s2.myradiostream.com:4870/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37346,
+          "url": "https://s2.myradiostream.com/4870/listen.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 1837,
+      "name": "Rádio Vlna - Classic Rock",
+      "slug": "Radio_Vlna_Classic_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/f2/c7f27ce246f3125a2f8f661deb0b38d9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vlna classic rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4933,
+          "url": "https://stream.radiovlna.sk:8000/rock-lo.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4931,
+          "url": "http://stream.radiovlna.sk:8000/rock-lo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4932,
+          "url": "https://stream.radiovlna.sk:8000/rock-hi.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4930,
+          "url": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 445828,
+      "name": "Radio Viva",
+      "slug": "Radio_Viva_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/ad/fdad8908aca6d6a01600883d491de257.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "viva",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216740,
+          "url": "http://stream.sepia.sk:8000/viva320.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216742,
+          "url": "https://stream.sepia.sk/viva320.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216739,
+          "url": "http://stream.sepia.sk:8000/viva128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216743,
+          "url": "https://stream.sepia.sk:8000/viva128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216744,
+          "url": "https://stream.sepia.sk/viva128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216741,
+          "url": "https://stream.sepia.sk:8000/viva320.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 53518,
+      "name": "Radio Vlna - 60s & 70s",
+      "slug": "Radio_Vlna_60s_and_70s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/37/e837cfcc20c8c9950ecc9f0cb7fc2b50.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vlna 60s 70s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86955,
+          "url": "http://stream.radiovlna.sk/gold-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 86956,
+          "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 428141,
+      "name": "RTVS - Radio Patria",
+      "slug": "SRo_5_R_Patria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/69/c069903d2f448b18f6f6dc63cc66b9b7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtvs patria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215027,
+          "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215026,
+          "url": "http://icecast.stv.livebox.sk:80/patria_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215025,
+          "url": "http://icecast.stv.livebox.sk/patria_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 278037,
+      "name": "RTVS - Rádio Junior",
+      "slug": "RTVS_Radio_Junior",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/44/4044cb5fc18440767d01bb4952bf3824.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtvs junior",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Entertainment Information World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191628,
+          "url": "https://icecast.stv.livebox.sk/junior_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191626,
+          "url": "http://icecast.stv.livebox.sk/junior_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 191627,
+          "url": "http://icecast.stv.livebox.sk:80/junior_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 60907,
+      "name": "Rádio Biblia SK",
+      "slug": "Radio_Biblia_SK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/19/ac19f93d8ea18e37cb2912a81d583d4a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "biblia sk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Považská Bystrica",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Považská Bystrica, Trenčín, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99875,
+          "url": "http://radiobiblia.online:8000/stream.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 51693,
+      "name": "Rádio KIKS - BIG 80s",
+      "slug": "Radio_KIKS_BIG_80s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/ab/52abdf11ab6c28c455cf4178379a25c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiks big 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "80s Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83813,
+          "url": "http://online.radiokiks.sk:8000/kiks_big80s.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83814,
+          "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 90907,
+      "name": "Rádio KIKS - Rock",
+      "slug": "Radio_KIKS_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/d7/0ed7b73ea23fabdfd0ef504e077ea757.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiks rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137360,
+          "url": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 153,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137361,
+          "url": "https://online.radiokiks.sk:8000/kiks_rock64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137359,
+          "url": "http://online.radiokiks.sk:8000/kiks_rock64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137358,
+          "url": "http://online.radiokiks.sk:8000/kiks_rock.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 151,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 25843,
+      "name": "Rádio Dychovka",
+      "slug": "Radio_Dychovka",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/8e/198e507fe442aceee202809a6846572e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dychovka",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Horné Srnie",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Horné Srnie, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40635,
+          "url": "http://epanel.mediacp.eu:7661/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40636,
+          "url": "https://epanel.mediacp.eu:7661/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 25783,
+      "name": "Janko Hrasko",
+      "slug": "Janko_Hrasko",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/8a/878a93b79ad9216bc07682864c4aa3b0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "janko hrasko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Folk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40522,
+          "url": "http://78.24.9.110:31088/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 20247,
+      "name": "METALSCENA netRADIO  ",
+      "slug": "METALSCENA_netRADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/a5/84a50c28fb96c5370c2ad828eb7e8ad3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "metalscena netradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Slovenská Ľupča",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Slovenská Ľupča, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Electronic Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29112,
+          "url": "http://www.radioking.com/play/metalscena-netradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29113,
+          "url": "http://listen.radioking.com/radio/263218/stream/308365",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29115,
+          "url": "https://listen.radioking.com/radio/263218/stream/308365",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29114,
+          "url": "https://www.radioking.com/play/metalscena-netradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 64942,
+      "name": "Mars Dance Radio",
+      "slug": "Mars_Dance_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/89/8289ab153ca7badc03259ae124feff36.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mars dance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Dance World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105214,
+          "url": "https://stream.zeno.fm/683gf5xrxfeuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105211,
+          "url": "http://stream.zenolive.com/683gf5xrxfeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105212,
+          "url": "http://stream.zeno.fm/683gf5xrxfeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105213,
+          "url": "https://stream.zenolive.com/683gf5xrxfeuv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 446073,
+      "name": "Rádio Lokál",
+      "slug": "Radio_Lokal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/96/959654baf1a153a67557cd5c904e2fb9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lokal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 271219,
+          "url": "http://mpc1.mediacp.eu:8062/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216770,
+          "url": "http://mpc1.mediacp.eu:8062/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 446090,
+      "name": "Rádio 7",
+      "slug": "Radio_7_8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/77/ec7777b4ab9a917af55fc2dbe7cf6a15.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.6",
+        "dialStripped": "1036"
+      },
+      "aliases": {
+        "cleanName": "7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216772,
+          "url": "http://play.radio7.sk/64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 216771,
+          "url": "http://play.radio7.sk/128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216775,
+          "url": "http://play.radio7.sk:80/128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216778,
+          "url": "https://play.radio7.sk/128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216774,
+          "url": "http://play.radio7.sk:80/320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mpeg layer 1/2",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216776,
+          "url": "https://play.radio7.sk/64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 216777,
+          "url": "https://play.radio7.sk/320",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216773,
+          "url": "http://play.radio7.sk/320",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 88163,
+      "name": "Rádio Aetter ",
+      "slug": "Radio_Aetter",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/d5/a8d588d1b54343657ae4d8dffbae124b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.2",
+        "dialStripped": "1072"
+      },
+      "aliases": {
+        "cleanName": "aetter",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Trnava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Trnava, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "College Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133974,
+          "url": "http://stream.aetter.sk:8000/aetter-hq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133975,
+          "url": "http://stream.aetter.sk:8000/aetter",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133978,
+          "url": "https://stream.aetter.sk/aetter",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133979,
+          "url": "https://stream.aetter.sk/aetter-lq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133977,
+          "url": "https://stream.aetter.sk/aetter-hq",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133976,
+          "url": "http://stream.aetter.sk:8000/aetter-lq",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 90897,
+      "name": "Rádio KIKS",
+      "slug": "Radio_Kiks",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/17/86170821cf7ba613ded87ffc22c39272.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiks",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137355,
+          "url": "https://online.radiokiks.sk:8000/kiks_64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 140,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137354,
+          "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 162,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137353,
+          "url": "http://online.radiokiks.sk:8000/kiks_64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 147,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137352,
+          "url": "http://online.radiokiks.sk:8000/kiks_hq.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 164,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 123807,
+      "name": "Rádio Logos",
+      "slug": "Radio_LOGOS.SK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/1d/dc1dee961f1a5f1da1f6097bbd761f70.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "logos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156792,
+          "url": "http://radioserver.online:8824/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275842,
+          "url": "http://radioserver.online:8824/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 17118,
+      "name": "SRO Rádio Klasika",
+      "slug": "SRO_Radio_Klasika",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sro klasika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20591,
+          "url": "http://live.slovakradio.sk:8000/Klasika_256.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20590,
+          "url": "http://live.slovakradio.sk:8000/Klasika_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20589,
+          "url": "http://live.slovakradio.sk:8000/Klasika_32.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 445901,
+      "name": "Top Radio",
+      "slug": "Radio_Aligator_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/ba/9fbad5a7e321141bee182396d2fb5e30.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.2",
+        "dialStripped": "972"
+      },
+      "aliases": {
+        "cleanName": "top",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216752,
+          "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216750,
+          "url": "http://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216751,
+          "url": "http://37.58.57.168:8010/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 444288,
+      "name": "SKY Rádio",
+      "slug": "SKY_Radio_12",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/74/5e7417ea0a0f4d68a319fba3b7123dcc.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "sky",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Presov",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Presov, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216589,
+          "url": "http://stream.skyradio.sk:8000/sky128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 445809,
+      "name": "Rádio Topoľčany",
+      "slug": "RadioYes",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/9a/1c9a4d1de867c9f9df3c61d1f831f60a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "topolcany",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Topoľčany",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Topoľčany, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266336,
+          "url": "http://80.242.44.249:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216738,
+          "url": "http://80.242.44.249:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 428095,
+      "name": "RTVS - Slovakia International",
+      "slug": "RTVS_Slovakia_International",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/c0/12c080fe4bec1ee271672d7252281c37.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "rtvs international",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214992,
+          "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214991,
+          "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17071,
+      "name": "RTVS Rádio Devín",
+      "slug": "RTVS_Radio_Devin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/75/9b75b0ad3d999aa5fd2e84ad6531f4f6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtvs devin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20517,
+          "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20516,
+          "url": "http://live.slovakradio.sk:8000/Devin_256.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20518,
+          "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20514,
+          "url": "http://live.slovakradio.sk:8000/Devin_32.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20515,
+          "url": "http://live.slovakradio.sk:8000/Devin_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 40306,
+      "name": "Fun Rádio - Vianoce",
+      "slug": "Fun_Radio_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/79/bb79eeec6bcc630bbd39c3a839740fd0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fun vianoce",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64907,
+          "url": "http://stream.funradio.sk:8000/xmas128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64908,
+          "url": "https://stream.funradio.sk/xmas128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64909,
+          "url": "https://stream.funradio.sk:8000/xmas128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 227738,
+      "name": "897 Radio - Gold",
+      "slug": "897_Radio_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/5d/f05dab47f0f122abe37479422e2ba4fe.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "897 gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182573,
+          "url": "https://c16.radioboss.fm:8122/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182571,
+          "url": "http://c16.radioboss.fm:8122/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182572,
+          "url": "http://c16.radioboss.fm:8122/stream1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 446071,
+      "name": "Rádio Rebeca",
+      "slug": "Radio_Rebeca",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/83/4a83dc7f4c5d9a79ba5a03b215bd5157.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.6",
+        "dialStripped": "996"
+      },
+      "aliases": {
+        "cleanName": "rebeca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Martin",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Martin, Slovakia",
+        "coordinates": {
+          "latitude": "49.0665100",
+          "longitude": "18.9239900"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216769,
+          "url": "http://mpc2.mediacp.eu:8200/rebecaweb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 145,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255608,
+          "url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 428056,
+      "name": "RTVS Rádio Devín",
+      "slug": "SRo_3_Radio_Devin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/58/0058b975f0310abf0dd306270b5e6258.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.4",
+        "dialStripped": "1044"
+      },
+      "aliases": {
+        "cleanName": "rtvs devin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214966,
+          "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214964,
+          "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 214965,
+          "url": "http://icecast.stv.livebox.sk:80/devin_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 445939,
+      "name": "Radio WOW",
+      "slug": "Radio_WOW_90.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/d1/f6d112eeedeb905e9e3faa3fbfacc9f4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "wow",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Trencín",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Trencín, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216757,
+          "url": "http://radioserver.online:8816/radiowow.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 216758,
+          "url": "https://radioserver.online:9816/radiowow.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 85626,
+      "name": "BB FM rádio",
+      "slug": "BB_FM_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/bc/01bc246dc7f40c34375f974bec6f6e07.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "bb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banská Belá",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Banská Belá, Banska Bystrica, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 131164,
+          "url": "https://stream.bbfm.sk/bbfm128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 131162,
+          "url": "http://stream.bbfm.sk:80/bbfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 131163,
+          "url": "http://stream.bbfm.sk/bbfm128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257430,
+          "url": "/tmp/tmpi_7af9d8",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 67766,
+      "name": "Radio JankoHrasko",
+      "slug": "Radio_JankoHrasko.sk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/d8/ead81fdc8ca5fe37a02e4d68aa68383e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jankohrasko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malacky",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Malacky, Slovakia",
+        "coordinates": {
+          "latitude": "48.4360400",
+          "longitude": "17.0218800"
+        }
+      },
+      "genre": {
+        "text": "Culture Folk Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108736,
+          "url": "http://78.24.9.110:31088/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268325,
+          "url": "http://78.24.9.110:31088/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 189341,
+      "name": "Rádio Pohoda 2",
+      "slug": "Radio_Pohoda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/3e/c83e8ad9774f3f5c2da6747986cb7296.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pohoda 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Slovakov",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Slovakov, Slovakia",
+        "coordinates": {
+          "latitude": "48.7150358",
+          "longitude": "19.1089190"
+        }
+      },
+      "genre": {
+        "text": "Europe Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174866,
+          "url": "http://mpc1.mediacp.eu:18111/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 174868,
+          "url": "https://mpc1.mediacp.eu:8111/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 427773,
+      "name": "RTV-Radio Regina - Bratislava 99.3",
+      "slug": "SRo_2_Radio_Regina_Bratislava",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/26/4226b2a5f5e13f5617efa2b8e45b3e62.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "rtv 99.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 214866,
+          "url": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 260739,
+      "name": "Radio Slovakia International - RSI",
+      "slug": "Radio_Slovakia_International_RSI",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "AM",
+        "dial": "5930",
+        "dialStripped": "5930"
+      },
+      "aliases": {
+        "cleanName": "international rsi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Community Culture World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188347,
+          "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 64711,
+      "name": "897 Radio - Dance",
+      "slug": "897_FM_POP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/8b/1e8b9efb01bc7b7eb8265812bfae997c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "897 dance",
+        "alsoKnownAs": "897 Radio - Main Channel"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104851,
+          "url": "https://c34.radioboss.fm:18106/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104848,
+          "url": "http://c34.radioboss.fm:8106/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104847,
+          "url": "http://c34.radioboss.fm:8106/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104852,
+          "url": "https://c34.radioboss.fm:18106/stream1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104850,
+          "url": "https://c34.radioboss.fm:18106/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104849,
+          "url": "http://c34.radioboss.fm:8106/stream1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37080,
+      "name": "Spaceman66 FM",
+      "slug": "Spaceman66_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/9c/e19c95cdbe406f733c2774c5d37adbef.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "spaceman66",
+        "alsoKnownAs": "(Space Stream Radio)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Martin",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Martin, Slovakia",
+        "coordinates": {
+          "latitude": "49.0665100",
+          "longitude": "18.9239900"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 267677,
+          "url": "http://65.108.124.70:7374/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60056,
+          "url": "http://cast3.my-control-panel.com/proxy/medcentr/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60055,
+          "url": "http://65.108.124.70:7374/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60057,
+          "url": "https://cast3.my-control-panel.com/proxy/medcentr/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 17892,
+      "name": "RadioSlovakia - HipHop",
+      "slug": "RadioSlovakia_HipHop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/16/eb16257ae96f6a79c93662f24b8f4b82.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radioslovakia hiphop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": ", Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 22612,
+          "url": "https://stream.zeno.fm/507nrx3swk8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 22611,
+          "url": "http://stream.zeno.fm/507nrx3swk8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 41446,
+      "name": "Mixing of Particulate Solids Radio 1",
+      "slug": "Mixing_of_Particulate_Solids_Radio_1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/28/93286a92520e0992692511ecee86dbbf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mixing of particulate solids 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Electro Lite Pop New Age",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66375,
+          "url": "http://streaming.live365.com/a39774?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66376,
+          "url": "https://streaming.live365.com/a39774?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 65144,
+      "name": "897 Radio - Hits",
+      "slug": "897_Radio_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/c1/b2c1593f4fdc9d95c2dd37a50eba95bb.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "897 hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105478,
+          "url": "http://c2.radioboss.fm:8425/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105479,
+          "url": "https://c2.radioboss.fm:8425/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 53376001,
+      "name": "RetroDance",
+      "slug": "RetroDance_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/19/c0194f5162bfaef61a51c2c11aeface8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrodance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Classical Classics Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280118,
+          "url": "https://stream.laut.fm/retrodance",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280117,
+          "url": "http://stream.laut.fm/retrodance",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 52602,
+      "name": "Rádio KIKS - BIG 90s",
+      "slug": "Radio_KIKS_BIG_90s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/ab/52abdf11ab6c28c455cf4178379a25c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiks big 90s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Košice",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Košice, Slovakia",
+        "coordinates": {
+          "latitude": "48.7139500",
+          "longitude": "21.2580800"
+        }
+      },
+      "genre": {
+        "text": "90s Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85502,
+          "url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85501,
+          "url": "http://online.radiokiks.sk:8000/kiks_big90s.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 75457403,
+      "name": "Radio Suita",
+      "slug": "Radio_Suita",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/97/df979fab7726de564267f1f43d90f290.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suita",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Classical Instrumental Opera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 284632,
+          "url": "http://radioserver.online/proxy/radiosuita/radiosuita.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284633,
+          "url": "http://radioserver.online:8017/radiosuita.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284634,
+          "url": "http://195.210.28.150:8017/radiosuita.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 284635,
+          "url": "https://radioserver.online/proxy/radiosuita/radiosuita.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 55674,
+      "name": "Europa 2 - Top 22",
+      "slug": "Europa_2_Top",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/44/414464ef2ce5da7c6d372c6539c1d146.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "europa 2 top 22",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": null,
+        "locationText": "Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Pop Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 31428,
+      "name": "Mixing of Particulate Solids Radio 3",
+      "slug": "Mixing_of_Particulate_Solids_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/28/93286a92520e0992692511ecee86dbbf.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mixing of particulate solids 3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Ambient Electronic Progressive House",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270583,
+          "url": "http://147.175.61.55:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50752,
+          "url": "http://147.175.61.55:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 67996,
+      "name": "Radio Sirava Vianoce",
+      "slug": "Radio_Sirava_Vianoce",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/24/76242b12f73305a08e057d23faf1c570.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sirava vianoce",
+        "alsoKnownAs": "Rádio Šírava Christmas"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Michalovce",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Michalovce, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108960,
+          "url": "http://stream.sepia.sk:8000/radiosirava-vianoce.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108961,
+          "url": "https://stream.sepia.sk/radiosirava-vianoce.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108962,
+          "url": "https://stream.sepia.sk:8000/radiosirava-vianoce.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 17598,
+      "name": "Rádio Pieštany",
+      "slug": "Radio_Piestany_90.2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/bb/38bb0d9dddd6f5e9421f3d13167bd30b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "piestany",
+        "alsoKnownAs": "Radio Piestany"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Piestany",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Piestany, Slovakia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classical Country Downtempo Electronic Funk Jazz Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21802,
+          "url": "https://solid33.streamupsolutions.com/proxy/gktiemqb/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21801,
+          "url": "http://212.95.45.137:8006/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21800,
+          "url": "http://solid33.streamupsolutions.com/proxy/gktiemqb/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sk",
+          "name": "Slovak"
+        }
+      ]
+    },
+    {
+      "id": 248700,
+      "name": "Radio Maria Slovakia - Hungarian Service",
+      "slug": "Radio_Maria_Slovakia_Hungarian_Service",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/4c/e34c6ef9af221bf02e2719649ce4affa.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "maria hungarian service",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bratislava",
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "locationText": "Bratislava, Bratislava, Slovakia",
+        "coordinates": {
+          "latitude": "48.1481600",
+          "longitude": "17.1067400"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270015,
+          "url": "http://dreamsiteradiocp5.com:8092/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186456,
+          "url": "http://dreamsiteradiocp5.com:8092/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

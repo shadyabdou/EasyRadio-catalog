@@ -1,0 +1,2257 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:56.769Z",
+  "endpoint": "/countries/Monaco/radios",
+  "countryCode": "mc",
+  "countryName": "Monaco",
+  "expectedCount": 26,
+  "count": 26,
+  "data": [
+    {
+      "id": 91860,
+      "name": "Radio France Culture",
+      "slug": "France_Culture_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9e/60/9e60ac4f475072c89b415db259b7cf2a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "culture",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7397600",
+          "longitude": "7.4273200"
+        }
+      },
+      "genre": {
+        "text": "Art Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7500,
+        "byCountry": {
+          "us": 4,
+          "gb": 3,
+          "au": 1,
+          "de": 2,
+          "fr": 257,
+          "br": 4,
+          "es": 8,
+          "mx": 2,
+          "jp": 1,
+          "in": 1,
+          "it": 6,
+          "ar": 1,
+          "ca": 3,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 137923,
+          "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=59e6n63bhx",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137924,
+          "url": "https://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=59e6n63bhx",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 24126571,
+      "name": "Radio Monaco",
+      "slug": "Radio_Monaco",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/92/1792f47b69f5d9cc821f8d7f82400506.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.2",
+        "dialStripped": "982"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Culture News Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 32,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 6,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246956,
+          "url": "https://streamingp.shoutcast.com/radio-monaco",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246955,
+          "url": "http://streaming501.radionomy.com:80/radio-monaco",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246954,
+          "url": "http://streaming502.radionomy.com:80/radio-monaco",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246953,
+          "url": "http://streamingp.shoutcast.com/radio-monaco",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 17309,
+      "name": "Radio Classique",
+      "slug": "Radio_Classique_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/5e/cc5eff7bc3e72f6a524ce62d21e5d936.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "classique",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Classical French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 17,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21010,
+          "url": "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21011,
+          "url": "http://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21013,
+          "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21012,
+          "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 418608,
+      "name": "Riviera Radio",
+      "slug": "Riviera_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/f7/39f7b328646f9c25d95f348f232dbede.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "riviera",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 11,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213860,
+          "url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275358,
+          "url": "http://media-ssl.musicradio.com/RivieraRadio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275359,
+          "url": "https://media-ssl.musicradio.com/RivieraRadio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 42,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213857,
+          "url": "http://icy-e-01-cr.sharp-stream.com/riviera.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213858,
+          "url": "http://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213859,
+          "url": "https://icy-e-01-cr.sharp-stream.com/riviera.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 54225536,
+      "name": "Radio Monaco",
+      "slug": "Radio_Monaco_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/62/bc62faea4a8e90be222b51b6de861c3c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 11,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280402,
+          "url": "http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280403,
+          "url": "http://icepe14.infomaniak.ch:80/radiomonaco-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280404,
+          "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 10706,
+      "name": "Jazz Radio",
+      "slug": "Frequence_Jazz_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/45/6445fb15c44bba4585dab3f55997d17b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "jazz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Jazz Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 14726,
+          "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 14727,
+          "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 29871,
+      "name": "Radio Monaco - Night Mood",
+      "slug": "Radio_Monaco_Night_Mood",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/4b/ba4b6d9557e72854c46c99f534f0ab61.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "night mood",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Ambient Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 5,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48047,
+          "url": "https://streamingp.shoutcast.com/radio-monaco-nightmood",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48044,
+          "url": "http://streamingp.shoutcast.com/radio-monaco-nightmood",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48045,
+          "url": "http://streaming503.radionomy.com:80/radio-monaco-nightmood",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48046,
+          "url": "http://streaming502.radionomy.com:80/radio-monaco-nightmood",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 65064,
+      "name": "Radio Monaco - 100% Mix Dj",
+      "slug": "Radio_Monaco_100_Mix_Dj",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/80/2380640e45cb24d8880a3649276d954c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "100 mix dj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 105372,
+          "url": "https://streamingp.shoutcast.com/radio-monaco-mixdj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105369,
+          "url": "http://streamingp.shoutcast.com/radio-monaco-mixdj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105370,
+          "url": "http://streaming501.radionomy.com:80/radio-monaco-mixdj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 105371,
+          "url": "http://streaming502.radionomy.com:80/radio-monaco-mixdj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 260804,
+      "name": "Radio Monaco - Made in New York",
+      "slug": "Radio_Monaco_Made_in_New_York",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/5a/965abc19cb5b3fd131abf708fe4da5bb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "made in",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 188396,
+          "url": "http://streaming.live365.com/a17555?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 188397,
+          "url": "https://streamingp.shoutcast.com/radio-monaco-madeinnewyork",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 188398,
+          "url": "https://streaming.live365.com/a17555?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 188394,
+          "url": "http://streamingp.shoutcast.com/radio-monaco-madeinnewyork",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 233415,
+          "url": "http://streaming503.radionomy.com:80/radio-monaco-madeinnewyork",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 188395,
+          "url": "http://streaming502.radionomy.com:80/radio-monaco-madeinnewyork",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 12759,
+      "name": "The Lounge Channel",
+      "slug": "The_Lounge_Channel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/d3/42d33e55ed2d10788adf88cf84597bfd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Jazz Lounge Smooth Jazz World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 17715,
+          "url": "https://stream.zeno.fm/h6mzt7ccvsbuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 17713,
+          "url": "http://stream.zeno.fm/h6mzt7ccvsbuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 64243,
+      "name": "Radio Émotion",
+      "slug": "Radio_Emotion_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/e6/7be627bb08d31cbf0e2e077729e8faa6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "emotion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary French Love Songs Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 104101,
+          "url": "https://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 104100,
+          "url": "http://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 46697,
+      "name": "The Lounge Channel 2",
+      "slug": "The_Lounge_Channel_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/54/3d54163ababc565f92a8773c7cd888a9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74614,
+          "url": "https://stream.zeno.fm/fgxswtqhsuhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74613,
+          "url": "http://stream.zeno.fm/fgxswtqhsuhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 5088,
+      "name": "Music 100.9",
+      "slug": "Music_100.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/14/74/147405ed49a86cbd20e132f46da4643e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "music 100.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 9619,
+          "url": "https://str04.fluidstream.net/music1009.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 9615,
+          "url": "http://str04.fluidstream.net/music1009.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267132,
+          "url": "http://shoutcast.streamingmedia.it:7128/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 9617,
+          "url": "http://shoutcast.streamingmedia.it:7128/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69987,
+      "name": "Radio Pitchoun",
+      "slug": "Radio_Pitchoun",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/38/3938349ac60ba8fc474ded2a23772c92.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "pitchoun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Education Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111480,
+          "url": "http://webradio.tvradio-pitchoun.fr:8000/radiopitchoun.aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 218,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 111479,
+          "url": "http://site.vizionr.fr:8080/radiopitchoun.aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 196,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 46779,
+      "name": "The Lounge Channel B",
+      "slug": "The_Lounge_Channel_B",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/39/7e396fe68c487002b8e2863176d67f31.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel b",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74701,
+          "url": "https://stream.zeno.fm/mbxiolkbmazuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74700,
+          "url": "http://stream.zeno.fm/mbxiolkbmazuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 4,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 186297,
+      "name": "Radio Ethic",
+      "slug": "Radio_Ethic",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/06/fa066e4a0bbb9d62f0fa2f342e680e97.gif",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ethic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173623,
+          "url": "http://163.172.37.18:8000/radioethic.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 574369,
+      "name": "Yellow Radio",
+      "slug": "Yellow_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/b5/c8b5b8c844f35c490d9da408e3f04ade.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yellow",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227859,
+          "url": "http://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227860,
+          "url": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 46757,
+      "name": "The Lounge Channel 5",
+      "slug": "The_Lounge_Channel_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/41/d9414530aab3ac25f97edc6fc3150c58.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7397600",
+          "longitude": "7.4273200"
+        }
+      },
+      "genre": {
+        "text": "Lounge Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74664,
+          "url": "http://stream.zeno.fm/tgo6qhmvlcmvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74665,
+          "url": "https://stream.zeno.fm/tgo6qhmvlcmvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 27232,
+      "name": "Yellow Riviera",
+      "slug": "Yellow_Riviera",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/b7/fbb7943b1c2a5e13ce6b78df0f1f6743.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yellow riviera",
+        "alsoKnownAs": "Yellow Radio\t- Yellow Riviera"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Dance Disco Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 42917,
+          "url": "http://yellowradio.ice.infomaniak.ch/yellow01.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 42918,
+          "url": "https://yellowradio.ice.infomaniak.ch/yellow01.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21827,
+      "name": "In Viaggio con DiMaggio",
+      "slug": "In_Viaggio_con_DiMaggio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8b/2b/8b2b57637796e91e8fbe46c36e25b6a3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "in viaggio con dimaggio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Bossa Nova Reggae World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 32691,
+          "url": "http://edge.radiomontecarlo.net/rmcweb022",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248094,
+          "url": "https://edge.radiomontecarlo.net/rmcweb022",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "it",
+          "name": "Italian"
+        }
+      ]
+    },
+    {
+      "id": 29549,
+      "name": "Extra Fun FM",
+      "slug": "extrafun_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/0c/970c0600bd3c41730f9892f0e1dfba04.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "extra fun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic House Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 47494,
+          "url": "https://listen.openstream.co/2864/audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47493,
+          "url": "http://listen.openstream.co/2864/audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 50923,
+      "name": "Nostalgie Monaco",
+      "slug": "Nostalgie_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/85/a285fac88f75802a1df2376e8a9a9b1e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.8",
+        "dialStripped": "938"
+      },
+      "aliases": {
+        "cleanName": "nostalgie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82466,
+          "url": "https://streaming.streema.com/listen-nrj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82465,
+          "url": "http://streaming.streema.com/listen-nrj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 66417,
+      "name": "Yellow Party",
+      "slug": "Yellow_Party",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/77/f777de228e0410b94424d7c1803ddf7a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yellow party",
+        "alsoKnownAs": "Yellow Radio\t- Yellow Party"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Electro Hip Hop House Pop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 107085,
+          "url": "https://yellowradio.ice.infomaniak.ch/yellow02.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 107084,
+          "url": "http://yellowradio.ice.infomaniak.ch/yellow02.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 46855,
+      "name": "The Lounge Channel 3",
+      "slug": "The_Lounge_Channel_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/6e/206e7982b6df1a14fd67af82dbc82a76.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel 3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7365450",
+          "longitude": "7.4219950"
+        }
+      },
+      "genre": {
+        "text": "Lounge Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74753,
+          "url": "https://stream.zeno.fm/1c9zb906pxhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74752,
+          "url": "http://stream.zeno.fm/1c9zb906pxhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 46761,
+      "name": "The Lounge Channel 6",
+      "slug": "The_Lounge_Channel_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/23/bb23dfffdf87e743f6bf8b0160d16122.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the lounge channel 6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7397600",
+          "longitude": "7.4273200"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74668,
+          "url": "http://stream.zeno.fm/ybm0pl73rhdvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74669,
+          "url": "https://stream.zeno.fm/ybm0pl73rhdvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 24759,
+      "name": "Funk2Disco",
+      "slug": "FUNK2DISCO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/4d/3e4d364bab32c6b746784a4ff49374ca.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "funk2disco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Monte Carlo",
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "locationText": "Monte Carlo, Monaco",
+        "coordinates": {
+          "latitude": "43.7333300",
+          "longitude": "7.4166700"
+        }
+      },
+      "genre": {
+        "text": "Dance Funk Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 38476,
+          "url": "http://stream.laut.fm/funk2disco",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 38477,
+          "url": "https://stream.laut.fm/funk2disco",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

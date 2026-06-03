@@ -1,0 +1,412 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:19.567Z",
+  "endpoint": "/countries/Vanuatu/radios",
+  "countryCode": "vu",
+  "countryName": "Vanuatu",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 10477271,
+      "name": "Paradise FM Vanuatu",
+      "slug": "Tudei_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/11/85118aa9261fe128fc8e753f520f3535.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Vila",
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "locationText": "Port Vila, Vanuatu",
+        "coordinates": {
+          "latitude": "-17.7338100",
+          "longitude": "168.3218800"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 6,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237742,
+          "url": "http://radio.vbtc.vu:80/paradisefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 2569980,
+      "name": "Radio Vanuatu",
+      "slug": "Radio_Vanuatu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/c5/2ec5ff1dc1cedc25f82668cdbb1048aa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0 / 100.0",
+        "dialStripped": "980 / 1000"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Vila",
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "locationText": "Port Vila, Vanuatu",
+        "coordinates": {
+          "latitude": "-17.7338100",
+          "longitude": "168.3218800"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230959,
+          "url": "http://radio.vbtc.vu/radiovanuatu",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 59,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 230960,
+          "url": "https://radio.vbtc.vu/radiovanuatu",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 95,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 122269,
+      "name": "Buzz FM Vanuatu",
+      "slug": "Buzz_96_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/30/9330becf51a26b288ea728fa2c8b7dc1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "buzz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Vila",
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "locationText": "Port Vila, Vanuatu",
+        "coordinates": {
+          "latitude": "-17.7338100",
+          "longitude": "168.3218800"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock News Pop Reggae Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156439,
+          "url": "https://streamer.dailypost.vu/live/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60692,
+      "name": "Laef FM Vanuatu",
+      "slug": "Laef_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/a7/7ca70075f6130584e7727203feff0470.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "laef",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - Laef FM Vanuatu"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Vila",
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "locationText": "Port Vila, Vanuatu",
+        "coordinates": {
+          "latitude": "-17.7338100",
+          "longitude": "168.3218800"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99310,
+          "url": "http://streams3.vision.org.au/vanuatu.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 115,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99311,
+          "url": "http://streams3.vision.org.au:443/vanuatu.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99312,
+          "url": "https://streams3.vision.org.au/vanuatu.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99313,
+          "url": "https://streams3.vision.org.au:443/vanuatu.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 198424,
+      "name": "Femme Pawa FM",
+      "slug": "Femme_Pawa_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/a2/e1a259ea1687541533ac93ce56b02c60.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99",
+        "dialStripped": "99"
+      },
+      "aliases": {
+        "cleanName": "femme pawa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Vila",
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "locationText": "Port Vila, Vanuatu",
+        "coordinates": {
+          "latitude": "-17.7338100",
+          "longitude": "168.3218800"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176832,
+          "url": "http://radio.vbtc.vu:80/femmefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 176833,
+          "url": "http://103.20.233.170/femmefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

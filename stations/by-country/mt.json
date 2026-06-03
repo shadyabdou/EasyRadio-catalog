@@ -1,0 +1,4217 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:42.305Z",
+  "endpoint": "/countries/Malta/radios",
+  "countryCode": "mt",
+  "countryName": "Malta",
+  "expectedCount": 53,
+  "count": 53,
+  "data": [
+    {
+      "id": 208319,
+      "name": "Net FM",
+      "slug": "Radio_101_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/62/c3629d5d076ca4b2babc8573f71ef515.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.0",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "net",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6030,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 2,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 4,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179254,
+          "url": "http://s2.voscast.com:11392/default",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48665,
+      "name": "ONE Radio",
+      "slug": "Super_One_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/f5/03f548fb8f975485632cebd5036134ff.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Marsa",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Marsa, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5580,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 5,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77458,
+          "url": "http://s10.voscast.com:8202/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 56707,
+      "name": "Calypso Radio 101.8",
+      "slug": "Calypso_Ten_18_Radio_Calypso",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/48/f148b41d8d33ce44d011662d4249d3b3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "calypso 101.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luqa",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Luqa, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40 World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3960,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 3,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93162,
+          "url": "http://s4.radio.co/sf3aa4c25a/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 180,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 93163,
+          "url": "https://s4.radio.co/sf3aa4c25a/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 194,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 323213,
+      "name": "Radio Maria Malta - Radju Marija",
+      "slug": "Radio_Maria_Malta_Radju_Marija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/a6/fca68173a74d2fd884b658d594b7db35.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "maria radju marija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Rabat, Malta",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3000,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 6,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 263083,
+          "url": "http://dreamsiteradiocp.com:8102/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202457,
+          "url": "http://dreamsiteradiocp2.com:8096/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 56793,
+      "name": "Bay Easy",
+      "slug": "Bay_Easy",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/bf/16bfe7b5fe4b7a098ab4058baae9f631.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bay easy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "St. Julian's",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "St. Julian's, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Alternative",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2910,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265570,
+          "url": "http://stream.v3.network:8018/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93411,
+          "url": "http://stream.v3.network:8018/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3658,
+      "name": "Radju Malta",
+      "slug": "Radio_Malta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/3b/483bc7ef8f77fcc75e3e3b7b19d70f1b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "radju",
+        "alsoKnownAs": "Radio Malta 93.7"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Għargħur",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Għargħur, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2400,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7797,
+          "url": "http://5.135.154.91:6982/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 323537,
+      "name": "Magic Malta 91.7",
+      "slug": "Magic_Malta_91.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/f1/5cf10ae4d28cd1f8762953d0187981e2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "magic 91.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Għargħur",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Għargħur, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1740,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 202468,
+          "url": "http://s46.myradiostream.com:6076/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243186,
+          "url": "https://s46.myradiostream.com:6076/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 338528,
+      "name": "RTK Radio 103FM",
+      "slug": "RTK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/1c/771cc977ab907b9c821df2c64a88e2d9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "rtk 103fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Victoria, MT, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1560,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 204457,
+          "url": "http://s2.radio.co/s955b1ced9/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204458,
+          "url": "https://s2.radio.co/s955b1ced9/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 110036,
+      "name": "Bay Radio 89.7",
+      "slug": "Bay_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/c6/dcc6712c253ffa13b94e6827b1c72d3f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "bay 89.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "St. Julian's",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "St. Julian's, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Hits Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 150312,
+          "url": "http://stream.v3.network:8022/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 20462,
+      "name": "Vibe FM",
+      "slug": "Capital_Radio_88.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/7f/b17f29ce8fc90c1ce6f78b7eb4abab30.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.7",
+        "dialStripped": "887"
+      },
+      "aliases": {
+        "cleanName": "vibe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Birkirkara",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Birkirkara, Malta",
+        "coordinates": {
+          "latitude": "35.8972200",
+          "longitude": "14.4611100"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Hip Hop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 29643,
+          "url": "https://vibefm.radioca.st/vibe_live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 29642,
+          "url": "http://philae.shoutca.st:8090/vibe_live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 88209,
+      "name": "Campus FM University of Malta",
+      "slug": "Campus_FM_University_of_Malta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6e/26/6e264ae0c972372264fc78bf0d3f2bd5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "campus university of",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Msida",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Msida, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "College",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134041,
+          "url": "http://nebula.shoutca.st:8040/campusfm_live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134040,
+          "url": "http://campusfm.radioca.st/campusfm_live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134043,
+          "url": "http://nebula.shoutca.st:8040/campusfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134042,
+          "url": "http://campusfm.radioca.st/campusfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 324181,
+      "name": "Radju Marija",
+      "slug": "Radju_Marija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/7f/ff7ffc89d51e86e58f7cc9c5efe48fa5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "radju marija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rabat",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Rabat, Malta",
+        "coordinates": {
+          "latitude": "34.0132500",
+          "longitude": "-6.8325500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 263582,
+          "url": "http://dreamsiteradiocp.com:8102/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263583,
+          "url": "http://dreamsiteradiocp.com:8102/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202517,
+          "url": "http://dreamsiteradiocp.com:8102/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202516,
+          "url": "http://dreamsiteradiocp.com:8102/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        },
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 393681,
+      "name": "Radju Malta 2",
+      "slug": "Radju_Malta_2_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/ca/10ca075edfb3a12347de6327640b3320.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "radju 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pieta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Pieta, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211645,
+          "url": "http://s11.myradiostream.com/4954/listen.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 39002,
+      "name": "Smash Radio",
+      "slug": "Smash",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/1f/911f30391b58fe6a2ed80cd0508a6501.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "smash",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Paola",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Paola, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63355,
+          "url": "http://radio.smashmalta.com/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63354,
+          "url": "http://radio.smashmalta.com:80/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 257133,
+          "url": "https://headend.smashmalta.com/smashradio1046fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248236,
+          "url": "http://195.158.70.69:1046/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 51319,
+      "name": "Bay Retro",
+      "slug": "Bay_Retro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/ae/dcaecedca65bbb1c2f269f77499d442e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bay retro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "St. Julian's",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "St. Julian's, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 83191,
+          "url": "http://mcp1.myshoutca.st:8046/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31699,
+      "name": "Buzz FM - Buzz Fm Ancient History",
+      "slug": "Buzz_Fm_Buzz_Fm_Ancient_History",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/e6/89e60d1084ace25390f7a1883bc94f0a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz buzz ancient history",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Education Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 6,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 51318,
+          "url": "https://stream.zeno.fm/kmgs2bkdfgguv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 51317,
+          "url": "http://stream.zeno.fm/kmgs2bkdfgguv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17408,
+      "name": "Magic Malta 91.7",
+      "slug": "FM_Bronja",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/72/a572194d12b003860590ab3cdc2a4370.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "magic 91.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gwardamanga",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Gwardamanga, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Classical Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21259,
+          "url": "http://s46.myradiostream.com:6076/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 233314,
+      "name": "Radju Malta",
+      "slug": "Radju_Malta_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/44/a244f7ba50b1e83d3b1d243da00a48f4.png",
+      "dial": {
+        "band": "AM",
+        "dial": "999",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "radju",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gwardamanga",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Gwardamanga, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183593,
+          "url": "http://5.135.154.91:6982/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 108143,
+      "name": "Buzz FM - Audio Books",
+      "slug": "Buzz_FM_Audio_Books",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/e1/94e15d6cf1a35a2a2d31f925a5dd2f8d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz audio books",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 149014,
+          "url": "http://stream.zeno.fm/ne18b2lkjoivv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 149015,
+          "url": "https://stream.zeno.fm/ne18b2lkjoivv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 221038,
+      "name": "Radju Ghazziela",
+      "slug": "Radju_Ghazziela",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/6e/016ed76e91f100eacfcf0c48694084ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "radju ghazziela",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Żebbuġ",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Żebbuġ, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181468,
+          "url": "http://uk6freenew.listen2myradio.com:28156/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 54604,
+      "name": "Radio 105 - Sixties",
+      "slug": "Radio_105_Sixties",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/b1/64b1f5929045288e33bb6afe28dd66d3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 sixties",
+        "alsoKnownAs": "Galaxy 105 - Sixties [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "60s Lite Pop Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265796,
+          "url": "http://sixties-radio105network.radioca.st:8298/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 88862,
+          "url": "http://sixties-radio105network.radioca.st:8298/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 460951,
+      "name": "Malta Sunshine Radio",
+      "slug": "Malta_Sunshine_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b1/90/b190bc916cbfc9fc84e83f063a370041.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sunshine",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217777,
+          "url": "http://uk15freenew.listen2myradio.com:31737/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217778,
+          "url": "http://stream.zeno.fm/14gzk46p7yzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217779,
+          "url": "https://stream.zeno.fm/14gzk46p7yzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49876,
+      "name": "BKR Radio",
+      "slug": "BKR_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/f0/6df0361787371a9916a58e0c18d4f409.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "bkr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Birkirkara",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Birkirkara, Malta",
+        "coordinates": {
+          "latitude": "35.8972200",
+          "longitude": "14.4611100"
+        }
+      },
+      "genre": {
+        "text": "Dance Sports World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80340,
+          "url": "http://stream.bkr.mt:90/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 273648,
+          "url": "http://s3.voscast.com:10893/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 273647,
+          "url": "http://s3.voscast.com:10892/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 42408,
+      "name": "Tomorrowland One World Radio - Malta",
+      "slug": "One_World_Radio_Malta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/26/4226555081fc8a9c2148cdc1af52fc34.jpg",
+      "dial": {
+        "band": "DAB",
+        "dial": "12A",
+        "dialStripped": "12A"
+      },
+      "aliases": {
+        "cleanName": "tomorrowland one world",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68177,
+          "url": "http://likeradiostream.com:8000/owrmalta",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68178,
+          "url": "https://likeradiostream.com/owrmalta",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 405528,
+      "name": "Pure Radio",
+      "slug": "Pure_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/a5/b9a5dfd4e8ab3f11fe0745b54b8ef380.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "pure",
+        "alsoKnownAs": "Pure Radio Malta"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Balzan",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Balzan, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212899,
+          "url": "http://stream.zeno.fm/v5qbq89sz68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212902,
+          "url": "https://stream.zeno.fm/v5qbq89sz68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212900,
+          "url": "http://65.109.97.137:8010/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212901,
+          "url": "http://sp1.19cloudsnetwork.gr:8010/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "name": "All Rock Radio",
+      "slug": "All_Rock_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/1e/291e102f236fa0aea48ad1dc86a8b16c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "all rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie Punk Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4117,
+          "url": "http://s6.reliastream.com:8296/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 57710,
+      "name": "Radio 105 - Cuore",
+      "slug": "Radio_105_Cuore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/8d/9d8d9e4ffcf79effb3f58cae145b1d55.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 cuore",
+        "alsoKnownAs": "Galaxy 105 - Cuore [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Hits Italian Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95388,
+          "url": "http://cuore-radio105network.radioca.st:8188/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248954,
+          "url": "http://cuore-radio105network.radioca.st:8188/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 255687,
+      "name": "Radju Leħen il-Belt Victoria",
+      "slug": "Radju_Lehen_il_Belt_Victoria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/77/48776dc04665865aa7e6dea906137c51.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.0",
+        "dialStripped": "1040"
+      },
+      "aliases": {
+        "cleanName": "radju lehen il belt",
+        "alsoKnownAs": "LBV"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Victoria",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Victoria, MT, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187639,
+          "url": "http://az.wannastream.com:8010/radjulehenil-beltvictoria-96kbps",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 187637,
+          "url": "http://az.wannastream.com:8010/radjulehenil-beltvictoria",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 139,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 187638,
+          "url": "http://az.wannastream.com:8010/radjulehenil-beltvictoria-32kbps",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 16558378,
+      "name": "Radio 105",
+      "slug": "Radio_Galaxy_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/95/09952fd0075dcd3cd0ce5793d282cd17.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.0",
+        "dialStripped": "1050"
+      },
+      "aliases": {
+        "cleanName": "105",
+        "alsoKnownAs": "Radio Galaxy 105 [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 240993,
+          "url": "http://radio105-radio105network.radioca.st:8016/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272391,
+          "url": "http://radio105-radio105network.radioca.st:8016/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 90743,
+      "name": "Buzz FM - Christmas Kids Radio",
+      "slug": "Buzz_FM_Christmas_Kids_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/53/3853b8f05af55813943e676fb0798585.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz christmas kids",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christmas Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137047,
+          "url": "http://stream.zeno.fm/xfejjabay1lvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137048,
+          "url": "https://stream.zeno.fm/xfejjabay1lvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21967,
+      "name": "Buzz FM - Blues",
+      "slug": "Buzz_FM_Blues",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/0f/c00f5ff92126d0df6b8a63ff5c9bcae8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz blues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Blues",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32964,
+          "url": "https://stream.zeno.fm/bhrmx40q4bpvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32963,
+          "url": "http://stream.zeno.fm/bhrmx40q4bpvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 16951221,
+      "name": "Radio Casa de la Misericordia",
+      "slug": "Radio_Casa_de_la_Misericordia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/23/1723de44967fc75ccb73dc546ed8e72c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "casa de la misericordia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Birkirkara",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Birkirkara, Malta",
+        "coordinates": {
+          "latitude": "35.8972200",
+          "longitude": "14.4611100"
+        }
+      },
+      "genre": {
+        "text": "Christian Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241480,
+          "url": "https://cp.sonicpanel.stream/8214/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241479,
+          "url": "http://cp.sonicpanel.stream:8214/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245615,
+          "url": "https://cp.sonicpanel.stream:8214/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 51687,
+      "name": "Buzz FM - Nonstop 80s Radio",
+      "slug": "Buzz_FM_Nonstop_80s_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/2c/382cbb2d2d9516160e4152d320a62c52.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz nonstop 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83800,
+          "url": "http://stream.zeno.fm/elgpl9iqbhqtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83801,
+          "url": "https://stream.zeno.fm/elgpl9iqbhqtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 28842,
+      "name": "Buzz FM - Techno",
+      "slug": "Buzz_FM_Techno",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/7f/4f7f013ba428d7a7d97a84834863aae8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz techno",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46568,
+          "url": "https://stream.zeno.fm/57iwxpwsvzbvv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46567,
+          "url": "http://stream.zeno.fm/57iwxpwsvzbvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 321404,
+      "name": "Radju Luminaria",
+      "slug": "Radju_Luminaria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/70/f270310dbbc4aac09f31e877225e64cf.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "radju luminaria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nadur",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Nadur, Malta",
+        "coordinates": {
+          "latitude": "6.7132000",
+          "longitude": "79.9026000"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202079,
+          "url": "http://az.wannastream.com:8000/radjuluminaria",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255479,
+          "url": "https://az.wannastream.com:8000/radjuluminaria",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 566228,
+      "name": "Gozo Radio",
+      "slug": "Gozo_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/d0/01d0d64b9e36d68c0924e9fff1872a5e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gozo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Xagħra",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Xagħra, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classical Country Jazz Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227504,
+          "url": "http://stream.radiojar.com/rngbd383neuvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227505,
+          "url": "https://stream.radiojar.com/rngbd383neuvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 69423,
+      "name": "Radio 105 - Retro",
+      "slug": "Galaxy_105_Retro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/4f/6d4f66f22177b37cfacce32fc53df3c4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 retro",
+        "alsoKnownAs": "Galaxy 105 - Retro [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 268365,
+          "url": "http://retro-radio105network.radioca.st:8205/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110460,
+          "url": "http://retro-radio105network.radioca.st:8205/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 53029,
+      "name": "Radio 105 - Nineties",
+      "slug": "Radio_105_Nineties",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/f0/b7f078d91897ee05f68d1a1895d8727f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 nineties",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "90s Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86227,
+          "url": "http://nineties-radio105network.radioca.st:8348/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 29832,
+      "name": "Buzz FM - Buzz Trance Radio",
+      "slug": "Buzz_FM_Buzz_Trance_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/ba/5aba49d002f362dcd7b634d52cd39428.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz buzz trance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Chillout Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 47989,
+          "url": "http://stream.zeno.fm/cw0dbcx67tbtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 47990,
+          "url": "https://stream.zeno.fm/cw0dbcx67tbtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36576151,
+      "name": "Radio 105 - Maltin",
+      "slug": "Radio_105_Maltin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/e8/06e8b8b4a25a2b682d4fc1b3bd1c4ae1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 maltin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265797,
+          "url": "http://maltin-radio105network.radioca.st:8224/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272392,
+          "url": "http://maltin-radio105network.radioca.st:8224/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 36576194,
+      "name": "Radio 105 - Christmas",
+      "slug": "Radio_105_Christmas",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/61/0b6193de9978744b09f59a0cefb02d3a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 christmas",
+        "alsoKnownAs": "Galaxy 105 - Christmas [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Christmas Holidays",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265799,
+          "url": "http://xmas-radio105network.radioca.st:8184/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272394,
+          "url": "http://xmas-radio105network.radioca.st:8184/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mt",
+          "name": "Maltese"
+        }
+      ]
+    },
+    {
+      "id": 36576152,
+      "name": "Radio 105 - Country",
+      "slug": "Radio_105_Country",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f3/f8/f3f8f9c02059319ee1c3161914fde911.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 country",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265798,
+          "url": "http://country-radio105network.radioca.st:8274/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272393,
+          "url": "http://country-radio105network.radioca.st:8274/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 195935,
+      "name": "Fantasy Radio Malta",
+      "slug": "Fantasy_Radio_Malta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/db/bf/dbbfcc02850c678ae38000687618e7db.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fantasy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176202,
+          "url": "http://uk5freenew.listen2myradio.com:29857/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 176203,
+          "url": "http://109.169.76.104:38753/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269618,
+          "url": "http://109.169.76.104:38753/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 31423,
+      "name": "Radio 105 - Mellow",
+      "slug": "Radio_105_Mellow",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/65/8465d61bdad829be2de959c2f31a6f16.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 mellow",
+        "alsoKnownAs": "Galaxy 105 - Mellow [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Ambient Lite Pop Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264558,
+          "url": "http://mellow-radio105network.radioca.st:8212/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50747,
+          "url": "http://mellow-radio105network.radioca.st:8212/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 122115,
+      "name": "Buzz FM - Buzz FM Divas Radio",
+      "slug": "Buzz_FM_Buzz_FM_Divas_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/25/e8/25e8121a5627bf94ab48b8cb16ecfd6c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz buzz divas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156344,
+          "url": "http://stream.zeno.fm/soo2ygvbeouvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156345,
+          "url": "https://stream.zeno.fm/soo2ygvbeouvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 58333,
+      "name": "Energy Rock Channel",
+      "slug": "Energy_Rock_Channel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/49/05496e20974bb8927e6e760369f86fa6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "energy rock channel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Valletta",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Valletta, Malta",
+        "coordinates": {
+          "latitude": "35.8997200",
+          "longitude": "14.5147200"
+        }
+      },
+      "genre": {
+        "text": "Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96236,
+          "url": "http://sr11.inmystream.it:8192/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96237,
+          "url": "http://sr11.inmystream.it:8192/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 122164,
+      "name": "Buzz FM",
+      "slug": "Buzz_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/62/2262f8596c49e0eeb7140423c5aaad3b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Classic Rock Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 156377,
+          "url": "https://stream.zeno.fm/xwki3b2h2obvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156376,
+          "url": "http://stream.zeno.fm/xwki3b2h2obvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 21111,
+      "name": "Radio 105 - Reggae",
+      "slug": "Radio_105_Reggae",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/68/5d/685d1fb73d3d578ee8471b106d78d1f2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 reggae",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Pop Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31185,
+          "url": "http://reggae-radio105network.radioca.st:8436/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 58291,
+      "name": "Buzz FM - Buzz FM Rock Radio",
+      "slug": "Buzz_FM_Buzz_FM_Rock_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/26/3726fb721ed83bc4214b31acec5875f3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz buzz rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96114,
+          "url": "http://stream.zeno.fm/phcdaasfpaovv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 96115,
+          "url": "https://stream.zeno.fm/phcdaasfpaovv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 1781,
+      "name": "Comedy-Rock Radio",
+      "slug": "Comedy_Rokk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/16/a916ed1a900f75b0adc1ca1024e877d1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "comedy rock",
+        "alsoKnownAs": "Comedy Rock Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zejtun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Zejtun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Comedy Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4769,
+          "url": "http://s9.voscast.com:9188/stream.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 158,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4770,
+          "url": "https://s9.voscast.com:9189/stream.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 177,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 58290,
+      "name": "Radio 105 - Rock",
+      "slug": "Radio_105_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/90/fc90946c744e1e57f23c933895c1a3d0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "105 rock",
+        "alsoKnownAs": "Galaxy 105 - Rock [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hamrun",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Hamrun, Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 96113,
+          "url": "http://rock-radio105network.radioca.st:8322/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 250197,
+          "url": "http://rock-radio105network.radioca.st:8322/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 508962,
+      "name": "Radju Vangelu",
+      "slug": "Radju_Vangelu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/4d/614da40e98c3e6cc1d475cdb42d26246.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radju vangelu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": ", Malta",
+        "coordinates": {
+          "latitude": "35.8916460",
+          "longitude": "14.4816780"
+        }
+      },
+      "genre": {
+        "text": "Catholic Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221200,
+          "url": "https://sp1.19cloudsnetwork.gr/8062/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 221198,
+          "url": "http://65.109.97.137:8062/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 122113,
+      "name": "Buzz FM - Buzz FM Country Music",
+      "slug": "Buzz_FM_Buzz_FM_Country_Music",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/14/9914a0f163b5d684fefa4b0e26051fa6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "buzz buzz country music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sliema",
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "locationText": "Sliema, Malta",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156343,
+          "url": "https://stream.zeno.fm/pwunai6sotrvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156342,
+          "url": "http://stream.zeno.fm/pwunai6sotrvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:39.316Z",
+  "endpoint": "/countries/Burundi/radios",
+  "countryCode": "bi",
+  "countryName": "Burundi",
+  "expectedCount": 10,
+  "count": 10,
+  "data": [
+    {
+      "id": 122672,
+      "name": "Radio Maria Burundi",
+      "slug": "Radio_Maria_Burundi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/03/0803eee483592944f51c6a8a4ad228ed.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Christian Devotional Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 9,
+          "gb": 1,
+          "au": 3,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 1,
+          "ca": 10,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156527,
+          "url": "http://dreamsiteradiocp2.com:8082/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 69220,
+      "name": "RTNB - Chaîne 1",
+      "slug": "RTNB_Chaine",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/54/dc54dde54e18e332d8bcffd3f16249e6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "rtnb chaine 1",
+        "alsoKnownAs": "Radio Télévision Nationale du Burundi - Chaîne  1"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Information Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110186,
+          "url": "https://happy.bumadventiste.org:8000/rtnb1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 110184,
+          "url": "http://41.79.226.195:8000/rtnb1",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 88878,
+      "name": "Radio Isanganiro",
+      "slug": "isanganiro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/e2/23e21512dd16d476d11e3b3608e8ca70.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "isanganiro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134795,
+          "url": "http://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134796,
+          "url": "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sw",
+          "name": "Swahili"
+        }
+      ]
+    },
+    {
+      "id": 69523,
+      "name": "Radio Bonesha FM",
+      "slug": "Bonesha_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/22/9f2297848d5a74de888a4a7ffa84e6a0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8 / 87.7",
+        "dialStripped": "968 / 877"
+      },
+      "aliases": {
+        "cleanName": "bonesha",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Community Education Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 110601,
+          "url": "http://a9.asurahosting.com:7490/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277878,
+          "url": "http://a9.asurahosting.com:8950/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277879,
+          "url": "https://a9.asurahosting.com:8950/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 142154,
+      "name": "Radio Indundi Culture",
+      "slug": "Indundi_Culture",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/1a/0c1a5a255890c208c6a931696ba87263.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.2 / 99.9",
+        "dialStripped": "882 / 999"
+      },
+      "aliases": {
+        "cleanName": "indundi culture",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Art Culture Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 163237,
+          "url": "http://63.250.40.39:8008/indundiculture",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 163238,
+          "url": "http://indundiculture.com:8008/indundiculture",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247967,
+          "url": "https://indundiculture.com:8003/indundiculture",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43637,
+      "name": "Radio Scolaire Nderagakura",
+      "slug": "Radio_Scolaire_Nderagakura",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/2a/f62a30c8eecdff4d614abaf2997f045b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.9",
+        "dialStripped": "879"
+      },
+      "aliases": {
+        "cleanName": "scolaire nderagakura",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Education French Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70123,
+          "url": "https://eu10.fastcast4u.com/nderagakura/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70122,
+          "url": "http://eu10.fastcast4u.com:8990/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 41684,
+      "name": "Radio Agakiza",
+      "slug": "Radio_Agakiza",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2c/41/2c4147c68f735c07b5831ad330a22a2b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9",
+        "dialStripped": "979"
+      },
+      "aliases": {
+        "cleanName": "agakiza",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66759,
+          "url": "http://cast6.asurahosting.com/proxy/radioaga/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66761,
+          "url": "https://cast6.asurahosting.com/proxy/radioaga/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66760,
+          "url": "http://centova.fabricahost.com.br:8293/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 280863,
+      "name": "Kazoza FM",
+      "slug": "Kazoza_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/1b/871b8616e4f386104497d4e8801c974b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.3",
+        "dialStripped": "1033"
+      },
+      "aliases": {
+        "cleanName": "kazoza",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192128,
+          "url": "http://uk16freenew.listen2myradio.com:7154/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256451,
+          "url": "http://uk15freenew.listen2myradio.com:35539/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "rw",
+          "name": "Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "id": 50192,
+      "name": "Yantu FM",
+      "slug": "Yantu_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/78/1f78d537baf6e7f2378cc8b4b912e494.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yantu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": ", Burundi",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80936,
+          "url": "http://stream.zeno.fm/6ezvc5a44bhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80937,
+          "url": "https://stream.zeno.fm/6ezvc5a44bhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 9915835,
+      "name": "DESTINY FM",
+      "slug": "DESTINY_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/9c/1b9c2f643ca2f206f59a2efa1112a235.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.4 / 90.5",
+        "dialStripped": "894 / 905"
+      },
+      "aliases": {
+        "cleanName": "destiny",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bujumbura",
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "locationText": "Bujumbura, Burundi",
+        "coordinates": {
+          "latitude": "-3.3822000",
+          "longitude": "29.3644000"
+        }
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

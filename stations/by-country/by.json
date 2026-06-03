@@ -1,0 +1,4521 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:52.251Z",
+  "endpoint": "/countries/Belarus/radios",
+  "countryCode": "by",
+  "countryName": "Belarus",
+  "expectedCount": 52,
+  "count": 52,
+  "data": [
+    {
+      "id": 50115,
+      "name": "Юмор FM",
+      "slug": "Humor_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/f7/edf7fe0449271ad0e2c4438436317428.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "iumor",
+        "alsoKnownAs": "Humor FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Comedy Pop Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 12870,
+        "byCountry": {
+          "us": 4,
+          "gb": 3,
+          "au": 0,
+          "de": 4,
+          "fr": 7,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80791,
+          "url": "http://live.humorfm.by:8000/veseloeradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 82839,
+      "name": "Душевное радио",
+      "slug": "Dushevnoe_radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/d4/00d414409350ef8bd64175ffd09a9aa5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "dushevnoe",
+        "alsoKnownAs": "Dushevnoe radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7800,
+        "byCountry": {
+          "us": 3,
+          "gb": 2,
+          "au": 0,
+          "de": 5,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129174,
+          "url": "http://stream2.datacenter.by:8010/dushevnoe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 73473,
+      "name": "Novoe radio 98.4 FM",
+      "slug": "Novoe_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/a4/87a48c9165685827f1176e61f721bede.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.4",
+        "dialStripped": "984"
+      },
+      "aliases": {
+        "cleanName": "novoe 98.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Hits Russian Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3780,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116039,
+          "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 115,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116038,
+          "url": "http://live.novoeradio.by:8000/novoeradio-128k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 42579,
+      "name": "Новое Радио",
+      "slug": "Novoe_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/3e/823eada0918a82ca01932f2dd3dbbb94.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.2",
+        "dialStripped": "1032"
+      },
+      "aliases": {
+        "cleanName": "novoe",
+        "alsoKnownAs": "Novoe Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2250,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68425,
+          "url": "http://live.novoeradio.by:8000/novoeradio-128k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68426,
+          "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 56757,
+      "name": "Радиус FM",
+      "slug": "Radius_FM_BR_Radius_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/3f/9d3f885668949e377cdcd8ae75fb0ef4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": "radius",
+        "alsoKnownAs": "Radius FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Homyel",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Homyel, Belarus",
+        "coordinates": {
+          "latitude": "53.5090974",
+          "longitude": "27.6710534"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1770,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 238276,
+          "url": "http://media2.datacenter.by:8002/radiusfm_main",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 187,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 93303,
+          "url": "https://stream2.datacenter.by/radiusfm_main",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 200,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56960,
+      "name": "Радыё Relax",
+      "slug": "Radio_Relax_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f3/68/f368db26f555c1aa50b3d4d143f4de2a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "87.5",
+        "dialStripped": "875"
+      },
+      "aliases": {
+        "cleanName": "radyio relax",
+        "alsoKnownAs": "Radio Relax"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Lite Pop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 93876,
+          "url": "http://live.humorfm.by:8000/relax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93879,
+          "url": "https://live.humorfm.by:8443/radiorelax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93880,
+          "url": "https://live.humorfm.by:8443/relax",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93877,
+          "url": "http://live.humorfm.by:8000/radiorelax",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 93881,
+          "url": "https://live.humorfm.by:8443/relax-high",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 73504,
+      "name": "Радио Витебск",
+      "slug": "Radio_Vitebsk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/b9/bcb905a86dc30f8766dfde4431f7dcc4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.2",
+        "dialStripped": "912"
+      },
+      "aliases": {
+        "cleanName": "vitebsk",
+        "alsoKnownAs": "Radio Vitebsk"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vitebsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Vitebsk, Belarus",
+        "coordinates": {
+          "latitude": "55.1904000",
+          "longitude": "30.2049000"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116074,
+          "url": "https://stream02.pcradio.ru/vtv_by-med",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116073,
+          "url": "http://stream02.pcradio.ru:8000/vtv_by-med",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 73831,
+      "name": "Пилот FM",
+      "slug": "Pilot_FM_1012",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/aa/3daa964fd1149c56e2ccfb040e81a148.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "pilot",
+        "alsoKnownAs": "Pilot FM 101.2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116585,
+          "url": "http://178.124.131.35:8022/pilotfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 146,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116586,
+          "url": "https://stream2.datacenter.by/pilotfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 238466,
+          "url": "https://live.pilotfm.com/stream/pilotfm/aac128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 82861,
+      "name": "Душевное радио",
+      "slug": "Dushevnoe_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/e2/7ee24d5b04e4be6d99a3437ce4e96b42.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "dushevnoe",
+        "alsoKnownAs": "Dushevnoe radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gomel",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Gomel, Belarus",
+        "coordinates": {
+          "latitude": "52.4345000",
+          "longitude": "30.9754000"
+        }
+      },
+      "genre": {
+        "text": "Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129206,
+          "url": "http://178.124.131.35:8010/dushevnoe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129205,
+          "url": "http://stream2.datacenter.by:8010/dushevnoe",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129207,
+          "url": "https://stream2.datacenter.by/dushevnoe",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 57319,
+      "name": "Минская волна",
+      "slug": "Minskaya_Volna_97.4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/23/6523788e90a941dce8243875779bc27d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.4",
+        "dialStripped": "974"
+      },
+      "aliases": {
+        "cleanName": "minskaia volna",
+        "alsoKnownAs": "Minskaya Volna 97.4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 840,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94725,
+          "url": "http://stream2.datacenter.by:8013/mvradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94726,
+          "url": "https://stream2.datacenter.by/mvradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 119447,
+      "name": "Радио Брест",
+      "slug": "Trkbest_104.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/32/89324f8c39e95c3c2c1fe6d483ab547d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.8",
+        "dialStripped": "1048"
+      },
+      "aliases": {
+        "cleanName": "brest",
+        "alsoKnownAs": "Trkbest 104.8, Radio Brest"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Brest",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Brest, Belarus",
+        "coordinates": {
+          "latitude": "52.0975500",
+          "longitude": "23.6877500"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155054,
+          "url": "http://178.124.131.35:8012/trkbrest",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155055,
+          "url": "https://stream2.datacenter.by/trkbrest",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 57254,
+      "name": "רדיו תשעים",
+      "slug": "Radio_90_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/f4/d7f4f5ccf8b847492a427dccd0772630.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "rdyv tsh ym",
+        "alsoKnownAs": "Radio Ninety, Radio 90 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94566,
+          "url": "https://radio.streamgates.net/stream/90fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "he",
+          "name": "Hebrew"
+        }
+      ]
+    },
+    {
+      "id": 73523,
+      "name": "Радио Компас FM",
+      "slug": "Radio_Kompas_FM_Radio_Compass_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/6a/036a5d74caf49de06d0965c2536bb9ed.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "kompas",
+        "alsoKnownAs": "Radio Kompas FM , Radio Compass FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116101,
+          "url": "https://radio.mil.by/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 25086,
+      "name": "Радио Легенды FM 94,1",
+      "slug": "Radio_Legends_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/c4/eec4c6b37d6969a41bce24b79695c038.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "legendy 94 1",
+        "alsoKnownAs": "Radio Legends FM , Radio Legendy FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39194,
+          "url": "http://live.legendy.by:8000/legendyfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 492682,
+      "name": "Радио Unistar",
+      "slug": "Unistar_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/cd/bdcd9aea6914165af979eb4ea5574f47.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "unistar",
+        "alsoKnownAs": "Radio UNISTAR"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220206,
+          "url": "http://stream.unistar.by/unistar_main_external/unistar_main/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 147,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274923,
+          "url": "http://stream.usp.unistar.by/hls/unistar_main/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 105,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 220207,
+          "url": "https://stream.unistar.by/unistar_main_external/unistar_main/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 391881,
+      "name": "Пилот-FM",
+      "slug": "Pilot_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/13/8213cc88ce5b7b9aed1f02c27ae49a38.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "pilot",
+        "alsoKnownAs": "Pilot FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255496,
+          "url": "http://live.pilotfm.com/stream/pilotfm/aac128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 139,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 239830,
+          "url": "https://live.pilotfm.com/stream/pilotfm/aac128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 211410,
+          "url": "https://stream2.datacenter.by/pilotfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 324538,
+      "name": "Радыё Марыя Беларусь",
+      "slug": "Radio_Maria_Belarus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/93/df9397bb742a2dece02c8e5eba5fe860.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radyio maryia",
+        "alsoKnownAs": "Radio Maria Belarus"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202564,
+          "url": "http://server.radiorm.by:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255351,
+          "url": "http://server.radiorm.by:8443/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253483,
+          "url": "http://server.radiorm.by:8443/start64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247619,
+          "url": "https://server.radiorm.by:8443/start32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 32,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 247620,
+          "url": "https://server.radiorm.by:8443/aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202567,
+          "url": "http://server.radiorm.by:8000/aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202565,
+          "url": "http://server.radiorm.by:8000/start64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202566,
+          "url": "http://server.radiorm.by:8000/start32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 32,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 253484,
+          "url": "https://server.radiorm.by:8443/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255353,
+          "url": "https://server.radiorm.by:8443/start64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 109121,
+      "name": "Авторадио",
+      "slug": "Avtoradio_Autoradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/b0/efb0a230b4c2d755e8b15fe5c01e3896.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "avtoradio",
+        "alsoKnownAs": "Avtoradio , Autoradio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 149456,
+          "url": "https://hls-01-vtv.webcaramba.com/vtv-avtoradio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 22752,
+      "name": "Рок-Омлет",
+      "slug": "Rock_omlet",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/1b/9f1ba33356638f255dbe953de1f74c06.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rok omlet",
+        "alsoKnownAs": "Rock-omlet"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Alternative Blues Progressive House Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34543,
+          "url": "http://radio.rock-omlet.com:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 52862,
+      "name": "Love Is Radio Belarus",
+      "slug": "Love_Is_Radio_Belarus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/ba/2bbaf1c69457872571cdc8ec1fb2d0cd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "love is",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "90s Love Songs Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85968,
+          "url": "http://listen1.myradio24.com:9000/3355",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85969,
+          "url": "https://listen1.myradio24.com/3355",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 481319,
+      "name": "Центр FM",
+      "slug": "Radio_Center_101.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/84/d084143cdfa81c571a5a043fc9059cd5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "tsentr",
+        "alsoKnownAs": "Radio Center 101.7 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219561,
+          "url": "https://stream2.datacenter.by/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 213,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 46920,
+      "name": "Радио Гродно 101.2FM",
+      "slug": "Radio_Grodno",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/50/0850d45be8cc1ee48c9dd2aada1ec4ff.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "grodno 101.2",
+        "alsoKnownAs": "Radio Grodno"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hrodna",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Hrodna, Belarus",
+        "coordinates": {
+          "latitude": "53.6884000",
+          "longitude": "23.8258000"
+        }
+      },
+      "genre": {
+        "text": "Dance Lounge Pop Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74841,
+          "url": "https://stream.radiogrodno.by:8005/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 233,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74842,
+          "url": "https://stream.radiogrodno.by:8005/rgfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 90,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 231674,
+      "name": "Guira FM",
+      "slug": "Guira_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/f6/21f644af648b865accee35fd2b5e30e8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "guira",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 183284,
+          "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183285,
+          "url": "http://streams.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183286,
+          "url": "https://streams.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183287,
+          "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 83216,
+      "name": "Radio Gomel FM 101.3",
+      "slug": "Radio_Gomel_FM_101.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/13/bf13b630a6d54c84b80b0c0969847740.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "gomel 101.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gomel",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Gomel, Belarus",
+        "coordinates": {
+          "latitude": "52.4345000",
+          "longitude": "30.9754000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Love Songs News Weather",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 129665,
+          "url": "http://178.124.131.35:8021/gomelfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 151,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 73887,
+      "name": "Молодечно FM",
+      "slug": "Molodechno_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/19/a11935c1acea49480751ecef4b7d4c0d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.2",
+        "dialStripped": "892"
+      },
+      "aliases": {
+        "cleanName": "molodechno",
+        "alsoKnownAs": "Molodechno FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 46303,
+      "name": "Radio Mogilev",
+      "slug": "Radio_Mogilev",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/9e/399e55df271856059da853c8576720a3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": "mogilev",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mogilev",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Mogilev, Belarus",
+        "coordinates": {
+          "latitude": "53.5090974",
+          "longitude": "27.6710534"
+        }
+      },
+      "genre": {
+        "text": "Business Chillout Dance Information Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74226,
+          "url": "https://stream2.datacenter.by/tvrmogilev",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74225,
+          "url": "http://178.124.131.35:8011/tvrmogilev",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74224,
+          "url": "http://stream2.datacenter.by:8011/tvrmogilev",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 25643,
+      "name": "Барановичи FM",
+      "slug": "Baranovichi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/68/6968caa6f97346be303864e30e5d8451.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.0",
+        "dialStripped": "1000"
+      },
+      "aliases": {
+        "cleanName": "baranovichi",
+        "alsoKnownAs": "Baranovichi FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baranavichy",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Baranavichy, Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40267,
+          "url": "http://radio.100fm.by:8000/100fm128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254949,
+          "url": "https://radio.100fm.by:8000/100fm128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40268,
+          "url": "http://radio.100fm.by:8000/streamaac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 17402,
+      "name": "Радио Беларусь",
+      "slug": "Radio_Belarus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/54/9654e6d746ab6f0330156125b3a4e555.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.4",
+        "dialStripped": "964"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": "Radio Belarus, Radïo Belarus"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Classical Russian Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21246,
+          "url": "https://stream2.datacenter.by/belarusfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 155,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 102273,
+      "name": "Альфа Радио",
+      "slug": "Radio_Alpha",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/a1/6ca19a5dd6856333579a321cc4c39264.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "al fa",
+        "alsoKnownAs": "Radio Alpha"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Culture Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144230,
+          "url": "http://stream.sb.by:8000/alpha",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 149,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 69763,
+      "name": "Radio Mir",
+      "slug": "Radio_Mir_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/de/ccde22a806a8b537e445929db262da70.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.1",
+        "dialStripped": "1071"
+      },
+      "aliases": {
+        "cleanName": "mir",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Country Education News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111033,
+          "url": "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 194,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 73729,
+      "name": "Альфа Радио",
+      "slug": "Radio_Alpha_107.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/d7/83d7f47be996084fafa1faedb001835f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "al fa",
+        "alsoKnownAs": "Alfa Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 268432,
+          "url": "http://listen.alpha.by:8009/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116398,
+          "url": "http://listen.alpha.by:8009/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116400,
+          "url": "https://stream.hoster.by/sovbel/alpha/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 159,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 30014,
+      "name": "Radio 4YOU",
+      "slug": "Radio_4YOU_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/46/a9467d268b66014ffb32488a45b815b2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "4you",
+        "alsoKnownAs": "Радио 4YOU"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Chillout Electronic House Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48193,
+          "url": "http://a1.radioheart.ru:8003/RH17982",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48195,
+          "url": "https://myradio24.org/2455",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48196,
+          "url": "https://myradio24.org/2455_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48194,
+          "url": "http://a1.radioheart.ru:8003/nonstop",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 55845,
+      "name": "KryKey - Minsk Radio",
+      "slug": "KryKey_Minsk_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/1e/c31e5856f06171aec5d4a76bbf7167ee.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "krykey minsk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91099,
+          "url": "http://lyvstream.com:1935/KryKeyRadios/MNSK/126.stream_aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 46698,
+      "name": "MONTE CARLO LOUNGE 5",
+      "slug": "MONTE_CARLO_LOUNGE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/03/0d0394487f0e7e5d6f5c94f4acb16e1d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "monte carlo lounge 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lounge Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74615,
+          "url": "http://stream.zeno.fm/8z39p1srrceuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74616,
+          "url": "https://stream.zeno.fm/8z39p1srrceuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 31337,
+      "name": "Aplus Relax",
+      "slug": "Aplus_Relax",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/01/870189b639ff9baeeb76c127dc46ba00.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aplus relax",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Chillout Downtempo Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50594,
+          "url": "http://shoutcast.aplus.by:9000/aplus_relax_256?type=.flv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 120598,
+      "name": "BR 2 Kanal Kultura",
+      "slug": "BR_2_Kanal_Kultura",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/68/9b68ba94620ba4f97f5d01f260d8143c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "69.3",
+        "dialStripped": "693"
+      },
+      "aliases": {
+        "cleanName": "br 2 kanal kultura",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Homel",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Homel, Belarus",
+        "coordinates": {
+          "latitude": "53.5090974",
+          "longitude": "27.6710534"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155696,
+          "url": "rtmp://video.tvr.by/radio/culture",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 155697,
+          "url": "http://video.tvr.by:1935/radio/culture/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 73709,
+      "name": "TEPLOE RADIO NETOP FM 100.0",
+      "slug": "TEPLOE_RADIO_NETOP_FM_100.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/37/b4372ebfda2b523b2c88a5c0e20eb81d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "teploe netop 100.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Pop Romantic Russian Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116350,
+          "url": "http://radio2.teploe.net:8000/teploeradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116353,
+          "url": "http://radio.teploe.net:8001/teploeradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116351,
+          "url": "http://listen.teploe.net:8100/netopfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116349,
+          "url": "http://listen.teploe.net:8100/netop",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116352,
+          "url": "http://listen.teploe.net:8100/teploeradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 15,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 838938,
+      "name": "Longos fm",
+      "slug": "Longos_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/99/cd9900d47377107f006b4796e9690b22.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "longos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229805,
+          "url": "http://stream.zeno.fm/h8c6ny7tbhatv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 229806,
+          "url": "https://stream.zeno.fm/h8c6ny7tbhatv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 38115822,
+      "name": "Радио \"Сталіца\"",
+      "slug": "Radio_Stalica",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/59/74593f538b7b558a871182c455c0914e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "stalitsa",
+        "alsoKnownAs": "Radio Stalica"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274512,
+          "url": "http://media2.datacenter.by/stream/stalica/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 233,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274513,
+          "url": "https://media2.datacenter.by/stream/stalica/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 252,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 38125174,
+      "name": "Radio \"123\"",
+      "slug": "Radio_123",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6e/37/6e371f116aa98f9e16e8f39db32250ae.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "123",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274516,
+          "url": "http://139.162.156.56:8173/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274517,
+          "url": "http://139.162.156.56:8173/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 2719057,
+      "name": "1st National Radio",
+      "slug": "1st_National_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/68/9b68ba94620ba4f97f5d01f260d8143c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "1st national",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Homyel",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Homyel, Belarus",
+        "coordinates": {
+          "latitude": "53.5090974",
+          "longitude": "27.6710534"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 167971,
+      "name": "Dzed Bardaitis Radio",
+      "slug": "Dzed_Bardaitis_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/fc/15fc0384d6b467de56c41155327ab346.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dzed bardaitis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Electro Folk Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168372,
+          "url": "http://26343.live.streamtheworld.com:80/SAM03AAC337_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168374,
+          "url": "http://26453.live.streamtheworld.com:80/SAM03AAC337_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 136,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168371,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC337.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168375,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC337.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168373,
+          "url": "http://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 149,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168376,
+          "url": "https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 123625,
+      "name": "Радио Uvaga.by",
+      "slug": "Radio_Uvaga.by",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/be/b5bee4447bcf18cbbb977a5996281184.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uvaga by",
+        "alsoKnownAs": "Radio Uvaga.by"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 250302,
+          "url": "http://up.uvaga.by:8100/uvaga32/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156682,
+          "url": "http://up.uvaga.by:8100/uvaga64",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156679,
+          "url": "http://up.uvaga.by:8100/uvaga256",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156678,
+          "url": "http://up.uvaga.by:8100/uvaga320",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156681,
+          "url": "http://up.uvaga.by:8100/aacp64",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156683,
+          "url": "http://up.uvaga.by:8100/uvaga32",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262796,
+          "url": "http://up.uvaga.by:8100/uvaga320/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262797,
+          "url": "http://up.uvaga.by:8100/uvaga256/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262798,
+          "url": "http://up.uvaga.by:8100/uvaga128/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262800,
+          "url": "http://up.uvaga.by:8100/uvaga64/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156680,
+          "url": "http://up.uvaga.by:8100/uvaga128",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56136,
+      "name": "Радио Брест",
+      "slug": "Radio_Brest",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/dc/06dcd3a287819aa90dd5c10e83ef3baa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "brest",
+        "alsoKnownAs": "Radio Brest"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pinsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Pinsk, Belarus",
+        "coordinates": {
+          "latitude": "52.1229000",
+          "longitude": "26.0951000"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40 World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 248941,
+          "url": "https://178.124.131.35/trkbrest",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91610,
+          "url": "http://178.124.131.35:8012/trkbrest",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 20870,
+      "name": "BR R Kultura",
+      "slug": "BR_R_Kultura",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/68/9b68ba94620ba4f97f5d01f260d8143c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "br r kultura",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Classical Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 30668,
+          "url": "https://stream2.datacenter.by/kultura",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 183,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 23656,
+      "name": "Аплюс - Beat",
+      "slug": "APlus_Beat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/b2/c4b22f79c6803a7746774afd65073e3e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aplius beat",
+        "alsoKnownAs": "APlus - Beat"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Dubstep Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275583,
+          "url": "https://shoutcast.aplus.fm:443/aplus_beat_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36415,
+          "url": "https://s.aplus.fm/aplus_beat_16.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 36,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 257445,
+          "url": "/tmp/tmpkyvyo2zp",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36398,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36404,
+          "url": "http://s.aplus.fm:9000/aplus_beat_24.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36407,
+          "url": "http://s.aplus.fm:9000/aplus_beat_48.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36417,
+          "url": "https://shoutcast.aplus.fm/aplus_beat_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36411,
+          "url": "https://s.aplus.fm/aplus_beat_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36403,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_16.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275584,
+          "url": "https://shoutcast.aplus.fm:443/aplus_beat_48.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36413,
+          "url": "https://s.aplus.fm/aplus_beat_48.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36410,
+          "url": "https://s.aplus.fm/aplus_beat_24.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36405,
+          "url": "http://s.aplus.fm:9000/aplus_beat_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36409,
+          "url": "http://s.aplus.fm:9000/aplus_beat_16.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36412,
+          "url": "https://s.aplus.fm/aplus_beat_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36401,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36400,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_48.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36414,
+          "url": "https://s.aplus.fm/aplus_beat_32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36416,
+          "url": "https://shoutcast.aplus.fm/aplus_beat_128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 36418,
+          "url": "https://shoutcast.aplus.fm/aplus_beat_48.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36406,
+          "url": "http://s.aplus.fm:9000/aplus_beat_64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36402,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_24.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36399,
+          "url": "http://shoutcast.aplus.fm:9000/aplus_beat_64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 74,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 36408,
+          "url": "http://s.aplus.fm:9000/aplus_beat_32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 95216,
+      "name": "TCM",
+      "slug": "TCM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/38/3b384c10be2e0529e6b99271400d42bd.gif",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tcm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140524,
+          "url": "rtmp://rtmp.one.by/SD/1muz",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140525,
+          "url": "rtmp://rtmp.one.by/HD/1muz",
+          "isHttps": false,
+          "protocol": "rtmp",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 1999,
+      "name": "APlus - Rock",
+      "slug": "APlus_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/03/12030c4c85b69482e40b4093dd3ef267.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aplus rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Metal",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 5421,
+          "url": "http://live.bn.by:8000/aplus_rock_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 56236,
+      "name": "Radio Ba",
+      "slug": "Radio_Ba_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/95/f895215dcdf9e5259b85e784a5386733.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "ba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Culture Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91804,
+          "url": "http://178.159.244.101:8001/;?1446996587083.mp3",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91806,
+          "url": "http://178.159.244.101:8001",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 28142,
+      "name": "APlus - Radio First",
+      "slug": "APlus_Radio_First",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/03/12030c4c85b69482e40b4093dd3ef267.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aplus first",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": ", Belarus",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "House Pop Soundtracks Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45271,
+          "url": "http://shoutcast.aplus.by:9000/aplus_128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    },
+    {
+      "id": 40220,
+      "name": "Radio Plato",
+      "slug": "Radio_Plato",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/cf/73cfc7a6b040c79d0cd5a35a70f4869a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "plato",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Funk Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64747,
+          "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64746,
+          "url": "http://azura.radioplato.by:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "be",
+          "name": "Belarusian"
+        }
+      ]
+    },
+    {
+      "id": 392422,
+      "name": "Пилот-FM",
+      "slug": "Pilot_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/c9/9cc9ebea893dfaa29c4c7fc3efbb1884.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "pilot",
+        "alsoKnownAs": "Pilot FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211476,
+          "url": "http://178.124.131.35:8022/pilotfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 139,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 211477,
+          "url": "https://stream2.datacenter.by/pilotfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 150,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        }
+      ]
+    }
+  ]
+}

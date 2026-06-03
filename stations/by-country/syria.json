@@ -1,0 +1,1455 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:54.039Z",
+  "endpoint": "/countries/Syria/radios",
+  "countryCode": "syria",
+  "countryName": "Syria",
+  "expectedCount": 19,
+  "count": 19,
+  "data": [
+    {
+      "id": 38605,
+      "name": "Sham fm",
+      "slug": "Sham_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/0e/730e75e468abdb4c765815650b86cfe0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sham",
+        "alsoKnownAs": "شام اف ام"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6270,
+        "byCountry": {
+          "us": 20,
+          "gb": 5,
+          "au": 2,
+          "de": 13,
+          "fr": 15,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 3,
+          "ar": 2,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253693,
+          "url": "http://radioshamfm.grtvstream.com:8400/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62644,
+          "url": "http://radioshamfm.grtvstream.com:8400/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 95228,
+      "name": "نينار إف إم",
+      "slug": "Ninar_FM_88.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/31/3e310487efc64f0572d77eedd2ef1182.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.8 / 89.6",
+        "dialStripped": "938 / 896"
+      },
+      "aliases": {
+        "cleanName": "f m",
+        "alsoKnownAs": "Ninar FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aleppo",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Aleppo, Syria",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Lite Pop Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3060,
+        "byCountry": {
+          "us": 14,
+          "gb": 2,
+          "au": 1,
+          "de": 6,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140530,
+          "url": "http://ninarfm.grtvstream.com:8896/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 38663,
+      "name": "Radio Sada",
+      "slug": "Radio_Sada_Station",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/65/49650ad224db03ea708ebde405032a7e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sada",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2370,
+        "byCountry": {
+          "us": 8,
+          "gb": 3,
+          "au": 0,
+          "de": 8,
+          "fr": 7,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 7,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62755,
+          "url": "http://87.98.221.148:14580/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72880,
+      "name": "فرح FM97.3",
+      "slug": "Farah_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/a5/66a5056ef4116624ca940942095cfc5a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "frh 97.3",
+        "alsoKnownAs": "FARAH FM 97,3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1680,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 1,
+          "de": 4,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115234,
+          "url": "http://radio.farah.fm:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115235,
+          "url": "http://51.210.149.9:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115236,
+          "url": "http://167.114.3.184:8000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 20887,
+      "name": "أرابيسك اف ام",
+      "slug": "Arabesque_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/0f/070fb6720e6bbebc78b47ba26f17e3ad.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.3",
+        "dialStripped": "1023"
+      },
+      "aliases": {
+        "cleanName": "rbysk f m",
+        "alsoKnownAs": "Arabesque FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1170,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 4,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 30717,
+          "url": "http://185.4.87.79:8000/stream.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 10571647,
+      "name": "راديو دمشق",
+      "slug": "Radio_Damascus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/a3/87a33eaddc895df58bb68738b2f9fd07.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "rdyw dmshq",
+        "alsoKnownAs": "Radio Damascus"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237803,
+          "url": "http://radiolive.rtv.gov.sy:1935/RDimshq/RDimshqLive/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 574,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 3312054,
+      "name": "راديو تلفزيون سوريا",
+      "slug": "Syria_TV_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/8b/bf8b31e5b68436deb77aa1d514ab68e4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.0",
+        "dialStripped": "990"
+      },
+      "aliases": {
+        "cleanName": "rdyw tlfzywn swry",
+        "alsoKnownAs": "Syria TV Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community Folk News Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232106,
+          "url": "https://stream1.syria.fm/syriatvlive/syriatv_audio/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232104,
+          "url": "http://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 136,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232105,
+          "url": "https://stream2.syria.fm/syriatv1live/syriatv_audio/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 72922,
+      "name": "فيوز اف ام",
+      "slug": "Fuse_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/63/9563eb996bc1e6f4bd0bc235a452c1e0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "fywz f m",
+        "alsoKnownAs": "Fuse FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Middle Eastern Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115289,
+          "url": "http://192.95.23.89:4986/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72949,
+      "name": "راديو الآن",
+      "slug": "Al_Aan_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/aa/96/aa969f7dc59a4055a9d549f490dc6128.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.6",
+        "dialStripped": "966"
+      },
+      "aliases": {
+        "cleanName": "rdyw lan",
+        "alsoKnownAs": "Al Aan FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aleppo",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Aleppo, Syria",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic College Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115328,
+          "url": "http://c20.radioboss.fm:8543/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115327,
+          "url": "http://c20.radioboss.fm:8543/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72989,
+      "name": "إذاعة ريان أف أم",
+      "slug": "Al_Rayan_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/a7/e1a75c00c19e595de59e348e8490de77.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.2",
+        "dialStripped": "902"
+      },
+      "aliases": {
+        "cleanName": "dh ryn f m",
+        "alsoKnownAs": "Rayan FM 90.2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "As-Suwayda",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "As-Suwayda, Syria",
+        "coordinates": {
+          "latitude": "34.9055496",
+          "longitude": "37.0865511"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 3,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115379,
+          "url": "https://stream.zeno.fm/fbhyqgivbgnvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115377,
+          "url": "http://broadcast.shoutstream.co.uk:8078/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115378,
+          "url": "http://stream.zeno.fm/fbhyqgivbgnvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 7038793,
+      "name": "نجوم fm",
+      "slug": "Nojoom_fm_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/03/d80399192b605fded4016884c774566b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "njwm",
+        "alsoKnownAs": "Nojoom fm"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 234111,
+          "url": "http://185.105.4.53:4423/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 95273,
+      "name": "Mix FM Syria",
+      "slug": "Mix_FM_Syria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/9e/8d9ebf8371371b2d06baecf81f2c58c2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140541,
+          "url": "https://stream.mixfmsyria.net/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73046,
+      "name": "Version FM",
+      "slug": "Version_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/76/987641881fd742dbc0ddd3d9b3522e2c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.4",
+        "dialStripped": "944"
+      },
+      "aliases": {
+        "cleanName": "version",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249025,
+          "url": "https://versionfm.com:8100/listen.pls?sid=1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115478,
+          "url": "https://versionfm.com:8100/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115477,
+          "url": "http://versionfm.com:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 24,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274003,
+          "url": "http://versionfm.com:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 94579,
+      "name": "Asima-Online",
+      "slug": "Damascus_Online_99.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/0a/700aa19981d235794b6d4abcfd9fe503.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.8",
+        "dialStripped": "998"
+      },
+      "aliases": {
+        "cleanName": "asima online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139873,
+          "url": "https://asima.out.airtime.pro/asima_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139872,
+          "url": "http://asima.out.airtime.pro:8000/asima_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 6723430,
+      "name": "راديو إعمار اف ام",
+      "slug": "Emaar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5d/5b/5d5b3af87ff10c09e5594866d555e89d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "rdyw mr f m",
+        "alsoKnownAs": "Emaar FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "As-Suwayda",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "As-Suwayda, Syria",
+        "coordinates": {
+          "latitude": "34.9055496",
+          "longitude": "37.0865511"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 233925,
+          "url": "http://stream.zeno.fm/4luag56o066uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 233926,
+          "url": "https://stream.zeno.fm/4luag56o066uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 95283,
+      "name": "اذاعة ون إف إ",
+      "slug": "Radio_ONE_FM_zeno",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/ca/29cac9abc6f86577b97b07a2ec9d0b9b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "dh wn f",
+        "alsoKnownAs": "Radio ONE FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Qamishli",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Qamishli, Syria",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Culture News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140543,
+          "url": "https://stream.zeno.fm/hjqsiucc3anuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140542,
+          "url": "http://stream.zeno.fm/hjqsiucc3anuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 95306,
+      "name": "Melody FM 97,9",
+      "slug": "Melody_FM_Syria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/b0/c4b09d8bd16f7ef83a0938c4d3bf9ff6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9 / 98.5",
+        "dialStripped": "979 / 985"
+      },
+      "aliases": {
+        "cleanName": "melody 97 9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140549,
+          "url": "http://streaming.inet.sy:8000/melodyfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 95324,
+      "name": "Vetrof FM",
+      "slug": "Vetrof_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/23/8e230531e2213d50aadf526b0028fe26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vetrof",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": ", Syria",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140561,
+          "url": "https://stream.laut.fm/vetroffm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140560,
+          "url": "http://stream.laut.fm/vetroffm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 73059,
+      "name": "Radio Zenobia FM",
+      "slug": "Radio_Zenobia_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/17/2b17a874f9ee76b62cb7f974142fde02.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "zenobia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Damascus",
+        "countryName": "Syria",
+        "countryCode": null,
+        "locationText": "Damascus, Syria",
+        "coordinates": {
+          "latitude": "33.5102000",
+          "longitude": "36.2912800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115493,
+          "url": "http://radioliveb.rtv.gov.sy:8002/RadioZenobia",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

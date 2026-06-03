@@ -1,0 +1,383 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:57.163Z",
+  "endpoint": "/countries/Gambia (The)/radios",
+  "countryCode": "gambia-t",
+  "countryName": "Gambia (The)",
+  "expectedCount": 5,
+  "count": 5,
+  "data": [
+    {
+      "id": 90601,
+      "name": "West Coast Radio 92.1",
+      "slug": "West_Coast_Radio_92.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/72/317267bbe07f38062a2c09c056b17f64.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "west coast 92.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kotu",
+        "countryName": "Gambia (The)",
+        "countryCode": null,
+        "locationText": "Kotu, Gambia (The)",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 3,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 136872,
+          "url": "http://stream.westcoast.gm:8080/westcoast921",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 90605,
+      "name": "West Coast Radio",
+      "slug": "West_Coast_Radio_95.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/64/5164b4437080478ee34f658d39b25250.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "west coast",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kotu",
+        "countryName": "Gambia (The)",
+        "countryCode": null,
+        "locationText": "Kotu, Gambia (The)",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 4,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 136875,
+          "url": "https://westcoast.gm:8480/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 136873,
+          "url": "http://stream.westcoast.gm:8080/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 10184422,
+      "name": "Art Radio",
+      "slug": "Art_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/3e/c83e88731a0d99d4c8776916f5083d07.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "art",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bakau",
+        "countryName": "Gambia (The)",
+        "countryCode": null,
+        "locationText": "Bakau, Gambia (The)",
+        "coordinates": {
+          "latitude": "13.4780600",
+          "longitude": "-16.6819400"
+        }
+      },
+      "genre": {
+        "text": "African Afrobeats Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237095,
+          "url": "https://a3.asurahosting.com:6220/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237094,
+          "url": "http://a3.asurahosting.com:6220/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 69831,
+      "name": "Radio Kairo Gambia",
+      "slug": "Radio_Kairo_Gambia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/25/322545126484b17a12cfe0085163d283.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kairo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Gambia (The)",
+        "countryCode": null,
+        "locationText": ", Gambia (The)",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Education Information News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111164,
+          "url": "https://stream.zeno.fm/aebmdah2uyduv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111163,
+          "url": "http://stream.zeno.fm/aebmdah2uyduv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 21829,
+      "name": "Empire Radio1",
+      "slug": "Empire_Radio1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/53/c853bdd6b268744b756962b2228d05ff.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "empire radio1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Banjul",
+        "countryName": "Gambia (The)",
+        "countryCode": null,
+        "locationText": "Banjul, Gambia (The)",
+        "coordinates": {
+          "latitude": "13.4527400",
+          "longitude": "-16.5780300"
+        }
+      },
+      "genre": {
+        "text": "Dancehall Entertainment Reggae",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 32694,
+          "url": "https://s1.myradiostream.com/12058/listen.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 32693,
+          "url": "http://s1.myradiostream.com:12058/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:31.676Z",
+  "endpoint": "/countries/Guadeloupe/radios",
+  "countryCode": "gp",
+  "countryName": "Guadeloupe",
+  "expectedCount": 11,
+  "count": 11,
+  "data": [
+    {
+      "id": 51021,
+      "name": "Nostalgie Guadeloupe",
+      "slug": "Nostalgie_Guadeloupe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/18/3e188bd790ace623e4f6c785d4c7f779.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.4",
+        "dialStripped": "1054"
+      },
+      "aliases": {
+        "cleanName": "nostalgie",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basse-Terre",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Basse-Terre, Guadeloupe",
+        "coordinates": {
+          "latitude": "15.9985400",
+          "longitude": "-61.7254800"
+        }
+      },
+      "genre": {
+        "text": "Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 14,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82687,
+          "url": "http://2stream.dyndns.org:8000/nostalgiegp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82688,
+          "url": "http://live.2stream.net:80/nostalgiegp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82689,
+          "url": "https://go.2stream.net/nostalgiegp",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 169391,
+      "name": "RHT Guadeloupe",
+      "slug": "Radio_Haute_Tension",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/50/3a50775edb2a68ca7fd74bfb8c22a029.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.8",
+        "dialStripped": "898"
+      },
+      "aliases": {
+        "cleanName": "rht",
+        "alsoKnownAs": "Radio Haute Tension"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Capesterre-Belle-Eau",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Capesterre-Belle-Eau, Guadeloupe",
+        "coordinates": {
+          "latitude": "16.0432200",
+          "longitude": "-61.5659600"
+        }
+      },
+      "genre": {
+        "text": "Culture French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168984,
+          "url": "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168983,
+          "url": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 432039,
+      "name": "Radio Saphir FM",
+      "slug": "Radio_Saphir_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/cd/47cda259c607fb2adf490960648f39fc.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.4",
+        "dialStripped": "894"
+      },
+      "aliases": {
+        "cleanName": "saphir",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Petit-Bourg",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Petit-Bourg, Guadeloupe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215296,
+          "url": "https://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215295,
+          "url": "http://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 44578,
+      "name": "Radio Kariba",
+      "slug": "Radio_Kariba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/2d/a42d9fda699c23982ec8a462c994a280.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kariba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": ", Guadeloupe",
+        "coordinates": {
+          "latitude": "16.2111430",
+          "longitude": "-61.5426800"
+        }
+      },
+      "genre": {
+        "text": "Caribbean Dancehall Soca Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 7,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71850,
+          "url": "http://radiokariba.ice.infomaniak.ch/radiokariba-64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 71852,
+          "url": "https://radiokariba.ice.infomaniak.ch/radiokariba-64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 130294,
+      "name": "Chérie  FM Guadeloupe",
+      "slug": "Cherie_FM_Guadeloupe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/f5/04f51cc112eccf15e9849868a3a73633.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "cherie",
+        "alsoKnownAs": "Chérie Fm Antilles - Guadeloupe"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basse-Terre",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Basse-Terre, Guadeloupe",
+        "coordinates": {
+          "latitude": "15.9985400",
+          "longitude": "-61.7254800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 7,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275844,
+          "url": "https://maxxi.studio/hls/cheriefmgp/live.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 275843,
+          "url": "http://maxxi.studio/hls/cheriefmgp/live.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159454,
+          "url": "http://2stream.dyndns.org:8000/cheriefmgp",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 102243,
+      "name": "Radio Sofaïa Altitude",
+      "slug": "Radio_Sofaia_Altitude",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/c9/6fc9d0284bdb5f642fce3b4a68f6e19b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "sofaia altitude",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sainte-Rose",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Sainte-Rose, Guadeloupe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144216,
+          "url": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 144217,
+          "url": "https://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 75500,
+      "name": "Madras FM",
+      "slug": "Madras_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/c7/cbc79f40ed11e971f90ac44929de462d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "madras",
+        "alsoKnownAs": "MFM Guadeloupe"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sainte-Anne",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Sainte-Anne, Guadeloupe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "French Pop RnB Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 118364,
+          "url": "https://cast5.asurahosting.com/proxy/mfm_radio/mfmradio-128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118362,
+          "url": "http://65.108.98.93:7017/mfmradio-128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118361,
+          "url": "http://cast5.asurahosting.com:7017/mfmradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118360,
+          "url": "http://cast5.asurahosting.com:7017/mfmradio-128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 118363,
+          "url": "http://cast5.asurahosting.com/proxy/mfm_radio/mfmradio-128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 274693,
+      "name": "Jobs & Musik",
+      "slug": "Kilti_FM_99.4_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/05/8d05a0a0e1f5281da02ab107c50c8b76.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.4",
+        "dialStripped": "994"
+      },
+      "aliases": {
+        "cleanName": "jobs musik",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basse-Terre",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Basse-Terre, Guadeloupe",
+        "coordinates": {
+          "latitude": "15.9985400",
+          "longitude": "-61.7254800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment French Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191201,
+          "url": "http://51.75.29.226:9000/live3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 328746,
+      "name": "Média Caraïbes Metiss",
+      "slug": "Media_Caraibes_Metiss",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/6a/1c6a68e2b3ca12ba0ce708551a434844.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "caraibes metiss",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lamentin",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Lamentin, Guadeloupe, Guadeloupe",
+        "coordinates": {
+          "latitude": "14.6080000",
+          "longitude": "-61.0093300"
+        }
+      },
+      "genre": {
+        "text": "French Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272058,
+          "url": "http://bertran1.radioca.st:8004/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203069,
+          "url": "http://bertran1.radioca.st:8004/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 18333,
+      "name": "Gwadayouth Radyo",
+      "slug": "Gwadayouth_Radyo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/5b/f75b635588401c04cb3af30b7e436ba8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gwadayouth radyo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": ", Guadeloupe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Pop Soukous Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23927,
+          "url": "http://67.8.20.131:8000/live.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ffvorbis",
+          "bitrate": 96,
+          "contentType": "application/ogg",
+          "works": true
+        },
+        {
+          "id": 23926,
+          "url": "http://67.8.20.131:8000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 23929,
+          "url": "https://securestreams6.autopo.st:2469/live.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 96,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 23930,
+          "url": "https://securestreams6.autopo.st:2469/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 415001,
+      "name": "RFM Guadeloupe",
+      "slug": "RFM_Guadeloupe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8b/e2/8be2b20b3fcc81b2c9e90f800e44def9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "rfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basse-Terre",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Basse-Terre, Guadeloupe",
+        "coordinates": {
+          "latitude": "15.9985400",
+          "longitude": "-61.7254800"
+        }
+      },
+      "genre": {
+        "text": "French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213688,
+          "url": "http://163.172.96.134:8090/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:37.855Z",
+  "endpoint": "/countries/Guernsey, United Kingdom/radios",
+  "countryCode": "guernsey",
+  "countryName": "Guernsey, United Kingdom",
+  "expectedCount": 2,
+  "count": 2,
+  "data": [
+    {
+      "id": 419056,
+      "name": "Riduna-radio.com",
+      "slug": "Riduna_radio.com",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/98/929854e4a0c059c84cb81fe4c1b1402e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "riduna com",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alderney",
+        "countryName": "Guernsey, United Kingdom",
+        "countryCode": null,
+        "locationText": "Alderney, Guernsey, United Kingdom",
+        "coordinates": {
+          "latitude": "49.4598100",
+          "longitude": "-2.5352700"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213918,
+          "url": "http://stream.radio.co/sa70b464db/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213917,
+          "url": "http://stream.radio.co/sa70b464db/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213919,
+          "url": "https://stream.radio.co/sa70b464db/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213920,
+          "url": "https://stream.radio.co/sa70b464db/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 407343,
+      "name": "Quay FM",
+      "slug": "Quay_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/45/1d/451da631fa0fbf68bab38ca01f148a8a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.1",
+        "dialStripped": "1071"
+      },
+      "aliases": {
+        "cleanName": "quay",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Alderney",
+        "countryName": "Guernsey, United Kingdom",
+        "countryCode": null,
+        "locationText": "Alderney, Guernsey, United Kingdom",
+        "coordinates": {
+          "latitude": "49.4598100",
+          "longitude": "-2.5352700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213172,
+          "url": "http://stream.quayfm.gg:1071/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213173,
+          "url": "http://quayfm.ci-servers.gg:1071/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 283918,
+          "url": "https://stream.quayfm.gg:1071/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 283919,
+          "url": "https://quayfm.ci-servers.gg:1071/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

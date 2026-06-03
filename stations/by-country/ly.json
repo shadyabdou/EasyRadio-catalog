@@ -1,0 +1,633 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:33.506Z",
+  "endpoint": "/countries/Libya/radios",
+  "countryCode": "ly",
+  "countryName": "Libya",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 45597,
+      "name": "FM إذاعة طريق السلف  100.3",
+      "slug": "Al_Tariq_Al_Salaf_FM_100.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/68/08683777cb09e7770951ee083d709f20.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "dh tryq lslf 100.3",
+        "alsoKnownAs": "The Salaf Way FM 100.3 , Al Tariq Al Salaf FM 100.3"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tripoli",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Tripoli, Tripoli District, Libya",
+        "coordinates": {
+          "latitude": "32.8751900",
+          "longitude": "13.1874600"
+        }
+      },
+      "genre": {
+        "text": "Information Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73159,
+          "url": "http://airtime.salafway.ly/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 52011,
+      "name": "هلا صبراتة FM",
+      "slug": "Hala_Sabratha_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/93/e6937370c269c5fb32e93c1a6bce843d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.0",
+        "dialStripped": "890"
+      },
+      "aliases": {
+        "cleanName": "hl sbrt",
+        "alsoKnownAs": "Hala Sabratha FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sabratha",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Sabratha, Libya",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "80s Arabic Dance Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84434,
+          "url": "https://stream.zeno.fm/1dy2395z3k8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84433,
+          "url": "http://stream.zeno.fm/1dy2395z3k8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 45608,
+      "name": "راديو فنون طرابلس",
+      "slug": "Radio_Arts_Tripoli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/e8/02e8ff30afbc8a08bd28a1eac281270f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw fnwn trbls",
+        "alsoKnownAs": "Radio Arts Tripoli"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tripoli",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Tripoli, Tripoli District, Libya",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Art Folk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73180,
+          "url": "https://stream.zeno.fm/p2f0xdpmgg0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73179,
+          "url": "http://stream.zeno.fm/p2f0xdpmgg0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 45606,
+      "name": "FM 89.5 إذاعة الكتاب والسنة",
+      "slug": "Khitab_Sunnah_FM_89.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/f1/9df122fa72b282492fb12d069e4f97c4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5",
+        "dialStripped": "895"
+      },
+      "aliases": {
+        "cleanName": "89.5 dh lktb wlsn",
+        "alsoKnownAs": "Khitab Kittab Kitab Sunnah FM 89.5"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tripoli",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Tripoli, Tripoli District, Libya",
+        "coordinates": {
+          "latitude": "32.8751900",
+          "longitude": "13.1874600"
+        }
+      },
+      "genre": {
+        "text": "Arabic Education Islamic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73176,
+          "url": "http://c14.radioboss.fm:8392/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262411,
+          "url": "https://c14.radioboss.fm:8392/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 45654,
+      "name": "FM 89.5 إذاعة الكتاب والسنة - English",
+      "slug": "Khitab_Sunnah_FM_89.5_English",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/da/f9da81cf67dc0f820d64126e4fbb7293.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "89.5 dh lktb wlsn",
+        "alsoKnownAs": "Khitab Kittab Kitab Sunnah FM 89.5 - English"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tripoli",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Tripoli, Tripoli District, Libya",
+        "coordinates": {
+          "latitude": "32.8751900",
+          "longitude": "13.1874600"
+        }
+      },
+      "genre": {
+        "text": "Culture Education Islamic Other Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73271,
+          "url": "http://c14.radioboss.fm:8391/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73272,
+          "url": "https://c14.radioboss.fm:8392/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73125,
+      "name": "LibyanaHITS FM",
+      "slug": "LibyanaHITS_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1c/ac/1cac099841e985e30d0d69ca943cca92.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.1",
+        "dialStripped": "1001"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Benghazi",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Benghazi, Libya",
+        "coordinates": {
+          "latitude": "32.1148600",
+          "longitude": "20.0685900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Pop Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115590,
+          "url": "https://stream.rcast.net/64694/;",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 105,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115587,
+          "url": "http://proxima.shoutca.st:8946/stream.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 115588,
+          "url": "http://libyanahitsfm.radioca.st:8946/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 86,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 45642,
+      "name": "قناة ليبيا الشبابية",
+      "slug": "Al_Shababiyah_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/7f/f77f03dab98e57e8e0a2e770674129fc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "qn lyby lshbby",
+        "alsoKnownAs": "Al-Shababiyah Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tripoli",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Tripoli, Tripoli District, Libya",
+        "coordinates": {
+          "latitude": "32.8751900",
+          "longitude": "13.1874600"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73254,
+          "url": "http://uk21freenew.listen2myradio.com:35347/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 50259,
+      "name": "Online FM",
+      "slug": "Online_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/70/7c70a2d01326f06b90df4ec5f72c217e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sabratha",
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "locationText": "Sabratha, Libya",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81053,
+          "url": "http://stream.zeno.fm/7zafrcffam8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81054,
+          "url": "https://stream.zeno.fm/7zafrcffam8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2322 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:49.988Z",
+  "endpoint": "/countries/Iceland/radios",
+  "countryCode": "is",
+  "countryName": "Iceland",
+  "expectedCount": 30,
+  "count": 30,
+  "data": [
+    {
+      "id": 204059,
+      "name": "80'FlashBack 101.5",
+      "slug": "80FlashBack_101.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/5e/205eea7811a741ff7bd6011f968a3288.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "80 flashback 101.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 2700,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 98,
+          "es": 2,
+          "mx": 1,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 1,
+          "ca": 4,
+          "cl": 1,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 178061,
+          "url": "http://ice-11.spilarinn.is/80flashback",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178062,
+          "url": "https://ice-11.spilarinn.is/80flashback",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 49618,
+      "name": "Bylgjan FM",
+      "slug": "Bylgjan_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/d5/f2d57f6d58e2c56a2627d2d021d4acac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 79487,
+          "url": "https://icecast.visir.is/orbbylgjan.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 79486,
+          "url": "http://icecast.visir.is/orbbylgjan.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253362,
+      "name": "RÚV - Rás 2",
+      "slug": "RUV_Ras_2_RAS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/03/0103c5f24ecfbad557ec4ae60a6a2edc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.1",
+        "dialStripped": "901"
+      },
+      "aliases": {
+        "cleanName": "ruv ras 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187187,
+          "url": "http://netradio.ruv.is/ras2.mp3?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 173768,
+      "name": "RÚV - Rás 1",
+      "slug": "RUV_Ras",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/14/9814b78e10b928bfd8e89cbc3a780b5a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4",
+        "dialStripped": "924"
+      },
+      "aliases": {
+        "cleanName": "ruv ras 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Education Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 170551,
+          "url": "https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 352,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 170549,
+          "url": "http://netradio.ruv.is/ras1.mp3?type=.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 38908,
+      "name": "Utvarp Saga",
+      "slug": "Utvarp_Saga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/35/eb353ef65ac601bf351ad6b9adb6ea3f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.4",
+        "dialStripped": "994"
+      },
+      "aliases": {
+        "cleanName": "utvarp saga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63184,
+          "url": "http://stream3.radio.is:443/saga",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63185,
+          "url": "https://stream.utvarpsaga.is/Hljodver",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63183,
+          "url": "http://stream.utvarpsaga.is:80/Hljodver",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 52052,
+      "name": "Gull Bylgjan",
+      "slug": "Gull_Bylgjan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/80/23804f7c3aa49497dc7e88705959f2b6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "gull bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 84505,
+          "url": "http://vcache1.365net.is/hls-radio/gullbylgjan/playlist.m3u8?DVR",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 84504,
+          "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253943,
+          "url": "https://icecast.365net.is/orbGullBylgjan.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 164,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 36733,
+      "name": "X977",
+      "slug": "X_id_97.7_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/cb/99cb016bb9f5f0772d510288334d6940.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "x977",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 6,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59407,
+          "url": "http://icecast.365net.is:8000/orbXid.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 249389,
+          "url": "https://icecast.365net.is/orbXid.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 253375,
+      "name": "K100",
+      "slug": "K100",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/c9/c0c927fa7a2a4b8dec6e184af9cd5216.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "k100",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Rock Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187189,
+          "url": "http://ice-11.spilarinn.is/kaninnmobile",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 182,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 187190,
+          "url": "https://ice-11.spilarinn.is/kaninnmobile",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 176,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253404,
+      "name": "FM 957",
+      "slug": "FM_957",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/d4/49d45717e108072389fcc4596cea06ec.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "957",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187194,
+          "url": "http://live.visir.is/hls-radio/fm957/playlist.m3u8?DVR",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 187195,
+          "url": "https://live.visir.is/hls-radio/fm957/playlist.m3u8?DVR",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 253400,
+      "name": "Samstöðin",
+      "slug": "Samstodin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/f2/70f251396abb24177899254cca8e3c46.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "samstodin",
+        "alsoKnownAs": "Samstodin"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187192,
+          "url": "http://ice-11.spilarinn.is/samstodin",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 186,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 187193,
+          "url": "https://ice-11.spilarinn.is/samstodin",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 191,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 52886,
+      "name": "FlashBack Útvarpsstöðvar - 90'FlashBack",
+      "slug": "FlashBack_Online_90s_FlashBack",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/c0/03c07b1b2e46b10c04e4c7c897f3ce5b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "flashback utvarpsstodvar 90 flashback",
+        "alsoKnownAs": "FlashBack Online - 90's FlashBack"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "90s Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 85991,
+          "url": "https://ice-11.spilarinn.is/90flashback",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 85990,
+          "url": "http://ice-11.spilarinn.is/90flashback",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 123500,
+      "name": "Létt Bylgjan",
+      "slug": "Lett_96.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/78/d478ace3a7f9b9784e52c388cb652579.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "lett bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156656,
+          "url": "http://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 107,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156657,
+          "url": "https://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 108,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "cs",
+          "name": "Czech"
+        }
+      ]
+    },
+    {
+      "id": 50842,
+      "name": "Retro 895",
+      "slug": "Retro_895",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/74/0674405bafa3db3b5d02fe96662282fa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.5",
+        "dialStripped": "895"
+      },
+      "aliases": {
+        "cleanName": "retro 895",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82285,
+          "url": "http://ice-11.spilarinn.is/retromobile",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 82286,
+          "url": "https://ice-11.spilarinn.is/retromobile",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253445,
+      "name": "KissFM Iceland",
+      "slug": "Flass_104.5_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/0b/870b14e4c39cecf96d402e52df6e3128.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "kissfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187202,
+          "url": "http://ice-11.spilarinn.is/kissfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 187203,
+          "url": "https://ice-11.spilarinn.is/kissfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 54504,
+      "name": "FlashBack Útvarpsstöðvar - 60'FlashBack",
+      "slug": "FlashBack_Online_60s_FlashBack",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/2c/a12c4f4f87d049227493992363da829b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "flashback utvarpsstodvar 60 flashback",
+        "alsoKnownAs": "FlashBack Online - 60's FlashBack"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "60s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88795,
+          "url": "http://ice-11.spilarinn.is/60flashback",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 88796,
+          "url": "https://ice-11.spilarinn.is/60flashback",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253462,
+      "name": "KissFM Iceland - KissFM Xtra",
+      "slug": "KissFM_Iceland_KissFM_Xtra",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/f8/7cf84bba031ef0b7580a85412ce1ef2e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kissfm kissfm xtra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187206,
+          "url": "http://ice-11.spilarinn.is/fmxtra",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 187207,
+          "url": "https://ice-11.spilarinn.is/fmxtra",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 204241,
+      "name": "FlashBack",
+      "slug": "Flass_Back",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/69/ed69f72b68dce38eb659788b5733200a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.9",
+        "dialStripped": "919"
+      },
+      "aliases": {
+        "cleanName": "flashback",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 178095,
+          "url": "http://ice-11.spilarinn.is/flashback",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178096,
+          "url": "https://ice-11.spilarinn.is/flashback",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253415,
+      "name": "Suðurland FM",
+      "slug": "Sudurland_FM_96.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/27/a4271e8360ec247d91f5a708f77b2ce5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "sudurland",
+        "alsoKnownAs": "Sudurland FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Selfoss",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Selfoss, Iceland",
+        "coordinates": {
+          "latitude": "64.4996125",
+          "longitude": "-20.9584825"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187196,
+          "url": "http://178.19.58.119:1818/",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 253440,
+      "name": "Lindin",
+      "slug": "Lindin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/d2/5fd2ab660ac3fe8401b07fb31defb260.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "lindin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187200,
+          "url": "http://62.145.147.50:8001/lindin",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 118522,
+      "name": "Utvarp Bodun",
+      "slug": "Utvarp_Bodun",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/c7/b7c7f7fe97be8ee2bcdeb37981a4f564.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "utvarp bodun",
+        "alsoKnownAs": "Boðunarkirkjan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154740,
+          "url": "http://bodun.is:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50907,
+      "name": "Bylgjan - 80's Bylgjan",
+      "slug": "Bylgjan_989_80s_Bylgjan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3e/93/3e93d0bc2194b463f955f5bb741edcad.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bylgjan 80 s bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82427,
+          "url": "https://live.visir.is/hls-radio/80s/playlist.m3u8?DVR",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 82426,
+          "url": "http://live.visir.is/hls-radio/80s/playlist.m3u8?DVR",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 253442,
+      "name": "3ABN",
+      "slug": "3ABN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/09/ff/09ff5ff254d01f651a97470dcfa9e6c3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "3abn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Folk Gospel Information Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 261211,
+          "url": "https://war.str3am.com/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 187201,
+          "url": "http://war.str3am.com:7180/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 25161,
+      "name": "Bylgjan - Íslenska Bylgjan",
+      "slug": "Bylgjan_Islenska_Bylgjan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/d3/5ed3b917b396b6b293cf65e9144f1b2c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bylgjan islenska bylgjan",
+        "alsoKnownAs": "Bylgjan - Íslenska Bylgjan"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39363,
+          "url": "https://live.visir.is/hls-radio/islenska/playlist.m3u8?DVR",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 39362,
+          "url": "http://live.visir.is/hls-radio/islenska/playlist.m3u8?DVR",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 123619,
+      "name": "Létt Bylgjan",
+      "slug": "Lett_Bylgjan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/48/0148ef775d53de8ef0d6c2d6ba9750d9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lett bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156674,
+          "url": "https://live.visir.is/hls-radio/bylgjan/playlist_DVR.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156672,
+          "url": "http://live.visir.is/hls-radio/bylgjan/media-ug15ve2tv_DVR_1245965.aac",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 156,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 156671,
+          "url": "http://live.visir.is/hls-radio/bylgjan/playlist_DVR.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156675,
+          "url": "https://live.visir.is/hls-radio/bylgjan/media-ug15ve2tv_DVR_1245965.aac",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 139,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 17166,
+      "name": "RÚV Rondó",
+      "slug": "RUV_Rondo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/c7/e4c771ba0035d333b7f5332550662713.png",
+      "dial": {
+        "band": "FM",
+        "dial": "87.7",
+        "dialStripped": "877"
+      },
+      "aliases": {
+        "cleanName": "ruv rondo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20653,
+          "url": "http://ice-11.spilarinn.is/xrondo",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 20654,
+          "url": "https://ice-11.spilarinn.is/xrondo",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 18448,
+      "name": "Ice FM",
+      "slug": "FM_N1_For_HipHopRnB_uncut",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/33/05337a12bf2c4e6912b1ae79e1e4a780.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ice",
+        "alsoKnownAs": "Ice FM Online"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 19614,
+      "name": "Country Bylgjan",
+      "slug": "Bylgjan_Country_Bylgjan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/dc/43dc00d51262997f0ffb9ff10f1a03df.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "country bylgjan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 25160,
+      "name": "FM Trölli",
+      "slug": "FM_Trolli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/f9/b3f963162e9989f1764f0d121a2458be.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "trolli",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Siglufjörður",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Siglufjörður, Iceland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39361,
+          "url": "https://hb.trolli.is/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39360,
+          "url": "http://hb.trolli.is:8200/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 53551,
+      "name": "FlashBack Útvarpsstöðvar - 70'FlashBack",
+      "slug": "FlashBack_Online_70s_FlashBack",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/e3/cee33a2bc404372b3597e7ae22ca8989.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "flashback utvarpsstodvar 70 flashback",
+        "alsoKnownAs": "FlashBack Online - 70's FlashBack"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "70s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86990,
+          "url": "http://ice-11.spilarinn.is/70flashback",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 86991,
+          "url": "https://ice-11.spilarinn.is/70flashback",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    },
+    {
+      "id": 36928,
+      "name": "Bylgjan - Apparatið",
+      "slug": "Bylgjan_Apparatid",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/da/53da2ccea0b1363b9c9fc97921d58b30.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bylgjan apparatid",
+        "alsoKnownAs": "Bylgjan - Apparatid"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Reykjavík",
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "locationText": "Reykjavík, Iceland",
+        "coordinates": {
+          "latitude": "64.1354800",
+          "longitude": "-21.8954100"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59770,
+          "url": "https://live.visir.is/hls-radio/apparatid/playlist.m3u8?DVR",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 59769,
+          "url": "http://live.visir.is/hls-radio/apparatid/playlist.m3u8?DVR",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "is",
+          "name": "Icelandic"
+        }
+      ]
+    }
+  ]
+}

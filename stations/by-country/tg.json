@@ -1,0 +1,1139 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:57.799Z",
+  "endpoint": "/countries/Togo/radios",
+  "countryCode": "tg",
+  "countryName": "Togo",
+  "expectedCount": 13,
+  "count": 13,
+  "data": [
+    {
+      "id": 48745,
+      "name": "Radio Maria Togo",
+      "slug": "Radio_Maria_Togo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/66/ff66449f7f736b77d6230df00ecdbb03.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2940,
+        "byCountry": {
+          "us": 28,
+          "gb": 4,
+          "au": 0,
+          "de": 9,
+          "fr": 30,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 4,
+          "it": 1,
+          "ar": 1,
+          "ca": 6,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77627,
+          "url": "http://57.129.49.167:8050/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77628,
+          "url": "https://dreamsiteradiocp2.com/proxy/rmtogo2?mp=/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77625,
+          "url": "http://dreamsiteradiocp.com:8050/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77626,
+          "url": "http://dreamsiteradiocp2.com:8050/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43509,
+      "name": "Kanal FM",
+      "slug": "Kanal_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dc/d6/dcd608cca7bf50979d83a4b76cbaa85b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "kanal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats French News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1590,
+        "byCountry": {
+          "us": 13,
+          "gb": 3,
+          "au": 0,
+          "de": 4,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69851,
+          "url": "http://radio.kanalfm.com:8000/KANALFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252186,
+          "url": "http://radio.kanalfm.com/KANALFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69852,
+          "url": "https://radio.kanalfm.com/KANALFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 106811,
+      "name": "Nana FM",
+      "slug": "Nana_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/d3/2ed3e5e376712ba0a3df25f48b8a7f94.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "nana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Asian Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1260,
+        "byCountry": {
+          "us": 7,
+          "gb": 2,
+          "au": 0,
+          "de": 6,
+          "fr": 12,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241392,
+          "url": "http://srv1269271.hstgr.cloud:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147999,
+          "url": "http://srv449230.hstgr.cloud:8000/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43508,
+      "name": "Victoire FM",
+      "slug": "Victoire_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/12/b5128109a6604bfbac08cdb287d2119c.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "victoire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1200,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 8,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 69849,
+          "url": "http://stream.zeno.fm/vkhv6gl43g5tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69850,
+          "url": "https://stream.zeno.fm/vkhv6gl43g5tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 6157306,
+      "name": "Radio Lomé",
+      "slug": "Radio_Lome",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/89/e4895f24d2f270c94341074444a11d71.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Politics Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 690,
+        "byCountry": {
+          "us": 6,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 233599,
+          "url": "http://stream.zeno.fm/umeg0b00hyduv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 233600,
+          "url": "https://stream.zeno.fm/umeg0b00hyduv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18085,
+      "name": "Zéphyr FM",
+      "slug": "Zephyr_FM_Zephyr_92.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/a4/d3a42064485864f70159c1a30b1d40a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "zephyr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23218,
+          "url": "http://usa18.fastcast4u.com:20072/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 21290,
+      "name": "Radio Gameli",
+      "slug": "Radio_Gameli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/bc/d4bc344192361f135d13690bec6763b1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "gameli",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Reggae Smooth Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 31579,
+          "url": "http://192.99.8.192:3190/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 31580,
+          "url": "http://192.99.8.192:3190/stream2",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 259634,
+          "url": "http://192.99.8.192:3190/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 406300,
+      "name": "Pyramide FM",
+      "slug": "Pyramide_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/17/1b1781180f361808c70ced110e8881ec.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "pyramide",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 212994,
+          "url": "http://stream.zeno.fm/7bny38nu69duv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 212995,
+          "url": "https://stream.zeno.fm/7bny38nu69duv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 334932,
+      "name": "Radio Mokpokpo 90.9 FM",
+      "slug": "Radio_Mokpokpo_90.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/67/8167640f2f2c452da6e179d8f3830cd6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "mokpokpo 90.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Aneho",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Aneho, Togo",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment French Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 9,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203726,
+          "url": "http://stream.zeno.fm/flh4cxr1jhatv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203727,
+          "url": "https://stream.zeno.fm/flh4cxr1jhatv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 43656,
+      "name": "Radio Merveille ToGo",
+      "slug": "RADIO_MERVEILLE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/f7/a6f77a244556116202be4854f23aa078.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "merveille",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats French Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70155,
+          "url": "https://c3.radioboss.fm:8234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70156,
+          "url": "https://c3.radioboss.fm:18234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70154,
+          "url": "http://c3.radioboss.fm:8234/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70152,
+          "url": "http://c3.radioboss.fm/stream/234",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70153,
+          "url": "http://c3.radioboss.fm:8234/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 242043,
+      "name": "Hit Radio Togo",
+      "slug": "Hit_Radio_13",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/6a/696aa0491839e18d0db8ff745136951f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.7",
+        "dialStripped": "1047"
+      },
+      "aliases": {
+        "cleanName": "hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185366,
+          "url": "http://hr-togo.ice.infomaniak.ch/hr-togo-64.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185367,
+          "url": "https://hr-togo.ice.infomaniak.ch/hr-togo-64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 155425,
+      "name": "Radio Gloire à Dieu",
+      "slug": "Radio_Gloire_a_Dieu",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/fc/19fc090e89615cda6ccec8e44ab32f5a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.7",
+        "dialStripped": "1067"
+      },
+      "aliases": {
+        "cleanName": "gloire a dieu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Christian French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165791,
+          "url": "http://stream.zeno.fm/gxmh585fgg8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165792,
+          "url": "https://stream.zeno.fm/gxmh585fgg8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 315804,
+      "name": "Light Radio",
+      "slug": "Light_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/06/e606a5b2978bc433b66aa2745105754d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "light",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lomé",
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "locationText": "Lomé, Togo",
+        "coordinates": {
+          "latitude": "8.2242624",
+          "longitude": "1.0374582"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200978,
+          "url": "http://studio.webradio.solutions:8022/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246862,
+          "url": "https://a9.asurahosting.com:8160/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246861,
+          "url": "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246860,
+          "url": "http://a9.asurahosting.com:8160/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246859,
+          "url": "http://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

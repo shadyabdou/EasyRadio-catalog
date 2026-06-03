@@ -1,0 +1,2052 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:01.099Z",
+  "endpoint": "/countries/Iraq/radios",
+  "countryCode": "iq",
+  "countryName": "Iraq",
+  "expectedCount": 25,
+  "count": 25,
+  "data": [
+    {
+      "id": 72945,
+      "name": "Al Rasheed Radio Baghdad",
+      "slug": "Al_Rasheed_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/95/7b950945757b4fbdfa858772217d6e10.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5",
+        "dialStripped": "915"
+      },
+      "aliases": {
+        "cleanName": "al rasheed baghdad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 3,
+          "de": 5,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115323,
+          "url": "http://streaming.shoutcast.com/alrasheed-fm?1719701490125",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115324,
+          "url": "https://streaming.shoutcast.com/alrasheed-fm?1719701490125",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 152167,
+      "name": "Dengi Kurdsat",
+      "slug": "Dengi_Kurdsat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/3d/dd3d17de88755794390c657fdc39267e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "dengi kurdsat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kurdistan",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Kurdistan, Kurdistan, Iraq",
+        "coordinates": {
+          "latitude": "33.5145221",
+          "longitude": "44.6553584"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165229,
+          "url": "http://uk3.internet-radio.com:8011/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    },
+    {
+      "id": 72948,
+      "name": "إذاعة السراج",
+      "slug": "Alseraj_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/1a/071ab1834a972b8742ab9cdc1b402fd6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "dh lsrj",
+        "alsoKnownAs": "Alseraj Radio "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Najaf",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Najaf, Iraq",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115326,
+          "url": "http://178.32.146.184:5672/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72941,
+      "name": "Sumer FM",
+      "slug": "Sumer_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/94/ab94691a656a57a63f7d45a07dfa4d8b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.8",
+        "dialStripped": "998"
+      },
+      "aliases": {
+        "cleanName": "sumer",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 5,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115317,
+          "url": "http://audiostreaming.itworkscdn.com:9012/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264980,
+          "url": "http://audiostreaming.itworkscdn.com:9012/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 40,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72973,
+      "name": "راديو الحياة الجديدة",
+      "slug": "New_Life_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/a1/6ba14a6295fdd8500b254df0ce3e4641.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "rdyw lhy ljdyd",
+        "alsoKnownAs": "New Life Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 2,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115352,
+          "url": "http://s2.radio.co/sd3c7f8539/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115354,
+          "url": "http://198.105.220.12:8589/Live/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115353,
+          "url": "http://173.192.105.231:8589/Live/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115355,
+          "url": "https://s2.radio.co/sd3c7f8539/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 72998,
+      "name": "راديو أشور",
+      "slug": "Radio_Ashur",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/02/47022f531cc61843fbf4fcb6b0769da6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.9",
+        "dialStripped": "909"
+      },
+      "aliases": {
+        "cleanName": "rdyw shwr",
+        "alsoKnownAs": "Radio Ashur"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mosul",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Mosul, Iraq",
+        "coordinates": {
+          "latitude": "36.3350000",
+          "longitude": "43.1188900"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115391,
+          "url": "http://eu7.fastcast4u.com:5137/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115392,
+          "url": "http://178.32.146.187:5137/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115394,
+          "url": "https://eu7.fastcast4u.com/proxy/radioashur/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115393,
+          "url": "http://eu7.fastcast4u.com/proxy/radioashur?mp=/1",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115395,
+          "url": "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73015,
+      "name": "راديو صوت السلام",
+      "slug": "Sawt_Al_Salam_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/03/f1/03f14131cbe8577d2b8549bb27bd614b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rdyw swt lslm",
+        "alsoKnownAs": "Sawt Al Salam Radio , Voice of Peace Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Christian Gospel Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115430,
+          "url": "http://68.178.200.89:8000/salamradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239255,
+          "url": "http://160.153.184.208:8000/salamradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255238,
+          "url": "http://160.153.188.220:8000/salamradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73019,
+      "name": "Al Rasheed Radio Basra",
+      "slug": "Al_Rasheed_Radio_Basrah",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/70/9270240f599a01fc55ed6cdf48889e82.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "al rasheed basra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Basra",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Basra, Iraq",
+        "coordinates": {
+          "latitude": "33.5145221",
+          "longitude": "44.6553584"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115435,
+          "url": "http://streaming.shoutcast.com/alrasheed-fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115436,
+          "url": "https://streaming.shoutcast.com/alrasheed-fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 39424,
+      "name": "Shafaaq Radio",
+      "slug": "Shafaaq_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/a4/40a41298a7c502df6fe5284b1cae554b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "shafaaq",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Culture News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64055,
+          "url": "https://radio.shafaq.com/radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64054,
+          "url": "http://radio.shafaq.com/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 49536156,
+      "name": "راديو هوا دجلة",
+      "slug": "Hawa_Dijla_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/fa/83fae8db9ab8ac7696d136fe736268d9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "rdyw hw djl",
+        "alsoKnownAs": "Hawa Dijla Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279058,
+          "url": "http://listen.radioking.com/radio/96766/stream/136027",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279059,
+          "url": "http://play.radioking.io/hawadijlah",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279060,
+          "url": "https://listen.radioking.com/radio/96766/stream/136027",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 279061,
+          "url": "https://play.radioking.io/hawadijlah",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 25544,
+      "name": "Shady FM Kurdish",
+      "slug": "Shady_FM_Kurdish",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e0/91/e091b89c5ce9328a7c8ec490f45d9994.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shady kurdish",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Middle Eastern",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40092,
+          "url": "http://stream.zeno.fm/evvkgtwyqxstv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40093,
+          "url": "https://stream.zeno.fm/evvkgtwyqxstv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 73055,
+      "name": "Radio Al-Bilad",
+      "slug": "Radio_Al_Bilad",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/00/b40071e62d014a8ef95232192eccc584.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7 / 999",
+        "dialStripped": "937 / 999"
+      },
+      "aliases": {
+        "cleanName": "al bilad",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Islamic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115487,
+          "url": "https://streamer.radio.co/sb38bf6e66/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115486,
+          "url": "http://streamer.radio.co/sb38bf6e66/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 110475,
+      "name": "Babylon FM",
+      "slug": "Babylon_FM_99.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/88/878806d35de81dd7c0518eb5ac0e6ad2.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "babylon",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265745,
+          "url": "http://178.32.146.187:5085/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150535,
+          "url": "http://178.32.146.187:5085/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150536,
+          "url": "http://eu7.fastcast4u.com/proxy/babylonarabia/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150537,
+          "url": "https://eu7.fastcast4u.com/proxy/babylonarabia/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 73089,
+      "name": "إذاعة الكفيل",
+      "slug": "Alkafeel_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/31/2a31452fd04ad7e86646d7216ef4224b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "dh lkfyl",
+        "alsoKnownAs": "Alkafeel Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Karbala",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Karbala, Iraq",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic Islamic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73072,
+      "name": "M Radio",
+      "slug": "M_Radio_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/37/a137933eb0ce004aaf58c0133f60e03b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "m",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Arabic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115518,
+          "url": "http://192.99.41.102:5908/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265852,
+          "url": "http://192.99.41.102:5908/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115519,
+          "url": "https://usa13.fastcast4u.com/proxy/mradio02?mp=/1/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115517,
+          "url": "http://usa13.fastcast4u.com:5908/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 263494,
+      "name": "رادیۆ سوننەت",
+      "slug": "Radio_Sunnah",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/b5/ccb5dd4cf69b416b34c539915fb076c5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "rdyoe swnnaet",
+        "alsoKnownAs": "Radio Sunnah"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sulaymaniyah",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Sulaymaniyah, Iraq",
+        "coordinates": {
+          "latitude": "33.5145221",
+          "longitude": "44.6553584"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189183,
+          "url": "http://a1.asurahosting.com:9380/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265551,
+          "url": "http://a1.asurahosting.com:9380/radio.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 263662,
+      "name": "Al Rasheed TV",
+      "slug": "Al_Rasheed_TV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/a8/06a8c6022e1e2b65d440a049642dedc6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "al rasheed tv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189248,
+          "url": "http://198.57.189.38:9998/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189249,
+          "url": "http://77.67.107.89/alrasheedradio",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 265851,
+          "url": "http://198.57.189.38:9998/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73058,
+      "name": "رادیۆ میحراب",
+      "slug": "Radio_Mihrab",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3c/67/3c67bfeff2b1d161a29c754c49f1f48f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "rdyoe myhrb",
+        "alsoKnownAs": "Radio Mihrab"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sulaymaniyah",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Sulaymaniyah, Iraq",
+        "coordinates": {
+          "latitude": "33.5145221",
+          "longitude": "44.6553584"
+        }
+      },
+      "genre": {
+        "text": "Arabic Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115492,
+          "url": "http://siliconvalley.servep2p.com:8000/mihrab",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 182136,
+      "name": "Radio Mariam Iraq-Erbil",
+      "slug": "Radio_Mariam_Iraq_Erbil_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/b6/63b6fece4efebec6f888c5e70e1d46ce.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.9",
+        "dialStripped": "1049"
+      },
+      "aliases": {
+        "cleanName": "mariam erbil",
+        "alsoKnownAs": "Radio Maria Iraq"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 172682,
+          "url": "http://51.77.84.64:8046/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 73104,
+      "name": "محطة صوت المستقبل",
+      "slug": "Sawt_Al_Mustaqbal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/ad/11ad0829a1df178f81f174ac29573fec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mht swt lmstqbl",
+        "alsoKnownAs": "Sawt Al Mustaqbal"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Community News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115563,
+          "url": "http://live-sawtalmustaqbal.sharp-stream.com/sawtalmustaqbal.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115565,
+          "url": "https://live-sawtalmustaqbal.sharp-stream.com/sawtalmustaqbal.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 115566,
+          "url": "https://live-sawtalmustaqbal.sharp-stream.com/sawtalmustaqbal.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 54,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 42816,
+      "name": "Monte Carlo Doualiya FM",
+      "slug": "Monte_Carlo_Doualiya_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/98/45/984586fe5126e253848379ac430ac63d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.0",
+        "dialStripped": "880"
+      },
+      "aliases": {
+        "cleanName": "monte carlo doualiya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mosul",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Mosul, Iraq",
+        "coordinates": {
+          "latitude": "36.3350000",
+          "longitude": "43.1188900"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68769,
+          "url": "http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    },
+    {
+      "id": 27936609,
+      "name": "Radyo Duhok",
+      "slug": "Radyo_Duhok",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/79/cc/79cc0884ce6f5b7c12322160c43991ae.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "radyo duhok",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dohuk",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Dohuk, Iraq",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Pop Talk Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253100,
+          "url": "https://stream.zeno.fm/kfrrct64hoxuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253099,
+          "url": "http://stream.zeno.fm/kfrrct64hoxuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 10620195,
+      "name": "Rudaw Radio",
+      "slug": "Rudaw_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/e0/82e061c705a0d009bd4b247be40e852e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7/102.9",
+        "dialStripped": "1027/1029"
+      },
+      "aliases": {
+        "cleanName": "rudaw",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erbil",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Erbil, Iraq",
+        "coordinates": {
+          "latitude": "36.1925700",
+          "longitude": "44.0106200"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237825,
+          "url": "http://audiostreaming.itworkscdn.com:9006/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237826,
+          "url": "https://l3.itworkscdn.net/itwaudio/9006/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 263538,
+      "name": "Radio One",
+      "slug": "Radio_One_12",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/48/74480cffed1f316ce949f1d50b160cd8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.7",
+        "dialStripped": "957"
+      },
+      "aliases": {
+        "cleanName": "one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230687,
+          "url": "https://radio1.fortihost.com/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189199,
+          "url": "https://s2.radio.co/s03d947c9d/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189198,
+          "url": "http://s2.radio.co/s03d947c9d/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 67802,
+      "name": "MeloDiab",
+      "slug": "MeloDiab",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/09/8a09a3c262b37f70d35305207c1d6261.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "melodiab",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baghdad",
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "locationText": "Baghdad, Iraq",
+        "coordinates": {
+          "latitude": "33.3405800",
+          "longitude": "44.4008800"
+        }
+      },
+      "genre": {
+        "text": "Arabic Dance Electronic Instrumental Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108775,
+          "url": "https://melodiab.com:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108774,
+          "url": "http://melodiab.com:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fa",
+          "name": "Persian"
+        }
+      ]
+    }
+  ]
+}

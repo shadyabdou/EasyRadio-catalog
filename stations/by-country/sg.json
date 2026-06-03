@@ -1,0 +1,3394 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:37.540Z",
+  "endpoint": "/countries/Singapore/radios",
+  "countryCode": "sg",
+  "countryName": "Singapore",
+  "expectedCount": 32,
+  "count": 32,
+  "data": [
+    {
+      "id": 40704,
+      "name": "Warna 94.2FM",
+      "slug": "Warna_94.2_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/53/5153cd95ed91c8df4a3664e1decc05a0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.2",
+        "dialStripped": "942"
+      },
+      "aliases": {
+        "cleanName": "warna 94.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 4050,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 9,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 262372,
+          "url": "http://22403.live.streamtheworld.com:80/WARNA942FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65547,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 283308,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65546,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277001,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "af",
+          "name": "Afrikaans"
+        }
+      ]
+    },
+    {
+      "id": 40703,
+      "name": "Power 98 Love Songs",
+      "slug": "Power_98_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/c2/86c2fd8e7ad4d6185875eb734ffdf406.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "power 98 love songs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Love Songs",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3330,
+        "byCountry": {
+          "us": 17,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 7,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 3,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65543,
+          "url": "http://23743.live.streamtheworld.com:80/POWER98_LOVESONGSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65544,
+          "url": "http://23683.live.streamtheworld.com:80/POWER98_LOVESONGS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65542,
+          "url": "http://28153.live.streamtheworld.com:80/POWER98_LOVESONGS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65541,
+          "url": "http://28093.live.streamtheworld.com:80/POWER98_LOVESONGSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 89,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65540,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65545,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40705,
+      "name": "Love 97.2FM",
+      "slug": "Love_97.2_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/b7/93b753c8f5ed1392fff48723d78d6771.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.2",
+        "dialStripped": "972"
+      },
+      "aliases": {
+        "cleanName": "love 97.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Chinese Hits Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1530,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 10,
+          "de": 4,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65549,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280915,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277877,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65548,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 40706,
+      "name": "Oli 96.8 FM",
+      "slug": "Oli_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/62/3b62657e4deaba4ecccabeafb533a9d0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "oli 96.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Tamil World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1470,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 12,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 27,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264352,
+          "url": "http://28443.live.streamtheworld.com:80/OLI968FMAAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264353,
+          "url": "http://28373.live.streamtheworld.com:80/OLI968FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264355,
+          "url": "http://28383.live.streamtheworld.com:80/OLI968FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65550,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282182,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264354,
+          "url": "http://28383.live.streamtheworld.com:80/OLI968FMAAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65551,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 40707,
+      "name": "Capital 95.8 FM",
+      "slug": "Capital_Radio_95.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/05/a0056188ddc1688af5a49cca0c950f5d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.8",
+        "dialStripped": "958"
+      },
+      "aliases": {
+        "cleanName": "capital 95.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Community News Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 4,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 283515,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65552,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65553,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 40708,
+      "name": "Gold 90.5 FM",
+      "slug": "Gold_90.5_FM_Gold_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/3e/e33e9d8754703dc51ab3ec84d5d72aa8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "gold 90.5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1230,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 5,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274889,
+          "url": "http://22893.live.streamtheworld.com:80/GOLD905_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274890,
+          "url": "http://28333.live.streamtheworld.com:80/GOLD905AAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274892,
+          "url": "http://28443.live.streamtheworld.com:80/GOLD905_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 274891,
+          "url": "http://28383.live.streamtheworld.com:80/GOLD905AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 281816,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65555,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65554,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40710,
+      "name": "Class 95 FM",
+      "slug": "Class_95_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/2f/382f133a62ae74923bd41068f68949f2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "class 95",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Country Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1050,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 4,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264357,
+          "url": "http://28393.live.streamtheworld.com:80/CLASS95_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65563,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264356,
+          "url": "http://22893.live.streamtheworld.com:80/CLASS95AAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264358,
+          "url": "http://28453.live.streamtheworld.com:80/CLASS95AAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65564,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40709,
+      "name": "96.3好FM",
+      "slug": "96.3_Hao_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/05/1c/051c59e3ee90af2e6aec16b4083defd8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "96.3 hao",
+        "alsoKnownAs": "96.3 Hao FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Pop Rock Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 3,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65558,
+          "url": "http://28093.live.streamtheworld.com:80/HAO_963_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65562,
+          "url": "https://22243.live.streamtheworld.com:443/HAO_963_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65560,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 98304,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 65561,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65559,
+          "url": "http://22243.live.streamtheworld.com:80/HAO_963_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65556,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 98304,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 236196,
+          "url": "http://28093.live.streamtheworld.com:3690/HAO_963_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65557,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 40713,
+      "name": "U FM",
+      "slug": "U_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/ef/15efa2139bcbe41d74a9ae84968ac423.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "u",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Toa Payoh New Town",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Toa Payoh New Town, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Chinese Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65577,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 85,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65571,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 40712,
+      "name": "YES 933",
+      "slug": "Yes_93.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ec/2f/ec2f7fe67a60a2412169f2abc74dacca.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "yes 933",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Chinese Entertainment Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65566,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65570,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255766,
+          "url": "http://28373.live.streamtheworld.com:80/YES933_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256741,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zh",
+          "name": "Cantonese"
+        }
+      ]
+    },
+    {
+      "id": 40715,
+      "name": "Kiss92",
+      "slug": "Kiss92",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/32/f6320b28db46d0ed2b515bb8b4a4e9c4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiss92",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 3,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65580,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65586,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 40716,
+      "name": "88.3JIA",
+      "slug": "Jia_88.3_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/26/04268aedd0d3c67934e8752a5c028817.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "88.3 jia",
+        "alsoKnownAs": "Jia 88.3 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bukit Merah Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Bukit Merah Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Chinese Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 2,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65587,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65589,
+          "url": "http://22243.live.streamtheworld.com:80/883JIA_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65588,
+          "url": "http://22283.live.streamtheworld.com:80/883JIA_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65590,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40714,
+      "name": "938Now",
+      "slug": "live_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c2/50/c250c2b635ebed852355f4c361943852.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.8",
+        "dialStripped": "938"
+      },
+      "aliases": {
+        "cleanName": "938now",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Business Entertainment Information News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 4,
+          "es": 0,
+          "mx": 4,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65579,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65578,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40717,
+      "name": "Ria 89.7 FM",
+      "slug": "Ria_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/3d/f63d325a95bee29f9c0a037d31aad8e7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.7",
+        "dialStripped": "897"
+      },
+      "aliases": {
+        "cleanName": "ria 89.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65592,
+          "url": "http://28393.live.streamtheworld.com:80/RIA897FMAAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65595,
+          "url": "http://14033.live.streamtheworld.com:80/RIA897FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65593,
+          "url": "http://22393.live.streamtheworld.com:80/RIA897FMAAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65596,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65591,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65598,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65599,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65600,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65597,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ms",
+          "name": "Malay"
+        }
+      ]
+    },
+    {
+      "id": 3546,
+      "name": "cna938",
+      "slug": "cna938",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/7e/0c7e9a184f6ea32cfbaa255369045ccc.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cna938",
+        "alsoKnownAs": "Channel news asia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 3,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 12,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7635,
+          "url": "http://28453.live.streamtheworld.com:80/938NOW_PREM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 7637,
+          "url": "http://14033.live.streamtheworld.com:80/938NOW_PREM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 7636,
+          "url": "http://22393.live.streamtheworld.com:80/938NOW_PREM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 7638,
+          "url": "https://28453.live.streamtheworld.com:443/938NOW_PREM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40719,
+      "name": "One FM 91.3",
+      "slug": "Radio_91.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/21/30217b5dcadf9862be76840a729447a7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "one 91.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 65601,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65605,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40722,
+      "name": "Money FM 89.3",
+      "slug": "Money_FM_89.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/f8/d7f8b321acc4d17c2c4509df0eeb279a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "money 89.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Business News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65613,
+          "url": "http://22243.live.streamtheworld.com:80/MONEY_893AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65614,
+          "url": "http://28093.live.streamtheworld.com:80/MONEY_893_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65620,
+          "url": "https://28093.live.streamtheworld.com:443/MONEY_893AAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65621,
+          "url": "https://28153.live.streamtheworld.com:443/MONEY_893_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65619,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65611,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 96,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 65618,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 98304,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 65616,
+          "url": "http://23743.live.streamtheworld.com:80/MONEY_893_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65617,
+          "url": "http://23683.live.streamtheworld.com:80/MONEY_893AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65612,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65615,
+          "url": "http://28093.live.streamtheworld.com:80/MONEY_893AAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 244727,
+          "url": "http://28093.live.streamtheworld.com:3690/MONEY_893_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40725,
+      "name": "Symphony 92.4FM",
+      "slug": "Symphony_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/d6/77d6ccb561c9380a91764b20e23aa789.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.4",
+        "dialStripped": "924"
+      },
+      "aliases": {
+        "cleanName": "symphony 92.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Art Classical Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 264544,
+          "url": "http://22893.live.streamtheworld.com:80/SYMPHONY924_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264545,
+          "url": "http://22393.live.streamtheworld.com:80/SYMPHONY924AAC_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266182,
+          "url": "http://28383.live.streamtheworld.com:80/SYMPHONY924_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65625,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65626,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277167,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280667,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40721,
+      "name": "Barakath Radio",
+      "slug": "Barakath_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/5d/1b5dc068f43c7cd94d906ab8f65d1f98.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "barakath",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Islamic Tamil",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 9,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65610,
+          "url": "https://stream.rcs.revma.com/cy0s94xf268uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65609,
+          "url": "http://stream.rcs.revma.com/cy0s94xf268uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 40723,
+      "name": "987 FM",
+      "slug": "RS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/6d/1e6dc9b97d7587426de6acd3e38d069a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "987",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Caldecott Hill Estate",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Caldecott Hill Estate, Singapore, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 3,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256073,
+          "url": "http://28453.live.streamtheworld.com:80/987FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 277643,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM.mp3",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256072,
+          "url": "http://28443.live.streamtheworld.com:80/987FM_SC",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263613,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FM.mp3",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65622,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=streema",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65623,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=streema",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 152,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40729,
+      "name": "Radio Melody with Brother Bjorn",
+      "slug": "Radio_Melody_with_Brother_Bjorn",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/fa/b8faf55934bcebce002ccc4fc52198bb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "melody with brother bjorn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65645,
+          "url": "http://ssl.geckohost.nz:9191/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65643,
+          "url": "http://ssl.geckohost.nz:9191/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65644,
+          "url": "http://ssl.geckohost.nz:9191/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40724,
+      "name": "Naga FM",
+      "slug": "Naga_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/4b/534badf09fe9967553e5d87b5dd3aaff.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "naga",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Culture Folk Tamil",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65624,
+          "url": "http://rdopanel.cobrasoft.org:1060/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ta",
+          "name": "Tamil"
+        }
+      ]
+    },
+    {
+      "id": 40737,
+      "name": "Champion FM Radio",
+      "slug": "Champion_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/ee/60ee32689776c331f6ac73dce2b49417.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "champion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 65685,
+          "url": "http://championfmradio.out.airtime.pro:8000/championfmradio_a",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65688,
+          "url": "https://championfmradio.out.airtime.pro/championfmradio_a",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65690,
+          "url": "https://championfmradio.out.airtime.pro/championfmradio_c",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65689,
+          "url": "https://championfmradio.out.airtime.pro/championfmradio_b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65686,
+          "url": "http://championfmradio.out.airtime.pro:8000/championfmradio_b",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65687,
+          "url": "http://championfmradio.out.airtime.pro:8000/championfmradio_c",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40734,
+      "name": "Xans Lounge Radio",
+      "slug": "Xans_Lounge_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/21/b42159fc1970f622fd872e4afcf10431.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "xans lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": ", Singapore",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lounge Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65679,
+          "url": "http://stream.zeno.fm/7gp8ua6cf18uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65680,
+          "url": "https://stream.zeno.fm/7gp8ua6cf18uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40740,
+      "name": "XRadio",
+      "slug": "XRadio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/f5/0bf54909207bd8b07d84ab49129abd88.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "xradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Rap Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65697,
+          "url": "http://xradio.zone:9420/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65695,
+          "url": "http://xradio.zone:9420/radio.mp3",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65696,
+          "url": "http://206.189.44.77:9420/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269489,
+          "url": "http://xradio.zone:9420/radio.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40738,
+      "name": "Bible Witness Web Radio",
+      "slug": "Bible_Witness_Web_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/f6/40f627ba82d81ee047315d74b2d786e7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bible witness web",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65693,
+          "url": "http://14223.live.streamtheworld.com:80/SP_R3179571_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65692,
+          "url": "http://18093.live.streamtheworld.com:80/SP_R3179571_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65694,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65691,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 58222451,
+      "name": "SRAsTuDioFM",
+      "slug": "SRAsTuDioFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/7c/2e7cd9437c7728b8543905e86df0584e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "srastudiofm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Asian Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281294,
+          "url": "https://s5.radio.co/s672a3141c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281293,
+          "url": "http://s5.radio.co/s672a3141c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 40733,
+      "name": "973FM",
+      "slug": "Radio_973",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/54/8554762ba95e222b37820b45eac761dc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "973fm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 256325,
+          "url": "https://c16.radioboss.fm:8115/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 256324,
+          "url": "https://c16.radioboss.fm:8115/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65677,
+          "url": "http://c16.radioboss.fm:8115/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 50,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65678,
+          "url": "http://c16.radioboss.fm:8115/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40731,
+      "name": "AXR Singapore",
+      "slug": "AXR_Asia_Expat_Radio_Singapore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/da/feda902501942a807a2e232ad0c1413b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "axr",
+        "alsoKnownAs": "AXR - Asia Expat Radio Singapore"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65649,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPOREAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65650,
+          "url": "http://28103.live.streamtheworld.com:80/AXR_SINGAPORE_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65651,
+          "url": "http://22243.live.streamtheworld.com:80/AXR_SINGAPOREAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65654,
+          "url": "http://23683.live.streamtheworld.com:80/AXR_SINGAPORE_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65658,
+          "url": "https://28103.live.streamtheworld.com:443/AXR_SINGAPORE_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65660,
+          "url": "https://singaporestreammp3.axr.online",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65652,
+          "url": "http://28093.live.streamtheworld.com:80/AXR_SINGAPORE_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65655,
+          "url": "http://23743.live.streamtheworld.com:80/AXR_SINGAPOREAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65659,
+          "url": "https://22283.live.streamtheworld.com:443/AXR_SINGAPOREAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65653,
+          "url": "http://22273.live.streamtheworld.com:80/AXR_SINGAPOREAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65657,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPOREAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 65648,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPORE.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65656,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPORE.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40730,
+      "name": "Ys 995 FM",
+      "slug": "Ys_995_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/31/2131494dd7d88c0d775f3e5b79d3ac30.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ys 995",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapur",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapur, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65646,
+          "url": "http://stream.laut.fm/ys995fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65647,
+          "url": "https://stream.laut.fm/ys995fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 40736,
+      "name": "Adeline Yeo General Entertainment Radio",
+      "slug": "Adeline_Yeo_General_Entertainment_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/2e/882ec6fe33f0dd4479e3b7d17cbf8db1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "adeline yeo general entertainment",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Instrumental Lite Pop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 65684,
+          "url": "https://stream.zeno.fm/wydy0bhmnrhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 65683,
+          "url": "http://stream.zeno.fm/wydy0bhmnrhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36979,
+      "name": "Radio Chutney",
+      "slug": "Radio_Chutney",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f2/8a/f28a89102a2dfbcdcbad7e5d1bca2e15.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "chutney",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Singapore City",
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "locationText": "Singapore City, Singapore",
+        "coordinates": {
+          "latitude": "1.2896700",
+          "longitude": "103.8500700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Indie Instrumental World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59874,
+          "url": "https://streamer.radio.co/sf30c61bda/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 186,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 59875,
+          "url": "https://streamer.radio.co/sf30c61bda/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 59872,
+          "url": "http://streamer.radio.co/sf30c61bda/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 183,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 59873,
+          "url": "http://streamer.radio.co/sf30c61bda/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

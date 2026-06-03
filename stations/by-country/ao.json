@@ -1,0 +1,4521 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:33:21.193Z",
+  "endpoint": "/countries/Angola/radios",
+  "countryCode": "ao",
+  "countryName": "Angola",
+  "expectedCount": 56,
+  "count": 56,
+  "data": [
+    {
+      "id": 48843,
+      "name": "Rádio Nacional de Angola - Rádio 5",
+      "slug": "Radio_5_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/d4/27d470a917a0b42cfa96311a8bc5ae49.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "nacional de 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Education Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2520,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 6,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 77845,
+          "url": "http://radios.vpn.sapo.pt/AO/radio5.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 77844,
+          "url": "http://paineldj5.com.br:8060/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77846,
+          "url": "https://paineldj5.com.br:20088/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77847,
+          "url": "https://radios.vpn.sapo.pt/AO/radio5.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 150708,
+      "name": "Radio Nacional de Angola - Radio Luanda",
+      "slug": "Radio_Luanada",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/ae/73aea99ae087bdaaedbf088eb297dd1a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "nacional de luanda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2040,
+        "byCountry": {
+          "us": 1,
+          "gb": 7,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 7,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 165037,
+          "url": "https://paineldj5.com.br:20089/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 165036,
+          "url": "http://paineldj5.com.br:8063/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 69154,
+      "name": "Radio Ecclesia",
+      "slug": "Radio_Ecclesia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/47/cb477236f2165e856e38a76deae958ae.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "ecclesia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243049,
+          "url": "https://mediaserv33.live-streams.nl:8089/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 40,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 110093,
+          "url": "http://mediaserv33.live-streams.nl:8089/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 321773,
+      "name": "MFM Radio",
+      "slug": "MFM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/46/634691fe13eb086919f4a209b7169a7f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "mfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 1230,
+        "byCountry": {
+          "us": 2,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237837,
+          "url": "http://centova87.instainternet.com:8148/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247931,
+          "url": "http://centova87.instainternet.com:8095/streammfm/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202121,
+          "url": "http://stream.zeno.fm/utfkkxfawp8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202120,
+          "url": "http://stream.zenolive.com/utfkkxfawp8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202122,
+          "url": "https://stream.zenolive.com/utfkkxfawp8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202123,
+          "url": "https://stream.zeno.fm/utfkkxfawp8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264745,
+          "url": "http://centova87.instainternet.com/proxy/radiomfm?mp=/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264747,
+          "url": "https://centova87.instainternet.com/proxy/radiomfm?mp=/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 264746,
+          "url": "http://centova87.instainternet.com:8028/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 989,
+      "name": "Rádio Essencial",
+      "slug": "Radio_Essencial",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/ba/fbba0e78b86ccc116804d0d51003ede4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "essencial",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1050,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 2362,
+          "url": "https://servidor22.brlogic.com:7338/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 2361,
+          "url": "http://servidor22.brlogic.com:7338/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 321728,
+      "name": "Rádio Maria Angola",
+      "slug": "Radio_Maria_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/e1/e6e161e62cfa4c948d53f1d4f55705f2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.6",
+        "dialStripped": "896"
+      },
+      "aliases": {
+        "cleanName": "maria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 202114,
+          "url": "http://dreamsiteradiocp5.com:8043/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202115,
+          "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 121566,
+      "name": "Radio Kuia Bue FM",
+      "slug": "Radio_Kuia_Bue",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/d2/0cd21e9f098f324371c707fe3109fcb9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kuia bue",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Hits Kizomba",
+        "tags": []
+      },
+      "popularity": {
+        "global": 810,
+        "byCountry": {
+          "us": 1,
+          "gb": 10,
+          "au": 0,
+          "de": 0,
+          "fr": 5,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 260616,
+          "url": "http://a11.asurahosting.com:7400/radio.aac/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 155935,
+          "url": "http://a11.asurahosting.com:7400/radio.aac/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 124861,
+      "name": "Radio Nacional de Angola - Canal A",
+      "slug": "Radio_Nacional_de_Angola_RNA_Canal_A",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f3/f0/f3f0ce6239249cdd10bae78ed533a404.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "nacional de canal a",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 3,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 157055,
+          "url": "http://paineldj5.com.br:8043/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 157054,
+          "url": "http://paineldj5.com.br:8043/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 157053,
+          "url": "http://paineldj5.com.br:8043/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 151529,
+      "name": "Radio Nacional de Angola - Radio Luanda",
+      "slug": "Radio_Luanda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/35/0435f7c5a2414e2b9369dc903fc358c9.webp",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "nacional de luanda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Viana",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Viana, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Portuguese Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165118,
+          "url": "http://paineldj5.com.br:8063/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 89032,
+      "name": "Rádio Solidária",
+      "slug": "Radio_Solidaria_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/5f/e15f94e157fcfdfa03bf3171b7f968c1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "solidaria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Belas",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Belas, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134950,
+          "url": "http://link.radio.br:6052/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134951,
+          "url": "http://link.radio.br:6052/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134949,
+          "url": "http://link.radio.br:6052/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 103784,
+      "name": "Luanda Antena Comercial (LAC)",
+      "slug": "L.A.C_FM_Luanda_Antena_Comercial",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/2a/f52acaac2fc2511662a644a46e68128e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "luanda antena comercial lac",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Information Portuguese Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145379,
+          "url": "http://157.250.203.90:8662/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145380,
+          "url": "http://live.paineldj.com.br:8662/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145378,
+          "url": "http://live.paineldj.com.br:8662/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145377,
+          "url": "http://live.paineldj.com.br:8662/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 111417,
+      "name": "Radio Benguela",
+      "slug": "Radio_Benguela",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/6b/496bf74530886b2fd24d4e73d0321d00.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "benguela",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Benguela",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Benguela, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151000,
+          "url": "https://paineldj5.com.br:20096/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150999,
+          "url": "http://paineldj5.com.br:8094/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 89224,
+      "name": "Radio Correio da Kianda",
+      "slug": "Radio_Correio_da_Kianda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/ed/20ed2e8a5ddd46b67713663be5e8daef.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "correio da kianda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135190,
+          "url": "http://audio.serv.pt:8036/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246545,
+          "url": "https://audio.serv.pt:8036/kianda/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 248309,
+      "name": "Radio Huambo",
+      "slug": "Radio_Huambo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/ff/ceffb2c197542f84e689cf2fd594eac2.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "huambo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Huambo",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Huambo, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 186371,
+          "url": "http://paineldj.com.br:8089/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186373,
+          "url": "https://paineldj.com.br:20142/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186370,
+          "url": "http://paineldj.com.br:8089/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 186372,
+          "url": "https://paineldj.com.br:20142/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 194484,
+      "name": "Radio FamaStar",
+      "slug": "Radio_FamaStar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/8b/868b168b6cf6ffed11bf9d5533652847.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "famastar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Brazilian Dance House Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 175800,
+          "url": "http://sirius.shoutca.st:8527/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 131642,
+      "name": "Cidade FM Angola",
+      "slug": "Cidade_FM_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/05/9605d49fd0a35a27b5b753a318d03db4.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cidade",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Portuguese Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159951,
+          "url": "http://stream.zeno.fm/kvt3umld5kgvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 159952,
+          "url": "https://stream.zeno.fm/kvt3umld5kgvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 166333,
+      "name": "Radio Lunda Norte",
+      "slug": "Radio_Lunda_Norte",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/fa/5afaeefbdabd0c9b2333dc4612ac5a9f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "lunda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dundo",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Dundo, Lunda Norte Province, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Brazilian Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168056,
+          "url": "http://paineldj6.com.br:8148/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 87,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168057,
+          "url": "http://paineldj6.com.br:8148/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 320870,
+      "name": "Radio Lunda Sul",
+      "slug": "Radio_Lunda_Sul",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e2/9a/e29a348c49a1ca5b4623fbbfbc02d9a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "lunda sul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saurimo",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Saurimo, Linda Sul, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201952,
+          "url": "http://paineldj6.com.br:8154/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 201951,
+          "url": "http://paineldj6.com.br:8154/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 49852,
+      "name": "Rádio Despertar 91.0 FM ",
+      "slug": "Radio_Despertar_910",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/e3/3be3e05f74e3b435d6870c7df43b73e3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.0",
+        "dialStripped": "910"
+      },
+      "aliases": {
+        "cleanName": "despertar 91.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 4975449,
+      "name": "Rádio Mais Cabinda",
+      "slug": "Radio_Mais_Cabinda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/66/0e660ac8801b1d43b8475c94a815c272.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "mais cabinda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cabinda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Cabinda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232819,
+          "url": "http://radios.justweb.pt:8062/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232820,
+          "url": "https://radios.justweb.pt/8062/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 32673,
+      "name": "Rádio Maranata",
+      "slug": "Radio_Maranata_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/62/2d62ac654adad57769f88592e3e9f2dd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "maranata",
+        "alsoKnownAs": "Rocha Eterna Tabernáculo"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 3,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53302,
+          "url": "http://centova87.instainternet.com:8005/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53301,
+          "url": "http://centova87.instainternet.com:8005/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 89431,
+      "name": "Rádio Nova",
+      "slug": "Radio_Nova_18",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/4c/274c158d8af696e3e805369faaf0fe9d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "nova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Community Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135427,
+          "url": "https://stream.zeno.fm/0k4sknvq1p8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135426,
+          "url": "http://stream.zeno.fm/0k4sknvq1p8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 343691,
+      "name": "Radio Namibe",
+      "slug": "Radio_Namibe",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/c0/29c0a389b09e34ca717a56e5f70c5ece.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "namibe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Moçâmedes",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Moçâmedes, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204986,
+          "url": "https://paineldj6.com.br:20118/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204987,
+          "url": "https://paineldj6.com.br:20118/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204985,
+          "url": "http://paineldj6.com.br:8169/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204984,
+          "url": "http://paineldj6.com.br:8169/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 34843,
+      "name": "Radio Jihenda",
+      "slug": "Radio_Jihenda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/c4/86c4597a3e2dadfbbb32a56857ce725a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jihenda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Latin Merengue Portuguese Salsa",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57178,
+          "url": "https://s02.brascast.com:7830/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57175,
+          "url": "http://s02.brascast.com:7830/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 82,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57177,
+          "url": "https://s02.brascast.com:7830/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57179,
+          "url": "https://s02.brascast.com:7830/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57174,
+          "url": "http://s02.brascast.com:7830/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 57176,
+          "url": "http://s02.brascast.com:7830/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 34410,
+      "name": "Rádio Mais Huambo",
+      "slug": "Radio_Mais_Huambo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/de/20dec6ec1aec5cd66cdcc81abe46528c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.9",
+        "dialStripped": "899"
+      },
+      "aliases": {
+        "cleanName": "mais huambo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Huambo",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Huambo, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Latin Salsa",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 56725,
+          "url": "https://radios.justweb.pt/8044/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 56724,
+          "url": "http://radios.justweb.pt:8044/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 34379,
+      "name": "Rádio Mais Luanda",
+      "slug": "Radio_Mais_Luanda",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/36/633673c149c03f8ba129e4405b4d640f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.1",
+        "dialStripped": "991"
+      },
+      "aliases": {
+        "cleanName": "mais luanda",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Cumbia Latin Salsa Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 56681,
+          "url": "http://radios.justweb.pt:8050/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 56682,
+          "url": "https://radios.justweb.pt/8050/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 35084,
+      "name": "Radio Cuando Cubango",
+      "slug": "Radio_Cuando_Cubango",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ad/45/ad45f6e9de0c1fc326b8cdc0662873a4.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.4",
+        "dialStripped": "914"
+      },
+      "aliases": {
+        "cleanName": "cuando",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Menongue",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Menongue, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 57510,
+          "url": "http://stream.zeno.fm/n5r034egx4zuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 57511,
+          "url": "https://stream.zeno.fm/n5r034egx4zuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 38109,
+      "name": "Radio Malange",
+      "slug": "Radio_Malange",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/70/20706765732e66385bc483cc5aa44216.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.1",
+        "dialStripped": "921"
+      },
+      "aliases": {
+        "cleanName": "malange",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Malange",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Malange, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61934,
+          "url": "http://paineldj6.com.br:8160/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61935,
+          "url": "http://paineldj6.com.br:8160/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61939,
+          "url": "https://paineldj6.com.br:20116/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61936,
+          "url": "http://paineldj6.com.br:8160/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61938,
+          "url": "https://paineldj6.com.br:20116/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 71,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 61937,
+          "url": "https://paineldj6.com.br:20116/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 43,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 169992,
+      "name": "Ebnézer Rádio",
+      "slug": "Ebnezer_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/a9/5ba93983d94ebfca1415b8dbb033c361.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ebnezer",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Christian Community Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169389,
+          "url": "http://08.stmip.net:10028/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 69764,
+      "name": "Radio Nacional de Angola - Radio N'Gola Yetu",
+      "slug": "Radio_NGola_Yetu_RNA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/94/bb/94bbeb39b4e1cc3fdc4d2de3a108bee4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.4",
+        "dialStripped": "1014"
+      },
+      "aliases": {
+        "cleanName": "nacional de n gola yetu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Education Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 197631,
+      "name": "Rádio Fé Angola",
+      "slug": "Radio_Fe_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/d3/60d3b46e4adf9185fbbd229e9fef55e6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fe",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176627,
+          "url": "https://stream.zeno.fm/rqabpxe9oksvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 176626,
+          "url": "http://stream.zeno.fm/rqabpxe9oksvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 322188,
+      "name": "Rádio Nosso Tempo",
+      "slug": "Radio_Nosso_Tempo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/01/ed01a7f848e5f53d263c00f323cc22ba.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nosso tempo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Portuguese Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202194,
+          "url": "http://stm25.srvstm.com:6756/NossoTempo",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 322244,
+      "name": "Radio Viciana",
+      "slug": "Radio_Viciana",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d0/de/d0de395d33de62b9b822564ee2293e9c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "viciana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Community Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202209,
+          "url": "http://radioviciana.org:8000/test.aac/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sq",
+          "name": "Albanian"
+        }
+      ]
+    },
+    {
+      "id": 30097,
+      "name": "Powermix FM Radio",
+      "slug": "Powermix_FM_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/25/60/256086ecd9cd1ed2388bd4cb0e2be40e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "powermix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "90s Dance House Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48322,
+          "url": "https://cast.iplayradio.net:9500/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48320,
+          "url": "http://cast.iplayradio.net:9500/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48321,
+          "url": "https://cast.iplayradio.net/listen/powermixfm/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 344088,
+      "name": "Napierok",
+      "slug": "Napierok",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/b2/bab2a9732e96fe1ac26589f387a64ea8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "napierok",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205071,
+          "url": "https://stream.zeno.fm/4ydrzwkqr68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205070,
+          "url": "http://stream.zeno.fm/4ydrzwkqr68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 26383,
+      "name": "Rádio Mais Benguela",
+      "slug": "Radio_Mais_Benguela",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7c/e8/7ce80cde2bba4121bcf37a6969e10b93.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.3",
+        "dialStripped": "963"
+      },
+      "aliases": {
+        "cleanName": "mais benguela",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Benguela",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Benguela, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Dance Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 41518,
+          "url": "https://radios.justweb.pt/8046/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41517,
+          "url": "http://radios.justweb.pt:8046/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 322744,
+      "name": "RÁDIO NXT FM",
+      "slug": "RADIO_NXT_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/0a/900a164bd2ffe0ec9af26933f6b53cc0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "nxt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202388,
+          "url": "https://stream.zeno.fm/wnez02wihrevv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202387,
+          "url": "http://stream.zeno.fm/wnez02wihrevv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 97525,
+      "name": "Rádio Adventus",
+      "slug": "Radio_Adventus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/aa/afaaa90b38e8bbef795b64f856dcc061.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "adventus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Talatona",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Talatona, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142033,
+          "url": "https://stream.zeno.fm/vlef1zpk8tmuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 142032,
+          "url": "http://stream.zeno.fm/vlef1zpk8tmuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 380070,
+      "name": "Rádio Sambila",
+      "slug": "Radio_Sambila",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0e/48/0e48b36c0e89dc92710b791348b9bd2f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sambila",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210443,
+          "url": "http://stream.zeno.fm/4uwoveqkmitvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210445,
+          "url": "https://stream.zeno.fm/4uwoveqkmitvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 10524750,
+      "name": "Rock Marginal 104.1 FM",
+      "slug": "Rock_Marginal_104.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/8b/ff8ba41c3b4d1f1805913e76ae1e2a41.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "rock marginal 104.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237776,
+          "url": "https://stream-radio-marginal-by.newsgen.io/rmlive.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237775,
+          "url": "http://stream-radio-marginal-by.newsgen.io:8181/rmlive.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237774,
+          "url": "http://stream-radio-marginal-by.newsgen.io/rmlive.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 281748,
+      "name": "Radio Karixi.com - A Samba nos teus Ouvidos",
+      "slug": "Radio_Karixi.com_A_Samba_nos_teus_Ouvidos",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d5/cc/d5cc59a62a02cc7f3896f954b9d85ffd.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "karixi com a samba nos teus ouvidos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192371,
+          "url": "https://stream.zeno.fm/fww0uref9w6tv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192370,
+          "url": "http://stream.zeno.fm/fww0uref9w6tv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 322369,
+      "name": "Radio Zango",
+      "slug": "Radio_Zango",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/05/1f055a6880f56c65742dbdc894703445.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "zango",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Zango",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Zango, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202231,
+          "url": "https://servidor26-5.brlogic.com:7036/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202230,
+          "url": "http://servidor26-5.brlogic.com:7036/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 17505474,
+      "name": "Afriradio",
+      "slug": "Afriradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/fe/22fe62725c87bcf1f77569d3e7ef3b50.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "afriradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "African Afrobeats Afropop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241770,
+          "url": "http://65.109.81.84:8839/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241772,
+          "url": "https://cast4.asurahosting.com/proxy/afriradi/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241769,
+          "url": "http://cast4.asurahosting.com/proxy/afriradi/stream/",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241771,
+          "url": "http://cast4.asurahosting.com:8839/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 38149492,
+      "name": "Rádio STTOP FM",
+      "slug": "Radio_STTOP_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/61/e161e257d85c170ecaa7130925d76d5e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "sttop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Talatona",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Talatona, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 274648,
+          "url": "https://wz7.servidoresbrasil.com:8478/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274647,
+          "url": "http://wz7.servidoresbrasil.com:8478/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 33484545,
+      "name": "Rádio Bairro de Angola",
+      "slug": "Radio_Bairro_de_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/ed/59edc5ff8ef9101142a159f94751d58a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bairro de",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cuíto",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Cuíto, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275347,
+          "url": "http://stm4.xradios.com.br:6794/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 259115,
+          "url": "http://stm4.xradios.com.br:6794/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 122,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50231,
+      "name": "LEONIDEFREMOV",
+      "slug": "LEONIDEFREMOV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/9b/169bd7bf940ca67caa5cecd04538e528.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "leonidefremov",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81005,
+          "url": "http://stream.zeno.fm/zypan0tmr0hvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81006,
+          "url": "https://stream.zeno.fm/zypan0tmr0hvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 13171572,
+      "name": "Rádio Escola",
+      "slug": "Radio_Escola_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/6e/596efc4eb2502abe04633bdb2c8804b7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "escola",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Childrens Student Radio",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 238809,
+          "url": "http://centova87.instainternet.com:8006/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 43833,
+      "name": "Rádio Muzangala",
+      "slug": "Radio_Muzangala",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7a/e9/7ae9d0f03fe066931b270f4fe423a08a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "muzangala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70496,
+          "url": "https://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70495,
+          "url": "http://listen.radioking.com/radio/1743/stream/125",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 99527,
+      "name": "Rádio D'Agosto",
+      "slug": "Radio_DAgosto",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/11/2611d0083ea65e869fd9b577c502b05b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.0",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "d agosto",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142687,
+          "url": "http://live.paineldj.com.br:8600/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 49,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142688,
+          "url": "http://live.paineldj.com.br:8600/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 2706,
+      "name": "Rádio Som News Angola",
+      "slug": "Radio_Som_News_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/0c/4f0cf41998008c1048662b128c31e7c0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "som news",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "80s Afrobeats Gospel Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 6758,
+          "url": "http://stream.zeno.fm/y1dkpe3pnd0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 6759,
+          "url": "https://stream.zeno.fm/y1dkpe3pnd0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 270318,
+      "name": "Radio Jet7 Angola",
+      "slug": "Radio_Jet7_Angola",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/02/ae029e48853eef7028c0fc92aba60e84.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jet7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luanda",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Luanda, Luanda, Angola",
+        "coordinates": {
+          "latitude": "-8.8368200",
+          "longitude": "13.2343200"
+        }
+      },
+      "genre": {
+        "text": "Zouk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190623,
+          "url": "http://37.59.28.208:8616/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 270083,
+          "url": "http://37.59.28.208:8616/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 66142,
+      "name": "Rádio Mais Huíla",
+      "slug": "Radio_Mais_Huila",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/2b/9f2b44bf8e2ede2d2afed4b48ebcb86f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "mais",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lubango",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Lubango, Huíla, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Latin Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 106664,
+          "url": "https://radios.justweb.pt/8048/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 106663,
+          "url": "http://radios.justweb.pt:8048/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 9871350,
+      "name": "Rádio 8000",
+      "slug": "Radio_8000",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/8d/838d26081cae763f7e25a0d2a19eef0b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "8000",
+        "alsoKnownAs": "Rádio Zango 8000"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Icolo e Bengo",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Icolo e Bengo, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Culture Entertainment Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236606,
+          "url": "http://stream1.svrdedicado.org:8042/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236607,
+          "url": "http://stream1.svrdedicado.org:8042/R/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262924,
+          "url": "http://stream1.svrdedicado.org:8042/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 494185,
+      "name": "UNPOCO",
+      "slug": "UNPOCO",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "unpoco",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": ", Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220337,
+          "url": "http://stream.zeno.fm/wnxujvqfcoluv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220338,
+          "url": "https://stream.zeno.fm/wnxujvqfcoluv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 9596885,
+      "name": "Rádio Sucupira",
+      "slug": "Radio_Sucupira",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/1e/b31e27ac8fb892b9af6f6beb31054fbf.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sucupira",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sucupira",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Sucupira, Luanda, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236407,
+          "url": "http://stream2.svrdedicado.org:8048/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236408,
+          "url": "https://stream2.svrdedicado.org:8048/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 28372490,
+      "name": "Rádio Cuanza Sul",
+      "slug": "Radio_Cuanza_Sul",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/a6/e8a628b0deefe4992a132b42926f830b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.6",
+        "dialStripped": "976"
+      },
+      "aliases": {
+        "cleanName": "cuanza sul",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sumbe",
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "locationText": "Sumbe, Cuanza Sul, Angola",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255016,
+          "url": "http://paineldj6.com.br:8145/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255015,
+          "url": "http://paineldj6.com.br:8145/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

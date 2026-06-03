@@ -1,0 +1,819 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:44:32.739Z",
+  "endpoint": "/countries/Papua New Guinea/radios",
+  "countryCode": "pg",
+  "countryName": "Papua New Guinea",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 343305,
+      "name": "Nau FM",
+      "slug": "Nau_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/4c/154cb26eaa05585509f1cf1203131721.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "nau",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Moresby",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Port Moresby, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-9.4431400",
+          "longitude": "147.1797200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 2,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204912,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFMAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204908,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NAUFMAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 246893,
+          "url": "http://27163.live.streamtheworld.com:80/NAUFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204907,
+          "url": "http://17843.live.streamtheworld.com:80/NAUFMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204910,
+          "url": "http://19473.live.streamtheworld.com:80/NAUFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247937,
+          "url": "http://27163.live.streamtheworld.com:3690/NAUFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 238173,
+          "url": "http://29309.live.streamtheworld.com:80/NAUFMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204909,
+          "url": "http://27153.live.streamtheworld.com:80/NAUFMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204914,
+          "url": "https://14093.live.streamtheworld.com:443/NAUFM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204913,
+          "url": "https://19273.live.streamtheworld.com:443/NAUFMAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 204915,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 204911,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 346142,
+      "name": "Radio Maria Papua New Guinea",
+      "slug": "Radio_Maria_Papua_New_Guinea",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/f6/52f661d2e51d0bd628ca2d6abcbcc793.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "maria papua new",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Moresby",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Port Moresby, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-9.4431400",
+          "longitude": "147.1797200"
+        }
+      },
+      "genre": {
+        "text": "Christian Devotional Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 205304,
+          "url": "http://dreamsiteradiocp.com:8030/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 205303,
+          "url": "http://dreamsiteradiocp.com:8030/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 205302,
+          "url": "http://dreamsiteradiocp2.com:8112/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 260693,
+          "url": "http://dreamsiteradiocp.com:8030/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3801,
+      "name": "FM100 Papua New Guinea",
+      "slug": "Kalang_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/57/7f576b670b7ffce80ad2a960bf0b0b86.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.4",
+        "dialStripped": "1004"
+      },
+      "aliases": {
+        "cleanName": "papua new",
+        "alsoKnownAs": "Kalang FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Moresby",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Port Moresby, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-9.4431400",
+          "longitude": "147.1797200"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 8001,
+          "url": "https://online.fm100.com.pg/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8000,
+          "url": "http://online.fm100.com.pg:8151/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 246248,
+      "name": "Hot 97 FM",
+      "slug": "Hot_97.1_FM.pg",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/ea/bbeac32ea71ae57037434d76ad71725d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "hot 97",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Moresby",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Port Moresby, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-9.4431400",
+          "longitude": "147.1797200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185945,
+          "url": "http://online.fm100.com.pg:8151/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185946,
+          "url": "https://online.fm100.com.pg/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263000,
+          "url": "http://online.fm100.com.pg:8151/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 46868716,
+      "name": "Life FM Bougainville",
+      "slug": "Life_FM_Bougainville",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/8a/968aea009288665043bd4e6f15bd745e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "life bougainville",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Buka",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Buka, Bougainville, Papua New Guinea",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277498,
+          "url": "http://streams3.vision.org.au/bougainville.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277499,
+          "url": "https://streams3.vision.org.au/bougainville.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60720,
+      "name": "UCB Asia Pacific",
+      "slug": "UCB_Pacific",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/7b/ba7be9e00b7b68c82e3d055254a193aa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "ucb asia pacific",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - UCB Asia Pacific"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wewak",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Wewak, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-3.5496400",
+          "longitude": "143.6322900"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99392,
+          "url": "http://live2.rcast.net:8514/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99393,
+          "url": "https://stream2.rcast.net/67902/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99394,
+          "url": "https://stream1.rcast.net/67902/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60869,
+      "name": "Wantok Radio Light",
+      "slug": "Wantok_Radio_Light",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/47/0747a66c4ba0a2f86516e14f8ce51f57.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9 / 105.9",
+        "dialStripped": "939 / 1059"
+      },
+      "aliases": {
+        "cleanName": "wantok light",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Port Moresby",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Port Moresby, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-9.4431400",
+          "longitude": "147.1797200"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99758,
+          "url": "http://ca7.rcast.net:8060/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60687,
+      "name": "Laif FM",
+      "slug": "Laif_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/28/9b287bed8852cd97702e3c1d3fbf078c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "laif",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - Laif FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wewak",
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "locationText": "Wewak, Papua New Guinea",
+        "coordinates": {
+          "latitude": "-3.5496400",
+          "longitude": "143.6322900"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243833,
+          "url": "http://streams3.vision.org.au/png.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243835,
+          "url": "https://stream1.rcast.net/70182/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243834,
+          "url": "http://streams3.vision.org.au:443/png.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 164,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243837,
+          "url": "https://streams3.vision.org.au:443/png.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243836,
+          "url": "https://streams3.vision.org.au/png.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 243832,
+          "url": "http://live.rcast.net:9212/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99298,
+          "url": "http://stream.zeno.fm/mrvrbms4g2vuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

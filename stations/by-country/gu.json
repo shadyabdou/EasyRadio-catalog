@@ -1,0 +1,1016 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:36:32.383Z",
+  "endpoint": "/countries/Guam/radios",
+  "countryCode": "gu",
+  "countryName": "Guam",
+  "expectedCount": 11,
+  "count": 11,
+  "data": [
+    {
+      "id": 117589,
+      "name": "Boss 104.3 - KIJI",
+      "slug": "BOSS104",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/45/be4537cc4ce2e4d630778f675aee585d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "boss 104.3 kiji",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tumon",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Tumon, Guam",
+        "coordinates": {
+          "latitude": "13.4877300",
+          "longitude": "144.7813800"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154260,
+          "url": "https://ice10.securenetsystems.net:80/KIJI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 154258,
+          "url": "http://ice10.securenetsystems.net/KIJI",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 154261,
+          "url": "https://ice10.securenetsystems.net/KIJI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 27,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 154259,
+          "url": "http://ice10.securenetsystems.net:80/KIJI",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 119612,
+      "name": "Breeze 93.9 - KUAM-FM",
+      "slug": "KUAM_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/3f/443f943799477290a60fb1cc068b14b9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "breeze 93.9 kuam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hagåtña",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Hagåtña, Guam",
+        "coordinates": {
+          "latitude": "13.4756700",
+          "longitude": "144.7488600"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 3,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155101,
+          "url": "http://www.ophanim.net:8370/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155102,
+          "url": "https://www.ophanim.net:8444/s/8370/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 99719,
+      "name": "ThePoint - KUSG",
+      "slug": "KUSG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/68/f6/68f6fce9475dafdc377b69badab4a9e0.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1350",
+        "dialStripped": "1350"
+      },
+      "aliases": {
+        "cleanName": "thepoint kusg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Agana",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Agana, Guam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142806,
+          "url": "https://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142804,
+          "url": "http://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142803,
+          "url": "http://ice10.securenetsystems.net/KUSG",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142805,
+          "url": "https://ice10.securenetsystems.net/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 264165,
+      "name": "Isla 63-AM - KICH",
+      "slug": "KICH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/5f/ca5f14da5bd08440f666208b464bda5d.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "630",
+        "dialStripped": "630"
+      },
+      "aliases": {
+        "cleanName": "isla 63 kich",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hagåtña",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Hagåtña, Guam",
+        "coordinates": {
+          "latitude": "13.4756700",
+          "longitude": "144.7488600"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 4,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189368,
+          "url": "https://www.ophanim.net:8444/s/9010/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189367,
+          "url": "http://www.ophanim.net:9010/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 39246,
+      "name": "Star 101 FM - KNUT",
+      "slug": "KNUT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/91/91/91911b47b5f9dc5ca7b91d3ef21bc776.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "star 101 knut",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tamuning",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Tamuning, GU, Guam",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63741,
+          "url": "http://ice9.securenetsystems.net/KNUT",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63743,
+          "url": "http://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 1500,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63742,
+          "url": "http://ice9.securenetsystems.net:80/KNUT",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18153,
+      "name": "Power 98 Guam - KZGZ",
+      "slug": "Power_98_KZGZ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/0c/f10c4fb4fa5dd289f76eadbba21853e8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.5",
+        "dialStripped": "975"
+      },
+      "aliases": {
+        "cleanName": "power 98 kzgz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hagåtña",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Hagåtña, Guam",
+        "coordinates": {
+          "latitude": "13.4756700",
+          "longitude": "144.7488600"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Pop Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23450,
+          "url": "https://ice3.securenetsystems.net:80/KZGZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23448,
+          "url": "http://ice3.securenetsystems.net:80/KZGZ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 71,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23449,
+          "url": "https://ice3.securenetsystems.net/KZGZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 286938,
+      "name": "Wave 105 FM - KGUM-FM",
+      "slug": "The_Kat_KGUM_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/ee/a7ee521afa15fba025eb9d6333fe12aa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.1",
+        "dialStripped": "1051"
+      },
+      "aliases": {
+        "cleanName": "wave 105 kgum",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dededo",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Dededo, Guam",
+        "coordinates": {
+          "latitude": "13.5177700",
+          "longitude": "144.8391000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Entertainment Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 194598,
+          "url": "http://ice3.securenetsystems.net:80/KGUMFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 194597,
+          "url": "http://ice3.securenetsystems.net/KGUMFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 194599,
+          "url": "https://ice3.securenetsystems.net/KGUMFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 194600,
+          "url": "https://ice3.securenetsystems.net:80/KGUMFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17698,
+      "name": "KPRG-FM 89.3 - KPRG",
+      "slug": "KPRG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2b/5f/2b5fe33b827bd831de5d81efc8028525.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "kprg 89.3 kprg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hagåtña",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Hagåtña, Guam",
+        "coordinates": {
+          "latitude": "13.4756700",
+          "longitude": "144.7488600"
+        }
+      },
+      "genre": {
+        "text": "Classical Culture Education Entertainment Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 22174,
+          "url": "http://peridot.streamguys.com:5090/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 92,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 99804,
+      "name": "ThePoint - K227CT",
+      "slug": "ThePoint_K227CT",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/b6/cdb6fd3318ab9751440f2e502a540cd1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "thepoint k227ct",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Agat",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Agat, Guam",
+        "coordinates": {
+          "latitude": "13.4894567",
+          "longitude": "144.8014600"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 142894,
+          "url": "http://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142893,
+          "url": "http://ice10.securenetsystems.net/KUSG",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142895,
+          "url": "https://ice10.securenetsystems.net/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 142896,
+          "url": "https://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 236762,
+      "name": "ThePoint - KIJI-HD3",
+      "slug": "ThePoint_KIJI_HD3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/cd/c6cddf1a634fee195e354f28e15da8cf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "thepoint kiji hd3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tumon",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Tumon, Guam",
+        "coordinates": {
+          "latitude": "13.4877300",
+          "longitude": "144.7813800"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 184547,
+          "url": "https://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184545,
+          "url": "http://ice10.securenetsystems.net/KUSG",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184546,
+          "url": "https://ice10.securenetsystems.net/KUSG",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 184544,
+          "url": "http://ice10.securenetsystems.net:80/KUSG",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60981,
+      "name": "Harvest Family Radio - KHMG",
+      "slug": "KHMG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/de/b0de99084df2986e3d7aab28bb0d7e53.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1",
+        "dialStripped": "881"
+      },
+      "aliases": {
+        "cleanName": "harvest family khmg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Barrigada",
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "locationText": "Barrigada, Guam",
+        "coordinates": {
+          "latitude": "13.4894567",
+          "longitude": "144.8014600"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 100033,
+          "url": "http://streaming.live365.com/a11295",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100034,
+          "url": "http://das-edge13-live365-dal02.cdnstream.com/a11295",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100036,
+          "url": "https://das-edge13-live365-dal02.cdnstream.com/a11295",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 100035,
+          "url": "https://streaming.live365.com/a11295",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

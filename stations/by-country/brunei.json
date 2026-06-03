@@ -1,0 +1,597 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:34:36.043Z",
+  "endpoint": "/countries/Brunei/radios",
+  "countryCode": "brunei",
+  "countryName": "Brunei",
+  "expectedCount": 8,
+  "count": 8,
+  "data": [
+    {
+      "id": 173899,
+      "name": "RTB - Nur Islam FM",
+      "slug": "RTB_Nur_Islam_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/b8/f6b8ac9189237e8d1f2172bfadb28a1c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3 / 94.9",
+        "dialStripped": "933 / 949"
+      },
+      "aliases": {
+        "cleanName": "rtb nur islam",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Islamic Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249605,
+          "url": "http://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 170589,
+          "url": "https://rtb-radio.glue.live/rd004/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 170588,
+          "url": "https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ms",
+          "name": "Malay"
+        }
+      ]
+    },
+    {
+      "id": 54999,
+      "name": "RTB - Harmoni FM",
+      "slug": "RTB_Harmoni_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/b9/d3b980f6af122283f719a5e5b20adff0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.1 / 97.7",
+        "dialStripped": "941 / 977"
+      },
+      "aliases": {
+        "cleanName": "rtb harmoni",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "50s 60s Children & Family Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "ms",
+          "name": "Malay"
+        }
+      ]
+    },
+    {
+      "id": 294598,
+      "name": "KRISTALfm",
+      "slug": "KRISTALfm_KFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/52/7052cae0efd1e358a6da95e65e9b40a8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7 / 98.7",
+        "dialStripped": "907 / 987"
+      },
+      "aliases": {
+        "cleanName": "kristalfm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 197187,
+          "url": "https://play.thestreamtech.com:7038/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 197186,
+          "url": "http://play.thestreamtech.com:7038/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ms",
+          "name": "Malay"
+        }
+      ]
+    },
+    {
+      "id": 343599,
+      "name": "RTB - Nasional FM",
+      "slug": "RTB_Nasional_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/5d/695debb3a9b7dc52a6851a83fa279633.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.3 / 93.8",
+        "dialStripped": "923 / 938"
+      },
+      "aliases": {
+        "cleanName": "rtb nasional",
+        "alsoKnownAs": "Radio Televisyen Brunei (RTB) - Nasional FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 204952,
+          "url": "https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ms",
+          "name": "Malay"
+        }
+      ]
+    },
+    {
+      "id": 392985,
+      "name": "RTB - Pilihan FM",
+      "slug": "RTB_Pilihan_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/8c/2a8c273dc1b7e9a8ecd9c9f98e950b2e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9 / 96.9",
+        "dialStripped": "959 / 969"
+      },
+      "aliases": {
+        "cleanName": "rtb pilihan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Oldies World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 386369,
+      "name": "RTB - Pelangi FM",
+      "slug": "RTB_Pelangi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/97/2f973299231bdee50182cb33cc070888.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.0 / 91.4",
+        "dialStripped": "910 / 914"
+      },
+      "aliases": {
+        "cleanName": "rtb pelangi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bandar Seri Begawan",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Bandar Seri Begawan, Brunei",
+        "coordinates": {
+          "latitude": "4.9402900",
+          "longitude": "114.9480600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Pop Rock World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 253600,
+          "url": "http://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 123879,
+      "name": "LocalizedFM",
+      "slug": "ByKiwiRadio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/55/e655518d5b50b75cceb9bb7b13c9c0c5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "localizedfm",
+        "alsoKnownAs": "ByKiwiRadio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Brunei",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Brunei, Brunei Darussalam, Brunei",
+        "coordinates": {
+          "latitude": "4.7325675",
+          "longitude": "114.5385050"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156829,
+          "url": "https://radio.bykiwicorp.com/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 326,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245929,
+          "url": "https://radio.localized.asia/stream",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 216,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245928,
+          "url": "http://radio.localized.asia/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 217,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 112242,
+      "name": "BFBS Radio Brunei",
+      "slug": "BFBS_Radio_Brunei",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/93/0a93d7eac8e89b6adc2f88b92142ad74.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "bfbs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seria",
+        "countryName": "Brunei",
+        "countryCode": null,
+        "locationText": "Seria, Brunei",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Military News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151769,
+          "url": "http://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 151770,
+          "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

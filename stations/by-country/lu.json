@@ -1,0 +1,3516 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:37:35.957Z",
+  "endpoint": "/countries/Luxembourg/radios",
+  "countryCode": "lu",
+  "countryName": "Luxembourg",
+  "expectedCount": 43,
+  "count": 43,
+  "data": [
+    {
+      "id": 57238,
+      "name": "L'essentiel Radio",
+      "slug": "Lessentiel_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/0c/370cfbc7ef87cf2210cc8768b3aebe1f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.7",
+        "dialStripped": "1077"
+      },
+      "aliases": {
+        "cleanName": "l essentiel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Differdange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Differdange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 19,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94541,
+          "url": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94542,
+          "url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 32814,
+      "name": "Radio Latina",
+      "slug": "Radio_Latina_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/8a/b98a448a6d38148d4cdc8c2b69d5275e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.2",
+        "dialStripped": "1012"
+      },
+      "aliases": {
+        "cleanName": "latina",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop Salsa Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 53580,
+          "url": "http://str0.creacast.com:80/radio-latina-lu-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53581,
+          "url": "https://ice.creacast.com/radio-latina-lu-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53579,
+          "url": "http://ice.creacast.com/radio-latina-lu-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240378,
+          "url": "http://n12.rcs.revma.com/8b6yqgx1w68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240379,
+          "url": "https://n12.rcs.revma.com/8b6yqgx1w68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 151976,
+      "name": "RTL Deutschlands Hit-Radio",
+      "slug": "RTL_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/6c/ba6c93afb506a5212df3d6fa6f27a86d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "rtl deutschlands hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 11,
+          "fr": 3,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165188,
+          "url": "https://stream.rtlradio.de/rtl-de-national/mp3-128/konsole/",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 165187,
+          "url": "http://stream.rtlradio.de/rtl-de-national/mp3-128/konsole/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 173042,
+      "name": "Eldoradio",
+      "slug": "Eldoradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/47/2e47b633c460646444e054ff0aaba747.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.0 / 95.0",
+        "dialStripped": "1050 / 950"
+      },
+      "aliases": {
+        "cleanName": "eldoradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 170339,
+          "url": "http://sc.bce.lu/eldo",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 170340,
+          "url": "http://sc.bce.lu:80/eldo",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 165768,
+      "name": "RTL Radio 93.3 und 97.0",
+      "slug": "RTL_Radio_93.3_und_97.0",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/3d/373db696a3bf6677285cd6d7c70de04b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "rtl 93.3 und 97.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dudelange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Dudelange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4805600",
+          "longitude": "6.0875000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 2,
+          "fr": 2,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 167943,
+          "url": "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 167941,
+          "url": "http://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 165856,
+      "name": "RTL Luxembourg",
+      "slug": "RTL_Luxembourg",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/18/87/18875e13675fc97838886d0881f4b902.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "rtl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dudelange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Dudelange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4805600",
+          "longitude": "6.0875000"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 167969,
+          "url": "http://sc.rtl.lu:80/rtllx",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 321998,
+      "name": "Radio 100.7",
+      "slug": "Radio_100.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/00/cc/00cc37da71a361484cd070f56272bc1d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.7",
+        "dialStripped": "1007"
+      },
+      "aliases": {
+        "cleanName": "100.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202167,
+          "url": "https://listen.100komma7.lu/100komma7-100komma7/mp3-320?ref=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202168,
+          "url": "https://listen.100komma7.lu/100komma7-100komma7/mp3-128?ref=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 111833,
+      "name": "RTL - Die besten Hits",
+      "slug": "RTL_Die_besten_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/98/299812831887383eacdc36ebda7692a6.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtl die besten hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 151414,
+          "url": "http://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-128-7346216",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151415,
+          "url": "https://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-128-7346216",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 53879,
+      "name": "Free Radio Luxembourg (FRL)",
+      "slug": "RFM_Luxembourg",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/05/6205887e1e2d4955838c2f40f19f8923.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "free frl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87599,
+          "url": "http://www.radioking.com/play/rfm-luxembourg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87601,
+          "url": "https://www.radioking.com/play/rfm-luxembourg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87600,
+          "url": "http://listen.radioking.com/radio/66160/stream/137599",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87602,
+          "url": "https://listen.radioking.com/radio/66160/stream/137599",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 243641,
+      "name": "RTL Deutschlands Hit-Radio",
+      "slug": "RTL_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a9/1a/a91a01d52dbdbb7ba5d4e3cc2f0b1e35.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.0",
+        "dialStripped": "970"
+      },
+      "aliases": {
+        "cleanName": "rtl deutschlands hit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Oldies Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185588,
+          "url": "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185587,
+          "url": "http://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 226771,
+      "name": "RTL Radio - RTL Gold\t",
+      "slug": "RTL_Radio_RTL_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/01/5f01519e8dbe8af9446a879c97550a8a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtl rtl gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182415,
+          "url": "https://shoutcast.rtl.lu/rtlgold/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182413,
+          "url": "http://shoutcast.rtl.lu/rtlgold",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182414,
+          "url": "http://sc.rtl.lu:80/rtlgold",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 31292,
+      "name": "Panachee",
+      "slug": "Panachee",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/75/7b75a014fcfc28e919105202e84f67b2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "panachee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Clervaux",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Clervaux, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Ambient Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50490,
+          "url": "http://stream.laut.fm/panachee",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50491,
+          "url": "https://stream.laut.fm/panachee",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "RetroSonic Pop",
+      "slug": "RetroSonic_Pop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/e1/3be1dd98d07011ce4c938c249ae6e4ba.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic pop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Funk Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1324,
+          "url": "https://retrosonic.online:8040/pop.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 1323,
+          "url": "http://retrosonic.online:8040/pop.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 232077,
+      "name": "Radio Gutt Laun",
+      "slug": "Radio_Gutt_Laun",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/56/4656e5893b09815e9c9caab5952eca46.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "gutt laun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Esch-sur-Alzette",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Esch-sur-Alzette, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4958300",
+          "longitude": "5.9805600"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 269915,
+          "url": "http://213.135.228.157:8000/mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183449,
+          "url": "https://streams.radio.co/sa631ff66a/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183447,
+          "url": "http://213.135.228.157:8000/mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183448,
+          "url": "http://streams.radio.co/sa631ff66a/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 19119,
+      "name": "Country Radio",
+      "slug": "Country_Radio_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/54/9054366b61cbee4af623159a278d035b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "country",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gilsdorf",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Gilsdorf, Bettendorf, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Country",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 26190,
+          "url": "http://streaming.aoip.international:8000/cr-gilsdorf",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 191,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 50678,
+      "name": "RetroSonic True Oldies",
+      "slug": "RetroSonic_True_Oldies",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/f8/81f8d88da71ffe4ef11c12263b64f462.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic true oldies",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81973,
+          "url": "http://secondary.retrosonic.online:8000/oldies320.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81975,
+          "url": "https://secondary.retrosonic.online:8000/oldies320.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81974,
+          "url": "https://secondary.retrosonic.online:8000/oldies.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81972,
+          "url": "http://secondary.retrosonic.online:8000/oldies.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18525,
+      "name": "Helix Radio",
+      "slug": "Helix_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/a2/d3a23d810b390c7f1404ff8492521946.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "helix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Munsbach",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Munsbach, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Reggae Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 24377,
+          "url": "http://51.255.235.165:5164/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 67061,
+      "name": "RetroSonic Studio D",
+      "slug": "RetroSonic_Studio_D",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/61/4261f0d2f0c46f98dedc745b6d39017b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic studio d",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Dance Europe Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107891,
+          "url": "http://retrosonic.online:8060/studiod.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 7938894,
+      "name": "RetroSonic Mix",
+      "slug": "Retro_Sonic_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/2a/e32a5ac85411badda7c3750e15f52334.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 235452,
+          "url": "http://retrosonic.online:8020/mix.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 235453,
+          "url": "https://retrosonic.online:8020/mix.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 235454,
+          "url": "https://retrosonic.online:8020/mix.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235451,
+          "url": "http://retrosonic.online:8020/mix.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 322624,
+      "name": "Radio Diddeleng FM 103.6",
+      "slug": "Radio_Diddeleng",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/b3/7eb33af795bb91e9adaea68f9e3bde6e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.6",
+        "dialStripped": "1036"
+      },
+      "aliases": {
+        "cleanName": "diddeleng 103.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dudelange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Dudelange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4805600",
+          "longitude": "6.0875000"
+        }
+      },
+      "genre": {
+        "text": "Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202337,
+          "url": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202336,
+          "url": "http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 46518,
+      "name": "Eldoradio - 80s",
+      "slug": "EldoRadio_80s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/58/a2/58a26c6e703475f43eaf649e631f45fb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "eldoradio 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Alternative Chillout Lounge Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74324,
+          "url": "http://sc.bce.lu:80/eldo80s",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 322791,
+      "name": "Larochete Christmas Radio",
+      "slug": "Larochete_Christmas_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/79/28797dd6f7563b3b565914a05551f4b5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "larochete christmas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": ", Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christmas",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202405,
+          "url": "http://stream.zeno.fm/uhdqcq2c1d0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 202406,
+          "url": "https://stream.zeno.fm/uhdqcq2c1d0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 105592,
+      "name": "Radio ARA",
+      "slug": "Radio_Ara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/c3/abc3174ff6612f5d02c328d639d9f078.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "ara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Manertchen",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Manertchen, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146818,
+          "url": "http://s1.voscast.com:11187/RadioARA.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 146817,
+          "url": "http://s1.voscast.com:11186/RadioARA.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 30022,
+      "name": "Generation Dance",
+      "slug": "Generation_Dance",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/73/21734919d359b4fc2319d852fac100b8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "generation dance",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Esch-sur-Alzette",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Esch-sur-Alzette, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4958300",
+          "longitude": "5.9805600"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic House Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48210,
+          "url": "https://generationdance.lu/radio/8030/mobile",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 48206,
+          "url": "http://generationdance.lu:8030/hd",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48209,
+          "url": "https://generationdance.lu/radio/8030/hd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48208,
+          "url": "http://generationdance.lu/radio/8030/hd",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 235071,
+      "name": "Ni Haody",
+      "slug": "ni_haody",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/ee/24ee8417cedb443a3fe952550384e5fb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ni haody",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": ", Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Asian Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 184039,
+          "url": "http://stream.laut.fm/ni_haody",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 184038,
+          "url": "http://nihaody.stream.laut.fm/ni_haody",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 184040,
+          "url": "https://nihaody.stream.laut.fm/ni_haody",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 37477,
+      "name": "RetroSonic Alternative",
+      "slug": "RetroSonic_Alternative",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/61/7e6185cdb8d79c1e0d0801c600f377c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic alternative",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Alternative Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 60807,
+          "url": "http://retrosonic.online/listen/retrosonicalternative/alternative.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60808,
+          "url": "https://retrosonic.online:8030/alternative.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 54296092,
+      "name": "Radio Radijacija",
+      "slug": "Radio_Radijacija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/22/022287dca0e2e9a1a1069e9d934ee187.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radijacija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Differdange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Differdange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280426,
+          "url": "http://a12.asurahosting.com:8310/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280427,
+          "url": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 280425,
+          "url": "http://a12.asurahosting.com:8310/radio.mp3?&_ic2=1",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 22557,
+      "name": "FCE Continuo",
+      "slug": "FCE_Continuo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/bf/ccbf65bda8e86687985862da72927a65.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "fce continuo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Blues Classical Instrumental",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34120,
+          "url": "http://listen.radioking.com/radio/551009/stream/610262",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34121,
+          "url": "https://listen.radioking.com/radio/551009/stream/610262",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 139829,
+      "name": "Crazy Poisons Radio",
+      "slug": "Crazy_Poisons_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/34/d334b8caf88b3356dab9871655bd574d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "crazy poisons",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Differdange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Differdange, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 162558,
+          "url": "http://server4.streamserver24.com:26607/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 56627201,
+      "name": "Radio C",
+      "slug": "Radio_C_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/65/b265a07322d0ead65cd13a6d6d54e6cb.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "c",
+        "alsoKnownAs": "Radio C Luxembourg"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Alternative Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280862,
+          "url": "http://frontend.streamonkey.net/radioc-live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 280863,
+          "url": "https://frontend.streamonkey.net/radioc-live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 100462,
+      "name": "Peiteng on Air",
+      "slug": "Peiteng_on_Air",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e8/29/e82982feb2ff303eefb41611cf406d28.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "peiteng on air",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pétange",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Pétange, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lite Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143243,
+          "url": "http://stream.petangeonair.lu:9000/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 320292,
+      "name": "Radio LRB",
+      "slug": "Radio_LRB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/eb/1e/eb1e2ac989756155349db49761f932e0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.9",
+        "dialStripped": "1039"
+      },
+      "aliases": {
+        "cleanName": "lrb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bettembourg",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Bettembourg, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201901,
+          "url": "http://zeus.lrb.lu:8000/lrb.live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201902,
+          "url": "http://www.lrb.eu:8000/lrb.live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 40169,
+      "name": "RetroSonic Grooves",
+      "slug": "RetroSonic_Grooves",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/61/7e6185cdb8d79c1e0d0801c600f377c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic grooves",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "70s Afrobeats Funk Jazz Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255182,
+          "url": "https://retrosonic.online:8010/grooves.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 64652,
+          "url": "http://retrosonic.online:8010/grooves.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 64651,
+          "url": "http://retrosonic.online:8010/grooves.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 322425,
+      "name": "RTL Radio - RTL Today",
+      "slug": "RTL_Radio_RTL_Today",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/03/32033f70dcb0acd778bb11f4eba03c61.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rtl rtl today",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202258,
+          "url": "http://sc.rtl.lu:80/rtltoday",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 270706,
+          "url": "http://sc.rtl.lu:80/rtltoday/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 322719,
+      "name": "RetroSonic Variety",
+      "slug": "RetroSonic_Variety",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/48/32487380fededa924fda1a84831bdf53.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic variety",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202376,
+          "url": "http://retrosonic.online:8070/variety.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ffvorbis",
+          "bitrate": 128,
+          "contentType": "application/ogg",
+          "works": true
+        },
+        {
+          "id": 202377,
+          "url": "http://retrosonic.online:8070/variety.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51486,
+      "name": "RetroSonic Rare 80s",
+      "slug": "RetroSonic_Rare_80s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/c8/b0c8fcc0d07fd6dbb54fd7b7b5f610d8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic rare 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "80s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83488,
+          "url": "https://retrosonic.online:8090/rare80s.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 83487,
+          "url": "http://retrosonic.online:8090/rare80s.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 59622,
+      "name": "RetroSonic Rock",
+      "slug": "RetroSonic_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/9e/b49e50a034b61fae1f6a3b7f393b8022.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 97678,
+          "url": "http://retrosonic.online:8050/rock.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 97679,
+          "url": "https://retrosonic.online:8050/rock.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 101167,
+      "name": "Radio Aktiv 106,5 FM",
+      "slug": "Radio_Aktiv_1065_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/fd/ccfdc0aa4b886fcb6db2bfd5a80cbd52.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "aktiv 106 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Echternach",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Echternach, Luxembourg",
+        "coordinates": {
+          "latitude": "49.5293533",
+          "longitude": "6.0660200"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Europe Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143781,
+          "url": "http://stream.lrb.lu:8000/radioaktiv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "de",
+          "name": "German"
+        }
+      ]
+    },
+    {
+      "id": 22850,
+      "name": "Bulldogs-Radio",
+      "slug": "Bulldogs_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/2e/992e662c5d6c0641bb80ea65423e188f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bulldogs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "80s Blues Reggae Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 34756,
+          "url": "http://bulldogsradio.radioca.st:8005/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34757,
+          "url": "http://streaming.live365.com/a03413?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 267383,
+          "url": "http://bulldogsradio.radioca.st:8005/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 34758,
+          "url": "https://streaming.live365.com/a03413?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 105424,
+      "name": "Radio ARA",
+      "slug": "DNR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f8/74/f874d459035234b367f68407f66ddc12.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "ara",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146652,
+          "url": "http://s1.voscast.com:11187/RadioARA.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 146651,
+          "url": "http://s1.voscast.com:11186/RadioARA.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "name": "RetroSonic World Pop",
+      "slug": "RetroSonic_World_Pop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bc/18/bc181604a44947054695f219bf22f507.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic world pop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1322,
+          "url": "https://third.retrosonic.online:8010/world.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 1321,
+          "url": "http://third.retrosonic.online:8010/world.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 17186,
+      "name": "Groovetime",
+      "slug": "Groovetime",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/1c/c71c8549a7fa76d32459166bab1dd3c9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "groovetime",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Esch-sur-Alzette",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Esch-sur-Alzette, Luxembourg",
+        "coordinates": {
+          "latitude": "49.4958300",
+          "longitude": "5.9805600"
+        }
+      },
+      "genre": {
+        "text": "Classical",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20680,
+          "url": "http://icecast.kotdt.com:8000/groovetime",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 256,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 20681,
+          "url": "https://icecast.kotdt.com/groovetime",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 256,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    },
+    {
+      "id": 51634,
+      "name": "RetroSonic 100% Pure 80s",
+      "slug": "RetroSonic_100_Pure_80s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/9c/819c45098d514deb528ab09d5c0e8050.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "retrosonic 100 pure 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Luxembourg City",
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "locationText": "Luxembourg City, Luxembourg",
+        "coordinates": {
+          "latitude": "49.6116700",
+          "longitude": "6.1300000"
+        }
+      },
+      "genre": {
+        "text": "80s Dance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83714,
+          "url": "http://retrosonic.online:8000/hits.ogg",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 83715,
+          "url": "http://retrosonic.online:8000/hits.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255135,
+          "url": "https://retrosonic.online:8000/hits.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255136,
+          "url": "https://retrosonic.online:8000/hits.ogg",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fr",
+          "name": "French"
+        }
+      ]
+    }
+  ]
+}

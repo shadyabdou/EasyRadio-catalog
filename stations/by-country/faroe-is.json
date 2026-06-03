@@ -1,0 +1,481 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:39.351Z",
+  "endpoint": "/countries/Faroe Islands, Denmark/radios",
+  "countryCode": "faroe-is",
+  "countryName": "Faroe Islands, Denmark",
+  "expectedCount": 6,
+  "count": 6,
+  "data": [
+    {
+      "id": 188010,
+      "name": "Kringvarp Føroya",
+      "slug": "Kringvarp_Foroya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/fd/41fd0c2e4453ca67441210fd233dfc25.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kringvarp foroya",
+        "alsoKnownAs": "Kringvarp Foroya"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tórshavn",
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": "Tórshavn, Faroe Islands, Denmark",
+        "coordinates": {
+          "latitude": "62.0097300",
+          "longitude": "-6.7716400"
+        }
+      },
+      "genre": {
+        "text": "Europe Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174155,
+          "url": "http://w-live-edge1.kringvarp.fo:1935/radio/_definst_/radio.stream/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 174156,
+          "url": "https://play.kringvarp.fo/redirect/radio/_definst_/radio.stream?type=m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 522882,
+      "name": "VoxPop Radio",
+      "slug": "VoxPop_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/59/fb590c3c6ce7cded4a0d9611200bc12d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.1",
+        "dialStripped": "1041"
+      },
+      "aliases": {
+        "cleanName": "voxpop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tórshavn",
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": "Tórshavn, Faroe Islands, Denmark",
+        "coordinates": {
+          "latitude": "62.0097300",
+          "longitude": "-6.7716400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 222551,
+          "url": "http://stream.midlar.fo/voxpop",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 222554,
+          "url": "http://stream2.midlar.fo:8000/voxpop",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 265848,
+      "name": "FM 1",
+      "slug": "FM_1_Faroe_Islands",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c8/57/c857128d61159c9bceed47a51c297c16.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tórshavn",
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": "Tórshavn, Faroe Islands, Denmark",
+        "coordinates": {
+          "latitude": "62.0097300",
+          "longitude": "-6.7716400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189751,
+          "url": "http://stream.midlar.fo/ras2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189752,
+          "url": "http://stream2.midlar.fo:8000/ras2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 50264,
+      "name": "1goundamani",
+      "slug": "1goundamani",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/75/cc/75cc32c9f4ca57f19d0f04528cf4706a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "1goundamani",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": ", Faroe Islands, Denmark",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 81064,
+          "url": "https://stream.zeno.fm/h72yud2e838uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 81063,
+          "url": "http://stream.zeno.fm/h72yud2e838uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 205414,
+      "name": "Radio.fo",
+      "slug": "Radio.fo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/8e/0c8ee53b48558cc9bee6f1286ad4c87a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.0",
+        "dialStripped": "1020"
+      },
+      "aliases": {
+        "cleanName": "fo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tórshavn",
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": "Tórshavn, Faroe Islands, Denmark",
+        "coordinates": {
+          "latitude": "62.0097300",
+          "longitude": "-6.7716400"
+        }
+      },
+      "genre": {
+        "text": "Christian Hits Lite Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 178570,
+          "url": "https://streaming.radio.co/s4d14b9fcc/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178567,
+          "url": "http://streaming.radio.co/s4d14b9fcc/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178568,
+          "url": "http://streaming.radio.co/s4d14b9fcc/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178569,
+          "url": "https://streaming.radio.co/s4d14b9fcc/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "da",
+          "name": "Danish"
+        }
+      ]
+    },
+    {
+      "id": 16950131,
+      "name": "Lindin Radio",
+      "slug": "Lindin_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/1d/371d5c068bcae8a2296e327046903d44.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lindin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Argir",
+        "countryName": "Faroe Islands, Denmark",
+        "countryCode": null,
+        "locationText": "Argir, Faroe Islands, Denmark",
+        "coordinates": null
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 241462,
+          "url": "http://lindinhigh.stream.fo:8000/lindinlow",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 241461,
+          "url": "http://lindinhigh.stream.fo:8000/lindinhigh",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

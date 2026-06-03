@@ -1,0 +1,79 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:49:30.214Z",
+  "endpoint": "/countries/Western Sahara/radios",
+  "countryCode": "eh",
+  "countryName": "Western Sahara",
+  "expectedCount": 1,
+  "count": 1,
+  "data": [
+    {
+      "id": 72991,
+      "name": "SNRT Radio Dakhla",
+      "slug": "SNRT_Radio_Dakhla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/97/1e972898060fba8dfd7676a45931cda5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "snrt dakhla",
+        "alsoKnownAs": "SNRT Radio Régionale Dakhla"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dakhla",
+        "countryName": "Western Sahara",
+        "countryCode": "EH",
+        "locationText": "Dakhla, Western Sahara",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Arabic News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 115382,
+          "url": "https://cdn.live.easybroadcast.io/live/radio_dakhla/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ar",
+          "name": "Arabic"
+        }
+      ]
+    }
+  ]
+}

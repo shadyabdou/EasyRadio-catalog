@@ -1,0 +1,196 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:35:12.899Z",
+  "endpoint": "/countries/Cook Islands/radios",
+  "countryCode": "ck",
+  "countryName": "Cook Islands",
+  "expectedCount": 2,
+  "count": 2,
+  "data": [
+    {
+      "id": 27912265,
+      "name": "Matariki FM",
+      "slug": "Matariki_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c9/c4/c9c4d71b54c4389fdbcc59478002f9f7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "matariki",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Avarua",
+        "countryName": "Cook Islands",
+        "countryCode": "CK",
+        "locationText": "Avarua, Cook Islands",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 252910,
+          "url": "http://matarikifm.streamguys1.com:80/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 97,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252913,
+          "url": "https://matarikifm.streamguys1.com:80/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 92,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252911,
+          "url": "http://matarikifm.streamguys1.com/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 93,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252912,
+          "url": "https://matarikifm.streamguys1.com/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 94,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 60693,
+      "name": "Life FM Cook Islands",
+      "slug": "Life_FM_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/63/b76346a5c47b88f4c1ddf5e2533f11c6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "life cook islands",
+        "alsoKnownAs": "United Christian Broadcasters (UCB) - Life FM Cook Islands"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Avarua",
+        "countryName": "Cook Islands",
+        "countryCode": "CK",
+        "locationText": "Avarua, Cook Islands",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99314,
+          "url": "http://streams3.vision.org.au:443/cookislands.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 113,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99316,
+          "url": "https://streams3.vision.org.au/cookislands.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99315,
+          "url": "http://streams3.vision.org.au/cookislands.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 99317,
+          "url": "https://streams3.vision.org.au:443/cookislands.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-01T22:38:58.517Z",
+  "endpoint": "/countries/Tonga/radios",
+  "countryCode": "to",
+  "countryName": "Tonga",
+  "expectedCount": 3,
+  "count": 3,
+  "data": [
+    {
+      "id": 60750,
+      "name": "Radio Broadcom FM87.5",
+      "slug": "Radio_Broadcom_FM87.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4a/41/4a4128820b25e94152545410626675cf.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "87.5",
+        "dialStripped": "875"
+      },
+      "aliases": {
+        "cleanName": "broadcom 87.5",
+        "alsoKnownAs": "Letio Tonga Broadcom 87.5 FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nuku'alofa",
+        "countryName": "Tonga",
+        "countryCode": "TO",
+        "locationText": "Nuku'alofa, Tonga",
+        "coordinates": {
+          "latitude": "-21.1393800",
+          "longitude": "-175.2018000"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 14,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99454,
+          "url": "http://stream.zeno.fm/ame0ehzmb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99455,
+          "url": "http://stream.zeno.fm/y4xnq17q068uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99457,
+          "url": "https://stream.zeno.fm/ame0ehzmb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99456,
+          "url": "https://stream.zeno.fm/y4xnq17q068uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 102162,
+      "name": "Radio Nuku'alofa 88.6FM",
+      "slug": "Radio_Nukualofa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/01/7f01a2265d757ca833c1598387bf6976.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.6",
+        "dialStripped": "886"
+      },
+      "aliases": {
+        "cleanName": "nuku alofa 88.6",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nuku'alofa",
+        "countryName": "Tonga",
+        "countryCode": "TO",
+        "locationText": "Nuku'alofa, Tonga",
+        "coordinates": {
+          "latitude": "-21.1393800",
+          "longitude": "-175.2018000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144162,
+          "url": "http://dgle4.goloudnow.com/DGTOFM88",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246905,
+          "url": "https://dgle4.goloudnow.com/DGTOFM88",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 284953,
+      "name": "Kele'a Voice",
+      "slug": "Kelea_Voice",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/13/0a132c19538c3f39ee30dbdddc9f30a1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5",
+        "dialStripped": "915"
+      },
+      "aliases": {
+        "cleanName": "kele a voice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nuku'alofa",
+        "countryName": "Tonga",
+        "countryCode": "TO",
+        "locationText": "Nuku'alofa, Tonga",
+        "coordinates": {
+          "latitude": "-21.1393800",
+          "longitude": "-175.2018000"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 193631,
+          "url": "https://stream.zeno.fm/uvqwdjxnquvuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 193630,
+          "url": "http://stream.zeno.fm/uvqwdjxnquvuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    }
+  ]
+}
