@@ -1,0 +1,5112 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-03T21:06:32.441Z",
+  "endpoint": "/states/rhode-island/radios (from catalog)",
+  "stateId": "rhode-island",
+  "stateName": "Rhode Island",
+  "countryCode": "us",
+  "count": 59,
+  "builtFrom": "stations/by-country/us.json",
+  "data": [
+    {
+      "id": 33212,
+      "name": "Poder 1110 - WPMZ",
+      "slug": "Poder_1110_WPMZ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/f0/20f06040ee7fd2aa8c128efb6085f35d.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1110",
+        "dialStripped": "1110"
+      },
+      "aliases": {
+        "cleanName": "poder 1110 wpmz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "East Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "East Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8137100",
+          "longitude": "-71.3700500"
+        }
+      },
+      "genre": {
+        "text": "Latin",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 89,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54413,
+          "url": "https://ice6.securenetsystems.net/WPMZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 40,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 54411,
+          "url": "http://ice6.securenetsystems.net/WPMZ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 54414,
+          "url": "https://ice6.securenetsystems.net:80/WPMZ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 54412,
+          "url": "http://ice6.securenetsystems.net:80/WPMZ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 264966,
+      "name": "Radio Renacer - WIGV-LP",
+      "slug": "WIGV_LP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/33/9f331ab7c0113c927a7fbb7ecab17e2a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "renacer wigv lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189541,
+          "url": "http://198.7.59.28:8072/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 265001,
+      "name": "La Mega 94.9 FM - WSTL",
+      "slug": "WSTL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/d6/a0d6d4e40336f2e56f9ed1b9c428ec2a.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1220",
+        "dialStripped": "1220"
+      },
+      "aliases": {
+        "cleanName": "la mega 94.9 wstl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Latin Lite Pop Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 189547,
+          "url": "https://cast6.my-control-panel.com/proxy/lamegafm/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189548,
+          "url": "https://cast6.asurahosting.com/proxy/lamegafm/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189544,
+          "url": "http://cast6.asurahosting.com:7141/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189545,
+          "url": "http://65.108.198.245:7141/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189546,
+          "url": "http://cast6.asurahosting.com/proxy/lamegafm/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 32851,
+      "name": "Latina 100.3 - WKKB",
+      "slug": "Latina_1003_WKKB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/68/a768d97f55f1efb2ecef2245b8a291ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.3",
+        "dialStripped": "1003"
+      },
+      "aliases": {
+        "cleanName": "latina 100.3 wkkb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Middletown",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Middletown, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.5456600",
+          "longitude": "-71.2914400"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 53642,
+          "url": "http://crystalin.surfernetwork.com:8000/WKKB-FM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 53641,
+          "url": "http://crystalout.surfernetwork.com:8001/WKKB-FM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245201,
+          "url": "http://stream.surfernetwork.com/7b564243471vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245202,
+          "url": "https://stream.surfernetwork.com/7b564243471vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 88302,
+      "name": "WRIU 90.3 FM - WRIU",
+      "slug": "WRIU",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/7e/5b7ed2c5afbb058a89ae68e4215003cc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "wriu 90.3 wriu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kingston",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Kingston, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279075,
+          "url": "http://stream.wriu.org:443/wriu-fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 134133,
+          "url": "http://stream.wriu.org/wriu-fm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 134134,
+          "url": "https://stream.wriu.org/wriu-fm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 254298,
+      "name": "Iglesia Casa de Vida",
+      "slug": "Iglesia_Casa_de_Vida",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/76/ae7628e7c3d6b30123853e1d369b72ed.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iglesia casa de vida",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 2,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 187470,
+          "url": "http://play14.tikast.com:9003/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 89524,
+      "name": "Ocean State Media - WPVD",
+      "slug": "WPVD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/00/7800bd5464fea3df018441fdd2ce8910.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1290",
+        "dialStripped": "1290"
+      },
+      "aliases": {
+        "cleanName": "ocean state wpvd",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Information News Public Radio Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135540,
+          "url": "http://amber.streamguys1.com:5590/riprdeskweb",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232079,
+          "url": "https://amber.streamguys1.com:5590/ripr-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232080,
+          "url": "https://amber.streamguys1.com:5595/ripr-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135543,
+          "url": "http://amber.streamguys1.com:5590/ios-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135544,
+          "url": "http://amber.streamguys1.com:5590/android-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135546,
+          "url": "https://amber.streamguys1.com:5595/riprdeskweb",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 135547,
+          "url": "https://amber.streamguys1.com:5595/riprdeskweb-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232076,
+          "url": "http://amber.streamguys1.com:5590/ripr-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232078,
+          "url": "https://amber.streamguys1.com:5595/ripr-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232077,
+          "url": "https://amber.streamguys1.com:5590/ripr-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 58,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 232075,
+          "url": "http://amber.streamguys1.com:5590/ripr-aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 33877,
+      "name": "Estrella Internacional Radio",
+      "slug": "Estrella_Internacional_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/cb/39cb19b4586b5d26f3bab9f16f0f7215.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "estrella internacional",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Salsa",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 55926,
+          "url": "http://radiolatina.info:7084/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 26,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 30015,
+      "name": "VirtualDJ Radio - Hypnotica",
+      "slug": "VirtualDJ_Radio_Hypnotica",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/36/37366409e28ca32cf546a4fff0e44af1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "virtualdj hypnotica",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Psychedelic Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 48197,
+          "url": "http://virtualdjradio.com:8000/channel3.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 262266,
+          "url": "http://virtualdjradio.com:8000/channel3.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 61560,
+      "name": "BUMP FM - WBUM-DB",
+      "slug": "BUMP_Fm_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/67/8d6707cbb3042d5f2c4089380b89205c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bump wbum db",
+        "alsoKnownAs": "Broadcasting Urban Music Praise FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Hip Hop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 263073,
+          "url": "http://198.178.123.20:10084/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101272,
+          "url": "http://198.178.123.20:10084/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101271,
+          "url": "http://s7.voscast.com:10084/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 16266,
+      "name": "Classical 95.9 - WCRI",
+      "slug": "Classical_95.9_WCRI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/d3/4cd31dbdbd5a84740c9bd0d0eb1767be.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "classical 95.9 wcri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Block Island",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Block Island, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Classical Jazz Opera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 19726,
+          "url": "http://wcri.streamguys1.com:80/live-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 19727,
+          "url": "http://wcri.streamguys1.com/live-aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 19733,
+          "url": "https://wcri.streamguys1.com/live-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 19728,
+          "url": "http://wcri.streamguys1.com:80/live-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 19732,
+          "url": "https://wcri.streamguys1.com:80/live-mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 19729,
+          "url": "http://wcri.streamguys1.com/live-mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 19731,
+          "url": "https://wcri.streamguys1.com/live-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 79,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 19730,
+          "url": "https://wcri.streamguys1.com:80/live-aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 23071,
+      "name": "Heavy Metal Buzz",
+      "slug": "Heavy_Metal_Buzz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/3b/813b38c8ef88ea25aed42ebe5bea6d32.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "heavy metal buzz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cranston",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Cranston, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 35270,
+          "url": "http://streaming.live365.com/a07781",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 35271,
+          "url": "https://streaming.live365.com/a07781",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61994,
+      "name": "The Christmas Lite",
+      "slug": "The_Christmas_Lite",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/37/3d37bee70f65eff46237d782375dc2c1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the christmas lite",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riverside",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Riverside, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "39.7797800",
+          "longitude": "-84.1241000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Christmas Holidays Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101747,
+          "url": "https://naxos.cdnstream.com/1304_64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101746,
+          "url": "http://naxos.cdnstream.com/1304_64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 88438,
+      "name": "Wheeler School Broadcasting - WELH",
+      "slug": "WELH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/15/2015824b671a89d2127ba229b2076ea7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.1",
+        "dialStripped": "881"
+      },
+      "aliases": {
+        "cleanName": "wheeler school broadcasting welh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 4,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257501,
+          "url": "http://uk6freenew.listen2myradio.com:31553/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134319,
+          "url": "http://uk23freenew.listen2myradio.com:3878/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87602,
+      "name": "Rogers Radio - WQRI",
+      "slug": "WQRI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/55/f055237897d4425760affc48b210a37d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "rogers wqri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bristol",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Bristol, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.6770500",
+          "longitude": "-71.2661600"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133038,
+          "url": "http://wqri.streamguys1.com/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133039,
+          "url": "https://wqri.streamguys1.com/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 294448,
+      "name": "Kool Radio AM - WSKP",
+      "slug": "WCNX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/87/1687ea298258ea304a862604c1f8ca52.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1180",
+        "dialStripped": "1180"
+      },
+      "aliases": {
+        "cleanName": "kool wskp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hope Valley",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Hope Valley, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 245571,
+          "url": "https://stream.surfernetwork.com/fad8af0ebdcvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197130,
+          "url": "http://crystalout.surfernetwork.com:8001/WSKP-AM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 197131,
+          "url": "http://crystalin.surfernetwork.com:8000/WSKP-AM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245570,
+          "url": "http://stream.surfernetwork.com/fad8af0ebdcvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 51033,
+      "name": "O-N 1240 - WOON",
+      "slug": "WOON",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/23/0b/230b749053db4da2883bc58535892e6b.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1240",
+        "dialStripped": "1240"
+      },
+      "aliases": {
+        "cleanName": "o n 1240 woon",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Woonsocket",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Woonsocket, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "42.0028800",
+          "longitude": "-71.5147800"
+        }
+      },
+      "genre": {
+        "text": "Oldies Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 82705,
+          "url": "http://audio.onworldwide.com:7060/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 30191,
+      "name": "VirtualDJ Radio - PowerBase",
+      "slug": "VirtualDJ_Radio_PowerBase",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e7/05/e705012d45258f68c1dc4b55121b0cdd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "virtualdj powerbase",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Jazz New Age Soul Trance",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 263339,
+          "url": "http://virtualdjradio.com:8000/channel4.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48404,
+          "url": "http://52.0.120.216:8000/channel4.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48403,
+          "url": "http://virtualdjradio.com:8000/channel4.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 48405,
+          "url": "http://virtualdjradio.com:8000/channel1.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 1859012,
+      "name": "Stereo 1230 & FM 103.1 - WBLQ",
+      "slug": "WBLQ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/7c/cf7ca67ba042537c969c45d7902b3a9f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1230",
+        "dialStripped": "1230"
+      },
+      "aliases": {
+        "cleanName": "stereo 1230 103.1 wblq",
+        "alsoKnownAs": "Stereo 1230 & FM 103.1 - W276DF 103.1 FM Westerly, Rhode Island"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230709,
+          "url": "https://ice3.securenetsystems.net/WBLQ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 28,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 230708,
+          "url": "https://ice3.securenetsystems.net:80/WBLQ",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 230707,
+          "url": "http://ice3.securenetsystems.net/WBLQ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 230706,
+          "url": "http://ice3.securenetsystems.net:80/WBLQ",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 201879,
+      "name": "Tiverton Fire",
+      "slug": "Tiverton_Fire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/6c/6f6c47631e37f452b5bebf281a49c19e.jpg",
+      "dial": {
+        "band": "VHF",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tiverton fire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tiverton",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Tiverton, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "50.9000000",
+          "longitude": "-3.4833300"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 177501,
+          "url": "http://broadcastify.cdnstream1.com:80/12297",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 177502,
+          "url": "https://broadcastify.cdnstream1.com/12297",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 177500,
+          "url": "http://broadcastify.cdnstream1.com/12297",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 67191,
+      "name": "BSR",
+      "slug": "BSRLIVECOM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/ac/34ac3ca795aa9185c4785f94e510a0a3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "bsr",
+        "alsoKnownAs": "Brown Student & Community Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 108075,
+          "url": "http://listen.bsrlive.com:8000/bsraac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108074,
+          "url": "http://listen.bsrlive.com:8000/bsrmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87735,
+      "name": "The Beat of Bryant  - WJMF-HD2",
+      "slug": "WJMF_HD2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b9/fb/b9fb99e538ce3a9af56f1e1f4e045455.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.7",
+        "dialStripped": "887"
+      },
+      "aliases": {
+        "cleanName": "the beat of bryant wjmf hd2",
+        "alsoKnownAs": "WJMF Radio - WJMF-HD2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Smithfield",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Smithfield, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.9220400",
+          "longitude": "-71.5495100"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133245,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WJMFFMAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 133248,
+          "url": "https://26303.live.streamtheworld.com:443/WJMFFMAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 133247,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJMFFMAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 65,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 70177,
+      "name": "Life Changing Radio - WARV",
+      "slug": "WARV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/85/50856809757a68a57d681b23531bb332.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1590",
+        "dialStripped": "1590"
+      },
+      "aliases": {
+        "cleanName": "life changing warv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Warwick",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Warwick, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.7001000",
+          "longitude": "-71.4161700"
+        }
+      },
+      "genre": {
+        "text": "Christian Education Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 111883,
+          "url": "https://streaming.live365.com/a27501",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 111882,
+          "url": "http://streaming.live365.com/a27501",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 265845,
+      "name": "WBRU360",
+      "slug": "WBRU360",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/86/9586bf2170269d337e02b69fa802c971.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wbru360",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "College Hip Hop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189747,
+          "url": "http://stream.radio.co/s4d09e922b/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189750,
+          "url": "https://stream.radio.co/s4d09e922b/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189749,
+          "url": "https://stream.radio.co/s4d09e922b/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189748,
+          "url": "http://stream.radio.co/s4d09e922b/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87858,
+      "name": "CCRI Radio",
+      "slug": "CCRI_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/43/a343eda1e323077d9a6d05b7cf68a094.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ccri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Warwick",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Warwick, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.7001000",
+          "longitude": "-71.4161700"
+        }
+      },
+      "genre": {
+        "text": "College Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 133404,
+          "url": "https://streaming.live365.com/a45725?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133402,
+          "url": "http://streaming.live365.com/a45725?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133403,
+          "url": "http://streaming.radio.co/s98e05d854/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 133405,
+          "url": "https://streaming.radio.co/s98e05d854/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 547860,
+      "name": "WNRI 1380am 99.9fm - W260DC",
+      "slug": "W260DC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/97/1797883a51886555a0508168c1d4d9a2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "wnri 1380am 99.9 w260dc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Woonsocket",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Woonsocket, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "42.0028800",
+          "longitude": "-71.5147800"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 225695,
+          "url": "http://das-edge14-live365-dal02.cdnstream.com/a20809",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 225694,
+          "url": "http://streaming.live365.com/a20809",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 225697,
+          "url": "https://das-edge14-live365-dal02.cdnstream.com/a20809",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 225696,
+          "url": "https://streaming.live365.com/a20809",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49784254,
+      "name": "WDOM 91.3 FM - WDOM",
+      "slug": "WDOM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/2b/472bd9f7f09851da70d3ac3cded8fb63.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "wdom 91.3 wdom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279122,
+          "url": "https://stream.radio.co/s5fd907876/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279120,
+          "url": "http://stream.radio.co/s5fd907876/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279121,
+          "url": "http://stream.radio.co/s5fd907876/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279123,
+          "url": "https://stream.radio.co/s5fd907876/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 265640,
+      "name": "WADK 1540AM - WADK",
+      "slug": "WADK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/ce/c3cea99825c4d0630da8e3cb175c75ff.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1540",
+        "dialStripped": "1540"
+      },
+      "aliases": {
+        "cleanName": "wadk 1540am wadk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newport",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newport, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.4901000",
+          "longitude": "-71.3128300"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189702,
+          "url": "http://crystalin.surfernetwork.com:8000/WADK-AM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189701,
+          "url": "http://crystalout.surfernetwork.com:8001/WADK-AM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245385,
+          "url": "https://stream.surfernetwork.com/xhygqmegizovv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245384,
+          "url": "http://stream.surfernetwork.com/xhygqmegizovv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36936,
+      "name": "Weirdsterly Radio",
+      "slug": "Weirdsterly_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/72/ad/72ad16fd6f48e8650663dda8ad0eaf4a.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "weirdsterly",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "Hits Indie Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59785,
+          "url": "http://s2.radio.co/s7173eeefb/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59786,
+          "url": "https://s2.radio.co/s7173eeefb/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 417963,
+      "name": "HITZ UNLIMITED RADIO",
+      "slug": "HITZ_UNLIMITED_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/39/ab39f776bb987a45512f3a652518b8af.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hitz unlimited",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop Rap Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213838,
+          "url": "https://streaming.live365.com/a35449?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213837,
+          "url": "http://streaming.live365.com/a35449?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37352,
+      "name": "WBRU - WBRU-LP",
+      "slug": "WBRU_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/06/330624a2be6efbfbc6bde20c89ca2430.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "wbru wbru lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Alternative College Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 60579,
+          "url": "http://s3.radio.co/s115121de1/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60581,
+          "url": "https://s3.radio.co/s115121de1/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60582,
+          "url": "https://s3.radio.co/s115121de1/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 60580,
+          "url": "http://s3.radio.co/s115121de1/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 364674,
+      "name": "Music Through the Tunnel of Time",
+      "slug": "Music_Through_the_Tunnel_of_Time",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/0d/fb0d3ec7255c0ea8f5e65a9f5682a7b0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "music through the tunnel of time",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207696,
+          "url": "http://www.streamcontrol.net:12030/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207699,
+          "url": "https://www.streamcontrol.net:8444/s/12030/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 68258,
+      "name": "VirtualDJ Radio - The Grid",
+      "slug": "Kodiak_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/6c/b76ca970e0f86fabe0a562a76963d0f7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "virtualdj the grid",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Dance Drum and Bass Electro Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 109192,
+          "url": "http://52.0.120.216:8000/channel2.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109193,
+          "url": "http://virtualdjradio.com:8000/channel1.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263340,
+          "url": "http://virtualdjradio.com:8000/channel2.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109191,
+          "url": "http://virtualdjradio.com:8000/channel2.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 116734,
+      "name": "Mixx 99.3 - WMNP",
+      "slug": "WJZS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/c0/b5c0a96e602a4233575e2eee23a488fc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "mixx 99.3 wmnp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Block Island",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Block Island, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 154048,
+          "url": "http://crystalout.surfernetwork.com:8001/WMNP-FM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 154049,
+          "url": "http://crystalin.surfernetwork.com:8000/WMNP-FM_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 265629,
+      "name": "Jammin 107.7 - WWRX",
+      "slug": "Jammin_107.7_WWRX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/53/aa/53aacbd5788e3ca83d2a022c6668212c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.7",
+        "dialStripped": "1077"
+      },
+      "aliases": {
+        "cleanName": "jammin 107.7 wwrx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bradford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Bradford, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189700,
+          "url": "http://crystalin.surfernetwork.com:8000/WWRX_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189699,
+          "url": "http://crystalout.surfernetwork.com:8001/WWRX_MP3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245306,
+          "url": "https://stream.surfernetwork.com/cb647dabe50vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245305,
+          "url": "http://stream.surfernetwork.com/cb647dabe50vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 27219,
+      "name": "WDYP Talk Radio",
+      "slug": "WDYP_Talk_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/68/9c681fe931df02195810689f6cf13988.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wdyp talk",
+        "alsoKnownAs": "Discover Your Potential"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 42901,
+          "url": "https://stream.zeno.fm/yv66gsbkaeruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 42900,
+          "url": "http://stream.zeno.fm/yv66gsbkaeruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 265845,
+      "name": "WBRU360",
+      "slug": "WBRU360",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/86/9586bf2170269d337e02b69fa802c971.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wbru360",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "College Hip Hop Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189747,
+          "url": "http://stream.radio.co/s4d09e922b/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189750,
+          "url": "https://stream.radio.co/s4d09e922b/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189749,
+          "url": "https://stream.radio.co/s4d09e922b/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189748,
+          "url": "http://stream.radio.co/s4d09e922b/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 68258,
+      "name": "VirtualDJ Radio - The Grid",
+      "slug": "Kodiak_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b7/6c/b76ca970e0f86fabe0a562a76963d0f7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "virtualdj the grid",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Dance Drum and Bass Electro Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 109192,
+          "url": "http://52.0.120.216:8000/channel2.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109193,
+          "url": "http://virtualdjradio.com:8000/channel1.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263340,
+          "url": "http://virtualdjradio.com:8000/channel2.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109191,
+          "url": "http://virtualdjradio.com:8000/channel2.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 97277,
+      "name": "94HJY - WHJY",
+      "slug": "HJY_WHJY",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "94hjy whjy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Active Rock Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 49214,
+      "name": "WEEI 103.7FM - WVEI-FM",
+      "slug": "WEEI_WEEI_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/38/e33858421774eb09e1fcdefea3496d6d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "weei 103.7 wvei",
+        "alsoKnownAs": "WEEI Sports Radio Network - WVEI-FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 59555,
+      "name": "Classic Rock I-105.5 and 1450 AM - WWRI",
+      "slug": "WWRI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/94/8694ed178df64ae1cca1baa55bbff280.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1450",
+        "dialStripped": "1450"
+      },
+      "aliases": {
+        "cleanName": "classic rock i 105.5 and 1450 wwri",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "West Warwick",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "West Warwick, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.6968900",
+          "longitude": "-71.5219400"
+        }
+      },
+      "genre": {
+        "text": "Classic Hits Classic Rock Oldies Pop RnB",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 97575,
+          "url": "http://ice64.securenetsystems.net:80/WWRI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 97576,
+          "url": "http://ice64.securenetsystems.net/WWRI",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 97577,
+          "url": "https://ice64.securenetsystems.net:80/WWRI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 97578,
+          "url": "https://ice64.securenetsystems.net/WWRI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 63979,
+      "name": "Southern RI/Southeast CT Fire, EMS",
+      "slug": "Southern_RI_and_SE_CT_Fire_and_EMS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/2c/172c11723a2a965f17dd035e21aca56c.jpg",
+      "dial": {
+        "band": "VHF",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "southern ri southeast ct fire ems",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103478,
+          "url": "http://audio4.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103480,
+          "url": "http://audio7.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103479,
+          "url": "http://audio5.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103477,
+          "url": "http://audio2.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103476,
+          "url": "http://audio1.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103481,
+          "url": "https://audio1.broadcastify.com/904078655.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49214,
+      "name": "WEEI 103.7FM - WVEI-FM",
+      "slug": "WEEI_WEEI_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/38/e33858421774eb09e1fcdefea3496d6d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "weei 103.7 wvei",
+        "alsoKnownAs": "WEEI Sports Radio Network - WVEI-FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 54000,
+      "name": "JB105 Radio",
+      "slug": "JB105_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/a9/08a9aa3d06cec02760cf6f9eee90ec2b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jb105",
+        "alsoKnownAs": "JB105 Radio - WPJB-DB"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classics Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87838,
+          "url": "https://streaming.live365.com/a62936?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87837,
+          "url": "http://streaming.live365.com/a62936?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282092,
+          "url": "http://jb105radio.radioca.st:8114/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282093,
+          "url": "http://jb105radio.radioca.st:8114/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 7090979,
+      "name": "Crush FM",
+      "slug": "Crush_FM_Providence",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fc/d1/fcd1a34986aeb7085e93f14a333509cd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "crush",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Classics Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 234143,
+          "url": "http://streaming.live365.com/a69647",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 234144,
+          "url": "https://streaming.live365.com/a69647",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 57573129,
+      "name": "New Shore Radio",
+      "slug": "New_Shore_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/8f/698fbb51a5297f61d22e9780eab25e0d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "new shore",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classics Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281050,
+          "url": "http://s2.radio.co/s7173eeefb/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281051,
+          "url": "https://s2.radio.co/s7173eeefb/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 55041,
+      "name": "Forever Memories Radio",
+      "slug": "Forever_Memories_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/ba/c1ba56532fc7b95d23ab4c30eef66d2b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "forever memories",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cumberland",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Cumberland, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "50s 60s 70s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 89645,
+          "url": "https://streaming.live365.com/a89947?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 89644,
+          "url": "http://streaming.live365.com/a89947?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 97277,
+      "name": "94HJY - WHJY",
+      "slug": "HJY_WHJY",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "94.1",
+        "dialStripped": "941"
+      },
+      "aliases": {
+        "cleanName": "94hjy whjy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Active Rock Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 54000,
+      "name": "JB105 Radio",
+      "slug": "JB105_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/08/a9/08a9aa3d06cec02760cf6f9eee90ec2b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jb105",
+        "alsoKnownAs": "JB105 Radio - WPJB-DB"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classics Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 87838,
+          "url": "https://streaming.live365.com/a62936?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 87837,
+          "url": "http://streaming.live365.com/a62936?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282092,
+          "url": "http://jb105radio.radioca.st:8114/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282093,
+          "url": "http://jb105radio.radioca.st:8114/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 63979,
+      "name": "Southern RI/Southeast CT Fire, EMS",
+      "slug": "Southern_RI_and_SE_CT_Fire_and_EMS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/17/2c/172c11723a2a965f17dd035e21aca56c.jpg",
+      "dial": {
+        "band": "VHF",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "southern ri southeast ct fire ems",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103478,
+          "url": "http://audio4.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103480,
+          "url": "http://audio7.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103479,
+          "url": "http://audio5.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103477,
+          "url": "http://audio2.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103476,
+          "url": "http://audio1.broadcastify.com/904078655.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103481,
+          "url": "https://audio1.broadcastify.com/904078655.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 55041,
+      "name": "Forever Memories Radio",
+      "slug": "Forever_Memories_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c1/ba/c1ba56532fc7b95d23ab4c30eef66d2b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "forever memories",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cumberland",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Cumberland, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "50s 60s 70s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 89645,
+          "url": "https://streaming.live365.com/a89947?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 89644,
+          "url": "http://streaming.live365.com/a89947?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 423478,
+      "name": "92 Pro FM - WPRO-FM",
+      "slug": "Pro_FM_WPRO_FM",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "92.3",
+        "dialStripped": "923"
+      },
+      "aliases": {
+        "cleanName": "92 pro wpro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276332,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 54246,
+      "name": "B101 - WWBB",
+      "slug": "B101_WWBB",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "b101 wwbb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classic Rock Pop RnB",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 87117,
+      "name": "99.7 FM & AM 630 WPRO - WPRO",
+      "slug": "WPRO",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "AM",
+        "dial": "630",
+        "dialStripped": "630"
+      },
+      "aliases": {
+        "cleanName": "99.7 630 wpro wpro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 271777,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 57573129,
+      "name": "New Shore Radio",
+      "slug": "New_Shore_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/8f/698fbb51a5297f61d22e9780eab25e0d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "new shore",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classics Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281050,
+          "url": "http://s2.radio.co/s7173eeefb/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281051,
+          "url": "https://s2.radio.co/s7173eeefb/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 49214,
+      "name": "WEEI 103.7FM - WVEI-FM",
+      "slug": "WEEI_WEEI_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/38/e33858421774eb09e1fcdefea3496d6d.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "weei 103.7 wvei",
+        "alsoKnownAs": "WEEI Sports Radio Network - WVEI-FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Westerly",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Westerly, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.3776000",
+          "longitude": "-71.8272900"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 563543,
+      "name": "RenewFM - WXEV",
+      "slug": "WXEV_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/3e/843edc32a60ac98997b58d399e2f4e23.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "renewfm wxev",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bradford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Bradford, Rhode Island, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237855,
+          "url": "https://streams.radio.co/s34b0aa3a7/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237854,
+          "url": "http://streams.radio.co/s34b0aa3a7/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227302,
+          "url": "https://ice24.securenetsystems.net:80/RENEWFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227299,
+          "url": "http://ice24.securenetsystems.net/RENEWFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227300,
+          "url": "http://ice24.securenetsystems.net:80/RENEWFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227301,
+          "url": "https://ice24.securenetsystems.net/RENEWFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 54246,
+      "name": "B101 - WWBB",
+      "slug": "B101_WWBB",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "101.5",
+        "dialStripped": "1015"
+      },
+      "aliases": {
+        "cleanName": "b101 wwbb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "70s 80s Classic Rock Pop RnB",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 3212,
+      "name": "News Radio 920 - WHJJ",
+      "slug": "WHJJ",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "AM",
+        "dial": "920",
+        "dialStripped": "920"
+      },
+      "aliases": {
+        "cleanName": "news 920 whjj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Providence",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Providence, Rhode Island, United States",
+        "coordinates": {
+          "latitude": "41.8239900",
+          "longitude": "-71.4128300"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    }
+  ]
+}

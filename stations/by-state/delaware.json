@@ -1,0 +1,5729 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-03T21:06:32.106Z",
+  "endpoint": "/states/delaware/radios (from catalog)",
+  "stateId": "delaware",
+  "stateName": "Delaware",
+  "countryCode": "us",
+  "count": 66,
+  "builtFrom": "stations/by-country/us.json",
+  "data": [
+    {
+      "id": 79840,
+      "name": "La Raza 93.1FM y 106.7FM - WJWL",
+      "slug": "WJWL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/e0/27e04d6cbcb499274ab5ec87089b1191.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "900",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "la raza 93.1 y 106.7 wjwl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Georgetown, Delaware, United States",
+        "coordinates": {
+          "latitude": "30.6326900",
+          "longitude": "-97.6772300"
+        }
+      },
+      "genre": {
+        "text": "Latin Mexican Regional Ranchera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 14,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 3,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 124528,
+          "url": "http://ice66.securenetsystems.net:80/WJWL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 124531,
+          "url": "https://ice66.securenetsystems.net/WJWL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 77,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 124529,
+          "url": "http://ice66.securenetsystems.net/WJWL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 124530,
+          "url": "https://ice66.securenetsystems.net:80/WJWL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 325115,
+      "name": "Maxima 95.3 - WKDB",
+      "slug": "WKDB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/3b/263bf81f14c43ccd3a63f7f6f42f2809.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "maxima 95.3 wkdb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Laurel",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Laurel, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.0992800",
+          "longitude": "-76.8483100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Latin Pop Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 12,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202668,
+          "url": "https://ice66.securenetsystems.net:80/WKDB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202666,
+          "url": "http://ice66.securenetsystems.net:80/WKDB",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202667,
+          "url": "https://ice66.securenetsystems.net/WKDB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202665,
+          "url": "http://ice66.securenetsystems.net/WKDB",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 152219,
+      "name": "Radio Faro de Gracia",
+      "slug": "Radio_Faro_de_Gracia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/e6/19e6172a4694afaa72d808395fc2fef3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "faro de gracia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Milford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Milford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.9351000",
+          "longitude": "-74.0190300"
+        }
+      },
+      "genre": {
+        "text": "Christian Spanish Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 3,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 4,
+          "co": 4,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 165238,
+          "url": "http://165.227.81.132:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 408984,
+      "name": "La Raza 93.1FM y 106.7FM - W226CW",
+      "slug": "W226CW",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/5e/1b5eec375a686026676cb9207aca6fac.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.1 / 106.7",
+        "dialStripped": "931 / 1067"
+      },
+      "aliases": {
+        "cleanName": "la raza 93.1 y 106.7 w226cw",
+        "alsoKnownAs": "La Raza 93.1FM y 106.7FM - W294CH"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Georgetown",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Georgetown, Delaware, United States",
+        "coordinates": {
+          "latitude": "30.6326900",
+          "longitude": "-97.6772300"
+        }
+      },
+      "genre": {
+        "text": "Latin Mexican Regional Ranchera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 7,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213290,
+          "url": "http://ice66.securenetsystems.net/WJWL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 53,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213292,
+          "url": "https://ice66.securenetsystems.net/WJWL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213291,
+          "url": "https://ice66.securenetsystems.net:80/WJWL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213289,
+          "url": "http://ice66.securenetsystems.net:80/WJWL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 48124,
+      "name": "The Talk of Delmarva - WGMD",
+      "slug": "WGMD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/d8/ead828e6b083466ff9ef12148288b805.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.7",
+        "dialStripped": "927"
+      },
+      "aliases": {
+        "cleanName": "the talk of delmarva wgmd",
+        "alsoKnownAs": "Baltimore Ravens NFL"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rehoboth Beach",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Rehoboth Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 6,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76343,
+          "url": "http://ice6.securenetsystems.net/WGMD",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76345,
+          "url": "https://ice6.securenetsystems.net/WGMD",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76346,
+          "url": "https://ice6.securenetsystems.net:80/WGMD",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76344,
+          "url": "http://ice6.securenetsystems.net:80/WGMD",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 68976,
+      "name": "Radio Newark - WIZU-LP",
+      "slug": "WIZU_LP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/70/1570481ad119bdfe00e2e9bc6b316e8a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "wizu lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Education Entertainment Science Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 109956,
+          "url": "https://streamer.radionewark.com/",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 109955,
+          "url": "http://streamer.radionewark.com/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 135705,
+      "name": "Clearwater Classics (CWC)",
+      "slug": "Clearwater_Classics_CWC",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/5c/415c0a35871e91d67a13b4e5e8de8c90.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "clearwater classics cwc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethany Beach",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Bethany Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Country Hits Oldies",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 161667,
+          "url": "http://www.streamvortex.com:10100/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 540913,
+      "name": "93.7 WSTW - WSTW",
+      "slug": "WSTW",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/6d/416d03570568502854fce4a344b0b580.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "93.7 wstw wstw",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 12,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 224770,
+          "url": "http://ais-sa1.streamon.fm/7864_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 105,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 224771,
+          "url": "http://ais-sa1.streamon.fm/7864_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87011,
+      "name": "Delaware 105.9 - WXDE",
+      "slug": "WXDE",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/7c/8d7c92dcfe55d083de463fd7c783b5f6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "105.9 wxde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lewes",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Lewes, Delaware, United States",
+        "coordinates": {
+          "latitude": "50.8742000",
+          "longitude": "0.0077200"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 5,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 132060,
+          "url": "https://ais-sa1.streamon.fm/7869_96k.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 108,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 132059,
+          "url": "http://ais-sa1.streamon.fm/7869_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 471920,
+      "name": "The Vault - WJKI-FM",
+      "slug": "WXSH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/f3/5af3fab939e82de0c9f9731faaf0809f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.5",
+        "dialStripped": "1035"
+      },
+      "aliases": {
+        "cleanName": "the vault wjki",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethany Beach",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Bethany Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 2,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218714,
+          "url": "http://ice66.securenetsystems.net/WJKI",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218717,
+          "url": "https://ice66.securenetsystems.net:80/WJKI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218716,
+          "url": "https://ice66.securenetsystems.net/WJKI",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218715,
+          "url": "http://ice66.securenetsystems.net:80/WJKI",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 41215,
+      "name": "Rockin' Hot Radio",
+      "slug": "Rockin_Hot_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/05/6c05c893917e45e868b8e91077145d41.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rockin hot",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Castle",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "New Castle, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.9289400",
+          "longitude": "-85.3702500"
+        }
+      },
+      "genre": {
+        "text": "Hits Motown Smooth Jazz Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66054,
+          "url": "http://s4.radio.co/s634c1993c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66055,
+          "url": "https://s4.radio.co/s634c1993c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 60331,
+      "name": "Christian Mix 106",
+      "slug": "Christian_Mix",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/8b/7d8b663bfc7d2b4aa22627d6c42e579d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "christian mix 106",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98606,
+          "url": "http://streaming.live365.com/a94308",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98609,
+          "url": "https://ais-edge08-live365-dal02.cdnstream.com/a94308",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98607,
+          "url": "http://ais-edge08-live365-dal02.cdnstream.com/a94308",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98608,
+          "url": "https://streaming.live365.com/a94308",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 79251,
+      "name": "Radio La ZMX - W230CO",
+      "slug": "W230CO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/df/abdfeb57174117e5e13af894a5534c36.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "la zmx w230co",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seaford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Seaford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.6659300",
+          "longitude": "-73.4881800"
+        }
+      },
+      "genre": {
+        "text": "Latin Mexican Regional Ranchera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 123425,
+          "url": "http://195.154.33.87:7200/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 244,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38388,
+      "name": "93.5 The Beach - WZBH",
+      "slug": "The_Beach_WZBH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/fe/20fe6dbbf35451eb28066fc365fe5935.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.5",
+        "dialStripped": "935"
+      },
+      "aliases": {
+        "cleanName": "93.5 the beach wzbh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Millsboro",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Millsboro, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hard Rock Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62273,
+          "url": "https://stream.aiir.com/7b6oz6qgloktv?_=844380",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 196,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 62272,
+          "url": "http://stream.aiir.com/7b6oz6qgloktv?_=844380",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 188,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277784,
+          "url": "https://ais-sa1.streamon.fm/11205_96k.aac/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277783,
+          "url": "http://ais-sa1.streamon.fm/11205_96k.aac/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38036,
+      "name": "The Basement - WVUD-HD2",
+      "slug": "The_Basement",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/f0/6cf0617a0c62c5a0d752ea96ee9880d4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "the basement wvud hd2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Alternative College News Rock Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61789,
+          "url": "http://128.175.76.123:8000/TheBasement.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 61790,
+          "url": "http://128.175.76.123:8000/stream/3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265124,
+          "url": "http://128.175.76.123:8000/TheBasement.mp3/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37528,
+      "name": "Ocean 98.1 - WOCM",
+      "slug": "Ocean_98.1_WOCM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/c9/5ac9b8a0c1736493f9645013048725fd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "ocean 98.1 wocm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Selbyville",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Selbyville, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Alternative",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276797,
+          "url": "http://us2.maindigitalstream.com:8146/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 276798,
+          "url": "http://us2.maindigitalstream.com:8146/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 37876,
+      "name": "91.3 WVUD - WVUD",
+      "slug": "WVUD",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/43/be4380f91742e50f82c58daebfdc2712.png",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "91.3 wvud wvud",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Alternative College News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 6,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 61558,
+          "url": "http://128.175.76.123:8000/WVUD-FM128.mp3/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 460986,
+      "name": "Super 91.7 - WMPH",
+      "slug": "Super_91.7_WMPH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/6a/116a8ece09626905cbe6a7920033cb45.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.7",
+        "dialStripped": "917"
+      },
+      "aliases": {
+        "cleanName": "super 91.7 wmph",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "College Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217780,
+          "url": "http://s2.stationplaylist.com:9100/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247080,
+          "url": "https://s2.stationplaylist.com:9100/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 142318,
+      "name": "Holy Culture Radio",
+      "slug": "Holy_Culture_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/01/690103013e115b41d3558fc537bb8721.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "holy culture",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Hip Hop Indie Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 163294,
+          "url": "https://stream.radio.co/s09849366f/low",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 163292,
+          "url": "http://stream.radio.co/s09849366f/low",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 163293,
+          "url": "https://stream.radio.co/s09849366f/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 163291,
+          "url": "http://stream.radio.co/s09849366f/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 120685,
+      "name": "The Bridge - WKNZ",
+      "slug": "WKNZ",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/63/3d631f3d984c3b1e0dd9ce028f21d867.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.7",
+        "dialStripped": "887"
+      },
+      "aliases": {
+        "cleanName": "the bridge wknz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Harrington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Harrington, Delaware, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155748,
+          "url": "https://ice66.securenetsystems.net:80/WKNZ2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155745,
+          "url": "http://ice66.securenetsystems.net/WKNZ2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155746,
+          "url": "http://ice66.securenetsystems.net:80/WKNZ2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155747,
+          "url": "https://ice66.securenetsystems.net/WKNZ2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38636653,
+      "name": "Viqui Ràdio",
+      "slug": "Viqui_Radio_Catalunya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/85/2e85d11d5e9fbaca9801d676dca117bc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "viqui",
+        "alsoKnownAs": "Radio Catalunya [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Castle",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "New Castle, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.9289400",
+          "longitude": "-85.3702500"
+        }
+      },
+      "genre": {
+        "text": "Art Education Spanish Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275024,
+          "url": "http://www.viquiradio.cat/listen/viquiradio/viquiradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275025,
+          "url": "https://www.viquiradio.cat/listen/viquiradio/viquiradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ca",
+          "name": "Catalan"
+        }
+      ]
+    },
+    {
+      "id": 63315,
+      "name": "White Christmas Radio",
+      "slug": "White_Christmas_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/73/61731b7bef0d54d8b41bfba9a87b8a5d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "white christmas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Christmas Folk Holidays Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102482,
+          "url": "http://209.95.56.101:8017/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271604,
+          "url": "http://209.95.56.101:8017/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 91107,
+      "name": "Kiss 101.7 Online",
+      "slug": "Kiss_101.7_Online",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/09/a709dd61d3b6af72d4cf10835984b387.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kiss 101.7 online",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137619,
+          "url": "http://stream.radiojar.com/u0swk1dw2vduv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 137620,
+          "url": "https://stream.radiojar.com/u0swk1dw2vduv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36246,
+      "name": "Radio Free Otaku",
+      "slug": "Radio_Free_Otaku",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/58/7358eb1ccbac7c40e991892395fab87c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "free otaku",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "J-Pop Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 58514,
+          "url": "https://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 58513,
+          "url": "http://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 62156,
+      "name": "Zeeto on the Radio",
+      "slug": "Zeeto_on_the_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/32/3f327af324535ed86282395f8cc98f48.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zeeto on the",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lewes",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Lewes, Delaware, United States",
+        "coordinates": {
+          "latitude": "50.8742000",
+          "longitude": "0.0077200"
+        }
+      },
+      "genre": {
+        "text": "Acoustic Americana Blues Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101975,
+          "url": "http://streaming.live365.com/a08691",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101976,
+          "url": "https://streaming.live365.com/a08691",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32231,
+      "name": "Reach Gospel Radio - WXHL-FM",
+      "slug": "WXHL_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/39/c1/39c18b8830b7ae39a2155e34ce61072f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.1",
+        "dialStripped": "891"
+      },
+      "aliases": {
+        "cleanName": "reach gospel wxhl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Christiana",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Christiana, Delaware, United States",
+        "coordinates": {
+          "latitude": "-27.9140200",
+          "longitude": "25.1611100"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52419,
+          "url": "http://ice7.securenetsystems.net/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52420,
+          "url": "https://ice7.securenetsystems.net/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52421,
+          "url": "https://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52418,
+          "url": "http://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87250,
+      "name": "HENSCAST 24/7 - WVUD-HD3",
+      "slug": "WVUD_HD3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/71/a2714a1ddce789bb45b9f59be2882d91.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "henscast 24 7 wvud hd3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 132610,
+          "url": "http://streaming.radio.co/s1bc6bf517/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132611,
+          "url": "https://streaming.radio.co/s1bc6bf517/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 207258,
+      "name": "WFXR - Fox River Radio",
+      "slug": "WFXR_Fox_River_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/f4/54f4a427bfdecd5a9f4cae55a2def5e7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wfxr fox river",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Christian Classic Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179109,
+          "url": "http://streaming.live365.com/a98145?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 179110,
+          "url": "https://streaming.live365.com/a98145?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 44338,
+      "name": "Sifa Radio",
+      "slug": "Sifa_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/4f/2e4f727ce4e7e4dca7ab63cee766e827.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sifa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71531,
+          "url": "https://studio19.radiolize.com:8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71529,
+          "url": "http://studio19.radiolize.com:8050/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71530,
+          "url": "https://studio19.radiolize.com/radio/8050/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sw",
+          "name": "Swahili"
+        }
+      ]
+    },
+    {
+      "id": 63317,
+      "name": "Delaware Public Media - WDDE",
+      "slug": "WDDE_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/d7/96d7ae1d35752d27c4f77cc871e209ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "public wdde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102489,
+          "url": "https://26423.live.streamtheworld.com:443/WDDEFM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102487,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102483,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102486,
+          "url": "http://22113.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102488,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102484,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102485,
+          "url": "http://26423.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 48197,
+      "name": "The Talk of Delmarva - WUSX",
+      "slug": "WGBG",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d8/7b/d87b23f4662f7eb6dc96bc7d04b8a1a3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "the talk of delmarva wusx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seaford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Seaford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.6659300",
+          "longitude": "-73.4881800"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 76488,
+          "url": "http://ice66.securenetsystems.net:80/WUSX",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76489,
+          "url": "http://ice66.securenetsystems.net/WUSX",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 35,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76491,
+          "url": "https://ice66.securenetsystems.net/WUSX",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 76490,
+          "url": "https://ice66.securenetsystems.net:80/WUSX",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 49029,
+      "name": "Heritage Sports Radio Network",
+      "slug": "Heritage_Sports_Radio_Network",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/09/ac09abdaa3643d2146b0ad64f20f23df.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "heritage sports network",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hartly",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Hartly, Delaware, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78339,
+          "url": "https://ice3.securenetsystems.net:80/HSRN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78338,
+          "url": "https://ice3.securenetsystems.net/HSRN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78336,
+          "url": "http://ice3.securenetsystems.net/HSRN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 78337,
+          "url": "http://ice3.securenetsystems.net:80/HSRN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 32071,
+      "name": "Reach Gospel Radio - WXHM",
+      "slug": "WXHM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2d/5c/2d5cacc6342e525a951cd75508a38a63.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.9",
+        "dialStripped": "919"
+      },
+      "aliases": {
+        "cleanName": "reach gospel wxhm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Middletown",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Middletown, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.4495600",
+          "longitude": "-75.7163200"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52104,
+          "url": "http://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52105,
+          "url": "https://ice7.securenetsystems.net/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52103,
+          "url": "http://ice7.securenetsystems.net/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52106,
+          "url": "https://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 531071,
+      "name": "WDEL 101.7 FM 1150 AM - WDEL",
+      "slug": "WDEL_WSTW_HD3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/98/8298c02e6888242a34903801e5dbd7d2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.7",
+        "dialStripped": "937"
+      },
+      "aliases": {
+        "cleanName": "wdel 101.7 1150 wdel",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 223687,
+          "url": "http://ais-sa1.streamon.fm/7865_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 223688,
+          "url": "http://ais-sa1.streamon.fm/7865_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 103,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 130711,
+      "name": "The Chicken 101.3 - WCHK-FM",
+      "slug": "Cool_101.3_WNCL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/ad/0dade2a5ee37c03097955f2dc0f41f2b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "the chicken 101.3 wchk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Milford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Milford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.9351000",
+          "longitude": "-74.0190300"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 159585,
+          "url": "http://ais-sa1.streamon.fm/7882_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 85,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 159586,
+          "url": "http://ais-sa1.streamon.fm/7882_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 101,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 547910,
+      "name": "Cool 102.1 & 930 - WNCL",
+      "slug": "WYUS",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/86/2f86b809622fa7f7e709fdc1bb0a59ec.png",
+      "dial": {
+        "band": "AM",
+        "dial": "930",
+        "dialStripped": "930"
+      },
+      "aliases": {
+        "cleanName": "cool 102.1 930 wncl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Milford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Milford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.9351000",
+          "longitude": "-74.0190300"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Latin Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 225704,
+          "url": "http://ais-sa1.streamon.fm/7880_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 94,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 225705,
+          "url": "http://ais-sa1.streamon.fm/7880_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 105,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 32171,
+      "name": "Reach Gospel Radio - W297CA",
+      "slug": "W297CA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/28/5e28ea0014d7a1b09992ef925c268607.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.3",
+        "dialStripped": "1073"
+      },
+      "aliases": {
+        "cleanName": "reach gospel w297ca",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52283,
+          "url": "http://ice7.securenetsystems.net/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52284,
+          "url": "http://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52285,
+          "url": "https://ice7.securenetsystems.net/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 101,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52286,
+          "url": "https://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 18278,
+      "name": "Power 101.7 - WZEB",
+      "slug": "The_B_WZEB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/cb/b4cb799fe3fb50fa13e8f1a3bdce8022.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "power 101.7 wzeb",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ocean View",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Ocean View, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23795,
+          "url": "https://ice66.securenetsystems.net:80/WZEB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23794,
+          "url": "https://ice66.securenetsystems.net/WZEB",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23792,
+          "url": "http://ice66.securenetsystems.net/WZEB",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23793,
+          "url": "http://ice66.securenetsystems.net:80/WZEB",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 79276,
+      "name": "Radio La ZMX - WSUX",
+      "slug": "Sue_AM_1280_WSUX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/ba/06ba36b903760dfa2d4c8ff164755e16.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1280",
+        "dialStripped": "1280"
+      },
+      "aliases": {
+        "cleanName": "la zmx wsux",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Seaford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Seaford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.6659300",
+          "longitude": "-73.4881800"
+        }
+      },
+      "genre": {
+        "text": "Latin Mexican Regional Ranchera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 123463,
+          "url": "http://195.154.33.87:7200/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 260595,
+          "url": "http://sonicpanel.cloudstreaming.eu:7200/stream/;;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 247,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 172958,
+      "name": "Edgewater Gold Radio",
+      "slug": "Edgewater_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/a0/dea0dcc01a6d74e261173ecbe8f600ec.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "edgewater gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rehoboth Beach",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Rehoboth Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Jazz Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 170308,
+          "url": "http://streaming.live365.com/a09955",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 170309,
+          "url": "https://streaming.live365.com/a09955",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 330107,
+      "name": "MGT1 RADIO",
+      "slug": "MGT1_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/14/bf1428d1adc6a2ca70ad1f225971e887.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mgt1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Gospel Rock Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203271,
+          "url": "http://streaming.live365.com/a11472",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203272,
+          "url": "http://ais-edge104-live365-dal02.cdnstream.com/a11472",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203273,
+          "url": "https://streaming.live365.com/a11472",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203274,
+          "url": "https://ais-edge104-live365-dal02.cdnstream.com/a11472",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 63925,
+      "name": "Kent County Fire and EMS",
+      "slug": "Kent_County_Fire_and_EMS",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "VHF",
+        "dial": "155.505",
+        "dialStripped": "155505"
+      },
+      "aliases": {
+        "cleanName": "county fire and ems",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kent Acres",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Kent Acres, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 103308,
+          "url": "https://broadcastify.cdnstream1.com/12479",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 103307,
+          "url": "http://broadcastify.cdnstream1.com/12479",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 319597,
+      "name": "WHGE 95.3 FM - WHGE-LP",
+      "slug": "WHGE_LP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/56/91/56919662d64924903de5407de77d1315.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3",
+        "dialStripped": "953"
+      },
+      "aliases": {
+        "cleanName": "whge 95.3 whge lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 201641,
+          "url": "http://whge.broadcasttool.stream/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201642,
+          "url": "https://whge.broadcasttool.stream:80/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201640,
+          "url": "http://whge.broadcasttool.stream:80/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201643,
+          "url": "https://whge.broadcasttool.stream/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 40098,
+      "name": "Condo Jamz Radio",
+      "slug": "Condo_Jamz_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/56/fa/56fa79fa4d0af82dee38b4244fcf140a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "condo jamz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Dance Funk Hip Hop Pop Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 64556,
+          "url": "http://ais-edge07-live365-dal02.cdnstream.com/a74972",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64555,
+          "url": "http://streaming.live365.com/a74972",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64557,
+          "url": "https://streaming.live365.com/a74972",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 64558,
+          "url": "https://ais-edge07-live365-dal02.cdnstream.com/a74972",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 330107,
+      "name": "MGT1 RADIO",
+      "slug": "MGT1_RADIO",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/14/bf1428d1adc6a2ca70ad1f225971e887.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mgt1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "Gospel Rock Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203271,
+          "url": "http://streaming.live365.com/a11472",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203272,
+          "url": "http://ais-edge104-live365-dal02.cdnstream.com/a11472",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203273,
+          "url": "https://streaming.live365.com/a11472",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203274,
+          "url": "https://ais-edge104-live365-dal02.cdnstream.com/a11472",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 87250,
+      "name": "HENSCAST 24/7 - WVUD-HD3",
+      "slug": "WVUD_HD3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a2/71/a2714a1ddce789bb45b9f59be2882d91.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.3",
+        "dialStripped": "913"
+      },
+      "aliases": {
+        "cleanName": "henscast 24 7 wvud hd3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newark",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Newark, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.6837200",
+          "longitude": "-75.7496600"
+        }
+      },
+      "genre": {
+        "text": "News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 132610,
+          "url": "http://streaming.radio.co/s1bc6bf517/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 132611,
+          "url": "https://streaming.radio.co/s1bc6bf517/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 63317,
+      "name": "Delaware Public Media - WDDE",
+      "slug": "WDDE_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/d7/96d7ae1d35752d27c4f77cc871e209ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "public wdde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102489,
+          "url": "https://26423.live.streamtheworld.com:443/WDDEFM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102487,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102483,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102486,
+          "url": "http://22113.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102488,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102484,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102485,
+          "url": "http://26423.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 63317,
+      "name": "Delaware Public Media - WDDE",
+      "slug": "WDDE_91.1_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/d7/96d7ae1d35752d27c4f77cc871e209ca.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "public wdde",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102489,
+          "url": "https://26423.live.streamtheworld.com:443/WDDEFM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102487,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102483,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 65536,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 102486,
+          "url": "http://22113.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102488,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102484,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 102485,
+          "url": "http://26423.live.streamtheworld.com:80/WDDEFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36246,
+      "name": "Radio Free Otaku",
+      "slug": "Radio_Free_Otaku",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/58/7358eb1ccbac7c40e991892395fab87c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "free otaku",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "J-Pop Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 58514,
+          "url": "https://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 58513,
+          "url": "http://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 36246,
+      "name": "Radio Free Otaku",
+      "slug": "Radio_Free_Otaku",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/58/7358eb1ccbac7c40e991892395fab87c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "free otaku",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "J-Pop Soundtracks",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 58514,
+          "url": "https://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 58513,
+          "url": "http://streaming.radio.co/s8267e5edc/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 38636653,
+      "name": "Viqui Ràdio",
+      "slug": "Viqui_Radio_Catalunya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/85/2e85d11d5e9fbaca9801d676dca117bc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "viqui",
+        "alsoKnownAs": "Radio Catalunya [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Castle",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "New Castle, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.9289400",
+          "longitude": "-85.3702500"
+        }
+      },
+      "genre": {
+        "text": "Art Education Spanish Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275024,
+          "url": "http://www.viquiradio.cat/listen/viquiradio/viquiradio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275025,
+          "url": "https://www.viquiradio.cat/listen/viquiradio/viquiradio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ca",
+          "name": "Catalan"
+        }
+      ]
+    },
+    {
+      "id": 63315,
+      "name": "White Christmas Radio",
+      "slug": "White_Christmas_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/73/61731b7bef0d54d8b41bfba9a87b8a5d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "white christmas",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Christmas Folk Holidays Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 102482,
+          "url": "http://209.95.56.101:8017/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271604,
+          "url": "http://209.95.56.101:8017/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 53074,
+      "name": "Radio Amor Delaware",
+      "slug": "Radio_Amor_Delaware",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/8d/e38dc52f295b31fb17b9932ba1abb631.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "amor",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "90s Classic Rock Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 86311,
+          "url": "http://sh4.radioonlinehd.com:8572/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 57,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 86312,
+          "url": "https://sh4.radioonlinehd.com:8572/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 541790,
+      "name": "Mix 99.5 FM - WJBR-FM",
+      "slug": "WJBR_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/e6/b2e64a0ab1311a9d73e7650991cad769.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "mix 99.5 wjbr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265104,
+          "url": "http://24423.live.streamtheworld.com:80/WJBRFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265103,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3140,
+      "name": "NewsRadio 1410 - WDOV",
+      "slug": "WDOV",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "AM",
+        "dial": "1410",
+        "dialStripped": "1410"
+      },
+      "aliases": {
+        "cleanName": "newsradio 1410 wdov",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 32265,
+      "name": "Reach Gospel Radio - W294BN",
+      "slug": "W294BN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/89/8089e1bf53580f42695a299fa802f46a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.7",
+        "dialStripped": "1067"
+      },
+      "aliases": {
+        "cleanName": "reach gospel w294bn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 52489,
+          "url": "http://ice7.securenetsystems.net/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52491,
+          "url": "https://ice7.securenetsystems.net/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52492,
+          "url": "https://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 52490,
+          "url": "http://ice7.securenetsystems.net:80/WXHL",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 168619,
+      "name": "Eagle 97.7 - WAFL",
+      "slug": "Eagle_977_WAFL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/41/244134210e2071e5aa3d15ff4e7a867f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "eagle 97.7 wafl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Milford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Milford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.9351000",
+          "longitude": "-74.0190300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168585,
+          "url": "http://ais-sa1.streamon.fm/7881_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 105,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168586,
+          "url": "http://ais-sa1.streamon.fm/7881_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 99,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 91125,
+      "name": "KISS 95.9 - WKZP",
+      "slug": "Rock_WOSC",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "kiss 95.9 wkzp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethany Beach",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Bethany Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop RnB Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 538882,
+      "name": "Railroad Radio Wilmington",
+      "slug": "Railroad_Radio_Wilmington",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/df/5b/df5b71b64489ff2a86895e3794249b02.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "railroad wilmington",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 224576,
+          "url": "http://railaudio2.railroadradio.net:7292/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261605,
+          "url": "http://railaudio2.railroadradio.net:7292/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261604,
+          "url": "http://railaudio2.railroadradio.net:7292/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 168619,
+      "name": "Eagle 97.7 - WAFL",
+      "slug": "Eagle_977_WAFL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/24/41/244134210e2071e5aa3d15ff4e7a867f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.7",
+        "dialStripped": "977"
+      },
+      "aliases": {
+        "cleanName": "eagle 97.7 wafl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Milford",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Milford, Delaware, United States",
+        "coordinates": {
+          "latitude": "40.9351000",
+          "longitude": "-74.0190300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168585,
+          "url": "http://ais-sa1.streamon.fm/7881_96k.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 105,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 168586,
+          "url": "http://ais-sa1.streamon.fm/7881_96k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 99,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 202741,
+      "name": "Wilmington, DE Fire",
+      "slug": "City_of_Wilmington_Fire",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/0a/310a40c623195dbdca9ccf7ec2db18ba.jpg",
+      "dial": {
+        "band": "VHF",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "wilmington de fire",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wilmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wilmington, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.7459500",
+          "longitude": "-75.5465900"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 177729,
+          "url": "http://audio1.broadcastify.com/850486748.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 177730,
+          "url": "http://broadcastify.cdnstream1.com/6544",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 177731,
+          "url": "https://broadcastify.cdnstream1.com/6544",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 3140,
+      "name": "NewsRadio 1410 - WDOV",
+      "slug": "WDOV",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "AM",
+        "dial": "1410",
+        "dialStripped": "1410"
+      },
+      "aliases": {
+        "cleanName": "newsradio 1410 wdov",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dover",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Dover, Delaware, United States",
+        "coordinates": {
+          "latitude": "39.1581700",
+          "longitude": "-75.5243700"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 91125,
+      "name": "KISS 95.9 - WKZP",
+      "slug": "Rock_WOSC",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "kiss 95.9 wkzp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bethany Beach",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Bethany Beach, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop RnB Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    },
+    {
+      "id": 319873,
+      "name": "WRBG 107.9 FM - WRBG-LP",
+      "slug": "WRBG_LP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/20/c020a4885144bcd4cc7decf25b0b1e97.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "wrbg 107.9 wrbg lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Millsboro",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Millsboro, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277859,
+          "url": "http://s2.myradiostream.com:5364/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277858,
+          "url": "http://s2.myradiostream.com:5364/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 201742,
+          "url": "http://s5.myradiostream.com:43364/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 319873,
+      "name": "WRBG 107.9 FM - WRBG-LP",
+      "slug": "WRBG_LP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c0/20/c020a4885144bcd4cc7decf25b0b1e97.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "wrbg 107.9 wrbg lp",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Millsboro",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Millsboro, Delaware, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 277859,
+          "url": "http://s2.myradiostream.com:5364/;;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 277858,
+          "url": "http://s2.myradiostream.com:5364/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 201742,
+          "url": "http://s5.myradiostream.com:43364/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 447537,
+      "name": "92.9 TomFM - WRDX",
+      "slug": "The_River_92.9_WRDX",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "92.9 tomfm wrdx",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Smyrna",
+        "countryName": "United States",
+        "countryCode": null,
+        "locationText": "Smyrna, Delaware, United States",
+        "coordinates": {
+          "latitude": "33.8839900",
+          "longitude": "-84.5143800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Pop RnB Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": []
+    }
+  ]
+}

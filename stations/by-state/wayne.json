@@ -1,0 +1,90 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-03T21:06:32.514Z",
+  "endpoint": "/states/wayne/radios (from catalog)",
+  "stateId": "wayne",
+  "stateName": "Wayne",
+  "countryCode": "us",
+  "count": 1,
+  "builtFrom": "stations/by-country/us.json",
+  "data": [
+    {
+      "id": 3131987,
+      "name": "Lonesome Road Radio",
+      "slug": "Lonesome_Road_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/b4/81b4ce15b83cdc9a85741de13598e965.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lonesome road",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wayne City",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Wayne City, Wayne, United States",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 231839,
+          "url": "http://streaming.live365.com/a48962?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 231840,
+          "url": "https://streaming.live365.com/a48962?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}

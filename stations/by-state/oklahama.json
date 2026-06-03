@@ -1,0 +1,393 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "rapidapi",
+  "syncedAt": "2026-06-03T21:06:32.418Z",
+  "endpoint": "/states/oklahama/radios (from catalog)",
+  "stateId": "oklahama",
+  "stateName": "Oklahama",
+  "countryCode": "us",
+  "count": 2,
+  "builtFrom": "stations/by-country/us.json",
+  "data": [
+    {
+      "id": 61459,
+      "name": "My Praise FM - KGVV",
+      "slug": "KGVV_My_Praise_FM_90.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/b1/fbb180b6876e0c11f419d68bcc4babf3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "my praise kgvv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Goltry",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Goltry, Oklahama, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101059,
+          "url": "http://204.93.181.194:80/Praise32k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101057,
+          "url": "http://klvv-praise.streamguys.us/Praise32k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101068,
+          "url": "http://klvv-praise.streamguys.us/Praise64k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 260370,
+          "url": "https://204.93.181.194:80/Praise96k",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101065,
+          "url": "http://klvv-praise.streamguys.us/Praise128kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101063,
+          "url": "http://klvv-praise.streamguys.us/Praise96k",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101061,
+          "url": "http://klvv-praise.streamguys.us/Praise64kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 260369,
+          "url": "https://204.93.181.194:80/Praise128kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101064,
+          "url": "http://204.93.181.194:80/Praise96k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101062,
+          "url": "http://204.93.181.194:80/Praise64kAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101060,
+          "url": "http://204.93.181.194:80/Praise64k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 260371,
+          "url": "https://204.93.181.194:80/Praise64kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101066,
+          "url": "http://204.93.181.194:80/Praise128kAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 61459,
+      "name": "My Praise FM - KGVV",
+      "slug": "KGVV_My_Praise_FM_90.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/b1/fbb180b6876e0c11f419d68bcc4babf3.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.5",
+        "dialStripped": "905"
+      },
+      "aliases": {
+        "cleanName": "my praise kgvv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Goltry",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Goltry, Oklahama, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 101059,
+          "url": "http://204.93.181.194:80/Praise32k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101057,
+          "url": "http://klvv-praise.streamguys.us/Praise32k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101068,
+          "url": "http://klvv-praise.streamguys.us/Praise64k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 260370,
+          "url": "https://204.93.181.194:80/Praise96k",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101065,
+          "url": "http://klvv-praise.streamguys.us/Praise128kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101063,
+          "url": "http://klvv-praise.streamguys.us/Praise96k",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101061,
+          "url": "http://klvv-praise.streamguys.us/Praise64kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 260369,
+          "url": "https://204.93.181.194:80/Praise128kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101064,
+          "url": "http://204.93.181.194:80/Praise96k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 101062,
+          "url": "http://204.93.181.194:80/Praise64kAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101060,
+          "url": "http://204.93.181.194:80/Praise64k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 260371,
+          "url": "https://204.93.181.194:80/Praise64kAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 63,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 101066,
+          "url": "http://204.93.181.194:80/Praise128kAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    }
+  ]
+}
