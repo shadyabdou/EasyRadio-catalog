@@ -1,26 +1,27 @@
 # Maintaining the GitHub radio catalog
 
-The iOS app loads all station data from **`data/radio/`** on GitHub (default: `main` branch, raw URLs). It does **not** call RapidAPI at runtime.
+The iOS app loads station data from the **public** catalog repo (raw URLs). It does **not** call RapidAPI at runtime.
 
 ## What you must do
 
-### 1. Keep `data/radio/` on GitHub
+### 1. Publish catalog after each sync
 
-Push the folder to your default branch after every sync:
+Sync writes to `data/radio/` in this repo. The app reads the **public** mirror:
+
+`https://raw.githubusercontent.com/shadyabdou/EasyRadio-catalog/main/`
 
 ```bash
+# After syncing locally:
 git add data/radio
 git commit -m "chore(data): refresh radio catalog"
-git push
+git push   # optional backup in private EasyRadio repo
+
+./scripts/publish-radio-catalog.sh   # required — updates public EasyRadio-catalog
 ```
 
-The app reads:
+Change branch or mirror via UserDefaults key `GitHubRadioBaseURL` (full catalog base URL, optional).
 
-`https://raw.githubusercontent.com/shadyabdou/EasyRadio/main/data/radio/`
-
-Change branch or fork via UserDefaults key `GitHubRadioBaseURL` (optional).
-
-**Local Xcode runs:** If `data/radio/` exists at `$(SRCROOT)/data/radio` (see `RadioCatalogRoot` in `Info.plist`), Debug builds load JSON from disk automatically. **Release / TestFlight** still need the catalog pushed to GitHub.
+**Local Xcode runs:** If `data/radio/` exists at `$(SRCROOT)/data/radio` (see `RadioCatalogRoot` in `Info.plist`), Debug builds load JSON from disk automatically. **Release / TestFlight** use the public catalog URL above.
 
 ### 2. Refresh data on a schedule
 
@@ -39,6 +40,7 @@ npm run sync:metadata
 npm run sync:stations
 npm run sync:extras
 git add data/radio && git commit -m "chore(data): weekly catalog sync" && git push
+./scripts/publish-radio-catalog.sh
 ```
 
 ### 3. GitHub Actions (optional automation)
@@ -76,4 +78,5 @@ Users pick up new JSON on next launch (or when background refresh runs). To forc
 
 - No API keys in the app binary.
 - Sync tooling lives in `tools/radio-sync/` (Node 20+).
-- To point at another repo/branch, set `GitHubRadioBaseURL` to the full `data/radio` base URL.
+- To point at another repo/branch, set `GitHubRadioBaseURL` to the catalog base URL (repo root, not `data/radio/`).
+- Public catalog repo: https://github.com/shadyabdou/EasyRadio-catalog
