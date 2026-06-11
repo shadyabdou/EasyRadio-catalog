@@ -1,0 +1,978 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:09.760Z",
+  "endpoint": "/languages/eu/radios",
+  "code": "eu",
+  "name": "Basque",
+  "count": 12,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 17532,
+      "name": "Exclusively Jacques Loussier ",
+      "slug": "Exclusively_Jacques_Loussier",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/2b/972b12b249ba4b36acc44ccb59da75b5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "exclusively jacques loussier",
+        "alsoKnownAs": "Exclusive Radio - Exclusively Jacques Loussier"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dubai",
+        "countryName": "United Arab Emirates",
+        "countryCode": "AE",
+        "locationText": "Dubai, United Arab Emirates",
+        "coordinates": {
+          "latitude": "25.0657000",
+          "longitude": "55.1712800"
+        }
+      },
+      "genre": {
+        "text": "Classical Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21644,
+          "url": "http://streaming.exclusive.radio/er/jaquesloussier/icecast.audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21645,
+          "url": "https://streaming.exclusive.radio/er/jaquesloussier/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 3644,
+      "name": "Radio Euskadi",
+      "slug": "Radio_Euskadi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a6/60/a660ff041bf1b34829b7551d0717a863.png",
+      "dial": {
+        "band": "FM",
+        "dial": "87.9",
+        "dialStripped": "879"
+      },
+      "aliases": {
+        "cleanName": "euskadi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bilbao",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Bilbao, Biscay, Spain",
+        "coordinates": {
+          "latitude": "43.2627100",
+          "longitude": "-2.9252800"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7980,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 5,
+          "br": 1,
+          "es": 392,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 2,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 7782,
+          "url": "http://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 7781,
+          "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 241264,
+          "url": "https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 114390,
+      "name": "Euskadi Irratia ",
+      "slug": "Euskadi_Irratia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/98/a498ab338408a0d0e6587738664a9d85.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "euskadi irratia",
+        "alsoKnownAs": "EiTB Euskadi Irratia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bilbao",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Bilbao, Biscay, Spain",
+        "coordinates": {
+          "latitude": "43.2627100",
+          "longitude": "-2.9252800"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 6240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 3,
+          "br": 1,
+          "es": 333,
+          "mx": 1,
+          "jp": 1,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153143,
+          "url": "http://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 240799,
+          "url": "https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 153142,
+          "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 57113,
+      "name": "EITB Musika",
+      "slug": "EiTB_Irratia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/2b/dd2b73bee1c2ff9aa95a9ade95d49019.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "eitb musika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Donostia / San Sebastián",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Donostia / San Sebastián, Gipuzkoa, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1080,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 51,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94242,
+          "url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 94243,
+          "url": "http://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242798,
+          "url": "https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 105149,
+      "name": "Arrate Irratia",
+      "slug": "Arrate_Irratia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/06/be/06be9f3063f9cfad077265e7e92bda4f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.6",
+        "dialStripped": "936"
+      },
+      "aliases": {
+        "cleanName": "arrate irratia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Arrate",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Arrate, Gipuzkoa, Spain",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 40,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146465,
+          "url": "http://online.arrateirratia.eus/zuzenean-tunein",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 146462,
+          "url": "http://188.165.134.102:80/zuzenean",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 146463,
+          "url": "http://online.arrateirratia.eus/zuzenean",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 146464,
+          "url": "http://188.165.134.102:80/zuzenean-tunein",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 114462,
+      "name": "EITB Euskal Kantak",
+      "slug": "EITB_Euskal_Kantak",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/00/5900466f871767e9a5c481f2c0d484de.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "eitb euskal kantak",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bilbao",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Bilbao, Biscay, Spain",
+        "coordinates": {
+          "latitude": "43.2627100",
+          "longitude": "-2.9252800"
+        }
+      },
+      "genre": {
+        "text": "Country Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 21,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153164,
+          "url": "https://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 153163,
+          "url": "http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 153162,
+          "url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbeuskalkantak.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 77751,
+      "name": "Radio Vitoria",
+      "slug": "Radio_Vitoria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/9d/279df52ed8d85fc3939cc05f268b4a33.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Urduna",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Urduna, Basque Autonomous Community, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "Information Spanish Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 13,
+          "mx": 2,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 23953,
+      "name": "Punk irratia",
+      "slug": "Punk_irratia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/b8/01b81432eb5a3891b0491281acffb121.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "punk irratia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bilbao",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Bilbao, Biscay, Spain",
+        "coordinates": {
+          "latitude": "43.2627100",
+          "longitude": "-2.9252800"
+        }
+      },
+      "genre": {
+        "text": "Alternative Punk Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 9,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 2
+        }
+      },
+      "streams": [
+        {
+          "id": 36999,
+          "url": "http://punkirratia.net:8000/punk",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 186931,
+      "name": "Euskalerria Irratia",
+      "slug": "Euskalerria_Irratia_FM_91.4_Irunea",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/a1/59a19639212a25e75cb6a24f43601582.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "euskalerria irratia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pamplona",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Pamplona, Navarre, Spain",
+        "coordinates": {
+          "latitude": "42.8168700",
+          "longitude": "-1.6432300"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 16,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 247458,
+          "url": "https://server9.emitironline.com:8014/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173698,
+          "url": "http://51.159.23.192:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173697,
+          "url": "http://server9.emitironline.com:8014/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 171026,
+      "name": "Eguzki Irratia",
+      "slug": "Eguzki_Irratia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/e4/4fe476f85ac14cea0251629e0dc4ab97.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.0",
+        "dialStripped": "1070"
+      },
+      "aliases": {
+        "cleanName": "eguzki irratia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pamplona",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Pamplona, Navarre, Spain",
+        "coordinates": {
+          "latitude": "42.8168700",
+          "longitude": "-1.6432300"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169661,
+          "url": "http://streaming.eguzki.eus:8000/eguzki.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 190,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 29779596,
+      "name": "107.2FM 107.7FM Ttan Ttakun",
+      "slug": "107.2FM_107.7FM_Ttan_Ttakun",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "107.7 / 107.2",
+        "dialStripped": "1077 / 1072"
+      },
+      "aliases": {
+        "cleanName": "107.2 107.7 ttan ttakun",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Donostia / San Sebastián",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Donostia / San Sebastián, Gipuzkoa, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257300,
+          "url": "http://ttanttakun.eus/stream/ttanttakun.ogg",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "ogg",
+          "bitrate": 128,
+          "contentType": null,
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    },
+    {
+      "id": 104973,
+      "name": "Xiberoko Botza",
+      "slug": "Xiberoko_Botza",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/6d/416d7bb11c7d582867af5fd3311506c6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "xiberoko botza",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bayonne",
+        "countryName": "France",
+        "countryCode": "FR",
+        "locationText": "Bayonne, Aquitaine, France",
+        "coordinates": {
+          "latitude": "43.4833300",
+          "longitude": "-1.4833300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 7,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 146344,
+          "url": "http://hosting.studioradiomedia.fr:2970/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "eu",
+          "name": "Basque"
+        }
+      ]
+    }
+  ]
+}

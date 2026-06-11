@@ -1,0 +1,279 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.259Z",
+  "endpoint": "/languages/sa/radios",
+  "code": "sa",
+  "name": "Sanskrit",
+  "count": 3,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 113420,
+      "name": "Divyavani Sanskrit Radio",
+      "slug": "Divyavani_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f0/d8/f0d89883ce14562cfab7ab29bc3b29c8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "divyavani sanskrit",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Puducherry",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Puducherry, Puducherry, India",
+        "coordinates": {
+          "latitude": "11.9338100",
+          "longitude": "79.8297900"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Culture Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152414,
+          "url": "http://142.44.212.114:8070/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152415,
+          "url": "http://149.56.147.197:8070/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152416,
+          "url": "http://149.56.147.197:8070/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152417,
+          "url": "http://149.56.147.197:8070/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239782,
+          "url": "http://epsilon.shoutca.st:8070/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sa",
+          "name": "Sanskrit"
+        }
+      ]
+    },
+    {
+      "id": 66695,
+      "name": "FM Adhyatma Jyoti",
+      "slug": "FM_Adhyatma_Jyoti",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/2c/202c11fb31b75c41167a8a6025e89d57.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.8",
+        "dialStripped": "1048"
+      },
+      "aliases": {
+        "cleanName": "adhyatma jyoti",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kathmandu",
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": "Kathmandu, Nepal",
+        "coordinates": {
+          "latitude": "27.7016900",
+          "longitude": "85.3206000"
+        }
+      },
+      "genre": {
+        "text": "Devotional Meditation",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107491,
+          "url": "http://stream.hamropatro.com/8074",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107492,
+          "url": "https://stream.hamropatro.com/8074/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sa",
+          "name": "Sanskrit"
+        }
+      ]
+    },
+    {
+      "id": 432347,
+      "name": "sabaiko Radio",
+      "slug": "sabaiko_Radio",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sabaiko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "locationText": ", Nepal",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 215341,
+          "url": "http://stream.zeno.fm/mmwzvd3qbofvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 215342,
+          "url": "https://stream.zeno.fm/mmwzvd3qbofvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "sa",
+          "name": "Sanskrit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.391Z",
+  "endpoint": "/languages/ti/radios",
+  "code": "ti",
+  "name": "Tigrinya",
+  "count": 1,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 467656,
+      "name": "Radio Vaticana - ትግርኛ",
+      "slug": "Radio_Vaticana_Tigrinya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/97/04/9704fec48ad6e6426048dccb67fc6653.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "tegerenyaa",
+        "alsoKnownAs": "Radio Vaticana - Tigrinya"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vatican City",
+        "countryName": "Vatican",
+        "countryCode": null,
+        "locationText": "Vatican City, Vatican",
+        "coordinates": {
+          "latitude": "41.9023600",
+          "longitude": "12.4533200"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218521,
+          "url": "http://radio.vaticannews.va:80/stream-ti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218522,
+          "url": "http://radio.vaticannews.va/stream-ti",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218523,
+          "url": "https://radio.vaticannews.va/stream-ti",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ti",
+          "name": "Tigrinya"
+        }
+      ]
+    }
+  ]
+}

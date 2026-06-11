@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.388Z",
+  "endpoint": "/languages/tg/radios",
+  "code": "tg",
+  "name": "Tajik",
+  "count": 1,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 50148,
+      "name": "Радио Пайванд",
+      "slug": "Radio_Payvand",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/cc/85cc742c1fbbcf2c40be5c347445e13f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "paivand",
+        "alsoKnownAs": "Radio Payvand"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Khujand",
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "locationText": "Khujand, Tajikistan",
+        "coordinates": {
+          "latitude": "38.5869788",
+          "longitude": "69.3979079"
+        }
+      },
+      "genre": {
+        "text": "Comedy Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80858,
+          "url": "http://c6.radioboss.fm:8234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80859,
+          "url": "https://c6.radioboss.fm:18234/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "tg",
+          "name": "Tajik"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7831 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.079Z",
+  "endpoint": "/languages/fi/radios",
+  "code": "fi",
+  "name": "Finnish",
+  "count": 93,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 3836,
+      "name": "Radio Fuge FM",
+      "slug": "Radio_Finlandia_102.6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/0d/4b0ddc013ecda353333633603f4dd969.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.6",
+        "dialStripped": "1026"
+      },
+      "aliases": {
+        "cleanName": "fuge",
+        "alsoKnownAs": "Radio Finlandia (previous)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Benalmádena",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Benalmádena, Andalusia, Spain",
+        "coordinates": {
+          "latitude": "36.5961000",
+          "longitude": "-4.5726700"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 251740,
+          "url": "http://streaming.broadcast.radio/fugefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8053,
+          "url": "https://streaming.broadcast.radio/fugefm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 8052,
+          "url": "http://uksoutha.streaming.broadcast.radio:26990/fugefm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 254353,
+          "url": "https://uksoutha.streaming.broadcast.radio:26990/fugefm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 51212,
+      "name": "Yle Radio Suomi",
+      "slug": "YLE_Radio_Suomi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/8d/7b8dd64d74e01e08700280a92cc03983.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.0",
+        "dialStripped": "940"
+      },
+      "aliases": {
+        "cleanName": "yle suomi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Espoo",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Espoo, Finland",
+        "coordinates": {
+          "latitude": "60.2052000",
+          "longitude": "24.6522000"
+        }
+      },
+      "genre": {
+        "text": "Adult Oldies Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83024,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 83023,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 17270,
+      "name": "Yle Radio 1",
+      "slug": "YLE_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2a/47/2a47684da21d42609756d0fe390a8ef9.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.9",
+        "dialStripped": "889"
+      },
+      "aliases": {
+        "cleanName": "yle 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Classical Culture Entertainment Folk Jazz News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 20908,
+          "url": "mmsh://mediau.yle.fi/liveyler1hifi?MSWMExt=.asf",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 256,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 20911,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20907,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 20909,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 20910,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 240100,
+      "name": "YleX",
+      "slug": "YLEX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9c/9f/9c9fd0c20ccc275daa4ad6a65e414d23.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.9",
+        "dialStripped": "919"
+      },
+      "aliases": {
+        "cleanName": "ylex",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185206,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 185205,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 280212,
+      "name": "Yle Radio Suomi",
+      "slug": "YLE_Keski_Suomi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/48/0248ce147d97a2d99b0f352c3d7aafa5.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.3",
+        "dialStripped": "993"
+      },
+      "aliases": {
+        "cleanName": "yle suomi",
+        "alsoKnownAs": "YLE Radio Keski-Suomi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jyväskylä",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Jyväskylä, Finland",
+        "coordinates": {
+          "latitude": "62.2414700",
+          "longitude": "25.7208800"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192071,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 192069,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 192067,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027683/in-YleJKL/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 192070,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027683/in-YleJKL/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 67365,
+      "name": "Radio Musa",
+      "slug": "Radio_Musa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/91/4c91a9b5acda7b829a67ee312690f919.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "musa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Instrumental Jazz Lite Pop Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 108358,
+          "url": "https://stream.radiojar.com/n6yg5q0z8vzuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 108357,
+          "url": "http://stream.radiojar.com/n6yg5q0z8vzuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 463217,
+      "name": "Yle Tampere",
+      "slug": "YLE_Tampereen_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/36/d436134c122166dd3bd92b68708341c5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.9",
+        "dialStripped": "999"
+      },
+      "aliases": {
+        "cleanName": "yle tampere",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 6,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218024,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_26@113903/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 218022,
+          "url": "http://mediau.yle.fi/a_tampere",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 218026,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_26@113903/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218025,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027718/in-YleTampere/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218021,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027718/in-YleTampere/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 218023,
+          "url": "mms://mediau.yle.fi/a_tampere",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 460392,
+      "name": "Yle Radio Suomi",
+      "slug": "YLE_Lapin_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/33/5d/335d4f42d5a1505b8bec30db9df206b6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "yle suomi",
+        "alsoKnownAs": "Lapin Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rovaniemi",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Rovaniemi, Finland",
+        "coordinates": {
+          "latitude": "66.5000000",
+          "longitude": "25.7166700"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217706,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027717/in-YleRovaniemi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217707,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_25@113902/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217705,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217700,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 217704,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_25@113902/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 217701,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027717/in-YleRovaniemi/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 168428,
+      "name": "Easy Hits",
+      "slug": "Easy_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/74/8b/748b5618e46d78b57e9d0d4b58d8200a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.1",
+        "dialStripped": "911"
+      },
+      "aliases": {
+        "cleanName": "easy hits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168528,
+          "url": "https://ms-live-easyhits.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 47352,
+      "name": "Yle Klassinen",
+      "slug": "YLE_Yle_Klassinen",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/5f/c45f3d4fbd2eccc8cc35e1f8209053ba.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "yle klassinen",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Baroque Classical Instrumental Opera",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 75114,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 75113,
+          "url": "http://mediau.yle.fi/liveklassinen",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 192,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 75115,
+          "url": "http://mediau.yle.fi/liveklassinen256",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 256,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 75117,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 75116,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 75110,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 100384,
+      "name": "Aito Iskelmä",
+      "slug": "Radio_Helsinki",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/13/1e130a43046b7460dbccda1fc7ab50ce.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.2",
+        "dialStripped": "952"
+      },
+      "aliases": {
+        "cleanName": "aito iskelma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 230966,
+          "url": "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 250277,
+          "url": "http://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 30757,
+      "name": "Kaaosradio - Dubstep/DnB/Breakbeat",
+      "slug": "Kaaosradio_DubstepDnBBreakbeat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/c0/78c0b55cd1c96822191815d013ef153e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kaaosradio dubstep dnb breakbeat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Drum and Bass Dubstep Electro",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49476,
+          "url": "https://stream.kaaosradio.fi/stream2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 231,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49474,
+          "url": "http://stream.kaaosradio.fi:8000/stream2",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 217,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49475,
+          "url": "http://stream.kaaosradio.fi:8001/stream2",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 247,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 380524,
+      "name": "YLE Oulu Radio",
+      "slug": "YLE_Oulu_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/d3/62d369de7dc16d2c3d0e8c7dbb216da0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "yle oulu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oulu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Oulu, Oulu, Finland",
+        "coordinates": {
+          "latitude": "65.0123600",
+          "longitude": "25.4681600"
+        }
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210515,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027714/in-YleOulu/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 210512,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027714/in-YleOulu/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 55604,
+      "name": "Radio Suomipop Top 40",
+      "slug": "Radio_Suomipop_Top",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/04/800491bd1406d1e3d77fe994ba2fb475.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suomipop top 40",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 90476,
+          "url": "https://ext-stream-pl05.nm-elemental.nelonenmedia.fi/HET/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255640,
+          "url": "http://ext-stream-pl05.nm-elemental.nelonenmedia.fi/HET/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 575209,
+      "name": "Yle Lahden Radio 97.9",
+      "slug": "YLE_Lahden_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/8d/638de62ef35da673cb0c2de8572163a5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.9",
+        "dialStripped": "979"
+      },
+      "aliases": {
+        "cleanName": "yle lahden 97.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Lahti",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Lahti, Päijät-Häme, Finland",
+        "coordinates": {
+          "latitude": "60.9826700",
+          "longitude": "25.6615100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227883,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027710/in-YleLahti/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227885,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027710/in-YleLahti/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 353445,
+      "name": "NRJ Finland",
+      "slug": "NRJ_Finland",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/b5/26b5a619f8d076a13da16810913c06aa.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "nrj",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 206206,
+          "url": "https://stream.radioplay.fi/nrj/nrj_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 206205,
+          "url": "http://stream.radioplay.fi/nrj/nrj_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 206207,
+          "url": "https://stream.radioplay.fi/nrj/nrj_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 100388,
+      "name": "Aito Iskelmä Finnhits",
+      "slug": "Aito_Iskelma_Finnhits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/92/5f92cd8e20784ce4b863feec599f8e4c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aito iskelma finnhits",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 254904,
+          "url": "http://ext-stream-pl06.nm-elemental.nelonenmedia.fi/HEF/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 143150,
+          "url": "https://ext-stream-pl06.nm-elemental.nelonenmedia.fi/HEF/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 240662,
+      "name": "Radio Suomipop Klassikot",
+      "slug": "Radio_Suomipop_Klassikot",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/16/f116fd7fb4c1ce5a8efca8cc910f2610.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "suomipop klassikot",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185310,
+          "url": "https://ext-stream-pl04.nm-elemental.nelonenmedia.fi/HEK/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253743,
+          "url": "http://ext-stream-pl04.nm-elemental.nelonenmedia.fi/HEK/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 10066826,
+      "name": "Radio Rock Lite",
+      "slug": "Radio_Rock_Lite",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/66/ed6687ef686dc76abdbb27e5ed86173d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock lite",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Lite Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236962,
+          "url": "https://ext-stream-pl02.nm-elemental.nelonenmedia.fi/HEI/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 256081,
+          "url": "http://ext-stream-pl02.nm-elemental.nelonenmedia.fi/HEI/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 299618,
+      "name": "Yle Kuopio",
+      "slug": "YLE_Radio_Savo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7f/9e/7f9e7a3ce2b0bc0bbfc2ed1b8a625804.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "yle kuopio",
+        "alsoKnownAs": "Yle Radio Suomi Kuopio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kuopio",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Kuopio, Finland",
+        "coordinates": {
+          "latitude": "62.8923800",
+          "longitude": "27.6770300"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 198766,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027709/in-YleKuopio/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 198767,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027709/in-YleKuopio/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 54144,
+      "name": "Matka Radio24",
+      "slug": "Matka_Radio24",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c3/4b/c34bb31551bbe6ed4470e662ecc02272.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "matka radio24",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Asikkala",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Asikkala, Päijät-Häme, Finland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "70s 80s Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88108,
+          "url": "https://tallukka.radiotaajuus.fi/radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 289591,
+      "name": "Tampereen Kiakko Radio",
+      "slug": "Fun_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ac/09/ac09c5a3430536bea7a7b3418a34b384.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.0",
+        "dialStripped": "890"
+      },
+      "aliases": {
+        "cleanName": "tampereen kiakko",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 195329,
+          "url": "https://st.downtime.fi/kiakko-tappara.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 195326,
+          "url": "http://st.downtime.fi/kiakko-tappara.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 195330,
+          "url": "https://st.downtime.fi/kiakko-ilves.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 66,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 60829,
+      "name": "Radio Patmos",
+      "slug": "Radio_Patmos",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/2f/ce2fff129f37b4ddecf95be833d71504.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.4",
+        "dialStripped": "1074"
+      },
+      "aliases": {
+        "cleanName": "patmos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99647,
+          "url": "https://s3.yesstreaming.net:7011/radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99646,
+          "url": "http://s3.yesstreaming.net:7011/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 166914,
+      "name": "Savon Aallot",
+      "slug": "Savon_Aallot",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/f4/eef4eed0a34d63109b3dc2f592366bdc.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "savon aallot",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kuopio",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Kuopio, Finland",
+        "coordinates": {
+          "latitude": "62.8923800",
+          "longitude": "27.6770300"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168130,
+          "url": "https://cast.savonaallot.fi/savonaallot",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 23133,
+      "name": "Radio Rock Metal",
+      "slug": "Radio_Rock_Metal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/c0/80c0aff53853c1ebe634a1a71139bb2a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock metal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 255837,
+          "url": "http://ext-stream-pl03.nm-elemental.nelonenmedia.fi/HEM/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 35406,
+          "url": "https://ext-stream-pl03.nm-elemental.nelonenmedia.fi/HEM/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 51474,
+      "name": "HitMix 80s",
+      "slug": "HitMix_80s",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/78/b87847e2dac0f45ce8fa885bc8b75c81.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hitmix 80s",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "80s",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 83469,
+          "url": "https://ext-stream-pl09.nm-elemental.nelonenmedia.fi/HEH/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254603,
+          "url": "http://ext-stream-pl09.nm-elemental.nelonenmedia.fi/HEH/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 509607,
+      "name": "Yle Radio Vega Västnyland",
+      "slug": "YLE_Radio_Vega_Vastnyland",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/6f/a06f14ed6cef50a17ff9c646074a4267.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9",
+        "dialStripped": "1019"
+      },
+      "aliases": {
+        "cleanName": "yle vega vastnyland",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hanko",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Hanko, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221406,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_30@113907/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 221402,
+          "url": "http://mediau.yle.fi/a_vegavast",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 221400,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027723/in-YleVegaVastnyland/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 221403,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_30@113907/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 221405,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027723/in-YleVegaVastnyland/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 186509,
+      "name": "Yle Radio Suomi",
+      "slug": "YLE_Etela_Savon",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/74/43740f3aea59f6b17698d8a1cc4a93c0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "yle suomi",
+        "alsoKnownAs": "YLE Etelä-Savon"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mikkeli",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Mikkeli, Finland",
+        "coordinates": {
+          "latitude": "61.6885700",
+          "longitude": "27.2722700"
+        }
+      },
+      "genre": {
+        "text": "Culture News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173678,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027713/in-YleMikkeli/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173679,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_21@113898/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173675,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027713/in-YleMikkeli/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173677,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_21@113898/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 173676,
+          "url": "http://mediau.yle.fi/a_etelasavo",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 591639,
+      "name": "Radio Rock Classics",
+      "slug": "Radio_Rock_Classics",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/48/3548652443859c4c6d32aec4ccb75979.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock classics",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249887,
+          "url": "http://ext-stream-pl01.nm-elemental.nelonenmedia.fi/HEC/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 229005,
+          "url": "https://ext-stream-pl01.nm-elemental.nelonenmedia.fi/HEC/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 20103,
+      "name": "Loop EDM",
+      "slug": "Radio_Global_Finland_102.4_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/9b/af9b5325ebfe248bb2c970aafb966bc6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "loop edm",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Electronic Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 7605320,
+      "name": "Radio Classic",
+      "slug": "Classic_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/fb/5ffb066a3a8887ee4260276a8bd5152e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "92.2",
+        "dialStripped": "922"
+      },
+      "aliases": {
+        "cleanName": "classic",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Classical Folk Jazz",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276200,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 46560,
+      "name": "Groove FM - Lounge",
+      "slug": "Groove_FM_Lounge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d6/77/d677247041a73e0bce93793b1113db8a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "groove lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Lounge",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 36619255,
+      "name": "Radio Nostalgia",
+      "slug": "Radio_Nostalgia_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/40/90/40903df10dcf3f5f9ea99c437c7f509e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.5",
+        "dialStripped": "1055"
+      },
+      "aliases": {
+        "cleanName": "nostalgia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "50s 60s Hits Oldies",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 266460,
+          "url": "http://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266461,
+          "url": "https://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 100387,
+      "name": "Aito Iskelmä Ulkomaiset Klassikot",
+      "slug": "Aito_Iskelma_Ulkomaiset_Klassikot",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/31/d33179a9c53489b8fd73d32165e2b62a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aito iskelma ulkomaiset klassikot",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143149,
+          "url": "https://ext-stream-pl07.nm-elemental.nelonenmedia.fi/HEU/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253784,
+          "url": "http://ext-stream-pl07.nm-elemental.nelonenmedia.fi/HEU/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 281518,
+      "name": "Kaupunkiradio",
+      "slug": "Kaupunki_Radio_100.0_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ef/93/ef93a3e14460b45d1911a75c4f86dfa1.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kaupunkiradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Oldies Pop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192290,
+          "url": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192289,
+          "url": "http://kaupunkiradio.radiotaajuus.fi:8013/radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 280215,
+      "name": "SuomiRock",
+      "slug": "Radio_Jyvaskyla_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/26/21/2621f2b6f037c6c53b5155f975f4cf5e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.4",
+        "dialStripped": "1064"
+      },
+      "aliases": {
+        "cleanName": "suomirock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jyväskylä",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Jyväskylä, Finland",
+        "coordinates": {
+          "latitude": "62.2414700",
+          "longitude": "25.7208800"
+        }
+      },
+      "genre": {
+        "text": "Dance Europe Folk Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278275,
+          "url": "https://stream.bauermedia.fi/suomirock/suomirock_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 381109,
+      "name": "Sea FM Radio Finland",
+      "slug": "Sea_FM1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/39/3439f6634465592de656f3c7b8b25ba8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "sea",
+        "alsoKnownAs": "Sea FM Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oulu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Oulu, Oulu, Finland",
+        "coordinates": {
+          "latitude": "65.0123600",
+          "longitude": "25.4681600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 210605,
+          "url": "http://s3.myradiostream.com:4976/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 247007,
+          "url": "https://s3.myradiostream.com:4976/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271175,
+          "url": "http://87.98.216.129:4976/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210607,
+          "url": "http://87.98.216.129:4976/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 210609,
+          "url": "http://digiradio.xyz:8000/seafm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271174,
+          "url": "http://s3.myradiostream.com:4976/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 264162,
+      "name": "Radio Iskelmä",
+      "slug": "Iskelma_Aikakone",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/77/fd7750482ab95789a0bd9081fe14f1a5.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.7",
+        "dialStripped": "1017"
+      },
+      "aliases": {
+        "cleanName": "iskelma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hämeenlinna",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Hämeenlinna, Finland",
+        "coordinates": {
+          "latitude": "60.9959600",
+          "longitude": "24.4643400"
+        }
+      },
+      "genre": {
+        "text": "Dance Europe Variety",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270391,
+          "url": "https://stream.bauermedia.fi/iskelma/hml_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 46243,
+      "name": "Kaaosradio - 24h Chill",
+      "slug": "Kaaosradio_24h_Chill",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/35/54/3554e8d32d77dfa60acea38688e2afb9.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kaaosradio 24h chill",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Chillout Dance Electro",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74176,
+          "url": "http://stream.kaaosradio.fi:8001/chill",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 269,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74175,
+          "url": "http://stream.kaaosradio.fi:8000/chill",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 271,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74177,
+          "url": "https://stream.kaaosradio.fi/chill",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 275,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 33038,
+      "name": "Radio Latina",
+      "slug": "Radio_Latina_9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/c3/29c31bea5bd3e448bec0d4c90a0c34c6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "latina",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop Rock Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 54057,
+          "url": "http://stream.zeno.fm/lawvx8yxjcavv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54059,
+          "url": "https://stream.zeno.fm/lawvx8yxjcavv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54060,
+          "url": "https://stream.zeno.fm/n9visfsxhuttv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 54058,
+          "url": "http://stream.zeno.fm/n9visfsxhuttv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 281772,
+      "name": "Kantriradio",
+      "slug": "Kantriradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/cb/80cb4122d5b4b32f5c93c936ba91acc2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.6",
+        "dialStripped": "916"
+      },
+      "aliases": {
+        "cleanName": "kantriradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Country",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192387,
+          "url": "https://ms-live-kantriradio.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 285100,
+      "name": "Yle Radio Suomi Kemi",
+      "slug": "YLE_Radio_Perameri",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/29/8129b71c8ef9959ec53a6433deb53cfe.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.6",
+        "dialStripped": "956"
+      },
+      "aliases": {
+        "cleanName": "yle suomi kemi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tervola",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tervola, Lapland, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 193682,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 193684,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 863373,
+      "name": "Preppis radio",
+      "slug": "Preppis_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/8e/a88e8d51c47ba199ee98643fbf485eee.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "preppis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": ", Finland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 229942,
+          "url": "http://stream.zeno.fm/ekzy7t6z8p8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 229943,
+          "url": "https://stream.zeno.fm/ekzy7t6z8p8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 239652,
+      "name": "The Voice - Herättäjät",
+      "slug": "The_Voice_Herattajat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/b0/3ab078543feb37b54800ef1fd7431bde.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the voice herattajat",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "News Talk Variety",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279995,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 132309,
+      "name": "Radio City",
+      "slug": "Radio_957_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/2a/bd2a8caaf10b7e9348231c011238a309.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.2",
+        "dialStripped": "972"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 269308,
+          "url": "https://stream.bauermedia.fi/radiocity/tre_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 269307,
+          "url": "http://stream.bauermedia.fi/radiocity/tre_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269309,
+          "url": "https://stream.bauermedia.fi/radiocity/tre_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 274848,
+      "name": "Yle Radio Suomi Joensuu",
+      "slug": "YLE_Pohjois_Karjalan",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/d3/62d369de7dc16d2c3d0e8c7dbb216da0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "yle suomi joensuu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Joensuu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Joensuu, North Karelia, Finland",
+        "coordinates": {
+          "latitude": "62.6011800",
+          "longitude": "29.7631600"
+        }
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191227,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027682/in-YleJoensuu/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 191229,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027682/in-YleJoensuu/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 17490,
+      "name": "Rondo Classic Klasu",
+      "slug": "Classic_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/71/77/71773ea45add12829633ca894280a03e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rondo classic klasu",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Classical Entertainment Instrumental Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21515,
+          "url": "http://iradio.fi:8000/klasu-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21514,
+          "url": "http://iradio.fi:8000/klasu-med.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 395792,
+      "name": "Play Radio",
+      "slug": "Play_Radio_3",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "play",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211849,
+          "url": "http://stream2.sbs.fi/play.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 42781,
+      "name": "Loop",
+      "slug": "KesaFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0c/c2/0cc2b2cf497077e01f9b31da2a29b23e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.4",
+        "dialStripped": "1024"
+      },
+      "aliases": {
+        "cleanName": "loop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68726,
+          "url": "https://ms-live-kantriradio.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 239696,
+      "name": "Radio Hear",
+      "slug": "Radio_Hear",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/96/97/9697115c415c6ddf1368df4497929251.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hear",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 257569,
+          "url": "/tmp/tmp_ote2iqe",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 126,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185083,
+          "url": "http://radio.hear.fi:8000/hear.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 151,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185082,
+          "url": "http://hear.fi:8000/hear.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185084,
+          "url": "http://radio.hear.fi:8000/h128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 282490,
+      "name": "Kaaosradio - Live",
+      "slug": "Kaaosradio_Live",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/42/614294b98d3a8b50d2619843dfdc65f0.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kaaosradio live",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Dance Electro Electronic Hip Hop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192706,
+          "url": "http://stream.kaaosradio.fi:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192707,
+          "url": "http://stream.kaaosradio.fi:8001/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192708,
+          "url": "https://stream.kaaosradio.fi/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 575224,
+      "name": "Yle Sámi Radio",
+      "slug": "YLE_Sami_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/75/6f75ac2747b96197e5c5b3c7b1fce306.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.9",
+        "dialStripped": "1019"
+      },
+      "aliases": {
+        "cleanName": "yle sami",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Inari",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Inari, Lapland, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Hits News Talk Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227886,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227888,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227889,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_33@113910/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227887,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_33@113910/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 12526824,
+      "name": "HitMix",
+      "slug": "HitMix_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a8/1a/a81affcc15e9964a9bf843190cd17da1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "hitmix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 238545,
+          "url": "https://ms-live-hitmix.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 575242,
+      "name": "Yle Satakunnan Radio",
+      "slug": "Yle_Satakunnan_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/30/6c300792c318c9415f5e9d1b1724cf13.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.8",
+        "dialStripped": "948"
+      },
+      "aliases": {
+        "cleanName": "yle satakunnan",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pori",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Pori, Pori, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary News Pop Sports Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227892,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027715/in-YlePori/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227891,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 227890,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027715/in-YlePori/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 49286,
+      "name": "Classic Hits TPS-selostukset",
+      "slug": "Classic_Hits_TPS_selostukset",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fd/b8/fdb85bd7fc900e495def6a3c9bc3ce1a.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "classic hits tps selostukset",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78714,
+          "url": "https://ext-stream-kiekko-tps.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 252250,
+          "url": "http://ext-stream-kiekko-tps.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 17817,
+      "name": "Hiphop",
+      "slug": "Hiphop_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b3/3c/b33c7de1208e8f111cc343ed681b777e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hiphop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": ", Finland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 22462,
+          "url": "https://stream.zeno.fm/5anvxzwh3v8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 22461,
+          "url": "http://stream.zeno.fm/5anvxzwh3v8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 509468,
+      "name": "Radio Vaasa",
+      "slug": "Radio_Vaasa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/73/95739c28c1db9fa2f264ef305e23e58b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "vaasa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vaasa",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Vaasa, Finland",
+        "coordinates": {
+          "latitude": "63.0960000",
+          "longitude": "21.6157700"
+        }
+      },
+      "genre": {
+        "text": "Culture Europe Folk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221361,
+          "url": "http://stream.protonbroadcast.com:8000/radiovaasa.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 221363,
+          "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 1108,
+      "name": "Radio Rock",
+      "slug": "Radio_Rock_10",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/25/e6/25e616f2bc27d44748a50478ffcb9695.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.5",
+        "dialStripped": "925"
+      },
+      "aliases": {
+        "cleanName": "rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 2716,
+          "url": "https://ms-live-radiorock.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 262,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 282052,
+      "name": "Kaaosradio - Chiptune",
+      "slug": "Kaaosradio_Chiptune",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/63/dd63651c32d61c9b2088df2e59974a94.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kaaosradio chiptune",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Hip Hop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192493,
+          "url": "https://stream.kaaosradio.fi/chip",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 228,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192491,
+          "url": "http://stream.kaaosradio.fi:8000/chip",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 240,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192492,
+          "url": "http://stream.kaaosradio.fi:8001/chip",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 258,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 18110648,
+      "name": "Radio Ramona",
+      "slug": "Radio_Romona",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9f/e6/9fe661dff3c32229dda16625f39b90eb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.3",
+        "dialStripped": "933"
+      },
+      "aliases": {
+        "cleanName": "ramona",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rauma",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Rauma, Finland",
+        "coordinates": {
+          "latitude": "61.1272400",
+          "longitude": "21.5112700"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 243281,
+          "url": "https://stream.protonbroadcast.com:8443/ramona.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243279,
+          "url": "http://stream.protonbroadcast.com:8000/ramona.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 268538,
+      "name": "Jänis Radio",
+      "slug": "Janis_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/90/a090708cbed2873548b0a40d536985b8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "janis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Turku",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Turku, Southwest Finland, Finland",
+        "coordinates": {
+          "latitude": "60.4514800",
+          "longitude": "22.2686900"
+        }
+      },
+      "genre": {
+        "text": "Other Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 190314,
+          "url": "https://stream.zeno.fm/prk3x1aingavv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 190313,
+          "url": "http://stream.zeno.fm/prk3x1aingavv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 234544,
+      "name": "Hamsi FM",
+      "slug": "Hamsi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bf/89/bf8973c37159008d9d343e9570f15312.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hamsi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Espoo",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Espoo, Finland",
+        "coordinates": {
+          "latitude": "60.2052000",
+          "longitude": "24.6522000"
+        }
+      },
+      "genre": {
+        "text": "Information Turkish Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 261287,
+          "url": "http://helsinki.hamsi.fm:8050/;;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183848,
+          "url": "http://berlin.hamsi.fm:8050/radyo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183845,
+          "url": "http://helsinki.hamsi.fm:8050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 183846,
+          "url": "http://berlin.hamsi.fm:8050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 138,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 183844,
+          "url": "http://radyo.hamsi.fm:8050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 121,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 183847,
+          "url": "http://espoo.hamsi.fm:8050/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261286,
+          "url": "http://espoo.hamsi.fm:8050/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261288,
+          "url": "http://helsinki.hamsi.fm:8050/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 183849,
+          "url": "http://radyo.hamsi.fm:8050/radyo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "tr",
+          "name": "Turkish"
+        },
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 18335,
+      "name": "Yle X3M",
+      "slug": "YLE_X3M",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e6/8a/e68a31da460c66c246c20b4a0e1fb9ac.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.9",
+        "dialStripped": "989"
+      },
+      "aliases": {
+        "cleanName": "yle x3m",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Espoo",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Espoo, Finland",
+        "coordinates": {
+          "latitude": "60.2052000",
+          "longitude": "24.6522000"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 23934,
+          "url": "http://mediau.yle.fi/livex3m",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "video/x-ms-asf",
+          "works": true
+        },
+        {
+          "id": 23936,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 23938,
+          "url": "https://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23933,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23937,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 23935,
+          "url": "mms://mediau.yle.fi/livex3m",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 128,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 17622,
+      "name": "Klasu PRO",
+      "slug": "Classic_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/c7/c7c7f13979b1d2fc59dd547fef2c8b51.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "klasu pro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Classical Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 21864,
+          "url": "http://stream.iradio.fi:8000/klasupro-lo.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21867,
+          "url": "http://rondo.iradio.fi:8000/klasupro-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21863,
+          "url": "http://stream.iradio.fi:8000/klasupro-med.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21862,
+          "url": "http://rondo.iradio.fi:8000/klasupro-med.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 21865,
+          "url": "http://stream.iradio.fi:8000/klasupro-hi.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 264483,
+      "name": "Iskelmä Rex 92.8",
+      "slug": "Radio_Rex",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/f2/5cf224eb8169ddfe24bfb47947450713.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "iskelma rex 92.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Joensuu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Joensuu, Finland",
+        "coordinates": {
+          "latitude": "62.6011800",
+          "longitude": "29.7631600"
+        }
+      },
+      "genre": {
+        "text": "Culture Europe News",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280041,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 264427,
+      "name": "Radio Iskelmä",
+      "slug": "Radio_Iskelma_100.9_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/3d/663dd26401d241bdab516a2516c3c286.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "iskelma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Dance Europe Variety",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 280040,
+          "url": "https://stream.bauermedia.fi/iskelma/hki_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 73787,
+      "name": "Radio Sputnik",
+      "slug": "Radio_Sputnik",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/0c/6c0c715447e68d594451b3f1f952948f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "sputnik",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Culture Russian",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276203,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 27188,
+      "name": "SBS Discovery - Radio City",
+      "slug": "Radio_City_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/56/f756f8a4672d2a579426c40a2f7fbcdb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "sbs discovery city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 271158,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 7604001,
+      "name": "Radio Nova",
+      "slug": "Radio_Nova_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/ac/62acca6cda5c8f950f41a2d1a6e8993b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.2",
+        "dialStripped": "1062"
+      },
+      "aliases": {
+        "cleanName": "nova",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272219,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 56387,
+      "name": "Radio Helsinki",
+      "slug": "Radio_Helsinki_98.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/03/310315cd1300ace3bf99a32a0d376cf8.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "helsinki",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Hits Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275996,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 50954,
+      "name": "Radio Pori",
+      "slug": "Radio_Pori",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f7/36/f7364277ed84ff83b9460ace8c8a77ce.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.4",
+        "dialStripped": "894"
+      },
+      "aliases": {
+        "cleanName": "pori",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pori",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Pori, Pori, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Oldies",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 282187,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 27216,
+      "name": "Radio City",
+      "slug": "Radio_Mega",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e1/3a/e13ac7d77b2540b588bc65284ac768a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.1",
+        "dialStripped": "1031"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": "SBS Discovery - Radio City"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oulu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Oulu, Oulu, Finland",
+        "coordinates": {
+          "latitude": "65.0123600",
+          "longitude": "25.4681600"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Alternative Classic Rock Pop Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 269302,
+          "url": "https://stream.bauermedia.fi/radiocity/oul_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 269301,
+          "url": "http://stream.bauermedia.fi/radiocity/oul_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 269303,
+          "url": "https://stream.bauermedia.fi/radiocity/oul_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 49018220,
+      "name": "Radio City",
+      "slug": "PARTY_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3d/1b/3d1b8174b5b978d9c5a0fcd4a5eb8c3a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.4",
+        "dialStripped": "994"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Dance Electronic Hits Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 278648,
+          "url": "http://stream.bauermedia.fi/radiocity/radiocity_128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 278650,
+          "url": "https://stream.bauermedia.fi/radiocity/radiocity_128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 278649,
+          "url": "https://stream.bauermedia.fi/radiocity/radiocity_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 72207,
+      "name": "Bassoradio",
+      "slug": "Basso_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4e/f2/4ef2431078740cf2b3cc5f762953b5d7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "bassoradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Alternative Dance Electro Hip Hop Indie",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272664,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 26453,
+      "name": "Groove FM",
+      "slug": "Groove_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d2/93/d293f6eef8b0f7281c9ea3fa38a26c98.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.8",
+        "dialStripped": "1028"
+      },
+      "aliases": {
+        "cleanName": "groove",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Jazz Soul",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275718,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 49416,
+      "name": "Classic Hits HIFK-selostukset",
+      "slug": "Classic_Hits_HIFK_selostukset",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/2e/702e130bca6a1ebc492f2cd858ff92ee.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "classic hits hifk selostukset",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78960,
+          "url": "https://ext-stream-kiekko-hifk.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 255589,
+          "url": "http://ext-stream-kiekko-hifk.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 27134,
+      "name": "SBS Discovery - The Voice",
+      "slug": "The_Voice_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/34/5d/345d3d1b69c522ab8258b88bbf7ad066.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.6",
+        "dialStripped": "1046"
+      },
+      "aliases": {
+        "cleanName": "sbs discovery the voice",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Information Variety",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279811,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 264495,
+      "name": "Radio Iskelma",
+      "slug": "Radio_Alex_2",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "89.4",
+        "dialStripped": "894"
+      },
+      "aliases": {
+        "cleanName": "iskelma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Oulu",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Oulu, Oulu, Finland",
+        "coordinates": {
+          "latitude": "65.0123600",
+          "longitude": "25.4681600"
+        }
+      },
+      "genre": {
+        "text": "Christian Folk Gospel Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 94859,
+      "name": "RadioSE.fi",
+      "slug": "Radio_Kaakko",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/16/07169518ec1549537825b0b0f44e2ea7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "radiose fi",
+        "alsoKnownAs": "Radio Kaakko [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kouvola",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Kouvola, Kymenlaakso, Finland",
+        "coordinates": {
+          "latitude": "60.8666700",
+          "longitude": "26.7000000"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140161,
+          "url": "http://wr2.downtime.fi/kaakko.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140167,
+          "url": "http://149.202.79.151/kaakko.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140169,
+          "url": "https://wr2.downtime.fi/kaakko.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140171,
+          "url": "https://wr2.downtime.fi/kaakko.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140159,
+          "url": "http://wr2.downtime.fi/kaakko.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 102,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140164,
+          "url": "http://wr2.downtime.fi:80/kaakko.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140160,
+          "url": "http://wr2.downtime.fi:8000/kaakko.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 98,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140170,
+          "url": "https://wr2.downtime.fi:80/kaakko.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 252799,
+          "url": "https://wr2.downtime.fi:8000/kaakko.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140163,
+          "url": "http://149.202.79.151:8000/kaakko.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140168,
+          "url": "https://wr2.downtime.fi:80/kaakko.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 93,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140166,
+          "url": "http://wr2.downtime.fi:80/kaakko.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140158,
+          "url": "http://wr2.downtime.fi:8000/kaakko.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 57625438,
+      "name": "Kiss",
+      "slug": "The_Voice_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/07/f2/07f2b673e21c5e266a7d3465bbe9101a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.9",
+        "dialStripped": "1069"
+      },
+      "aliases": {
+        "cleanName": "kiss",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ähtäri",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Ähtäri, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information Pop Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281095,
+          "url": "https://stream.bauermedia.fi/kiss/kiss_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 56412,
+      "name": "Oikea Asema",
+      "slug": "Oikea_Asema",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/ce/95ceef354c4948db282446d9f96f60ff.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.7",
+        "dialStripped": "967"
+      },
+      "aliases": {
+        "cleanName": "oikea asema",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kuopio",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Kuopio, Finland",
+        "coordinates": {
+          "latitude": "62.8923800",
+          "longitude": "27.6770300"
+        }
+      },
+      "genre": {
+        "text": "Rock Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 271979,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 274582,
+      "name": "Jouluradio",
+      "slug": "Jouluradio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/74/ed74a5fc3f9268cbfca418b7ac9b5c83.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.4",
+        "dialStripped": "1024"
+      },
+      "aliases": {
+        "cleanName": "jouluradio",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mikkeli",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Mikkeli, Finland",
+        "coordinates": {
+          "latitude": "61.6885700",
+          "longitude": "27.2722700"
+        }
+      },
+      "genre": {
+        "text": "Christmas Holidays",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191189,
+          "url": "http://ms-live-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 240264,
+      "name": "Jouluradio - Kauneimmat Joululaulut",
+      "slug": "Jouluradio.fi_Kauneimmat_Joululaulut",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/02/b2027d284df265b597e643b88db58199.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jouluradio kauneimmat joululaulut",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Christmas Gospel Holidays",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185220,
+          "url": "http://c1.toivon.net:8102/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185221,
+          "url": "http://c1.toivon.net/proxy/toivon_2_1?mp=/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 264287,
+      "name": "Radio Iskelma",
+      "slug": "Radio_Moro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/6c/a46cd75fb6b9283b94f0bf0f7c7ad281.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "iskelma",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tampere",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Tampere, Tampere, Finland",
+        "coordinates": {
+          "latitude": "61.4991100",
+          "longitude": "23.7871200"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276104,
+          "url": "https://stream.bauermedia.fi/iskelma/tre_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 37087101,
+      "name": "Radio Pooki",
+      "slug": "Radio_Pooki",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "FM",
+        "dial": "94.8",
+        "dialStripped": "948"
+      },
+      "aliases": {
+        "cleanName": "pooki",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Raahe",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Raahe, Finland",
+        "coordinates": {
+          "latitude": "64.6833300",
+          "longitude": "24.4833300"
+        }
+      },
+      "genre": {
+        "text": "Community Culture News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272667,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 37087078,
+      "name": "Jarvi Radio",
+      "slug": "Jarvi_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f1/19/f119d5dcf9bd3ecd90e47ea1f37c4fe1.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "jarvi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": ", Finland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272662,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 37087088,
+      "name": "Radio SuomiPop",
+      "slug": "Radio_SuomiPop",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c6/19/c6192acb54a0de6f8436d2d45f47e217.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.1",
+        "dialStripped": "981"
+      },
+      "aliases": {
+        "cleanName": "suomipop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hits Pop Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276467,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 37087099,
+      "name": "SuomiRock",
+      "slug": "Radio_Jyvaskyla",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/6e/a16ec5f36725a15ed92995f76655ac53.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "suomirock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pihtipudas",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Pihtipudas, Finland",
+        "coordinates": {
+          "latitude": "61.7337735",
+          "longitude": "24.9780162"
+        }
+      },
+      "genre": {
+        "text": "Alternative Hip Hop Hits Top 40",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272666,
+          "url": "https://stream.bauermedia.fi/suomirock/suomirock_64.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 55847,
+      "name": "Steel FM 95.9",
+      "slug": "Steel_FM_95.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/55/4e/554ecb5c5a617a70fd87d879ed124d9f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "steel 95.9",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mariehamn",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Mariehamn, Finland",
+        "coordinates": {
+          "latitude": "60.0972600",
+          "longitude": "19.9348100"
+        }
+      },
+      "genre": {
+        "text": "Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91106,
+          "url": "https://ice6.securenetsystems.net:80/STEELFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 91105,
+          "url": "https://ice6.securenetsystems.net/STEELFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 70,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 377287,
+      "name": "YLE Radio Vega Östnyland",
+      "slug": "YLE_Radio_Vega_Ostnyland",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a0/6f/a06f14ed6cef50a17ff9c646074a4267.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "yle vega ostnyland",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hollola",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Hollola, Finland",
+        "coordinates": {
+          "latitude": "61.0500000",
+          "longitude": "25.4333300"
+        }
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 209849,
+          "url": "http://yleuni-f.akamaihd.net/i/yleliveradiohd_29@113906/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 209850,
+          "url": "https://yleradiolive.akamaized.net/hls/live/2027722/in-YleVegaOstnyland/master.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 209848,
+          "url": "http://yleradiolive.akamaized.net/hls/live/2027722/in-YleVegaOstnyland/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 256,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 37087093,
+      "name": "Radio Dei",
+      "slug": "Radio_Dei",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/89/b489fbd64f7e2a5a1f428bb5f8f04c49.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89",
+        "dialStripped": "89"
+      },
+      "aliases": {
+        "cleanName": "dei",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Christian Gospel Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272663,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "name": "Rádio Rock",
+      "slug": "Radio_Rock_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/f3/67f332922bedb5f46eec7d3c0c109a37.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Helsinki",
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "locationText": "Helsinki, Finland",
+        "coordinates": {
+          "latitude": "60.1695200",
+          "longitude": "24.9354500"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Alternative Classic Rock Rock",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272055,
+          "url": "http://streaming.streema.com/listen-gen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    },
+    {
+      "id": 169391,
+      "name": "RHT Guadeloupe",
+      "slug": "Radio_Haute_Tension",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3a/50/3a50775edb2a68ca7fd74bfb8c22a029.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.8",
+        "dialStripped": "898"
+      },
+      "aliases": {
+        "cleanName": "rht",
+        "alsoKnownAs": "Radio Haute Tension"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Capesterre-Belle-Eau",
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "locationText": "Capesterre-Belle-Eau, Guadeloupe",
+        "coordinates": {
+          "latitude": "16.0432200",
+          "longitude": "-61.5659600"
+        }
+      },
+      "genre": {
+        "text": "Culture French",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 3,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168984,
+          "url": "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168983,
+          "url": "http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "fi",
+          "name": "Finnish"
+        }
+      ]
+    }
+  ]
+}

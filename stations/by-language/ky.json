@@ -1,0 +1,288 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.177Z",
+  "endpoint": "/languages/ky/radios",
+  "code": "ky",
+  "name": "Kyrgyz",
+  "count": 3,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 3844,
+      "name": "BBC Radio - Kyrgyz",
+      "slug": "BBC_Kyrgyz",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/41/d341fba803cfb5e9ed7d756c1b90516e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bbc kyrgyz",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "London",
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "locationText": "London, England, United Kingdom",
+        "coordinates": {
+          "latitude": "51.5085300",
+          "longitude": "-0.1257400"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 281087,
+          "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_kyrgyz_radio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281089,
+          "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_kyrgyz_radio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 281088,
+          "url": "http://bbcwsradio-lh.akamaihd.net/i/WSKIRGA_1@189900/master.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 64,
+          "contentType": "audio/x-aac",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ky",
+          "name": "Kyrgyz"
+        }
+      ]
+    },
+    {
+      "id": 114428,
+      "name": "Tumar FM",
+      "slug": "Tumar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/07/5c07b67f7a02d6b79cac80fa62abc74e.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.1",
+        "dialStripped": "961"
+      },
+      "aliases": {
+        "cleanName": "tumar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242499,
+          "url": "https://radio.tumar.fm:8000/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153154,
+          "url": "https://radio.tumar.fm:8005/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 153153,
+          "url": "http://radio.tumar.fm:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ky",
+          "name": "Kyrgyz"
+        }
+      ]
+    },
+    {
+      "id": 73568,
+      "name": "Радио ОК",
+      "slug": "Radio_OK_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/d9/44d9e5a697ac0f1e6428ff2deef31ef6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "ok",
+        "alsoKnownAs": "Radio OK"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bishkek",
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "locationText": "Bishkek, Kyrgyzstan",
+        "coordinates": {
+          "latitude": "42.8700000",
+          "longitude": "74.5900000"
+        }
+      },
+      "genre": {
+        "text": "News Russian Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 244029,
+          "url": "https://stream.teos.media/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116154,
+          "url": "https://stream.okradio.kg:8005/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116153,
+          "url": "http://stream.okradio.kg:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ru",
+          "name": "Russian"
+        },
+        {
+          "code": "ky",
+          "name": "Kyrgyz"
+        }
+      ]
+    }
+  ]
+}

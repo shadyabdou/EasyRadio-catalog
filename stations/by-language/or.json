@@ -1,0 +1,605 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.184Z",
+  "endpoint": "/languages/or/radios",
+  "code": "or",
+  "name": "Odia",
+  "count": 8,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 101296,
+      "name": "All India Radio - Radio Odia",
+      "slug": "All_India_Radio_Radio_Odia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/4b/474bd15ae7ca68d483d3b8a2db8aa0a6.jpg",
+      "dial": {
+        "band": "DTH",
+        "dial": "11570",
+        "dialStripped": "11570"
+      },
+      "aliases": {
+        "cleanName": "all odia",
+        "alsoKnownAs": "Ākāshvāṇī - Radio Odia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": ", Odisha, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Classical Entertainment Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1530,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 91,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143918,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 143919,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 71565,
+      "name": "Radio Choklate",
+      "slug": "Radio_Choklate",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cb/d7/cbd74c867a5fb494672dcfea08f2b6a4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.0",
+        "dialStripped": "1040"
+      },
+      "aliases": {
+        "cleanName": "choklate",
+        "alsoKnownAs": "Radio Chocolate"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bhubaneswar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Bhubaneswar, Odisha, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 25,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113790,
+          "url": "https://stream.zeno.fm/cuxmkpgdceruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113789,
+          "url": "http://stream.zeno.fm/cuxmkpgdceruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 112430,
+      "name": "Odia Old Songs",
+      "slug": "Odia_Old_Songs",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8c/01/8c01cdadf8afe063797a2e33f669a6dc.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "odia old songs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bhubaneswar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Bhubaneswar, Odisha, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 7,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 151934,
+          "url": "https://stream.zeno.fm/oystkixag3euv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 151933,
+          "url": "http://stream.zeno.fm/oystkixag3euv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 71762,
+      "name": "All India Radio - AIR Baripada",
+      "slug": "All_India_Radio_AIR_Baripada",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/70/2a/702a72e65276bd608544ec5ac5112f88.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "all air baripada",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Baripada"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Baripada",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Baripada, Odisha, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114104,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 100292,
+      "name": "All India Radio - AIR Mahanadi Sambalpur",
+      "slug": "All_India_Radio_AIR_Mahanadi_Sambalpur",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/75/2f758981d83b2c9c33308448cc9f48a0.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "945",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "all air mahanadi sambalpur",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Mahanadi Sambalpur"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sambalpur",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Sambalpur, Odisha, India",
+        "coordinates": {
+          "latitude": "21.4500000",
+          "longitude": "83.9666700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 4,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143061,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 143060,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 71761,
+      "name": "All India Radio - AIR Rourkela",
+      "slug": "All_India_Radio_AIR_Rourkela",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/64/27/642726ab1ad049fda83d19b3e10a97a9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.6",
+        "dialStripped": "1026"
+      },
+      "aliases": {
+        "cleanName": "all air rourkela",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Rourkela"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Joranda",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Joranda, Odisha, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114103,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 71858,
+      "name": "Radio Sandesh",
+      "slug": "Radio_Sandesh",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/d9/02d9936eea349c461223c87f202732a1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "sandesh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kantabanji",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Kantabanji, Odisha, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114210,
+          "url": "http://streamasiacdn.atc-labs.com/radiosandesh.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 135,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114211,
+          "url": "https://streamasiacdn.atc-labs.com/radiosandesh.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 134,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    },
+    {
+      "id": 71805,
+      "name": "Jesus Coming FM - Oriya",
+      "slug": "Jesus_Coming_FM_Oriya",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/7f/777f99422321c73c60321ce5254c5f26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming oriya",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian Education Information Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "or",
+          "name": "Odia"
+        }
+      ]
+    }
+  ]
+}

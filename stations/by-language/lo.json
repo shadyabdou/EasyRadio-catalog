@@ -1,0 +1,321 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.177Z",
+  "endpoint": "/languages/lo/radios",
+  "code": "lo",
+  "name": "Lao",
+  "count": 4,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 71900,
+      "name": "Jesus Coming FM - Lao",
+      "slug": "Jesus_Coming_FM_Lao",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/98/3198d029d574836eea91b2c6f8ef63f0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming lao",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "lo",
+          "name": "Lao"
+        }
+      ]
+    },
+    {
+      "id": 93524,
+      "name": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ",
+      "slug": "Laos_National_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/b1/a4b107eeb0024e6c2e9f5d6889d34611.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "withanyukachaanysnyngeihngsaadlaaw",
+        "alsoKnownAs": "Lao National Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vientiane",
+        "countryName": "Laos",
+        "countryCode": null,
+        "locationText": "Vientiane, Laos",
+        "coordinates": {
+          "latitude": "17.9666700",
+          "longitude": "102.6000000"
+        }
+      },
+      "genre": {
+        "text": "Information News Politics Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139250,
+          "url": "https://radio.lnr.org.la/fm103",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139248,
+          "url": "http://radio.lnr.org.la/fm103",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 139249,
+          "url": "http://radio.lnr.org.la:80/fm103",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lo",
+          "name": "Lao"
+        }
+      ]
+    },
+    {
+      "id": 538531,
+      "name": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ",
+      "slug": "Lao_National_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/66/9d/669d70bfa9380869fbe1aab50a9000ed.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.3",
+        "dialStripped": "943"
+      },
+      "aliases": {
+        "cleanName": "withanyukachaanysnyngeihngsaadlaaw",
+        "alsoKnownAs": "Lao National Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vientiane",
+        "countryName": "Laos",
+        "countryCode": null,
+        "locationText": "Vientiane, Laos",
+        "coordinates": {
+          "latitude": "17.9666700",
+          "longitude": "102.6000000"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 224510,
+          "url": "http://radio.lnr.org.la/fm94",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 224511,
+          "url": "http://radio.lnr.org.la:80/fm94",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lo",
+          "name": "Lao"
+        }
+      ]
+    },
+    {
+      "id": 106957,
+      "name": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ 567 AM",
+      "slug": "Lao_National_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/1f/da1fba70d4333c8e067ccf00138ea127.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "567",
+        "dialStripped": "567"
+      },
+      "aliases": {
+        "cleanName": "withanyukachaanysnyngeihngsaadlaaw 567",
+        "alsoKnownAs": "Lao National Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vientiane",
+        "countryName": "Laos",
+        "countryCode": null,
+        "locationText": "Vientiane, Laos",
+        "coordinates": {
+          "latitude": "17.9666700",
+          "longitude": "102.6000000"
+        }
+      },
+      "genre": {
+        "text": "Asian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148109,
+          "url": "http://radio.lnr.org.la/am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148110,
+          "url": "http://radio.lnr.org.la:80/am",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lo",
+          "name": "Lao"
+        }
+      ]
+    }
+  ]
+}

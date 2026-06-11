@@ -1,0 +1,559 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.105Z",
+  "endpoint": "/languages/ka/radios",
+  "code": "ka",
+  "name": "Georgian",
+  "count": 7,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 89480,
+      "name": "რადიო დარდიმანდი",
+      "slug": "Radio_Dardimandi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/29/dd/29dd3d5625e6097a1e11bf8758a04842.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.1",
+        "dialStripped": "971"
+      },
+      "aliases": {
+        "cleanName": "dardimandi",
+        "alsoKnownAs": "Radio Dardimandi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "Community Folk News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 135467,
+          "url": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 210,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 135465,
+          "url": "http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 210,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 135466,
+          "url": "http://109.172.136.60:8080/broadwavehigh.mp3?src=1",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 83864,
+      "name": "საქართველოს რადიო მუსიკა",
+      "slug": "Radio_Georgia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/db/3fdb2a67e514d5d06a355d0d7e3274ae.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "sak art velos musika",
+        "alsoKnownAs": "Radio 2"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "Folk News Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 130084,
+          "url": "http://gpb-stream.cdn.xsg.ge/gpb-radio2/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 130085,
+          "url": "https://gpb-stream.cdn.xsg.ge/gpb-radio2/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 95132,
+      "name": "პირველი არხი მუსიკა fm",
+      "slug": "Radio_Ori_2nd_Channel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a7/8a/a78a38c3d187f9c442715ae68ca1d81d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.9",
+        "dialStripped": "1009"
+      },
+      "aliases": {
+        "cleanName": "pirveli arxi musika",
+        "alsoKnownAs": "Radio Ori 2nd Channel"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "Asian Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140428,
+          "url": "https://tv.cdn.xsg.ge/gpb-radio2/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140426,
+          "url": "http://tv.cdn.xsg.ge/gpb-radio2/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 93480,
+      "name": "Radio Maestro",
+      "slug": "Radio_Maestro",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/80/b9/80b92fe473852902f60633e8c4656489.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "maestro",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "News Politics Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 139192,
+          "url": "http://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 210,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 95136,
+      "name": "Radio 1",
+      "slug": "GPB",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/d7/5fd7321bb87b2641aa3ad25b7d8e01d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.4",
+        "dialStripped": "1024"
+      },
+      "aliases": {
+        "cleanName": "1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140434,
+          "url": "http://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 140436,
+          "url": "https://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 540,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 167990,
+      "name": "რადიო ძველი ქალაქი",
+      "slug": "Radio_Dzveli_Kalaki",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/5d/d45d100b635a1a21e4d7699716aa0dcc.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.9",
+        "dialStripped": "1079"
+      },
+      "aliases": {
+        "cleanName": "z veli k alak i",
+        "alsoKnownAs": "Radio Dzveli Kalaki"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kutaisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Kutaisi, Georgia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 168386,
+          "url": "http://iis.ge:8000/radiodk.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    },
+    {
+      "id": 95142,
+      "name": "რადიო პოზიტივი",
+      "slug": "Radio_Positive",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/b9/f9b97ddce6c7009941cae1c0e4c89512.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "pozitivi",
+        "alsoKnownAs": "Radio Positive "
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tbilisi",
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "locationText": "Tbilisi, Georgia",
+        "coordinates": {
+          "latitude": "41.6941100",
+          "longitude": "44.8336800"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Blues Classic Rock Jazz Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 140439,
+          "url": "https://stream.radiojar.com/sr4vzamzfnruv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 140438,
+          "url": "http://stream.radiojar.com/sr4vzamzfnruv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ka",
+          "name": "Georgian"
+        }
+      ]
+    }
+  ]
+}

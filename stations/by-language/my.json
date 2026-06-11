@@ -1,0 +1,322 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:09.762Z",
+  "endpoint": "/languages/my/radios",
+  "code": "my",
+  "name": "Burmese",
+  "count": 4,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 71810,
+      "name": "Jesus Coming FM - Burmese",
+      "slug": "Jesus_Coming_FM_Burmese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/7f/777f99422321c73c60321ce5254c5f26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming burmese",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian Education Information News Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275642,
+          "url": "http://live.jesuscomingfm.com:8324/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    },
+    {
+      "id": 106872,
+      "name": "Cherry FM",
+      "slug": "Cherry_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3b/8f/3b8f089e6428075d34e606fd7bb06590.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.3",
+        "dialStripped": "893"
+      },
+      "aliases": {
+        "cleanName": "cherry",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yangon",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Yangon, Myanmar",
+        "coordinates": {
+          "latitude": "16.8052800",
+          "longitude": "96.1561100"
+        }
+      },
+      "genre": {
+        "text": "Asian Community Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 148042,
+          "url": "http://150.95.80.54:8000/stream/89/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 148043,
+          "url": "https://cherry.akiyaresearch.com:444/stream/89/;?type=http&nocache=8;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    },
+    {
+      "id": 41943,
+      "name": "Shwe Ayeyar FM",
+      "slug": "Shwe_Ayeyar_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/5f/435f63e31fa4c64301505d48237b8eaa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shwe ayeyar",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Yangon",
+        "countryName": "Myanmar",
+        "countryCode": "MM",
+        "locationText": "Yangon, Myanmar",
+        "coordinates": {
+          "latitude": "16.8052800",
+          "longitude": "96.1561100"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 67233,
+          "url": "http://stream.zeno.fm/gvyz1utf4uhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 67234,
+          "url": "https://stream.zeno.fm/gvyz1utf4uhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    },
+    {
+      "id": 102960,
+      "name": "Voice of America - VOA Burmese",
+      "slug": "Voice_of_America_Burmese_VOA_Burmese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ab/27/ab276390762bca55932fe3e87653346d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of america voa burmese",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Washington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Washington, DC, United States",
+        "coordinates": {
+          "latitude": "37.1305400",
+          "longitude": "-113.5082900"
+        }
+      },
+      "genre": {
+        "text": "Asian News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 144699,
+          "url": "http://n07.radiojar.com/d0ktetbs92quv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 144700,
+          "url": "https://n07.radiojar.com/d0ktetbs92quv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "my",
+          "name": "Burmese"
+        }
+      ]
+    }
+  ]
+}

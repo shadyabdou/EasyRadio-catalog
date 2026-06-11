@@ -1,0 +1,996 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.179Z",
+  "endpoint": "/languages/mr/radios",
+  "code": "mr",
+  "name": "Marathi",
+  "count": 12,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 24433,
+      "name": "मराठी तरंग",
+      "slug": "Marathi_Tarang",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/5e/835efd3dce75bb6cf385a66d32fe0e58.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mraatthii trng",
+        "alsoKnownAs": "Marathi Tarang"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pune",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Pune, Maharashtra, India",
+        "coordinates": {
+          "latitude": "18.5195700",
+          "longitude": "73.8553500"
+        }
+      },
+      "genre": {
+        "text": "Asian Folk Religious Soundtracks Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 9150,
+        "byCountry": {
+          "us": 4,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 459,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 279111,
+          "url": "http://silverstream.radioca.st:8254/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 279110,
+          "url": "http://silverstream.radioca.st:8254/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37786,
+          "url": "http://stream.zeno.fm/vp0fs2u8grquv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37787,
+          "url": "https://stream.zeno.fm/vp0fs2u8grquv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 72231,
+      "name": "Hits Of Bollywood - Maayboli",
+      "slug": "Hits_Of_Bollywood_Maayboli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/d1/b0d1ab75b76867d8638282838ea7cf56.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hits of bollywood maayboli",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Mumbai",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Mumbai, Maharashtra, India",
+        "coordinates": {
+          "latitude": "19.0728300",
+          "longitude": "72.8826100"
+        }
+      },
+      "genre": {
+        "text": "Asian Bollywood Entertainment Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 8520,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 429,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114397,
+          "url": "http://stream.zeno.fm/463d8uzrwfeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114398,
+          "url": "https://stream.zeno.fm/463d8uzrwfeuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 48607,
+      "name": "All India Radio - AIR Marathi",
+      "slug": "All_India_Radio_AIR_Marathi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/54/9a543b2e4aea0feccfe79ac8e4c58022.jpg",
+      "dial": {
+        "band": "DTH",
+        "dial": "11090",
+        "dialStripped": "11090"
+      },
+      "aliases": {
+        "cleanName": "all air marathi",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Marathi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Delhi",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "New Delhi, Delhi, India",
+        "coordinates": {
+          "latitude": "28.6357600",
+          "longitude": "77.2244500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5490,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 288,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 71524,
+      "name": "Radio Mirchi",
+      "slug": "Radio_Mirchi_Indore",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/13/a6/13a636a276daef15b0b660e33a9edc98.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "mirchi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Indore",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Indore, Madhya Pradesh, India",
+        "coordinates": {
+          "latitude": "22.7179200",
+          "longitude": "75.8333000"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1950,
+        "byCountry": {
+          "us": 2,
+          "gb": 6,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 1,
+          "in": 67,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242765,
+          "url": "https://peridot.streamguys1.com:7150/MirchiFiji",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 25,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 113721,
+          "url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 113719,
+          "url": "http://peridot.streamguys1.com:7150/MirchiFiji",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 22,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 274876,
+          "url": "http://eu8.fastcast4u.com:5476/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 38756,
+      "name": "All India Radio - AIR Sangli",
+      "slug": "All_India_Radio_AIR_Sangli",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b0/9e/b09ea1bc2b6e9701bfad67dfd7dae78b.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1251",
+        "dialStripped": "1251"
+      },
+      "aliases": {
+        "cleanName": "all air sangli",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Sangli"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sangli",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Sangli, Maharashtra, India",
+        "coordinates": {
+          "latitude": "16.8543800",
+          "longitude": "74.5641700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 52,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62894,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 126,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62893,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 126,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 106803,
+      "name": "Radio Zakkas Marathi",
+      "slug": "Radio_Zakkas_Marathi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/59/e1/59e13cc93fb80505c602c4e0151cd25e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zakkas marathi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nagpur",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Nagpur, Maharashtra, India",
+        "coordinates": {
+          "latitude": "21.1463100",
+          "longitude": "79.0849100"
+        }
+      },
+      "genre": {
+        "text": "Asian Classical Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 32,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 147996,
+          "url": "https://stream.zeno.fm/y5tu4had8e9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 147995,
+          "url": "http://stream.zeno.fm/y5tu4had8e9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 71514,
+      "name": "All India Radio - Vividh Bharati Nagpur",
+      "slug": "All_India_Radio_Vividh_Bharati_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/25/77/257701a94018aad2645466132d81b861.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.6",
+        "dialStripped": "1006"
+      },
+      "aliases": {
+        "cleanName": "all vividh bharati nagpur",
+        "alsoKnownAs": "Ākāshvāṇī - Vividh Bharati Nagpur"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nagpur",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Nagpur, Maharashtra, India",
+        "coordinates": {
+          "latitude": "21.1463100",
+          "longitude": "79.0849100"
+        }
+      },
+      "genre": {
+        "text": "Asian Bollywood Entertainment News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 47,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 71572,
+      "name": "All India Radio - AIR Dhule\t",
+      "slug": "All_India_Radio_AIR_Dhule",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/9d/ff9dbfa2303e6a4f942b1250a6c57173.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "all air dhule",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Kodaikanal\t"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dhule",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Dhule, Maharashtra, India",
+        "coordinates": {
+          "latitude": "20.9025100",
+          "longitude": "74.7773500"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 18,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113799,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 126,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 24324,
+      "name": "Puneri Awaz 107.8 FM",
+      "slug": "Puneri_Awaz_107.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f4/20/f420554f21f138c29f13e3c0edc3a6c9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.8",
+        "dialStripped": "1078"
+      },
+      "aliases": {
+        "cleanName": "puneri awaz 107.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Pune",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Pune, Maharashtra, India",
+        "coordinates": {
+          "latitude": "18.5195700",
+          "longitude": "73.8553500"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Community Entertainment Mexican Regional News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 14,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 37593,
+          "url": "http://icecast-aws.bkwsu.eu:80/radio-awaz-pune16k.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37595,
+          "url": "https://icecast.bkwsu.eu/radio-awaz-pune16k.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 16,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37592,
+          "url": "http://icecast-aws.bkwsu.eu:80/radio-awaz-pune.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 52,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 37594,
+          "url": "https://icecast.bkwsu.eu/radio-awaz-pune.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 56,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 38954,
+      "name": "Radio Satyatmavani",
+      "slug": "Radio_Satyatma_Vani",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ba/95/ba95228d37252917e98667e0f17b624e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "satyatmavani",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": ", India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Devotional Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 22,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 267747,
+          "url": "http://us1.streamingpulse.com:7322/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63276,
+          "url": "http://us1.streamingpulse.com/ssl/RadioSatyatmavani",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63277,
+          "url": "https://us1.streamingpulse.com/ssl/RadioSatyatmavani",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 239084,
+          "url": "http://us1.streamingpulse.com:7322/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 71725,
+      "name": "Radio Nagar 90.4 FM",
+      "slug": "Radio_Nagar_90.4_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/15/a4/15a40aa47aad08dd6256bfc7f17b6286.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.4",
+        "dialStripped": "904"
+      },
+      "aliases": {
+        "cleanName": "nagar 90.4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ahmednagar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Ahmednagar, Maharashtra, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 3,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114045,
+          "url": "http://198.245.61.103:8101/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114046,
+          "url": "http://centova87.shoutcastservices.com/proxy/nagar90/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114047,
+          "url": "https://centova87.shoutcastservices.com/proxy/nagar90/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268406,
+          "url": "http://198.245.61.103:8101/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    },
+    {
+      "id": 71804,
+      "name": "Jesus Coming FM - Marathi",
+      "slug": "Jesus_coming_FM_Marathi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/7f/777f99422321c73c60321ce5254c5f26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming marathi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian Education Information Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mr",
+          "name": "Marathi"
+        }
+      ]
+    }
+  ]
+}

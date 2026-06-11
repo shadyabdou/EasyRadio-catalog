@@ -1,0 +1,382 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.175Z",
+  "endpoint": "/languages/km/radios",
+  "code": "km",
+  "name": "Khmer",
+  "count": 5,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 66495,
+      "name": "LDP Radio",
+      "slug": "LDP_Online_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d7/f2/d7f2a158c60cece42a1c5b04970f78aa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ldp",
+        "alsoKnownAs": "League for Democracy Party"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "News Politics Talk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107202,
+          "url": "http://s6.voscast.com:9000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 268299,
+          "url": "http://s6.voscast.com:9000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 60384,
+      "name": "Khmer Christian FM Radio",
+      "slug": "Khmer_Christian_FM_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/1b/fe1b9d285ed2e6b51708661d48b84d77.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "khmer christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98709,
+          "url": "http://stream.zeno.fm/vhnc2zrsbq8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 98710,
+          "url": "https://stream.zeno.fm/vhnc2zrsbq8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 195674,
+      "name": "Family FM",
+      "slug": "Family_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/9e/789e1b7d3e3cce1ccfa3030d62b46cf3.png",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "family",
+        "alsoKnownAs": "FEBCambodia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 1,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176124,
+          "url": "http://176.31.118.194:10064/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 80,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 389998,
+      "name": "Tonle FM - VAYO",
+      "slug": "VAYO_Tonle_Radio_102.5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/14/9e/149e389c4bc38dc578908935f38c6edb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "tonle vayo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phnom Penh",
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "locationText": "Phnom Penh, Cambodia",
+        "coordinates": {
+          "latitude": "11.5624500",
+          "longitude": "104.9160100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 211271,
+          "url": "http://5.133.182.164:20512/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    },
+    {
+      "id": 106253,
+      "name": "Radio Veritas Asia - Khmer",
+      "slug": "Radio_Veritas_Asia_Khmer",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/81/7b/817b312a8b0751103c5d501523f6063f.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "veritas asia khmer",
+        "alsoKnownAs": "RVA - Khmer"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Quezon City",
+        "countryName": "Philippines",
+        "countryCode": "PH",
+        "locationText": "Quezon City, National Capital Region, Philippines",
+        "coordinates": {
+          "latitude": "14.6488000",
+          "longitude": "121.0509000"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 147446,
+          "url": "http://livestream.rvasia.org:8000/Khmer.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "km",
+          "name": "Khmer"
+        }
+      ]
+    }
+  ]
+}

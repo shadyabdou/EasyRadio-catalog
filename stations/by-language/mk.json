@@ -1,0 +1,3687 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.178Z",
+  "endpoint": "/languages/mk/radios",
+  "code": "mk",
+  "name": "Macedonian",
+  "count": 44,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 47625,
+      "name": "ANABELA RADIO MIX",
+      "slug": "ANABELA_RADIO_MIX",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/9e/509e9efff67737b0bcb1e0ca26c74c1e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "anabela mix",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Canberra",
+        "countryName": "Australia",
+        "countryCode": "AU",
+        "locationText": "Canberra, Australian Capital Territory, Australia",
+        "coordinates": {
+          "latitude": "-35.2834600",
+          "longitude": "149.1280700"
+        }
+      },
+      "genre": {
+        "text": "Balkan Folk Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 75532,
+          "url": "http://stream.zeno.fm/gamwxxssy9uvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 75533,
+          "url": "https://stream.zeno.fm/gamwxxssy9uvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 38938,
+      "name": "Sky Radio",
+      "slug": "Sky_Stereo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/67/6567d292407ecae31f2ad3792a9decdd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "sky",
+        "alsoKnownAs": "Sky Stereo"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 600,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 4,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63253,
+          "url": "http://skyradio.com.mk/listen.m3u",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63252,
+          "url": "http://s1.skyradio.com.mk:8002/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 249625,
+          "url": "https://s1.skyradio.com.mk/listen.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63254,
+          "url": "http://s1.skyradio.com.mk:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 52,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 262367,
+          "url": "http://s1.skyradio.com.mk:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 282583,
+          "url": "http://s1.skyradio.com.mk:8002/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282584,
+          "url": "http://s1.skyradio.com.mk:8002/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 25395,
+      "name": "Зона М1 РАДИО",
+      "slug": "ZONA_M1_RADIO_104.4_FM_STEREO_DIGITAL",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/1f/651f0195a729df356f79eae3f479262d.png",
+      "dial": {
+        "band": "FM",
+        "dial": "104.4",
+        "dialStripped": "1044"
+      },
+      "aliases": {
+        "cleanName": "zona m1",
+        "alsoKnownAs": "ZONA M1 Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 3,
+          "de": 6,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 5,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 39819,
+          "url": "http://89.205.83.58:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 318,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39820,
+          "url": "https://zonam1.ddns.net/stream/25/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 114466,
+      "name": "Radio Vmro Makedonija",
+      "slug": "Radio_Vmro_Makedonija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/93/25/932594861801cced6123ca229c718bd2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vmro makedonija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bitola",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Bitola, Macedonia",
+        "coordinates": {
+          "latitude": "41.0314300",
+          "longitude": "21.3347400"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 3,
+          "de": 3,
+          "fr": 2,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153166,
+          "url": "http://radiovmro.radioca.st:8072/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265045,
+          "url": "http://radiovmro.radioca.st:8072/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265044,
+          "url": "http://radiovmro.radioca.st:8072/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 280804,
+      "name": "радио кавадарци",
+      "slug": "Kavadarci_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/84/ab/84abc6951098802fed8ec5dc64f6376e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "kavadartsi",
+        "alsoKnownAs": "Kavadarci Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kavadarci",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Kavadarci, Macedonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Entertainment Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 2,
+          "de": 4,
+          "fr": 3,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 192122,
+          "url": "http://stream.zeno.fm/p79t9wf7mg0uv/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 192123,
+          "url": "https://stream.zeno.fm/p79t9wf7mg0uv/",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 103683,
+      "name": "Antenna 5",
+      "slug": "Antenna_5_Radio_Network_Macedonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bb/9b/bb9bd9f3c09af607b6a65ce2745a7267.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "antenna 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 3,
+          "gb": 1,
+          "au": 1,
+          "de": 4,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 237933,
+          "url": "https://antenna5stream.neotel.mk/live64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145265,
+          "url": "https://antenna5stream.neotel.mk/live128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145262,
+          "url": "http://antenna5stream.neotel.mk:8000/live128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145263,
+          "url": "http://antenna5stream.neotel.mk:8000/live64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145264,
+          "url": "http://antenna5stream.neotel.mk:8000/live32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145266,
+          "url": "https://antenna5stream.neotel.mk/live32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 42981,
+      "name": "Радио МЕФФ",
+      "slug": "Radio_MEFF",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/40/cd407ade9151f1504c5030ffc018f65e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.7",
+        "dialStripped": "987"
+      },
+      "aliases": {
+        "cleanName": "meff",
+        "alsoKnownAs": "Radio MEFF"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Prilep",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Prilep, Macedonia",
+        "coordinates": {
+          "latitude": "41.3451400",
+          "longitude": "21.5550400"
+        }
+      },
+      "genre": {
+        "text": "Variety World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 7,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69037,
+          "url": "http://s32.myradiostream.com:16040/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266103,
+          "url": "http://s32.myradiostream.com:16040/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 114483,
+      "name": "Radio 105 Bombarder",
+      "slug": "Radio_105_Bombarder",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/38/0a/380a7e70aa073a94cab2a370ee2c587b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "100.5",
+        "dialStripped": "1005"
+      },
+      "aliases": {
+        "cleanName": "105 bombarder",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bitola",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Bitola, Macedonia",
+        "coordinates": {
+          "latitude": "41.0314300",
+          "longitude": "21.3347400"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 390,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 7,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 4,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 153192,
+          "url": "http://radio105.makbots.com:21010/radio105",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 56002,
+      "name": "City Radio",
+      "slug": "City_Radio_94.7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/c9/f5c9b2dc672a90872be5f3482e2dde38.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.7",
+        "dialStripped": "947"
+      },
+      "aliases": {
+        "cleanName": "city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Hits Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 360,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91345,
+          "url": "http://176.9.117.123:9998/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91344,
+          "url": "http://176.9.117.123:9998/live",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266419,
+          "url": "http://176.9.117.123:9998/live/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266418,
+          "url": "http://176.9.117.123:9998/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 205901,
+      "name": "Радио Фортуна",
+      "slug": "Radio_Fortuna_96.8_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/6f/7d6f41059a2ca6025712c1f8fedb4032.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "fortuna",
+        "alsoKnownAs": "Radio Fortuna"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 2,
+          "gb": 3,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 269704,
+          "url": "http://radiofortuna.ipradio.mk:10000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 178709,
+          "url": "http://radiofortuna.ipradio.mk:10000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 169295,
+      "name": "Радио Канал 77",
+      "slug": "Radio_Kanal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5b/c2/5bc2942bf99b833017f98eb85076e31e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "kanal 77",
+        "alsoKnownAs": "Radio Kanal 77"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Štip",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Štip, Eastern Statistical Region, Macedonia",
+        "coordinates": {
+          "latitude": "41.7472186",
+          "longitude": "21.5086408"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168941,
+          "url": "https://radiocnd.mms.mk/proxy/offnet/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168938,
+          "url": "http://radiocnd.mms.mk:8002/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168939,
+          "url": "http://167.235.37.66:8002/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168940,
+          "url": "http://radiocnd.mms.mk/proxy/offnet/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 121721,
+      "name": "Radio Bubamara 105.2 FM",
+      "slug": "Radio_Bubamava_Radio_Bubamara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7b/b3/7bb36decfa98254619df4e50160b65ce.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "bubamara 105.2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 276683,
+          "url": "https://stream.bubamara.com.mk/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 117,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 156002,
+          "url": "http://live.onlineradio.mk:8000/stream",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 276681,
+          "url": "http://stream.bubamara.com.mk/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 276682,
+          "url": "http://stream.bubamara.com.mk:80/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 127,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 264475,
+          "url": "http://176.9.117.123:8000/stream",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 25102,
+      "name": "Aleksandar Makedonski",
+      "slug": "Aleksandar_Makedonski",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/eb/fbebbe22176face9f75af5ce9f0ecc6d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "aleksandar makedonski",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kicevo",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Kicevo, Macedonia",
+        "coordinates": {
+          "latitude": "41.7472186",
+          "longitude": "21.5086408"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 180,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 3,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39227,
+          "url": "http://s2.free-shoutcast.com:18138/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 103846,
+      "name": "Antenna 5",
+      "slug": "Antenna_5_Hit_List_Antenna5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b5/e5/b5e5d46fbc1d90c2712537644235f97b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.3",
+        "dialStripped": "1063"
+      },
+      "aliases": {
+        "cleanName": "antenna 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 145436,
+          "url": "http://antenna5stream.neotel.mk:8000/live64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145437,
+          "url": "http://antenna5stream.neotel.mk:8000/live32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145440,
+          "url": "https://antenna5stream.neotel.mk/live32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145438,
+          "url": "https://antenna5stream.neotel.mk/live128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145439,
+          "url": "https://antenna5stream.neotel.mk/live64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 145435,
+          "url": "http://antenna5stream.neotel.mk:8000/live128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 315221,
+      "name": "Life Radio 89.1",
+      "slug": "Life_Radio_89.1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6f/e8/6fe82132435016b9b200cfffce89b74c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "89.1",
+        "dialStripped": "891"
+      },
+      "aliases": {
+        "cleanName": "life 89.1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200829,
+          "url": "http://liferadio.ddns.net:8000/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 255334,
+          "url": "http://liferadio.ddns.net:8000/stream.m3u/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 25129,
+      "name": "StilRadio - STIL MKD NARODNA",
+      "slug": "StilRadio_STIL_MKD_NARODNA",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/2a/f52aff79197ca6d6f2f575938fcad31b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "stilradio stil mkd narodna",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39291,
+          "url": "http://a2.asurahosting.com:7220/stilradiomkd",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 384,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 367422,
+      "name": "Super Radio",
+      "slug": "Super_Radio_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fb/74/fb74d98a613a04bbf6bb6af7d383a1d6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.0",
+        "dialStripped": "970"
+      },
+      "aliases": {
+        "cleanName": "super",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ohrid",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Ohrid, Macedonia",
+        "coordinates": {
+          "latitude": "41.1172200",
+          "longitude": "20.8019400"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 208107,
+          "url": "https://stream.zeno.fm/muzq097d2c9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 208106,
+          "url": "http://eu9.fastcast4u.com:6908/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 263134,
+          "url": "http://eu9.fastcast4u.com:6908/stream/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 208105,
+          "url": "http://stream.zeno.fm/muzq097d2c9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 113826,
+      "name": "Бисер Радио Охрид",
+      "slug": "Biser_Radio_Ohrid",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/4f/774fb7b1e644155d86816d3211a560dd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "biser okhrid",
+        "alsoKnownAs": "Biseradio Ohrid , Biser Radio Ohrid"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ohrid",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Ohrid, Macedonia",
+        "coordinates": {
+          "latitude": "41.1172200",
+          "longitude": "20.8019400"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 265504,
+          "url": "http://148.251.43.149:8419/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152747,
+          "url": "http://biserradioohrid.radioca.st:8419/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152746,
+          "url": "http://148.251.43.149:8419/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 9477609,
+      "name": "Radio 106",
+      "slug": "Radio_106",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/2c/cf2c8035994488575b5c998c12c3daf2.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.6",
+        "dialStripped": "1066"
+      },
+      "aliases": {
+        "cleanName": "106",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bitola",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Bitola, Macedonia",
+        "coordinates": {
+          "latitude": "41.0314300",
+          "longitude": "21.3347400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hip Hop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 236353,
+          "url": "http://stream.zemi.mk:8003/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 44724,
+      "name": "StilRadio - STIL EX YU TRAP",
+      "slug": "StilRadio_STIL_EX_YU_TRAP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/74/f574f08ecd43a44911c8e895b76508ff.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "stilradio stil ex yu trap",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 72051,
+          "url": "http://a2.asurahosting.com/listen/stil_radio/stilexyutrap",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 383,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 72052,
+          "url": "https://a2.asurahosting.com/listen/stil_radio/stilexyutrap",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 384,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 274988,
+      "name": "Jon Radio",
+      "slug": "Radio_Ravel",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/69/87697b1b4f1ceeda93e4415a9cd4b17b.png",
+      "dial": {
+        "band": "FM",
+        "dial": "96.0",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "jon",
+        "alsoKnownAs": "Radio Ravel [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 191239,
+          "url": "http://radiostream.neotel.mk:8000/jonradio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 444586,
+      "name": "Радио Лидер 107,4",
+      "slug": "Lider_FM_1074",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/12/44/1244e4616d57691815017d09b7987a17.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.4",
+        "dialStripped": "1074"
+      },
+      "aliases": {
+        "cleanName": "lider 107 4",
+        "alsoKnownAs": "Lider FM 107,4"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "80s 90s Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 216644,
+          "url": "http://liderfm.ipradio.mk:10002/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 36998,
+      "name": "Канал 103",
+      "slug": "Kanal",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/cb/f6cb87d246cd397f18839809f041b6c1.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "kanal 103",
+        "alsoKnownAs": "Kanal 103"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Alternative Indie Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 59904,
+          "url": "https://radiostream.neotel.mk/kanal103",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59902,
+          "url": "http://radiostream.neotel.mk/kanal103",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 59903,
+          "url": "http://radiostream.neotel.mk:8000/kanal103",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 42719,
+      "name": "Стар Радио Македонија - Стар Боеми",
+      "slug": "Star_Radio_Makedonija_Star_Bohemian_Star_Boemi",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/c1/f6c1c6cfb1957ddb5a641b2816bcd523.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star makedonija star boemi",
+        "alsoKnownAs": "Star Radio Makedonija - Star Bohemian , Star Boemi"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68630,
+          "url": "http://a2.asurahosting.com/listen/stil_radio/starboem?ver=202848",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 394,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 68631,
+          "url": "https://a2.asurahosting.com/listen/stil_radio/starboem?ver=202848",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 386,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "name": "StilRadio - STIL EX YU POP",
+      "slug": "StilRadio_STIL_EX_YU_POP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c7/cf/c7cf85dfe47e86feb62e5724dad7312c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "stilradio stil ex yu pop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1692,
+          "url": "http://a2.asurahosting.com/listen/stil_radio/stilradioexyupop",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 443,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 1693,
+          "url": "https://a2.asurahosting.com/listen/stil_radio/stilradioexyupop",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 381,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 444486,
+      "name": "Стар Радио Македонија",
+      "slug": "Radio_Star_7",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/38/1e3809c671994d0f721058b0117f0cde.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star makedonija",
+        "alsoKnownAs": "Star Radio Makedonija"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 67147,
+      "name": "Студент FM 92.9",
+      "slug": "Radio_MJ_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a5/dd/a5dd9e935e9bde5480aa629c0836ec03.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.9",
+        "dialStripped": "929"
+      },
+      "aliases": {
+        "cleanName": "student 92.9",
+        "alsoKnownAs": "Student FM 92.9"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "College Community Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 107996,
+          "url": "http://dhcp.ukim.mk:8000/stfm.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 107997,
+          "url": "http://studentfm.ukim.mk:8000/stfm.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 42472,
+      "name": "Стар Радио Македонија - World Hits",
+      "slug": "Star_Media_World_Hits",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/32/19/3219c21f4feacab8c2e3e7d1bf71335c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star makedonija world hits",
+        "alsoKnownAs": "Star Media Makedonija - World Hits"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Hits World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 25026,
+      "name": "Стар Радио Македонија - Урбан Фолк",
+      "slug": "Star_Radio_Urban_Folk",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0a/9c/0a9ccab9b772a2f155b16fcf679061f0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star makedonija urban folk",
+        "alsoKnownAs": "Star Radio Makedonija - Urban Folk"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Folk Urban",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39045,
+          "url": "http://a2.asurahosting.com:7220/goraradio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 384,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 25218,
+      "name": "Радио Забава",
+      "slug": "Radio_Zabava",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ee/f0/eef0205e3e9fc47a2e341f66fb891d87.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zabava",
+        "alsoKnownAs": "Radio Zabava"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gevgelija",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Gevgelija, Macedonia",
+        "coordinates": {
+          "latitude": "41.1416600",
+          "longitude": "22.5014100"
+        }
+      },
+      "genre": {
+        "text": "Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39483,
+          "url": "http://stream.zeno.fm/dvy7hhlq7hfuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 39484,
+          "url": "https://stream.zeno.fm/dvy7hhlq7hfuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 301026,
+      "name": "Antenna 5",
+      "slug": "Antenna_5",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/ad/01ad62f673776652bd3f4c9550b48279.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.5",
+        "dialStripped": "955"
+      },
+      "aliases": {
+        "cleanName": "antenna 5",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kumanovo",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Kumanovo, Macedonia",
+        "coordinates": {
+          "latitude": "42.1322200",
+          "longitude": "21.7144400"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Dance Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 198997,
+          "url": "https://antenna5stream.neotel.mk/live32",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236258,
+          "url": "https://antenna5stream.neotel.mk/live64",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 237994,
+          "url": "https://antenna5stream.neotel.mk/live128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198996,
+          "url": "http://antenna5stream.neotel.mk:8000/live32",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198995,
+          "url": "http://antenna5stream.neotel.mk:8000/live64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198994,
+          "url": "http://antenna5stream.neotel.mk:8000/live128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 37124194,
+      "name": "Радио Марија Македонија",
+      "slug": "Radio_Maria_Macedonia",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fe/9d/fe9de1703335d9faa4241aa6ccfa5516.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.5",
+        "dialStripped": "1065"
+      },
+      "aliases": {
+        "cleanName": "marija makedonija",
+        "alsoKnownAs": "Radio Maria Macedonia"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Strumica",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Strumica, Strumica, Macedonia",
+        "coordinates": {
+          "latitude": "41.4375000",
+          "longitude": "22.6433300"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 273187,
+          "url": "http://dreamsiteradiocp.com:8118/stream/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 273188,
+          "url": "http://dreamsiteradiocp.com:8118/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 509710,
+      "name": "VATO RAP",
+      "slug": "VATO_RAP",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/6a/766a04c2e98e7eda690055e514c46792.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vato rap",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": ", Macedonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 221442,
+          "url": "http://stream.zeno.fm/s0rd0xs3xuhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 221443,
+          "url": "https://stream.zeno.fm/s0rd0xs3xuhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 56399,
+      "name": "Time Fm Gevgelija",
+      "slug": "Radio_TimeFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/48/78481115abb88e33a720ee0f3df8fee4.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.6",
+        "dialStripped": "936"
+      },
+      "aliases": {
+        "cleanName": "time gevgelija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gevgelija",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Gevgelija, Macedonia",
+        "coordinates": {
+          "latitude": "41.1416600",
+          "longitude": "22.5014100"
+        }
+      },
+      "genre": {
+        "text": "Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 92193,
+          "url": "http://s2.free-shoutcast.com:18058/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 91221,
+      "name": "RadioMK - Radio Akord",
+      "slug": "Akord_Rado_Radio_Akord",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/fa/14/fa1429441ab3993d51925eafff803058.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.5",
+        "dialStripped": "965"
+      },
+      "aliases": {
+        "cleanName": "radiomk akord",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kicevo",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Kicevo, Macedonia",
+        "coordinates": {
+          "latitude": "41.7472186",
+          "longitude": "21.5086408"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 137683,
+          "url": "http://radioakord.dyndns.org:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 61,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 57637,
+      "name": "Bikers Garage Radio",
+      "slug": "Bikers_Garage_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/dd/83/dd831760b66ecbf4687bbca23a89cab7.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "bikers garage",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Rock Soft Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 95291,
+          "url": "https://i9.streams.ovh/sc/bikersgarageradio/stream/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95289,
+          "url": "http://i9.streams.ovh:19153/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95290,
+          "url": "https://radio.gonet.mk/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 95288,
+          "url": "http://radio.gonet.mk/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 42834,
+      "name": "Стар Радио Македонија - Стар Плус",
+      "slug": "Star_Radio_Makedonija_Star_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/c4/eac48553b141b727974c82bb69c53bf6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "star makedonija star plus",
+        "alsoKnownAs": "Star Radio Makedonija - Star Plus"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68792,
+          "url": "http://eu10.fastcast4u.com/starplus?ver=885399",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 316,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 68793,
+          "url": "https://eu10.fastcast4u.com/starplus?ver=885399/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 319,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 30976,
+      "name": "Ambient Radio - SSF",
+      "slug": "Ambient_Radio_SSF",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/5c/7e5c305cfc5de1a598806c2c4203a4e2.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ambient ssf",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": ", Macedonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 49783,
+          "url": "https://stream.zeno.fm/ekpnpmnxafhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 49782,
+          "url": "http://stream.zeno.fm/ekpnpmnxafhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 5556,
+      "name": "Music Garden Radio",
+      "slug": "Music_Garden_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/47/a3476582dd9f8de790f7300655ad45fa.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "music garden",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Balkan Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 10293,
+          "url": "http://stream.zeno.fm/51tz3t6add0uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 10294,
+          "url": "http://server4p.com:8062/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 10295,
+          "url": "https://stream.zeno.fm/51tz3t6add0uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 444578,
+      "name": "StilRadio",
+      "slug": "Stil_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/19/db/19db925dfaecbad911dfa7d3f45bc402.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "stilradio",
+        "alsoKnownAs": "StilRadio - main"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 169670,
+      "name": "UGD FM",
+      "slug": "UGD_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/92/31/92317e91065a78fc13179ef36b9c13e8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ugd",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Štip",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Štip, Eastern Statistical Region, Macedonia",
+        "coordinates": {
+          "latitude": "41.7472186",
+          "longitude": "21.5086408"
+        }
+      },
+      "genre": {
+        "text": "College Education Information News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169124,
+          "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 120674,
+      "name": "Радио Браво",
+      "slug": "Radio_Bravo_88.5_FM_Kumanovo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/fd/60fd3f92efef42ed01079c6dc06c60cd.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.5",
+        "dialStripped": "885"
+      },
+      "aliases": {
+        "cleanName": "bravo",
+        "alsoKnownAs": "Radio Bravo"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kumanovo",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Kumanovo, Macedonia",
+        "coordinates": {
+          "latitude": "42.1322200",
+          "longitude": "21.7144400"
+        }
+      },
+      "genre": {
+        "text": "Dance Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 275837,
+          "url": "http://80.77.157.10:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 275838,
+          "url": "http://80.77.157.10:8000/stream/2/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155741,
+          "url": "http://80.77.157.10:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 155742,
+          "url": "http://80.77.157.10:8000/stream/2/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 49033,
+      "name": "Спортско Радио 90.3",
+      "slug": "Grom_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4d/18/4d18e1f5ff63666b67f6c06a5b4e62f0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "sportsko 90.3",
+        "alsoKnownAs": "Sportsko Radio 90.3 fm"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Skopje",
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": "Skopje, Macedonia",
+        "coordinates": {
+          "latitude": "41.9964600",
+          "longitude": "21.4314100"
+        }
+      },
+      "genre": {
+        "text": "Culture Folk Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 78345,
+          "url": "http://streaming.zemi.mk:8010/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    },
+    {
+      "id": 17986,
+      "name": "Hip Hop",
+      "slug": "Hip_Hop_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/48/ea48f22e7b4e598de4c7b4646bbb5312.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "hip hop",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Macedonia",
+        "countryCode": null,
+        "locationText": ", Macedonia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hip Hop Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 22818,
+          "url": "http://stream.zeno.fm/sgs4f9fwfkhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 22819,
+          "url": "https://stream.zeno.fm/sgs4f9fwfkhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mk",
+          "name": "Macedonian"
+        }
+      ]
+    }
+  ]
+}

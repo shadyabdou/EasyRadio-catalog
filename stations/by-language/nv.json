@@ -1,0 +1,212 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.183Z",
+  "endpoint": "/languages/nv/radios",
+  "code": "nv",
+  "name": "Navajo",
+  "count": 2,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 196650,
+      "name": "KNDN 960 AM - KNDN",
+      "slug": "KNDN",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/27/a427d3308092400f9e9204e8d44eed2f.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "960",
+        "dialStripped": "960"
+      },
+      "aliases": {
+        "cleanName": "kndn 960 kndn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Farmington",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Farmington, New Mexico, United States",
+        "coordinates": {
+          "latitude": "36.7280600",
+          "longitude": "-108.2186900"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Indigenous News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5340,
+        "byCountry": {
+          "us": 335,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 3,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 176475,
+          "url": "http://ice9.securenetsystems.net/KNDN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176478,
+          "url": "https://ice9.securenetsystems.net:80/KNDN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176477,
+          "url": "https://ice9.securenetsystems.net/KNDN",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 176476,
+          "url": "http://ice9.securenetsystems.net:80/KNDN",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nv",
+          "name": "Navajo"
+        }
+      ]
+    },
+    {
+      "id": 41538,
+      "name": "KGAK 1330 AM - KGAK",
+      "slug": "KGAK",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/88/7b/887bf193852acdd8956140cdf69f9cd2.png",
+      "dial": {
+        "band": "AM",
+        "dial": "1330",
+        "dialStripped": "1330"
+      },
+      "aliases": {
+        "cleanName": "kgak 1330 kgak",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gallup",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Gallup, New Mexico, United States",
+        "coordinates": {
+          "latitude": "35.5280800",
+          "longitude": "-108.7425800"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment Native American News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 5160,
+        "byCountry": {
+          "us": 303,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 20,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 66498,
+          "url": "https://ice41.securenetsystems.net/KGAK",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 37,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 66496,
+          "url": "http://ice41.securenetsystems.net/KGAK",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 66499,
+          "url": "https://ice41.securenetsystems.net:80/KGAK",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 39,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 66497,
+          "url": "http://ice41.securenetsystems.net:80/KGAK",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 36,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "nv",
+          "name": "Navajo"
+        }
+      ]
+    }
+  ]
+}

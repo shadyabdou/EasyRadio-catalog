@@ -1,0 +1,400 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.183Z",
+  "endpoint": "/languages/mn/radios",
+  "code": "mn",
+  "name": "Mongolian",
+  "count": 5,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 71902,
+      "name": "Jesus Coming FM - Mongolian",
+      "slug": "Jesus_Coming_FM_Mongolian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f5/6c/f56cd3bae7359b3592fa4a00b7c08af7.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mn",
+          "name": "Mongolian"
+        }
+      ]
+    },
+    {
+      "id": 121865,
+      "name": "Гэр бүлийн радио 104.5",
+      "slug": "Wind_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/44/88/4488bd38b33b19aeda687e7a28484890.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.5",
+        "dialStripped": "1045"
+      },
+      "aliases": {
+        "cleanName": "ger buliin 104.5",
+        "alsoKnownAs": "Gerbul Radio 104.5"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ulan Bator",
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "locationText": "Ulan Bator, Mongolia",
+        "coordinates": {
+          "latitude": "47.5640480",
+          "longitude": "102.3068370"
+        }
+      },
+      "genre": {
+        "text": "Christian Community Culture",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156168,
+          "url": "http://c2.radioboss.fm/stream/394",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 156169,
+          "url": "https://c2.radioboss.fm/stream/394",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mn",
+          "name": "Mongolian"
+        }
+      ]
+    },
+    {
+      "id": 3829,
+      "name": "Монголын радио",
+      "slug": "Mongolin_R",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0d/e2/0de29ca2ea62f8e78c75f0a9f26b0e86.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0",
+        "dialStripped": "1060"
+      },
+      "aliases": {
+        "cleanName": "mongolyn",
+        "alsoKnownAs": "Mongolian Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ulan Bator",
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "locationText": "Ulan Bator, Mongolia",
+        "coordinates": {
+          "latitude": "47.5640480",
+          "longitude": "102.3068370"
+        }
+      },
+      "genre": {
+        "text": "News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "mn",
+          "name": "Mongolian"
+        }
+      ]
+    },
+    {
+      "id": 73780,
+      "name": "MGL Radio",
+      "slug": "MglRadio.com",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/11/8e/118e99dd7728894f14cb51f2e53a8717.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.3",
+        "dialStripped": "883"
+      },
+      "aliases": {
+        "cleanName": "mgl",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ulan Bator",
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "locationText": "Ulan Bator, Mongolia",
+        "coordinates": {
+          "latitude": "47.5640480",
+          "longitude": "102.3068370"
+        }
+      },
+      "genre": {
+        "text": "Russian Talk World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116521,
+          "url": "http://74.91.125.187:8096/stream",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116522,
+          "url": "http://74.91.125.187:8096/play",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mn",
+          "name": "Mongolian"
+        }
+      ]
+    },
+    {
+      "id": 491512,
+      "name": "Mindstorm Mongolian Music Radio",
+      "slug": "Mindstorm_Mongolian_Music_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1e/d7/1ed7e1686a928dc78e3d4c2bf38c78e8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "mindstorm music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ulan Bator",
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "locationText": "Ulan Bator, Mongolia",
+        "coordinates": {
+          "latitude": "47.5640480",
+          "longitude": "102.3068370"
+        }
+      },
+      "genre": {
+        "text": "Electro Pop Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 220157,
+          "url": "http://65.108.143.81:7700/1/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220158,
+          "url": "http://e11670.cloudrad.io:8531/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 220159,
+          "url": "http://109.169.23.124:8531/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 240071,
+          "url": "http://a6.asurahosting.com:7700/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 271407,
+          "url": "http://a6.asurahosting.com:7700/radio.mp3/;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "mn",
+          "name": "Mongolian"
+        }
+      ]
+    }
+  ]
+}

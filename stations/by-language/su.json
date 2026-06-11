@@ -1,0 +1,218 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.381Z",
+  "endpoint": "/languages/su/radios",
+  "code": "su",
+  "name": "Sundanese",
+  "count": 2,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 71803,
+      "name": "Jesus Coming FM - Sundanese",
+      "slug": "Jesus_Coming_FM_Sundanese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/7f/777f99422321c73c60321ce5254c5f26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming sundanese",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian Education Information Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "su",
+          "name": "Sundanese"
+        }
+      ]
+    },
+    {
+      "id": 113401,
+      "name": "Bidibidi FM 95.3",
+      "slug": "Bidibidi_FM_95.3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b6/f2/b6f2f9752d3dc6060075a2f3daf7388f.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.3 ",
+        "dialStripped": "953 "
+      },
+      "aliases": {
+        "cleanName": "bidibidi 95.3",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bidibidi",
+        "countryName": "Uganda",
+        "countryCode": "UG",
+        "locationText": "Bidibidi, Northern Region, Uganda",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 152407,
+          "url": "http://media154.streampartner.nl:8040/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152403,
+          "url": "http://media154.streampartner.nl:8040/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 31,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 152400,
+          "url": "http://bidibidi_fm.streampartner.nl:8040/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 152405,
+          "url": "http://bidibidi_fm.streampartner.nl:8040/autodj",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152401,
+          "url": "http://media154.streampartner.nl:8040/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 30,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 152408,
+          "url": "https://bidibidi_fm.streampartner.nl/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 40,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 152409,
+          "url": "https://bidibidi_fm.streampartner.nl/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 34,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 152410,
+          "url": "https://bidibidi_fm.streampartner.nl/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 152402,
+          "url": "http://bidibidi_fm.streampartner.nl:8040/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 33,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "su",
+          "name": "Sundanese"
+        }
+      ]
+    }
+  ]
+}

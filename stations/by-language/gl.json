@@ -1,0 +1,822 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.105Z",
+  "endpoint": "/languages/gl/radios",
+  "code": "gl",
+  "name": "Galician",
+  "count": 9,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 82993,
+      "name": "FM Dos",
+      "slug": "FM_Dos",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/6e/376eee9430b8802e4e1acadd40d1f043.png",
+      "dial": {
+        "band": "FM",
+        "dial": "98.5",
+        "dialStripped": "985"
+      },
+      "aliases": {
+        "cleanName": "dos",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago",
+        "countryName": "Chile",
+        "countryCode": "CL",
+        "locationText": "Santiago, Región Metropolitana de Santiago, Chile",
+        "coordinates": {
+          "latitude": "-35.4727272",
+          "longitude": "-71.8075952"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Latin Love Songs Romantic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 7080,
+        "byCountry": {
+          "us": 8,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 4,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 34,
+          "ca": 1,
+          "cl": 327,
+          "co": 1,
+          "pe": 2
+        }
+      },
+      "streams": [
+        {
+          "id": 129413,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129406,
+          "url": "http://27223.live.streamtheworld.com:80/FMDOSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 71,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 129412,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.flv",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 192,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 129405,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129408,
+          "url": "http://27693.live.streamtheworld.com:80/FMDOS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129404,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS.flv",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "flv",
+          "bitrate": 196608,
+          "contentType": null,
+          "works": true
+        },
+        {
+          "id": 129410,
+          "url": "http://18163.live.streamtheworld.com:80/FMDOS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129411,
+          "url": "http://26143.live.streamtheworld.com:80/FMDOSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 129414,
+          "url": "https://26573.live.streamtheworld.com:443/FMDOSAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 129409,
+          "url": "http://27393.live.streamtheworld.com:80/FMDOSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 56,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 129407,
+          "url": "http://23033.live.streamtheworld.com:80/FMDOS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 129415,
+          "url": "https://21933.live.streamtheworld.com:443/FMDOS_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 48512,
+      "name": "Radio Galega",
+      "slug": "Radio_Galega",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ca/8b/ca8b1378597e7c5ea0c1745b8c791d89.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "galega",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Compostela",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Santiago de Compostela, Galicia, Spain",
+        "coordinates": {
+          "latitude": "42.8805200",
+          "longitude": "-8.5456900"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 12120,
+        "byCountry": {
+          "us": 5,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 2,
+          "es": 608,
+          "mx": 0,
+          "jp": 1,
+          "in": 1,
+          "it": 2,
+          "ar": 6,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77103,
+          "url": "http://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 77104,
+          "url": "https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 4076,
+      "name": "Radio Galega - RG Musica",
+      "slug": "Radio_Galega_Musica",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/52/4652754db5c4438ef21cfc2367cff604.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "galega rg musica",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Compostela",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Santiago de Compostela, Galicia, Spain",
+        "coordinates": {
+          "latitude": "42.8805200",
+          "longitude": "-8.5456900"
+        }
+      },
+      "genre": {
+        "text": "Pop Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2370,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 108,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 1,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 242960,
+          "url": "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 8367,
+          "url": "http://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 214817,
+      "name": "Radio Galega",
+      "slug": "TV_Galega",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cd/61/cd614af0f4a3ea0f7849599411c5e086.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9 / 105.2",
+        "dialStripped": "959 / 1052"
+      },
+      "aliases": {
+        "cleanName": "galega",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ribadeo",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Ribadeo, Galicia, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 3,
+          "gb": 0,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 0,
+          "es": 25,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 180423,
+          "url": "http://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 180424,
+          "url": "https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 214968,
+      "name": "Radio Galega - Son Galicia",
+      "slug": "Radio_Galega_Noticia_News",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5e/18/5e185e656dbdaa6cf13f4c02c3e80dc8.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "galega son",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de Compostela",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Santiago de Compostela, Galicia, Spain",
+        "coordinates": {
+          "latitude": "42.8805200",
+          "longitude": "-8.5456900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 450,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 17,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 180431,
+          "url": "http://crtvg-songalicia-hls.flumotion.cloud/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 192,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 346782,
+      "name": "Radio Neria",
+      "slug": "Radio_Neria",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/61/ed61f700a71ba32d604765953f40d19e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.8",
+        "dialStripped": "1078"
+      },
+      "aliases": {
+        "cleanName": "neria",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Corcubión",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "Corcubión, Galicia, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "Culture Entertainment Information Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205356,
+          "url": "https://stream.zeno.fm/ppvzlfjq7nvuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205355,
+          "url": "http://stream.zeno.fm/ppvzlfjq7nvuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 54254,
+      "name": "Radio Roncudo",
+      "slug": "Corme.net_Radio_Roncudo",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/11/49112a4e7dbd4fe6adf9de8ca6293009.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.1",
+        "dialStripped": "1061"
+      },
+      "aliases": {
+        "cleanName": "roncudo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "La Coruña",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "locationText": "La Coruña, A Coruña, Spain",
+        "coordinates": {
+          "latitude": "39.2717249",
+          "longitude": "-3.2471696"
+        }
+      },
+      "genre": {
+        "text": "70s 80s 90s Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 88312,
+          "url": "http://radioron.ddns.net:8000/emision.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 88311,
+          "url": "http://stream.zeno.fm/w4vym8shymeuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 88313,
+          "url": "https://stream.zeno.fm/w4vym8shymeuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 263660,
+      "name": "Radio Ri-Ra",
+      "slug": "Radio_Ri_Ra",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a1/17/a117364e88e4038fb9fa2e279a4dcc92.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ri ra",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dublin",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Dublin, County Dublin, Ireland",
+        "coordinates": {
+          "latitude": "53.3330600",
+          "longitude": "-6.2488900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 189246,
+          "url": "http://uksoutha.streaming.broadcast.radio/ri-ra",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 189247,
+          "url": "https://uksoutha.streaming.broadcast.radio/ri-ra",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    },
+    {
+      "id": 218612,
+      "name": "Radio Nueva Generación ",
+      "slug": "RADIO_NUEVA_GENERACION",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/3c/ce3c5f9e2abcb5a5c6d1e1dfc9604ffd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nueva generacion",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Canaan",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "New Canaan, Connecticut, United States",
+        "coordinates": {
+          "latitude": "41.1467600",
+          "longitude": "-73.4948400"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 181111,
+          "url": "http://cloudstream2032.conectarhosting.com:8046/stream",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gl",
+          "name": "Galician"
+        }
+      ]
+    }
+  ]
+}

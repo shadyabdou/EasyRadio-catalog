@@ -1,0 +1,4051 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.177Z",
+  "endpoint": "/languages/lv/radios",
+  "code": "lv",
+  "name": "Latvian",
+  "count": 45,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 42579,
+      "name": "Новое Радио",
+      "slug": "Novoe_radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/82/3e/823eada0918a82ca01932f2dd3dbbb94.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.2",
+        "dialStripped": "1032"
+      },
+      "aliases": {
+        "cleanName": "novoe",
+        "alsoKnownAs": "Novoe Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Minsk",
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "locationText": "Minsk, Belarus",
+        "coordinates": {
+          "latitude": "53.9000000",
+          "longitude": "27.5666700"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2250,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 2,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68425,
+          "url": "http://live.novoeradio.by:8000/novoeradio-128k",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68426,
+          "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 148,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 65387,
+      "name": "Radio SWH Plus",
+      "slug": "Radio_SWH_Plus",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/76/53/76538f5bf829c5213be75e8be5df29eb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.7",
+        "dialStripped": "1057"
+      },
+      "aliases": {
+        "cleanName": "swh plus",
+        "alsoKnownAs": "Radio SWH+"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Dance Hits Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2940,
+        "byCountry": {
+          "us": 1,
+          "gb": 11,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 105814,
+          "url": "http://live.radioswh.lv:8000/plusmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 38649,
+      "name": "Radio Skonto",
+      "slug": "Radio_Skonto",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/86/04863e4ae23bffad0c4c32f76084e798.png",
+      "dial": {
+        "band": "FM",
+        "dial": "107.2",
+        "dialStripped": "1072"
+      },
+      "aliases": {
+        "cleanName": "skonto",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2700,
+        "byCountry": {
+          "us": 5,
+          "gb": 19,
+          "au": 0,
+          "de": 2,
+          "fr": 1,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62728,
+          "url": "http://stream.radioskonto.lv:8002/stereo",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 109081,
+      "name": "Авто Радио Рига",
+      "slug": "Auto_Radio_Riga",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/99/2d/992d2a4d34e363166e8c9440c1a64e0b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.2",
+        "dialStripped": "1032"
+      },
+      "aliases": {
+        "cleanName": "avto",
+        "alsoKnownAs": "Auto Radio Riga"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2190,
+        "byCountry": {
+          "us": 4,
+          "gb": 2,
+          "au": 0,
+          "de": 9,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 149418,
+          "url": "https://live.relaxfm.lv/03",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 46489,
+      "name": "Relax FM",
+      "slug": "Relax_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/41/65/416598e80861d746503f5b1cb1e292a8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.9",
+        "dialStripped": "949"
+      },
+      "aliases": {
+        "cleanName": "relax",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Chillout",
+        "tags": []
+      },
+      "popularity": {
+        "global": 2100,
+        "byCountry": {
+          "us": 5,
+          "gb": 3,
+          "au": 3,
+          "de": 1,
+          "fr": 2,
+          "br": 2,
+          "es": 4,
+          "mx": 1,
+          "jp": 1,
+          "in": 1,
+          "it": 2,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 250880,
+          "url": "http://live.relaxfm.lv/01",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 74291,
+          "url": "https://live.relaxfm.lv/01",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 86,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 73828,
+      "name": "EHR Русские Хиты",
+      "slug": "Krievu_Hitu_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ea/8b/ea8beabbb51df964b7b109a1b27ea6ad.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.2",
+        "dialStripped": "962"
+      },
+      "aliases": {
+        "cleanName": "ehr russkie khity",
+        "alsoKnownAs": "EHR Russkie Hiti"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Rock Russian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1470,
+        "byCountry": {
+          "us": 8,
+          "gb": 7,
+          "au": 1,
+          "de": 4,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 116580,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHR_PLUSAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 92,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254725,
+          "url": "http://28573.live.streamtheworld.com:80/EHR_PLUS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116581,
+          "url": "http://28993.live.streamtheworld.com:80/EHR_PLUS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253138,
+          "url": "http://25703.live.streamtheworld.com:80/EHR_PLUSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242796,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_PLUSAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 100,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242797,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_PLUS.mp3",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 116582,
+          "url": "http://25583.live.streamtheworld.com:80/EHR_PLUSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 116579,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHR_PLUS.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 307476,
+      "name": "Latvijas Radio - LR2",
+      "slug": "Latvijas_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/50/ef/50efe73510f052c848735d8c6eff781e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5",
+        "dialStripped": "915"
+      },
+      "aliases": {
+        "cleanName": "latvijas lr2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1380,
+        "byCountry": {
+          "us": 1,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200131,
+          "url": "mms://lr2w.latvijasradio.lv/pplr2",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 200130,
+          "url": "http://lr2mp1.latvijasradio.lv:8002/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200129,
+          "url": "http://lr2mp0.latvijasradio.lv:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 151,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261293,
+          "url": "http://lr2mp1.latvijasradio.lv:8002/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200132,
+          "url": "http://lr2mp0.latvijasradio.lv:8002/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 307764,
+      "name": "Latvijas Radio - LR1",
+      "slug": "Latvijas_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5a/21/5a21c66ea1a52ec785ee50e0b5521e3d.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "latvijas lr1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Folk Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1110,
+        "byCountry": {
+          "us": 2,
+          "gb": 4,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200150,
+          "url": "mms://lr1ws.latvijasradio.lv/pplr1s",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 200147,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200148,
+          "url": "http://lr1mp0.latvijasradio.lv:8010/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261294,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261295,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200149,
+          "url": "mms://lr1w.latvijasradio.lv/pplr1",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 101607,
+      "name": "Alisa plus LV",
+      "slug": "Alisa_plus_LV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7e/d9/7ed9d72b0ca5f313a86a8b9a29d9db26.png",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6",
+        "dialStripped": "1016"
+      },
+      "aliases": {
+        "cleanName": "alisa plus lv",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Daugavpils",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Daugavpils, Latvia",
+        "coordinates": {
+          "latitude": "55.8833300",
+          "longitude": "26.5333300"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 930,
+        "byCountry": {
+          "us": 0,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143971,
+          "url": "http://fm2inet.aliseplus.lv:8000",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 143972,
+          "url": "https://fm2inet.aliseplus.lv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 57196,
+      "name": "Mix FM 102.7",
+      "slug": "Mix_FM_6",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/21/f0/21f088fcd5ccc7d6c0a731b9357568f0.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.7",
+        "dialStripped": "1027"
+      },
+      "aliases": {
+        "cleanName": "mix 102.7",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Hits Rock Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 870,
+        "byCountry": {
+          "us": 5,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 2,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 2,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 94443,
+          "url": "http://195.130.205.203:8000/07",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 28918,
+      "name": "Top Radio",
+      "slug": "Top_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ed/84/ed8484bbf3cb3068821ca41e9f38c931.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.3",
+        "dialStripped": "983"
+      },
+      "aliases": {
+        "cleanName": "top",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Dance Techno",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 2,
+          "gb": 5,
+          "au": 1,
+          "de": 3,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 46724,
+          "url": "http://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 46725,
+          "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 38838,
+      "name": "Star FM",
+      "slug": "Radio_StarFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/46/51/4651bd4e37e7116c8244fcca91dd8aa6.png",
+      "dial": {
+        "band": "FM",
+        "dial": "106.2",
+        "dialStripped": "1062"
+      },
+      "aliases": {
+        "cleanName": "star",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Entertainment News Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 660,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 63056,
+          "url": "http://live.advailo.com/audio/mp3/icecast.audio",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 243324,
+          "url": "https://live.advailo.com/audio/live/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 149,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 63057,
+          "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 63055,
+          "url": "http://live.advailo.com/audio/live/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 147,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 307078,
+      "name": "Latvijas Radio - LR4",
+      "slug": "Latvijas_Radio_4",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/d3/c4d3d083838e0e5c6e8e0c5c2c738f3e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.7",
+        "dialStripped": "1077"
+      },
+      "aliases": {
+        "cleanName": "latvijas lr4",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Culture Information News Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 570,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 2,
+          "es": 1,
+          "mx": 4,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 1,
+          "ca": 1,
+          "cl": 1,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 258947,
+          "url": "http://lr4mp1.latvijasradio.lv:8020/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200111,
+          "url": "http://lr4mp0.latvijasradio.lv:8018/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 155,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200112,
+          "url": "mms://lr1w.latvijasradio.lv/pplr4",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 200110,
+          "url": "http://lr4mp1.latvijasradio.lv:8020/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 200113,
+          "url": "mms://lr4ws.latvijasradio.lv/pplr4s",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 171566,
+      "name": "European Hit Radio",
+      "slug": "European_Hit_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5c/b0/5cb0efff10a66fbdc3cee3bd28475543.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "104.3",
+        "dialStripped": "1043"
+      },
+      "aliases": {
+        "cleanName": "european hit",
+        "alsoKnownAs": "EHR Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Europe Hits Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 3,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169943,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHR.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169944,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHRAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 130,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254114,
+          "url": "http://22593.live.streamtheworld.com:80/EHR_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169945,
+          "url": "http://25643.live.streamtheworld.com:80/EHR_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 253153,
+          "url": "http://27793.live.streamtheworld.com:80/EHRAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 169946,
+          "url": "http://22593.live.streamtheworld.com:80/EHRAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 187692,
+      "name": "Европа Плюс Рига",
+      "slug": "Europa_Plus_99.5_FM_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e4/fc/e4fcce8c1b8be7f19027d81464d37b5c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "99.5",
+        "dialStripped": "995"
+      },
+      "aliases": {
+        "cleanName": "evropa plius",
+        "alsoKnownAs": "Europa Plus Riga"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 420,
+        "byCountry": {
+          "us": 1,
+          "gb": 5,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173972,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/64/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 68,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173970,
+          "url": "http://ep32.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173968,
+          "url": "http://ep128.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173973,
+          "url": "https://ep256.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173976,
+          "url": "https://ep32.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 32,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173967,
+          "url": "http://ep256.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173974,
+          "url": "https://ep128.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173969,
+          "url": "http://ep64.streamr.ru",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173971,
+          "url": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 132,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 173975,
+          "url": "https://ep64.streamr.ru",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 461766,
+      "name": "Radio SWH",
+      "slug": "Radio_SWH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4b/74/4b746480b3ef8c601d7c5f7d910b1312.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.2",
+        "dialStripped": "1052"
+      },
+      "aliases": {
+        "cleanName": "swh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Information News Pop Talk Top 40 Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 330,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 233445,
+          "url": "https://live.radioswh.lv:8443/swhmp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217886,
+          "url": "https://live.radioswh.lv/swhmp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 217885,
+          "url": "http://live.radioswh.lv:8000/swhmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 25459,
+      "name": "Radio SWH LV",
+      "slug": "Rietumu_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b4/0a/b40a152fb1adb7f8e8b21cb32f416f58.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105.8",
+        "dialStripped": "1058"
+      },
+      "aliases": {
+        "cleanName": "swh lv",
+        "alsoKnownAs": "Rietumu Radio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Liepaja",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Liepaja, Latvia",
+        "coordinates": {
+          "latitude": "56.8130029",
+          "longitude": "24.1233643"
+        }
+      },
+      "genre": {
+        "text": "Folk Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 39933,
+          "url": "http://live.radioswh.lv:8000/swh_lv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232677,
+          "url": "https://live.radioswh.lv:8443/swh_lv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 320271,
+      "name": "Latvijas Radio - LR1",
+      "slug": "Latvijas_Radio_1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ce/1e/ce1ed52fb5660375ca9fea798dea8323.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "latvijas lr1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Entertainment Folk Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 250743,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/listen.pls",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201896,
+          "url": "mms://lr1ws.latvijasradio.lv/pplr1s",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 201895,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 261324,
+          "url": "http://lr1mp1.latvijasradio.lv:8012/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 201894,
+          "url": "mms://lr1w.latvijasradio.lv/pplr1",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 1428,
+      "name": "Radio SWH Rock",
+      "slug": "Radio_SWH_Rock",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b2/65/b26511e87eab3f3722074e38ef9d318f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "89.2",
+        "dialStripped": "892"
+      },
+      "aliases": {
+        "cleanName": "swh rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Metal Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 3656,
+          "url": "http://live.radioswh.lv:8000/rockmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 110462,
+      "name": "Radio Baltkom",
+      "slug": "Radio_Baltkom",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6c/ef/6cef31521cf952ff902812e8dde5222a.png",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "baltkom",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 240,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 246597,
+          "url": "http://live.relaxfm.lv/08",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 150532,
+          "url": "https://live.relaxfm.lv/08",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 104,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 171415,
+      "name": "EHR Superhits 96.8 FM",
+      "slug": "Super_FM_96.8",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/69/68/696837d8702ece09035b67d9dedcdbe0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "96.8",
+        "dialStripped": "968"
+      },
+      "aliases": {
+        "cleanName": "ehr superhits 96.8",
+        "alsoKnownAs": "Super FM [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "News Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 247579,
+          "url": "http://29053.live.streamtheworld.com:80/EHR_SUPERHITS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169839,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPERHITS.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169840,
+          "url": "http://22653.live.streamtheworld.com:80/EHR_SUPERHITS_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169842,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPERHITSAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 91,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 169838,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPERHITSAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 99,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 169841,
+          "url": "http://29073.live.streamtheworld.com:80/EHR_SUPERHITSAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 97,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 249291,
+          "url": "http://provisioning.streamtheworld.com/pls/EHR_SUPERHITSAAC.pls",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 572132,
+      "name": "XO.FM",
+      "slug": "Capital_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/51/38/5138302edd6d726d1ad050b0b44bebc9.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.0",
+        "dialStripped": "1010"
+      },
+      "aliases": {
+        "cleanName": "xo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Art Entertainment Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 2,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 227663,
+          "url": "http://live.xo.fm/xofm128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 124,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 227664,
+          "url": "http://185.8.60.9:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 227666,
+          "url": "https://live.xo.fm/xofm128",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 118,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 60714,
+      "name": "Latvijas Kristigais Radio",
+      "slug": "Latvijas_Kristigais_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/0b/e30b3cf37df0b1bd176fe5a219ccd131.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "latvijas kristigais",
+        "alsoKnownAs": "Latvian Christian Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Children & Family Christian Religious Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 99364,
+          "url": "http://91.228.7.230:7007/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 99365,
+          "url": "http://91.228.7.124:7007/;;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 31279,
+      "name": "Звук вспышки радио (LV)",
+      "slug": "Flash_Sound_Radio_LV",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/d8/86d832434b24259b71c42a0780372ca5.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zvuk vspyshki lv",
+        "alsoKnownAs": "Flash Sound Radio (LV)"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Olaine",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Olaine, Vidzeme, Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Ambient Dance Electronic House Lounge Russian World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 50472,
+          "url": "https://myradio24.org/65462",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 50471,
+          "url": "http://myradio24.org/65462",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 56088,
+      "name": "Radio Alise Plus",
+      "slug": "Alise_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4f/74/4f742b05f0ae6a73cfe609c147ab4deb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.6",
+        "dialStripped": "1016"
+      },
+      "aliases": {
+        "cleanName": "alise plus",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Daugavpils",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Daugavpils, Latvia",
+        "coordinates": {
+          "latitude": "55.8833300",
+          "longitude": "26.5333300"
+        }
+      },
+      "genre": {
+        "text": "Europe Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 91510,
+          "url": "http://fm2inet.aliseplus.lv:8000/",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 91511,
+          "url": "https://fm2inet.aliseplus.lv/",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 37086615,
+      "name": "Radio Marija Latvija",
+      "slug": "Radio_Marija_Latvija",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/87/87/87877f5807a2c30a7dbe722cab99b582.png",
+      "dial": {
+        "band": "FM",
+        "dial": "97.3",
+        "dialStripped": "973"
+      },
+      "aliases": {
+        "cleanName": "marija latvija",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 272653,
+          "url": "http://195.122.25.178:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 272654,
+          "url": "https://stream.rcast.net/66684/;;;",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "aac",
+          "bitrate": 62,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 226492,
+      "name": "Radio SWH Gold",
+      "slug": "Radio_SWH_Gold",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d4/85/d48573e8426e531d7a02dcff26c5601a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.0",
+        "dialStripped": "900"
+      },
+      "aliases": {
+        "cleanName": "swh gold",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 235291,
+          "url": "https://live.radioswh.lv:8443/goldmp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 182358,
+          "url": "http://live.radioswh.lv:8000/goldmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 409655,
+      "name": "Latgolys Radeja",
+      "slug": "Latgolys_Radeja",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ff/d7/ffd77be7cb83597a222bb55d0c128346.png",
+      "dial": {
+        "band": "FM",
+        "dial": "103.0",
+        "dialStripped": "1030"
+      },
+      "aliases": {
+        "cleanName": "latgolys radeja",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Rezekne",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Rezekne, Latvia",
+        "coordinates": {
+          "latitude": "56.8130029",
+          "longitude": "24.1233643"
+        }
+      },
+      "genre": {
+        "text": "Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 213345,
+          "url": "http://195.13.253.51:8000/64_mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 64,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 213347,
+          "url": "http://195.13.253.51:8000/128_aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 213346,
+          "url": "http://195.13.253.51:8000/64_aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 69,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 42763,
+      "name": "Radio Merkurs",
+      "slug": "Radio_Merkurs",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/83/b1/83b19d873df5910ee061299ec9160823.png",
+      "dial": {
+        "band": "AM",
+        "dial": "945",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "merkurs",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68689,
+          "url": "http://87.226.55.105:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68690,
+          "url": "http://schlagers.org:8760/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68691,
+          "url": "http://89.201.5.115:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 265251,
+          "url": "http://87.226.55.105:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 188218,
+      "name": "Vecās plates",
+      "slug": "Vecas_plates",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/1b/ae1bf52f8a7767ce78ef92c14ec10ee5.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vecas plates",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Europe Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174230,
+          "url": "http://5a44e5b800a41.streamlock.net/pieci/mp4:k4/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 163,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 174231,
+          "url": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k4/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 162,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 343816,
+      "name": "Radio Naba - R1",
+      "slug": "Radio_Naba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/04/19/04190969f9c4fed552e1b41c4a86154e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "naba r1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Folk Pop Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 205013,
+          "url": "http://nabamp0.latvijasradio.lv:8008/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 128,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 261368,
+          "url": "http://nabamp0.latvijasradio.lv:8016/;;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "aac",
+          "bitrate": 161,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 205014,
+          "url": "http://nabamp0.latvijasradio.lv:8016/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 205015,
+          "url": "mms://nabaw.latvijasradio.lv/ppnaba",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 188034,
+      "name": "Schlager Time Radio",
+      "slug": "Schlager_Time_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/ce/43ceb25aed3ddb9c5fd021c7ee074187.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "schlager time",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Europe Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 174163,
+          "url": "http://schlagers.org:8760/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 291240,
+      "name": "Latvijas Radio - LR3 Klasika",
+      "slug": "Latvijas_Radio_3_Klasika",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d6/62/d662eb8871e13ca5b522e130284bd986.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103.7",
+        "dialStripped": "1037"
+      },
+      "aliases": {
+        "cleanName": "latvijas lr3 klasika",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Classical Jazz",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 195812,
+          "url": "mms://lr1w.latvijasradio.lv/pplr3s",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 195811,
+          "url": "mms://lr3ws.latvijasradio.lv/pplr3s",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 32,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 195810,
+          "url": "mms://lr1w.latvijasradio.lv/pplr3",
+          "isHttps": false,
+          "protocol": "mms",
+          "codec": "wma",
+          "bitrate": 96,
+          "contentType": "audio/x-ms-wma",
+          "works": true
+        },
+        {
+          "id": 195809,
+          "url": "http://lr3mp0.latvijasradio.lv:8004/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 46765,
+      "name": "Cave Lounge",
+      "slug": "Cave_Lounge",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c9/28/c928c9d68997143a95ff9bf8673b7d44.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "cave lounge",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": ", Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Lounge Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 74674,
+          "url": "http://stream.zeno.fm/geuwghjjyjjtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 74675,
+          "url": "https://stream.zeno.fm/geuwghjjyjjtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 299713,
+      "name": "Kurzemes Radio",
+      "slug": "Kurzemes_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/67/01/67015c420ea5f727f645b0016e863897.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.4",
+        "dialStripped": "1064"
+      },
+      "aliases": {
+        "cleanName": "kurzemes",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Kuldiga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Kuldiga, Latvia",
+        "coordinates": {
+          "latitude": "56.8130029",
+          "longitude": "24.1233643"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 270296,
+          "url": "http://80.70.23.50:8000/;;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198784,
+          "url": "http://80.70.23.50:8000/;stream.mp3;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198785,
+          "url": "http://80.70.23.50:8000/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 270295,
+          "url": "http://80.70.23.50:8000/;stream.mp3;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 41371,
+      "name": "skrabonis",
+      "slug": "skrabonis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/22/39/2239bf677821f2951b529e2418019fd3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "skrabonis",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Europe New Age News Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 66281,
+          "url": "http://radio1.clubradio.lv:8000/live24",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66279,
+          "url": "http://radio1.clubradio.lv:8000/liveAAC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66278,
+          "url": "http://radio1.clubradio.lv:8000/live128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66280,
+          "url": "http://radio1.clubradio.lv:8000/live64",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 66282,
+          "url": "http://radio1.clubradio.lv:8000/live128",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 256,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 452833,
+      "name": "Radio SWH Spin",
+      "slug": "Radio_SWH_Spin",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/7d/69/7d694e00b8e9965ef19c8288e1ccce45.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "swh spin",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Liepaja",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Liepaja, Latvia",
+        "coordinates": {
+          "latitude": "56.8130029",
+          "longitude": "24.1233643"
+        }
+      },
+      "genre": {
+        "text": "Hits Pop Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 217114,
+          "url": "http://live.radioswh.lv:8000/spinmp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 236703,
+          "url": "https://live.radioswh.lv:8443/spinmp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 60314,
+      "name": "Latvia Christian Radio",
+      "slug": "Latvia_Christian_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4d/d2/4dd2b78d1b749b2ba9be03cffabf4990.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.8",
+        "dialStripped": "1018"
+      },
+      "aliases": {
+        "cleanName": "christian",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 98574,
+          "url": "http://shoutcast.lkr.lv:7007/;",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 19820,
+      "name": "Acid FM",
+      "slug": "Acid_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/27/4c/274cd4bb2da304810bc82a8abc2dff48.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "acid",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": ", Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Electronic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 28156,
+          "url": "http://stream.zeno.fm/hvkxpbfsuwdvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 28157,
+          "url": "https://stream.zeno.fm/hvkxpbfsuwdvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 50015,
+      "name": "Jitzie 2",
+      "slug": "Jitzie",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/5f/17/5f170225fc0c059bb84451bdd182cab9.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jitzie 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": ", Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Comedy",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 80595,
+          "url": "http://stream.zeno.fm/hy44tu6av68uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 80596,
+          "url": "https://stream.zeno.fm/hy44tu6av68uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 321408,
+      "name": "Lustīgs Radio",
+      "slug": "Lustigs_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/37/92/379282371f023bf042b5098603b8fcc3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "lustigs",
+        "alsoKnownAs": "Lustigs Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Saldus",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Saldus, Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Country",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202083,
+          "url": "https://stream.lustigsradio.lv/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 251275,
+          "url": "https://stream.lustigsradio.lv:8000/live",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 168,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 202081,
+          "url": "http://stream.lustigsradio.lv/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 42372,
+      "name": "Radio OMH",
+      "slug": "Radio_OMH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6d/d8/6dd856c46d8ea4f17422cfb0d0adf509.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "omh",
+        "alsoKnownAs": "Radio Our Music History"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Classic Rock Hits Oldies Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 68091,
+          "url": "http://omh.sytes.net:8000/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68092,
+          "url": "http://stream.zeno.fm/swlhedwgh8otv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 68093,
+          "url": "https://stream.zeno.fm/swlhedwgh8otv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 485336,
+      "name": "Twaawta",
+      "slug": "Twaawta",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "twaawta",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": ", Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Electro Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 219864,
+          "url": "http://stream.zeno.fm/k2vq055e1hhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 219865,
+          "url": "https://stream.zeno.fm/k2vq055e1hhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Poppins",
+      "slug": "Poppins",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/42/a2/42a205ac8a89321c80d33389fd692090.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "poppins",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": ", Latvia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 1414,
+          "url": "https://stream.zeno.fm/poomwon9p0nuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 1413,
+          "url": "http://stream.zeno.fm/poomwon9p0nuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    },
+    {
+      "id": 227043,
+      "name": "True Life In God Radio Latvian",
+      "slug": "TLIG_Radio_Latvian",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/5f/6b5f723f3114eae1b796815abc6b49d0.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "true life in god",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Riga",
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "locationText": "Riga, Latvia",
+        "coordinates": {
+          "latitude": "56.9460000",
+          "longitude": "24.1058900"
+        }
+      },
+      "genre": {
+        "text": "Christian Devotional Gospel Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 182420,
+          "url": "http://stream.tligradio.org:8140/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "lv",
+          "name": "Latvian"
+        }
+      ]
+    }
+  ]
+}

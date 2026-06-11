@@ -1,0 +1,92 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:09.765Z",
+  "endpoint": "/languages/co/radios",
+  "code": "co",
+  "name": "Corsican",
+  "count": 1,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 25837,
+      "name": "Alta-Frequenza - Alta Canzona Corsa",
+      "slug": "Alta_Frequenza_Alta_Canzona_Corsa",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/af/93/af933407b84b852c46e8269654dd075e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "alta frequenza alta canzona corsa",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ajaccio",
+        "countryName": "France",
+        "countryCode": "FR",
+        "locationText": "Ajaccio, Corsica, France",
+        "coordinates": {
+          "latitude": "41.9272300",
+          "longitude": "8.7346200"
+        }
+      },
+      "genre": {
+        "text": "Folk Pop World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 4,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 40627,
+          "url": "http://altacanzonacorsa.ice.infomaniak.ch/altacanzonacorsa-128.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 40628,
+          "url": "https://altacanzonacorsa.ice.infomaniak.ch/altacanzonacorsa-128.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "co",
+          "name": "Corsican"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.152Z",
+  "endpoint": "/languages/gu/radios",
+  "code": "gu",
+  "name": "Gujarati",
+  "count": 12,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 112958,
+      "name": "Sheetal Sangeet",
+      "slug": "Sheetal_Sangeet",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/49/7d/497df94baa8612dfc43031834b36e266.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sheetal sangeet",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Canada",
+        "countryCode": "CA",
+        "locationText": ", Ontario, Canada",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Classical Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 2,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 152126,
+          "url": "http://az13.yesstreaming.net:8200/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 246648,
+          "url": "https://az13.yesstreaming.net:8200/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 311914,
+      "name": "Utsav Radio",
+      "slug": "Utsav_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a3/ff/a3fff244a342fb080b54b57da29b524b.jpg",
+      "dial": {
+        "band": "DAB",
+        "dial": "9B",
+        "dialStripped": "9B"
+      },
+      "aliases": {
+        "cleanName": "utsav",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Leicester",
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "locationText": "Leicester, England, United Kingdom",
+        "coordinates": {
+          "latitude": "52.6386000",
+          "longitude": "-1.1316900"
+        }
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 150,
+        "byCountry": {
+          "us": 1,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 200584,
+          "url": "http://icecast.maxxwave.co.uk/utsav",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 72,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200583,
+          "url": "http://icecast.maxxwave.co.uk:8000/utsav",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 81,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 200585,
+          "url": "https://icecast.maxxwave.co.uk/utsav",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 48880,
+      "name": "All India Radio - AIR Vadodara",
+      "slug": "All_India_Radio_AIR_Vadodara",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1f/f6/1ff657ba6c9b50f104884e84639b7772.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "93.9",
+        "dialStripped": "939"
+      },
+      "aliases": {
+        "cleanName": "all air",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Vadodara"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vadodara",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Vadodara, Gujarat, India",
+        "coordinates": {
+          "latitude": "22.2994100",
+          "longitude": "73.2081200"
+        }
+      },
+      "genre": {
+        "text": "Asian Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1890,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 103,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 77920,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242160,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 95,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 71496,
+      "name": "All India Radio - AIR Surat",
+      "slug": "All_India_Radio_AIR_Surat",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/de/b0/deb054555166d6f587cd891a3da579ef.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.1",
+        "dialStripped": "1011"
+      },
+      "aliases": {
+        "cleanName": "all air surat",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Surat"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Surat",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Surat, Gujarat, India",
+        "coordinates": {
+          "latitude": "9.1401100",
+          "longitude": "99.3331100"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 89,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 242161,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 113673,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 38794,
+      "name": "Goldy FM - Goldy Sarvaani",
+      "slug": "Goldy_FM_Goldy_Sarvaani",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/62/9d/629d9c08e55d39e4001a902ed4fbfb50.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "goldy goldy sarvaani",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sangasar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Sangasar, Gujarat, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Bhangra Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 780,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 40,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62965,
+          "url": "https://stream.zeno.fm/c5bt9h37bm8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 112,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 62964,
+          "url": "http://stream.zeno.fm/c5bt9h37bm8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 111,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 71551,
+      "name": "Goldy FM - Goldy Garba",
+      "slug": "Goldy_FM_Goldy_Garba",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/3f/8e3fd0b8c8435082e2108f3966c0fda3.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "goldy goldy garba",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sangasar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Sangasar, Gujarat, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Bhangra Dance Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 540,
+        "byCountry": {
+          "us": 1,
+          "gb": 2,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 23,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113766,
+          "url": "http://stream.zeno.fm/n0zkr7wa6p8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 126,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 113767,
+          "url": "https://stream.zeno.fm/n0zkr7wa6p8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 109,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 71552,
+      "name": "Goldy FM - Goldy Gujarati",
+      "slug": "Goldy_FM_Goldy_Gujarati",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8a/b4/8ab485f30796f424ecf433216700e908.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "goldy goldy gujarati",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sangasar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Sangasar, Gujarat, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 480,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 21,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 113768,
+          "url": "http://stream.zeno.fm/hrtamh18am8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 123,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 113769,
+          "url": "https://stream.zeno.fm/hrtamh18am8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 131,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 100164,
+      "name": "All India Radio - AIR Gujarati",
+      "slug": "All_India_Radio_AIR_Gujarati",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/0e/950e600c6428d22da6d47dede05bab36.png",
+      "dial": {
+        "band": "DTH",
+        "dial": "11170",
+        "dialStripped": "11170"
+      },
+      "aliases": {
+        "cleanName": "all air gujarati",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Gujarati"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "New Delhi",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "New Delhi, Delhi, India",
+        "coordinates": {
+          "latitude": "28.6357600",
+          "longitude": "77.2244500"
+        }
+      },
+      "genre": {
+        "text": "Asian Bhangra Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 210,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 7,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 71727,
+      "name": "Guruvani 90.8 FM",
+      "slug": "Guruvani_90.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/56/7856e3393e14b16515359b776eda047a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.8",
+        "dialStripped": "908"
+      },
+      "aliases": {
+        "cleanName": "guruvani 90.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ahmedabad",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Ahmedabad, Gujarat, India",
+        "coordinates": {
+          "latitude": "23.0257900",
+          "longitude": "72.5872700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood College Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114051,
+          "url": "http://streamasiacdn.atc-labs.com/radioguruwani.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114052,
+          "url": "https://streamasiacdn.atc-labs.com/radioguruwani.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 143,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 71727,
+      "name": "Guruvani 90.8 FM",
+      "slug": "Guruvani_90.8_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/78/56/7856e3393e14b16515359b776eda047a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.8",
+        "dialStripped": "908"
+      },
+      "aliases": {
+        "cleanName": "guruvani 90.8",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ahmedabad",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Ahmedabad, Gujarat, India",
+        "coordinates": {
+          "latitude": "23.0257900",
+          "longitude": "72.5872700"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Bollywood College Folk Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 2,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114051,
+          "url": "http://streamasiacdn.atc-labs.com/radioguruwani.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 137,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 114052,
+          "url": "https://streamasiacdn.atc-labs.com/radioguruwani.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 143,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 100521,
+      "name": "All India Radio - AIR Himmatnagar",
+      "slug": "All_India_Radio_AIR_Himmatnagar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e9/c0/e9c0d10963faf553f89bbcd2e1685a91.jpg",
+      "dial": {
+        "band": "AM",
+        "dial": "1584",
+        "dialStripped": "1584"
+      },
+      "aliases": {
+        "cleanName": "all air himmatnagar",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Himmatnagar"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Himmatnagar",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Himmatnagar, Gujarat, India",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Asian Bhangra News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143279,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 120,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    },
+    {
+      "id": 72296,
+      "name": "રંગીલો ગુજરાત",
+      "slug": "Gujarati_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/71/d3713069e11eb21cf55bb2ff2e452364.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "rngiilo gujraat",
+        "alsoKnownAs": "Rangilo Gujarat Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Houston",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Houston, Texas, United States",
+        "coordinates": {
+          "latitude": "29.7632800",
+          "longitude": "-95.3632700"
+        }
+      },
+      "genre": {
+        "text": "Bollywood",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1620,
+        "byCountry": {
+          "us": 2,
+          "gb": 2,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 1,
+          "in": 73,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114525,
+          "url": "http://198.178.123.23:7402/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 114526,
+          "url": "http://s9.voscast.com:7402/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266576,
+          "url": "http://s9.voscast.com:7402/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 48,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "gu",
+          "name": "Gujarati"
+        }
+      ]
+    }
+  ]
+}

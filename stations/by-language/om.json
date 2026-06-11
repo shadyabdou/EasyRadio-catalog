@@ -1,0 +1,89 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.184Z",
+  "endpoint": "/languages/om/radios",
+  "code": "om",
+  "name": "Oromo",
+  "count": 1,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 186399,
+      "name": "Halaal Radio",
+      "slug": "Halaal_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/30/41/304175ffb39562137b3407f6b1057fa3.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "halaal",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Ethiopia",
+        "countryCode": "ET",
+        "locationText": ", Ethiopia",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Islamic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 1,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 173658,
+          "url": "http://stream.zeno.fm/rqx24qj7offvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 173659,
+          "url": "https://stream.zeno.fm/rqx24qj7offvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "om",
+          "name": "Oromo"
+        }
+      ]
+    }
+  ]
+}

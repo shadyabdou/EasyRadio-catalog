@@ -1,0 +1,2475 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.402Z",
+  "endpoint": "/languages/zu/radios",
+  "code": "zu",
+  "name": "Zulu",
+  "count": 30,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 80196,
+      "name": "Ukhozi FM",
+      "slug": "Ukhozi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/10/9c/109c330727da7fef3a089fa6e155d04b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.8",
+        "dialStripped": "908"
+      },
+      "aliases": {
+        "cleanName": null,
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Durban",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Durban, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-29.8579000",
+          "longitude": "31.0292000"
+        }
+      },
+      "genre": {
+        "text": "Community Culture Education Entertainment",
+        "tags": []
+      },
+      "popularity": {
+        "global": 20400,
+        "byCountry": {
+          "us": 5,
+          "gb": 15,
+          "au": 0,
+          "de": 3,
+          "fr": 3,
+          "br": 1,
+          "es": 3,
+          "mx": 1,
+          "jp": 1,
+          "in": 3,
+          "it": 1,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125149,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125155,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125157,
+          "url": "https://glbradio.discoverdigital.co.za/UkhoziFM/UkhoziFM.isml/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 112,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 125150,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 51,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 125153,
+          "url": "http://22183.live.streamtheworld.com:80/UKHOZIFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125151,
+          "url": "http://25283.live.streamtheworld.com:80/UKHOZIFM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125154,
+          "url": "http://22653.live.streamtheworld.com:80/UKHOZIFMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 125152,
+          "url": "http://25443.live.streamtheworld.com:80/UKHOZIFMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 125156,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80300,
+      "name": "Ilizwi FM",
+      "slug": "Ilizwi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/20/61/2061964e917c20f0a93df90ed00a952f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ilizwi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Gqeberha (Port Elizabeth)",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Gqeberha (Port Elizabeth), Eastern Cape, South Africa",
+        "coordinates": {
+          "latitude": "-28.4711100",
+          "longitude": "27.1943921"
+        }
+      },
+      "genre": {
+        "text": "Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 300,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125295,
+          "url": "http://sv2.famcast.co.za/proxy/ilizwi_fm/stream?1702251590604",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125294,
+          "url": "http://sv2.famcast.co.za/proxy/ilizwi_fm/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125292,
+          "url": "http://sv2.famcast.co.za:8490/autodj",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125293,
+          "url": "http://sv2.famcast.co.za:8490/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 96,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125296,
+          "url": "http://194.163.185.60:8490/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125297,
+          "url": "https://sv2.famcast.co.za/proxy/ilizwi_fm/stream?1702251590604",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 44071,
+      "name": "Richy FM",
+      "slug": "Richy_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9b/a9/9ba9dd3e8fa2f77545357f8ea69dff19.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "richy",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": ", South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70958,
+          "url": "https://stream.zeno.fm/3orqgr5tw62vv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70957,
+          "url": "http://stream.zeno.fm/3orqgr5tw62vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 44080,
+      "name": "IY Radio",
+      "slug": "IY_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f9/83/f983809ac4075dfd95194d87b8b68415.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "iy",
+        "alsoKnownAs": "Inkululeko Yabasha Radio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newcastle",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Newcastle, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70976,
+          "url": "https://stream.zeno.fm/2nn0tqm0jmttv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70975,
+          "url": "http://stream.zeno.fm/2nn0tqm0jmttv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 303623,
+      "name": "Ubuhle Radio ",
+      "slug": "Ubuhle_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/4d/284d14fd69ed059e54fddd1fe4e5348f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ubuhle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Durban",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Durban, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-29.8579000",
+          "longitude": "31.0292000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 199548,
+          "url": "https://stream.zeno.fm/kogggz6fq5atv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 199547,
+          "url": "http://stream.zeno.fm/kogggz6fq5atv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 174767,
+      "name": "Uthukela FM",
+      "slug": "Proff_Lekhuleni_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cc/01/cc0189b607d15dd373d8d1816992df1b.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "uthukela",
+        "alsoKnownAs": "Proff Lekhuleni Radio [previously]"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ladysmith",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Ladysmith, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-28.4711100",
+          "longitude": "27.1943921"
+        }
+      },
+      "genre": {
+        "text": "Education Information Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 171049,
+          "url": "http://stream.zeno.fm/46unefjiuoqvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 171050,
+          "url": "https://stream.zeno.fm/46unefjiuoqvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 112,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 28052,
+      "name": "House Of Prayer Global Outreach",
+      "slug": "House_Of_Prayer_Global_Outreach",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/e3/54/e3549332dff9852751d8ea629d58b5b2.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "house of prayer global outreach",
+        "alsoKnownAs": "HOPGO"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Durban",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Durban, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-29.8579000",
+          "longitude": "31.0292000"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 45055,
+          "url": "https://stream.zeno.fm/7a7wkt4znfhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 45054,
+          "url": "http://stream.zeno.fm/7a7wkt4znfhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 244413,
+      "name": "SPHIWO FM",
+      "slug": "SPHIWO_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/73/6a/736ab9d66219294b15db6adfd21cc25e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "sphiwo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Hlabisa",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Hlabisa, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 185721,
+          "url": "https://stream.zeno.fm/dn7n6vhcdchvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 185720,
+          "url": "http://stream.zeno.fm/dn7n6vhcdchvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80616,
+      "name": "Radio 300",
+      "slug": "Radio_300",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/e1/60e16307a8cb94bd52e0e6e0f8a474dd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "300",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Welkom",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Welkom, Free State, South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125609,
+          "url": "http://stream.zeno.fm/c1iuxvjlsjgvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125610,
+          "url": "https://stream.zeno.fm/c1iuxvjlsjgvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 364425,
+      "name": "Official Zone 10 FM",
+      "slug": "Official_Zone_10_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/c7/2ec78ca0a1d82011edc4259749457359.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "official zone 10",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phalaborwa",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Phalaborwa, South Africa",
+        "coordinates": {
+          "latitude": "-23.9429900",
+          "longitude": "31.1410700"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207656,
+          "url": "http://stream.zeno.fm/oqlfeeueklluv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207657,
+          "url": "https://stream.zeno.fm/oqlfeeueklluv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 88617,
+      "name": "AbaQulusi Community Radio - ACR FM",
+      "slug": "AbaQulusi_Community_Radio_ACR_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/3a/433a77529a3e21f0e525483d7d852d67.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "community acr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vryheid",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Vryheid, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-27.7695200",
+          "longitude": "30.7916500"
+        }
+      },
+      "genre": {
+        "text": "Community Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134524,
+          "url": "http://stream.zeno.fm/ehc9xgq3b48uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134525,
+          "url": "https://stream.zeno.fm/ehc9xgq3b48uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 169812,
+      "name": "THE RAP CONTINUES",
+      "slug": "THE_RAP_CONTINUES",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/80/2f80dd03fd8d5e5befcd5bbb45e56e6b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the rap continues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "East London",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "East London, Eastern Cape, South Africa",
+        "coordinates": {
+          "latitude": "-33.0152900",
+          "longitude": "27.9116200"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169259,
+          "url": "https://stream.zeno.fm/xwcn34mhakhvv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169258,
+          "url": "http://stream.zeno.fm/xwcn34mhakhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80483,
+      "name": "Harry Gwala FM",
+      "slug": "Harry_Gwala_fmFM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/cf/bc/cfbc8d92bd8273afe56f1a1d8465302c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "88.8",
+        "dialStripped": "888"
+      },
+      "aliases": {
+        "cleanName": "harry gwala",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Umzimkhulu",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Umzimkhulu, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125489,
+          "url": "http://hgfm.simplestreaming.cloud:8000/radio.acc",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 320,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125490,
+          "url": "http://hgfm.simplestreaming.cloud:8000/radio.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 169812,
+      "name": "THE RAP CONTINUES",
+      "slug": "THE_RAP_CONTINUES",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2f/80/2f80dd03fd8d5e5befcd5bbb45e56e6b.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the rap continues",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "East London",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "East London, Eastern Cape, South Africa",
+        "coordinates": {
+          "latitude": "-33.0152900",
+          "longitude": "27.9116200"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Rap",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 169259,
+          "url": "https://stream.zeno.fm/xwcn34mhakhvv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 169258,
+          "url": "http://stream.zeno.fm/xwcn34mhakhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 88617,
+      "name": "AbaQulusi Community Radio - ACR FM",
+      "slug": "AbaQulusi_Community_Radio_ACR_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/3a/433a77529a3e21f0e525483d7d852d67.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "90.7",
+        "dialStripped": "907"
+      },
+      "aliases": {
+        "cleanName": "community acr",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Vryheid",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Vryheid, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-27.7695200",
+          "longitude": "30.7916500"
+        }
+      },
+      "genre": {
+        "text": "Community Education Entertainment Information",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134524,
+          "url": "http://stream.zeno.fm/ehc9xgq3b48uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 134525,
+          "url": "https://stream.zeno.fm/ehc9xgq3b48uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 364425,
+      "name": "Official Zone 10 FM",
+      "slug": "Official_Zone_10_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/2e/c7/2ec78ca0a1d82011edc4259749457359.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "official zone 10",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Phalaborwa",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Phalaborwa, South Africa",
+        "coordinates": {
+          "latitude": "-23.9429900",
+          "longitude": "31.1410700"
+        }
+      },
+      "genre": {
+        "text": "Community Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207656,
+          "url": "http://stream.zeno.fm/oqlfeeueklluv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207657,
+          "url": "https://stream.zeno.fm/oqlfeeueklluv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80616,
+      "name": "Radio 300",
+      "slug": "Radio_300",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/60/e1/60e16307a8cb94bd52e0e6e0f8a474dd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "300",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Welkom",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Welkom, Free State, South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Hits Pop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125609,
+          "url": "http://stream.zeno.fm/c1iuxvjlsjgvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125610,
+          "url": "https://stream.zeno.fm/c1iuxvjlsjgvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 303623,
+      "name": "Ubuhle Radio ",
+      "slug": "Ubuhle_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/28/4d/284d14fd69ed059e54fddd1fe4e5348f.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "ubuhle",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Durban",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Durban, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-29.8579000",
+          "longitude": "31.0292000"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Community Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 199548,
+          "url": "https://stream.zeno.fm/kogggz6fq5atv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 199547,
+          "url": "http://stream.zeno.fm/kogggz6fq5atv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 44039,
+      "name": "Umkhanyakude FM",
+      "slug": "Umkhanyakude_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8e/39/8e39adaa76a5d42b94a42f12231e27a8.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "umkhanyakude",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Jozini",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Jozini, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats Afropop",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70895,
+          "url": "http://stream.zeno.fm/dol5mr7ylnqtv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70896,
+          "url": "https://stream.zeno.fm/dol5mr7ylnqtv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 303459,
+      "name": "VTG Radio fm",
+      "slug": "VTG_Radio_fm",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/c5/aec5af605c31c63e592b5586d29f2efd.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "vtg",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Durban",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Durban, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-29.8579000",
+          "longitude": "31.0292000"
+        }
+      },
+      "genre": {
+        "text": "Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 199493,
+          "url": "http://stream.zeno.fm/wmx06hpd9rhvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 199494,
+          "url": "https://stream.zeno.fm/wmx06hpd9rhvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 44035,
+      "name": "CITY OF HERITAGE FM",
+      "slug": "CITY_OF_HERITAGE_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/46/c4468a80f119b41a63572e53623997b6.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "city of heritage",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ulundi",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Ulundi, KwaZulu-Natal Prov., South Africa",
+        "coordinates": {
+          "latitude": "-28.3352300",
+          "longitude": "31.4161700"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 70889,
+          "url": "http://stream.zeno.fm/hhw71655gc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 70890,
+          "url": "https://stream.zeno.fm/hhw71655gc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 296827,
+      "name": "KPN fm",
+      "slug": "KPN_fm",
+      "isActive": true,
+      "logo": null,
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "kpn",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Johannesburg",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Johannesburg, Gauteng, South Africa",
+        "coordinates": {
+          "latitude": "-26.2022700",
+          "longitude": "28.0436300"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 198112,
+          "url": "http://stream.zeno.fm/tkdon5arvs7vv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 198113,
+          "url": "https://stream.zeno.fm/tkdon5arvs7vv",
+          "isHttps": true,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 5129888,
+      "name": "Muzi FM",
+      "slug": "Muzi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/86/c8/86c818485c5c7030db3f16b7ca19583e.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "muzi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "George",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "George, Western Cape, South Africa",
+        "coordinates": {
+          "latitude": "-28.4711100",
+          "longitude": "27.1943921"
+        }
+      },
+      "genre": {
+        "text": "Afrobeats Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 232942,
+          "url": "https://a2.asurahosting.com:7110/radio.mp3/;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 232941,
+          "url": "http://a2.asurahosting.com:7110/radio.mp3",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282156,
+          "url": "http://a2.asurahosting.com:7110/radio.mp3/;;;",
+          "isHttps": true,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80701,
+      "name": "Zero One Zero One",
+      "slug": "Zero_One_Zero_One",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/43/1d/431dd7e460e75f891781f7794b84f95d.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "zero one zero one",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bloemfontein",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Bloemfontein, Free State, South Africa",
+        "coordinates": {
+          "latitude": "-29.1210700",
+          "longitude": "26.2140000"
+        }
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125745,
+          "url": "http://stream.zeno.fm/kp6uthmw0fcvv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 125746,
+          "url": "https://stream.zeno.fm/kp6uthmw0fcvv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 44400,
+      "name": "My City Radio",
+      "slug": "My_City_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/16/53/1653493868372abda5899326c69b7157.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "my city",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Richards Bay",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Richards Bay, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Afrobeats",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 71669,
+          "url": "http://stream.zeno.fm/ndbe32vxus8uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 71670,
+          "url": "https://stream.zeno.fm/ndbe32vxus8uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 364981,
+      "name": "VOICE OF 704",
+      "slug": "VOICE_OF",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/01/52/015211ccf3114a339c06664fff1c371c.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "voice of 704",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": ", South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Other",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 207774,
+          "url": "http://stream.zeno.fm/pl9dltuwbcauv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 207775,
+          "url": "https://stream.zeno.fm/pl9dltuwbcauv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80554,
+      "name": "Umlazi FM",
+      "slug": "Umlazi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/4b/c44b054b9fe66a8d88148920422d6678.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "umlazi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Umlazi",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Umlazi, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125561,
+          "url": "http://uk6freenew.listen2myradio.com:39195/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 80554,
+      "name": "Umlazi FM",
+      "slug": "Umlazi_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/c4/4b/c44b054b9fe66a8d88148920422d6678.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "umlazi",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Umlazi",
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "locationText": "Umlazi, KwaZulu-Natal Prov., South Africa",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Community Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 125561,
+          "url": "http://uk6freenew.listen2myradio.com:39195/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    },
+    {
+      "id": 123197,
+      "name": "Khulumani FM 95.0",
+      "slug": "Khulumani_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/48/76/4876c0e393f2eefdd1c515c6d96d5117.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.0",
+        "dialStripped": "950"
+      },
+      "aliases": {
+        "cleanName": "khulumani 95.0",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 510,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 156634,
+          "url": "http://khulumanistream.zbc.co.zw:8000/radio.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        },
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 470837,
+      "name": "ThebesMedia Radio",
+      "slug": "ThebesMedia_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/52/82/52828e867f33b306387bc3041526d49e.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "thebesmedia",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Bulawayo",
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "locationText": "Bulawayo, Zimbabwe",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Culture News",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 218690,
+          "url": "https://stream.zeno.fm/kgoj0wfkb91uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 218689,
+          "url": "http://stream.zeno.fm/kgoj0wfkb91uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "zu",
+          "name": "Zulu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:09.759Z",
+  "endpoint": "/languages/as/radios",
+  "code": "as",
+  "name": "Assamese",
+  "count": 3,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 100105,
+      "name": "All India Radio - AIR Assamese",
+      "slug": "All_India_Radio_Assamese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/31/0231582c6f83f70963883dafb83fe365.jpg",
+      "dial": {
+        "band": "DTH",
+        "dial": "11510",
+        "dialStripped": "11510"
+      },
+      "aliases": {
+        "cleanName": "all air assamese",
+        "alsoKnownAs": "Ākāshvāṇī - Assamese"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Guwahati",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Guwahati, Assam, India",
+        "coordinates": {
+          "latitude": "26.1844000",
+          "longitude": "91.7458000"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Classical Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1140,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 70,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 143003,
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 143004,
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio133/hlspbaudio133_Auto.m3u8",
+          "isHttps": true,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 143002,
+          "url": "http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio133/hlspbaudio133_Auto.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 32,
+          "contentType": "audio/x-aac",
+          "works": true
+        },
+        {
+          "id": 143001,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "as",
+          "name": "Assamese"
+        }
+      ]
+    },
+    {
+      "id": 71802,
+      "name": "Jesus Coming FM - Assamese",
+      "slug": "Jesus_Coming_FM_Assamese",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/77/7f/777f99422321c73c60321ce5254c5f26.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "jesus coming assamese",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Erode",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Erode, Tamil Nadu, India",
+        "coordinates": {
+          "latitude": "11.3428000",
+          "longitude": "77.7274100"
+        }
+      },
+      "genre": {
+        "text": "Bhangra Christian Education Information Religious Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "as",
+          "name": "Assamese"
+        }
+      ]
+    },
+    {
+      "id": 71868,
+      "name": "All India Radio - AIR Haflong",
+      "slug": "All_India_Radio_AIR_Haflong",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8f/eb/8feb8aae6412326bbf343e866ae6147f.png",
+      "dial": {
+        "band": "FM",
+        "dial": "100.2",
+        "dialStripped": "1002"
+      },
+      "aliases": {
+        "cleanName": "all air haflong",
+        "alsoKnownAs": "Ākāshvāṇī - AIR Haflong"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Haflong",
+        "countryName": "India",
+        "countryCode": "IN",
+        "locationText": "Haflong, Assam, India",
+        "coordinates": {
+          "latitude": "21.6224148",
+          "longitude": "79.1259549"
+        }
+      },
+      "genre": {
+        "text": "Entertainment Information News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 114226,
+          "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+          "isHttps": false,
+          "protocol": "hls",
+          "codec": "mp3",
+          "bitrate": 127,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "as",
+          "name": "Assamese"
+        }
+      ]
+    }
+  ]
+}

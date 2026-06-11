@@ -1,0 +1,1841 @@
+{
+  "source": "50k-radio-stations",
+  "provider": "catalog-derived",
+  "syncedAt": "2026-06-11T15:10:10.162Z",
+  "endpoint": "/languages/ga/radios",
+  "code": "ga",
+  "name": "Irish",
+  "count": 19,
+  "derivedFrom": "stations/by-country",
+  "data": [
+    {
+      "id": 43329,
+      "name": "Coast Internet Radio",
+      "slug": "Coast_Internet_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/da/13/da138847b97587a86566596d6a2e65d4.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "coast internet",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Newry",
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "locationText": "Newry, Northern Ireland, United Kingdom",
+        "coordinates": {
+          "latitude": "54.1784100",
+          "longitude": "-6.3373900"
+        }
+      },
+      "genre": {
+        "text": "Celtic Country Folk Hits",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 0,
+          "gb": 2,
+          "au": 2,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69543,
+          "url": "http://65.108.98.93:7293/live",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 96,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 196201,
+      "name": "Raidió Fáilte",
+      "slug": "Raidio_Failte",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/54/40/544091797401c08101f542c1d5fcdbd0.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "107.1",
+        "dialStripped": "1071"
+      },
+      "aliases": {
+        "cleanName": "raidio failte",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Belfast",
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "locationText": "Belfast, Northern Ireland, United Kingdom",
+        "coordinates": {
+          "latitude": "54.5833300",
+          "longitude": "-5.9333300"
+        }
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 176303,
+          "url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Newstalk",
+      "slug": "News_Talk_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9d/f5/9df56d2664087fa7e8b68365d7def8a6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "106.0 / 108.0",
+        "dialStripped": "1060 / 1080"
+      },
+      "aliases": {
+        "cleanName": "newstalk",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dublin",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Dublin, County Dublin, Ireland",
+        "coordinates": {
+          "latitude": "53.3330600",
+          "longitude": "-6.2488900"
+        }
+      },
+      "genre": {
+        "text": "News Talk",
+        "tags": [
+          "complaint"
+        ]
+      },
+      "popularity": {
+        "global": 26010,
+        "byCountry": {
+          "us": 19,
+          "gb": 135,
+          "au": 1,
+          "de": 1,
+          "fr": 4,
+          "br": 1,
+          "es": 13,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 9,
+          "ar": 0,
+          "ca": 2,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 264691,
+          "url": "https://live-bauerie.sharp-stream.com/NTAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 60,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 110001,
+      "name": "Galway Bay FM",
+      "slug": "Galway_Bay_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/65/8b/658b4bd37a189a9fd2ad78c2eec9190b.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "97.4",
+        "dialStripped": "974"
+      },
+      "aliases": {
+        "cleanName": "galway bay",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Galway",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Galway, Connacht, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Community Current Affairs Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 3240,
+        "byCountry": {
+          "us": 4,
+          "gb": 14,
+          "au": 1,
+          "de": 1,
+          "fr": 2,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150301,
+          "url": "http://wg.cdn.tibus.net/galwaybay.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150302,
+          "url": "https://wg.cdn.tibus.net/galwaybay.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43322,
+      "name": "Clare FM",
+      "slug": "Clare_FM2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/85/6d/856dbd727487cc4243e22b27de5ca36e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.9",
+        "dialStripped": "959"
+      },
+      "aliases": {
+        "cleanName": "clare",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Ennis",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Ennis, County Clare, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Celtic News Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1440,
+        "byCountry": {
+          "us": 3,
+          "gb": 6,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 3,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69527,
+          "url": "https://live-bauerie.sharp-stream.com/CLAREFM",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69526,
+          "url": "http://live-bauerie.sharp-stream.com/CLAREFM",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235711,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FMAAC.aac",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "aac",
+          "bitrate": 35,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 235712,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235710,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 235713,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FMAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 29,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43396,
+      "name": "LMFM",
+      "slug": "Louth_Meath_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/ae/5a/ae5a2d9c1eceb9fad55dc0038f656597.png",
+      "dial": {
+        "band": "FM",
+        "dial": "95.8",
+        "dialStripped": "958"
+      },
+      "aliases": {
+        "cleanName": "lmfm",
+        "alsoKnownAs": "Louth Meath FM"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Drogheda",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Drogheda, Meath, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Celtic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1350,
+        "byCountry": {
+          "us": 1,
+          "gb": 8,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69641,
+          "url": "http://wg.cdn.tibus.net/LMFM",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 74,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69642,
+          "url": "https://wg.cdn.tibus.net/LMFM",
+          "isHttps": true,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 74,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 282896,
+          "url": "http://onic.drogheda.live.stream.broadcasting.news/stream-lmfm",
+          "isHttps": false,
+          "protocol": null,
+          "codec": "mp3",
+          "bitrate": 74,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43324,
+      "name": "RTÉ Raidió na Gaeltachta",
+      "slug": "RTE_Raidio_na_Gaeltachta",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/bd/83/bd83a72279755e9667695eba1d140df6.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "92.8",
+        "dialStripped": "928"
+      },
+      "aliases": {
+        "cleanName": "rte raidio na gaeltachta",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Casla",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Casla, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Celtic News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1020,
+        "byCountry": {
+          "us": 3,
+          "gb": 9,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 5,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69536,
+          "url": "http://icecast2.rte.ie/rnag",
+          "isHttps": false,
+          "protocol": "plain http",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69537,
+          "url": "https://icecast.rte.ie/rnag",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 242965,
+          "url": "https://icecast2.rte.ie/rnag",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 160,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 45595,
+      "name": "Radio Kerry",
+      "slug": "Radio_Kerry",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/47/be/47be9590533b4db213eab36d01959d8a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "98.0",
+        "dialStripped": "980"
+      },
+      "aliases": {
+        "cleanName": "kerry",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Tralee",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Tralee, Ireland",
+        "coordinates": {
+          "latitude": "52.2704200",
+          "longitude": "-9.7026400"
+        }
+      },
+      "genre": {
+        "text": "Adult News Pop Sports",
+        "tags": []
+      },
+      "popularity": {
+        "global": 990,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 73157,
+          "url": "https://edge.audioxi.com/KERRY",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 73156,
+          "url": "http://edge.audioxi.com/KERRY",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 263348,
+      "name": "Ocean FM Ireland",
+      "slug": "North_West_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/61/56/61569051b7e71b68f0f755e21cd4b45c.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "102.5",
+        "dialStripped": "1025"
+      },
+      "aliases": {
+        "cleanName": "ocean",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Sligo",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Sligo, Donegal County, Ireland",
+        "coordinates": {
+          "latitude": "54.2696900",
+          "longitude": "-8.4694300"
+        }
+      },
+      "genre": {
+        "text": "Information News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 750,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 1,
+          "it": 1,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 245128,
+          "url": "http://23543.live.streamtheworld.com:80/OCEAN_FM_SLIGO_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245129,
+          "url": "http://29053.live.streamtheworld.com:80/OCEAN_FM_SLIGOAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 254139,
+          "url": "http://25603.live.streamtheworld.com:80/OCEAN_FM_SLIGO_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245131,
+          "url": "http://27753.live.streamtheworld.com:80/OCEAN_FM_SLIGOAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 135,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245134,
+          "url": "https://23613.live.streamtheworld.com:443/OCEAN_FM_SLIGO_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245135,
+          "url": "https://25643.live.streamtheworld.com:443/OCEAN_FM_SLIGOAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 116,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 253343,
+          "url": "http://25603.live.streamtheworld.com:80/OCEAN_FM_SLIGOAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 129,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 189142,
+          "url": "https://edge4.audioxi.com/OCEANSAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 47,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245133,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_SLIGOAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 125,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245132,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_SLIGO.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245127,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_SLIGOAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 133,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245130,
+          "url": "http://22733.live.streamtheworld.com:80/OCEAN_FM_SLIGO_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 52000,
+      "name": "East Coast FM",
+      "slug": "East_Coast_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/8d/c1/8dc169bfdd8040d9d2924b4dcaa1448e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "103",
+        "dialStripped": "103"
+      },
+      "aliases": {
+        "cleanName": "east coast",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Wicklow",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Wicklow, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "80s Entertainment News Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 720,
+        "byCountry": {
+          "us": 1,
+          "gb": 4,
+          "au": 1,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 1,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 249237,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAST_COAST_FMAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 46,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248247,
+          "url": "http://29083.live.streamtheworld.com:80/EAST_COAST_FM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84423,
+          "url": "https://live-bauerie.sharp-stream.com/EASTCOASTAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 48,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248245,
+          "url": "http://27873.live.streamtheworld.com:80/EAST_COAST_FM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 256983,
+          "url": "/tmp/tmp9dozvocx",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 50,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248252,
+          "url": "https://27873.live.streamtheworld.com:443/EAST_COAST_FM_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248250,
+          "url": "https://25603.live.streamtheworld.com:443/EAST_COAST_FMAAC_SC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 84419,
+          "url": "http://sirius.shoutca.st:8461/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248249,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EAST_COAST_FMAAC_SC.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 55,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248248,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/EAST_COAST_FMAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 84420,
+          "url": "http://live-bauerie.sharp-stream.com/EASTCOAST",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 84422,
+          "url": "https://live-bauerie.sharp-stream.com/EASTCOAST",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 248251,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAST_COAST_FMAAC_SC.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 50,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 248246,
+          "url": "http://27863.live.streamtheworld.com:80/EAST_COAST_FMAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 45,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 258326,
+          "url": "http://27743.live.streamtheworld.com:80/EAST_COAST_FM_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43398,
+      "name": "Ocean FM Ireland",
+      "slug": "Ocean_FM_3",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/02/b6/02b62ad5ff9d4cff5cfd5b825fbd471e.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.0",
+        "dialStripped": "1050"
+      },
+      "aliases": {
+        "cleanName": "ocean",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Donegal",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Donegal, Donegal County, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Celtic",
+        "tags": []
+      },
+      "popularity": {
+        "global": 270,
+        "byCountry": {
+          "us": 1,
+          "gb": 3,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 245147,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_DONEGALAAC.aac",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 111,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 69651,
+          "url": "https://edge4.audioxi.com/OCEANDAAC",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 44,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245144,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_DONEGALAAC.aac",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 114,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245143,
+          "url": "http://22593.live.streamtheworld.com:80/OCEAN_FM_DONEGAL_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245145,
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_DONEGAL.mp3",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 245142,
+          "url": "http://27943.live.streamtheworld.com:80/OCEAN_FM_DONEGALAAC_SC",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 146,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 245146,
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OCEAN_FM_DONEGAL.mp3",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43331,
+      "name": "Near FM",
+      "slug": "Near_Fm_90.3_NEAR",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/4c/11/4c110d5fdbcc6aa132decf19fe3d1e34.png",
+      "dial": {
+        "band": "FM",
+        "dial": "90.3",
+        "dialStripped": "903"
+      },
+      "aliases": {
+        "cleanName": "near",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Coolock",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Coolock, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Celtic Community Culture Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 120,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69544,
+          "url": "http://proxima.shoutca.st:8114/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43340,
+      "name": "Live Ireland Channel 1",
+      "slug": "Live_Ireland_1",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/9a/3b/9a3beb08d47959d7a853c941b4ba3a2c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "live channel 1",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dublin",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Dublin, County Dublin, Ireland",
+        "coordinates": {
+          "latitude": "53.3330600",
+          "longitude": "-6.2488900"
+        }
+      },
+      "genre": {
+        "text": "Celtic Variety",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 2,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 2,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69560,
+          "url": "http://192.111.140.11:8058/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 266219,
+          "url": "http://192.111.140.11:8058/stream/;;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 88639,
+      "name": "Claremorris Community Radio",
+      "slug": "Claremorris_Community_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/31/5c/315cb750c1173e0bc793366e792f7a2a.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "94.6",
+        "dialStripped": "946"
+      },
+      "aliases": {
+        "cleanName": "claremorris community",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Claremorris",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Claremorris, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Community",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134554,
+          "url": "http://s2.radio.co/sddd96b52a/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 191,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 134555,
+          "url": "https://s2.radio.co/sddd96b52a/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 182,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 88546,
+      "name": "Community Radio Castelbar (CRC FM)",
+      "slug": "CRC_FM_Community_Radio_Castelbar",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/6b/42/6b42ffc41c14f1d3712c986ea9869ba7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "102.9",
+        "dialStripped": "1029"
+      },
+      "aliases": {
+        "cleanName": "community castelbar crc",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Castlebar",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Castlebar, County Mayo, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Sports Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 1,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 134419,
+          "url": "https://visual.shoutca.st/stream/crcfm",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 379,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 134418,
+          "url": "http://visual.shoutca.st/stream/crcfm",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 384,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 43343,
+      "name": "Live Ireland 2",
+      "slug": "Live_Ireland",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/63/b2/63b20ee7bd030472924eacec211cd058.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "live 2",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": ", Ireland",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Celtic Top 40",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 1,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 0,
+          "es": 1,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 69573,
+          "url": "http://lynx.prostreaming.net:8058/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 69574,
+          "url": "http://192.111.140.11:8058/stream/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 38383,
+      "name": "The Zone",
+      "slug": "The_Zone_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d3/27/d3279414f062f0dd7d58303925da7c71.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "the zone",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Dublin",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Dublin, County Dublin, Ireland",
+        "coordinates": {
+          "latitude": "53.3330600",
+          "longitude": "-6.2488900"
+        }
+      },
+      "genre": {
+        "text": "Alternative Rock",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62269,
+          "url": "http://uk1.internet-radio.com:8355/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 38205,
+      "name": "Flirt FM",
+      "slug": "Flirt_FM",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/1b/70/1b707bf7c3095e47d54df85cd9a3edb7.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "101.3",
+        "dialStripped": "1013"
+      },
+      "aliases": {
+        "cleanName": "flirt",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Galway",
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "locationText": "Galway, Connacht, Ireland",
+        "coordinates": {
+          "latitude": "53.2279803",
+          "longitude": "-7.0798575"
+        }
+      },
+      "genre": {
+        "text": "Alternative College",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 62075,
+          "url": "http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 62076,
+          "url": "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    },
+    {
+      "id": 119496,
+      "name": "Radio Bresciasette",
+      "slug": "Radio_Bresciasette",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/0b/2a/0b2aa087a665c51621e1298190ea3762.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "95.1",
+        "dialStripped": "951"
+      },
+      "aliases": {
+        "cleanName": "bresciasette",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Brescia",
+        "countryName": "Italy",
+        "countryCode": "IT",
+        "locationText": "Brescia, Lombardy, Italy",
+        "coordinates": {
+          "latitude": "45.5355800",
+          "longitude": "10.2147200"
+        }
+      },
+      "genre": {
+        "text": "Adult Contemporary Folk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 630,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 6,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 26,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 155071,
+          "url": "http://3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 155072,
+          "url": "http://nmcdn-3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 67,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 155073,
+          "url": "https://3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 59,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 155074,
+          "url": "https://nmcdn-3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 73,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "ga",
+          "name": "Irish"
+        }
+      ]
+    }
+  ]
+}
