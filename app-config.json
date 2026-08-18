@@ -2,6 +2,41 @@
   "minimumVersion": "1.0",
   "forceUpdate": false,
   "message": null,
-  "appStoreURL": null,
-  "catalogVersion": "1"
+  "appStoreURL": "https://apps.apple.com/app/id6761637102",
+  "catalogVersion": "1",
+  "appStoreEvents": [
+    {
+      "id": "electronic-music-showcase",
+      "badge": "LIVE_EVENT",
+      "title": "Electronic Music Showcase",
+      "subtitle": "72 Hours Live",
+      "details": "72 hours of live electronic music — DJ sets, club radio, and the shows covering the scene. Tune in on featured stations, or catch interviews and mixes from Resident Advisor, Song Exploder, and BBC Radio 1 Essential Mix.",
+      "artworkURL": "https://raw.githubusercontent.com/shadyabdou/EasyRadio-catalog/main/events/electronic-music-showcase.jpg",
+      "artworkAssetName": "AppStoreEventElectronicShowcase",
+      "deepLink": "easyradio://music?genre=7&name=Electronic",
+      "ctaTitle": "Listen",
+      "priority": "HIGH",
+      "stationIDs": [
+        "19897",
+        "20539",
+        "19730",
+        "28795",
+        "20417",
+        "24165",
+        "28318",
+        "28852",
+        "4477"
+      ],
+      "podcastIDs": [
+        199498,
+        390830,
+        2581652
+      ],
+      "itunesPodcastIDs": [
+        395896252,
+        788236947,
+        1343109030
+      ]
+    }
+  ]
 }
