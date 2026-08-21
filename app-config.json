@@ -15,6 +15,13 @@
       "artworkAssetName": "AppStoreEventElectronicShowcase",
       "deepLink": "easyradio://music?genre=7&name=Electronic",
       "ctaTitle": "Listen",
+      "includesRadios": true,
+      "includesPodcasts": true,
+      "includesMusic": true,
+      "showsTitleOnDashboard": false,
+      "showsSubtitleOnDashboard": false,
+      "musicGenreID": "7",
+      "musicGenreName": "Electronic",
       "priority": "HIGH",
       "stationIDs": [
         "19897",
@@ -36,6 +43,40 @@
         395896252,
         788236947,
         1343109030
+      ]
+    },
+    {
+      "id": "english-football-matchday",
+      "badge": "LIVE_EVENT",
+      "title": "English Football Matchday",
+      "subtitle": "Premier League, EFL & cup talk",
+      "details": "Follow the Premier League, EFL, FA Cup, transfer windows, tactical stories, and match-day reaction with the strongest English football radio and podcast voices. Start with talkSPORT, talkSPORT 2, BBC Radio 5 Live, and hand-picked shows from The Guardian, The Athletic, BBC 5 Live, The Rest Is Football, Totally Football, Tifo, Football Ramble, and The Price of Football.",
+      "artworkURL": "https://raw.githubusercontent.com/shadyabdou/EasyRadio-catalog/main/events/english-football-matchday.jpg",
+      "artworkAssetName": "AppStoreEventEnglishFootballMatchday",
+      "ctaTitle": "Listen",
+      "includesRadios": true,
+      "includesPodcasts": true,
+      "includesMusic": false,
+      "showsTitleOnDashboard": false,
+      "showsSubtitleOnDashboard": false,
+      "priority": "HIGH",
+      "stationIDs": [
+        "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa",
+        "1bc3fef5-fa04-4c21-beb7-7d30acff8a46",
+        "36386141",
+        "49224",
+        "2028"
+      ],
+      "podcastIDs": [],
+      "itunesPodcastIDs": [
+        1267958765,
+        188674007,
+        1488521447,
+        1701022490,
+        1227699368,
+        254078311,
+        261291929,
+        1482886394
       ]
     }
   ]
